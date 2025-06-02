@@ -35,6 +35,7 @@ public class WebCrawler {
                     String html = fetchHtmlContent(url);
                     List<String> links = extractLinksFromHtml(html);
 
+                    PageSaver.savePageContent(url, html);
                     // Display extracted links
                     if (links.isEmpty()) {
                         System.out.println("📭 No links found on this page.");
@@ -43,6 +44,7 @@ public class WebCrawler {
                         for (String link : links) {
                             System.out.println("  -> " + link);
                         }
+                        PageSaver.saveLinks(url, links);
                     }
                 } catch (IOException e) {
                     System.out.println("❌ Error fetching URL (" + url + "): " + e.getMessage());
