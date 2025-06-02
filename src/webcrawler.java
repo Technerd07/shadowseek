@@ -3,72 +3,99 @@ import java.net.*;
 import java.util.*;
 import java.util.regex.*;
 
-public class webcrawler {
+public class WebCrawler {
 
+    // Regex pattern to extract hyperlinks from HTML
     private static final Pattern LINK_PATTERN = Pattern.compile(
         "<a\\s+(?:[^>]*?\\s+)?href=[\"'](http[^\"'>\\s]+)[\"']", Pattern.CASE_INSENSITIVE);
 
-    //main method
-    public static void main(String[] args) throws IOException {
-        List<String> urlsToVisit = readUrlsFromFile("./input_urls/input_urls.txt");
-        Set<String> visitedUrls = new HashSet<>();
+    // File path to the input URLs file
+    private static final String INPUT_FILE_PATH = "./input_urls/input_urls.txt";
 
-        for (String url : urlsToVisit) {
-            if (visitedUrls.contains(url)) continue;
-            visitedUrls.add(url);
+    public static void main(String[] args) {
+        System.out.println("🌐 Starting Web Crawler...");
 
-            System.out.println("🔗 Crawling: " + url);
-            //this try method for fetching html pages of particular websites of the urls specified.
-            try {
-                String html = fetchHtml(url);
-                List<String> links = extractLinks(html);
+        try {
+            // Load URLs from the input file
+            List<String> urlsToVisit = loadUrlsFromFile(INPUT_FILE_PATH);
+            Set<String> visitedUrls = new HashSet<>();
 
-                System.out.println("📌 Found links:");
-                for (String link : links) {
-                    System.out.println("  -> " + link);
+            // Process each URL
+            for (String url : urlsToVisit) {
+                if (visitedUrls.contains(url)) {
+                    System.out.println("🔄 Skipping already visited URL: " + url);
+                    continue;
                 }
 
-                System.out.println("-----");
-            } catch (Exception e) {
-                System.out.println("❌ Failed to fetch " + url + ": " + e.getMessage());
+                visitedUrls.add(url);
+                System.out.println("\n🔗 Crawling: " + url);
+
+                try {
+                    // Fetch HTML content and extract links
+                    String html = fetchHtmlContent(url);
+                    List<String> links = extractLinksFromHtml(html);
+
+                    // Display extracted links
+                    if (links.isEmpty()) {
+                        System.out.println("📭 No links found on this page.");
+                    } else {
+                        System.out.println("📌 Found links:");
+                        for (String link : links) {
+                            System.out.println("  -> " + link);
+                        }
+                    }
+                } catch (IOException e) {
+                    System.out.println("❌ Error fetching URL (" + url + "): " + e.getMessage());
+                }
             }
+
+            System.out.println("\n✅ Web crawling completed!");
+        } catch (IOException e) {
+            System.out.println("❌ Failed to load URLs from file: " + e.getMessage());
         }
     }
-/*this method read urls from the input_urls.txt file and extracts them for furthur processing */
-    private static List<String> readUrlsFromFile(String filePath) throws IOException {
+
+    /**
+     * Loads URLs from a file and returns them as a list.
+     */
+    private static List<String> loadUrlsFromFile(String filePath) throws IOException {
+        System.out.println("📂 Loading URLs from file: " + filePath);
         List<String> urls = new ArrayList<>();
-        BufferedReader reader = new BufferedReader(new FileReader(filePath));
-        String line;
-        while ((line = reader.readLine()) != null) {
-            if (!line.trim().isEmpty()) {
-                urls.add(line.trim());
+        try (BufferedReader reader = new BufferedReader(new FileReader(filePath))) {
+            String line;
+            while ((line = reader.readLine()) != null) {
+                if (!line.trim().isEmpty()) {
+                    urls.add(line.trim());
+                }
             }
         }
-        reader.close();
+        System.out.println("✅ Loaded " + urls.size() + " URLs.");
         return urls;
-        //finally extract urls object which contains actual urls.
     }
-/*This method takes in urls and builds the results sending requests to mozilla agent (web browser) */
-    private static String fetchHtml(String urlStr) throws IOException {
+
+    /**
+     * Fetches the HTML content of a given URL.
+     */
+    private static String fetchHtmlContent(String urlStr) throws IOException {
         StringBuilder result = new StringBuilder();
         URL url = new URL(urlStr);
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         conn.setRequestProperty("User-Agent", "Mozilla/5.0");
 
-        BufferedReader in = new BufferedReader(
-            new InputStreamReader(conn.getInputStream(), "UTF-8"));
-        String inputLine;
-        while ((inputLine = in.readLine()) != null) {
-            result.append(inputLine).append("\n");
+        try (BufferedReader in = new BufferedReader(new InputStreamReader(conn.getInputStream(), "UTF-8"))) {
+            String inputLine;
+            while ((inputLine = in.readLine()) != null) {
+                result.append(inputLine).append("\n");
+            }
         }
-        in.close();
+
         return result.toString();
-        //result is returned here.
     }
 
-
-    /* */
-    private static List<String> extractLinks(String html) {
+    /**
+     * Extracts all hyperlinks from the given HTML content.
+     */
+    private static List<String> extractLinksFromHtml(String html) {
         List<String> links = new ArrayList<>();
         Matcher matcher = LINK_PATTERN.matcher(html);
         while (matcher.find()) {
