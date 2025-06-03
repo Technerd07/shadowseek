@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 import java.nio.file.*;
+import org.jsoup.*;
 public class CLIQuerySearch{
     private static final String PAGES_DIR = "/Users/damu/Desktop/collegedocx/projects/shadowseek/pages";
     public static void main(String ... args){
@@ -21,19 +22,28 @@ public class CLIQuerySearch{
             System.out.println("No pages found in the directory. Exiting.");
             return;
         }
-        boolean found = false;
-        for(File file : files){
+       int resultCounter = 0;
+        for(File file: files){
             try{
-                String content = new String(Files.readAllBytes(file.toPath()), "UTF-8").toLowerCase();
+                String rawHTMLContent = Files.readString(file.toPath());
+                String content = Jsoup.parse(rawHTMLContent).text().toLowerCase();
                 if(content.contains(keyword_query)){
-                    System.out.println("Found in file: " +file.getName());
-                    found = true;
+                    resultCounter++;
+                    System.out.println("\nMatch #" +resultCounter);
+                    System.out.println("File: "+file.getName());
+                    int index = content.indexOf(keyword_query) ;
+                    int snippetStart = Math.max(index -50 ,0);
+                    int snippetEnd = Math.min(index + 50,content.length());
+                    String snippet = content.substring(snippetStart,snippetEnd).replaceAll("\\s+"," ");
+                    System.out.println("Snippet:..."+snippet+"...");
                 }
             }catch(Exception e){
-                System.out.println("Error reading file: " + file.getName());
+                System.out.println("Error Reading File: "+file.getName());
             }
-        }if(!found){
-            System.out.println("No matches found for the query: "+keyword_query);
+        }if(resultCounter == 0){
+            System.out.println("\n No results found for: \""+keyword_query);
+        }else{
+            System.out.println("\n"+resultCounter+"results Found.");
         }
     }
 }
