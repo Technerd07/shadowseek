@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.nio.file.*;
 public class CLIQuerySearch{
-    private static final String PAGES_DIR = "./pages/";
+    private static final String PAGES_DIR = "/Users/damu/Desktop/collegedocx/projects/shadowseek/pages";
     public static void main(String ... args){
         Scanner s = new Scanner(System.in);
         System.out.println("Enter search Query: ");
@@ -24,10 +24,10 @@ public class CLIQuerySearch{
         boolean found = false;
         for(File file : files){
             try{
-                String content = new String(Files.readAllBytes(file.toPath()), "UTF-8");
+                String content = new String(Files.readAllBytes(file.toPath()), "UTF-8").toLowerCase();
                 if(content.contains(keyword_query)){
                     System.out.println("Found in file: " +file.getName());
-
+                    found = true;
                 }
             }catch(Exception e){
                 System.out.println("Error reading file: " + file.getName());
