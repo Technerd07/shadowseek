@@ -1,0 +1,763 @@
+Content from: https://www.historic-uk.com
+
+<!DOCTYPE html>
+<html lang="en-GB">
+
+<head>
+
+	<meta charset="UTF-8">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta name="facebook-domain-verification" content="ikv5y5iijv8ce11wnwdrcnfqpfo4rk" />
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v21.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Historic UK - The History Magazine &amp; Heritage Accommodation Guide</title>
+	<meta name="description" content="Historic UK is your guide to the history and heritage of Britain, featuring thousands of historic places to stay and a monthly magazine full of history." />
+	<link rel="canonical" href="https://www.historic-uk.com/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Historic UK - The History Magazine &amp; Heritage Accommodation Guide" />
+	<meta property="og:description" content="Historic UK is your guide to the history and heritage of Britain, featuring thousands of historic places to stay and a monthly magazine full of history." />
+	<meta property="og:url" content="https://www.historic-uk.com/" />
+	<meta property="og:site_name" content="Historic UK" />
+	<meta property="article:modified_time" content="2025-06-01T12:02:16+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.historic-uk.com/","url":"https://www.historic-uk.com/","name":"Historic UK - The History Magazine & Heritage Accommodation Guide","isPartOf":{"@id":"https://www.historic-uk.com/#website"},"datePublished":"2017-03-16T20:34:26+00:00","dateModified":"2025-06-01T12:02:16+00:00","description":"Historic UK is your guide to the history and heritage of Britain, featuring thousands of historic places to stay and a monthly magazine full of history.","breadcrumb":{"@id":"https://www.historic-uk.com/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.historic-uk.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.historic-uk.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.historic-uk.com/#website","url":"https://www.historic-uk.com/","name":"Historic UK","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.historic-uk.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-GB"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.historic-uk.com/wp-includes/css/dist/block-library/style.min.css?ver=6.7.1' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='google-fonts-css' href='//fonts.googleapis.com/css?family=Cabin:400,500,600,700|Open+Sans:400,400i|Alice|Lora:400,500' type='text/css' media='all' />
+<link rel='stylesheet' id='wgd-theme-styles-css' href='https://www.historic-uk.com/wp-content/themes/historic/assets/css/theme-style.min.css?ver=1748931867' type='text/css' media='screen' />
+<link rel='stylesheet' id='wgd-locator-styles-css' href='https://www.historic-uk.com/wp-content/themes/historic/assets/js/locations/css/storelocator.min.css?ver=1.0.14' type='text/css' media='screen' />
+<link rel='stylesheet' id='algolia-autocomplete-css' href='https://www.historic-uk.com/wp-content/plugins/search-by-algolia-instant-relevant-results/includes/../css/algolia-autocomplete.css?ver=2.11.2' type='text/css' media='screen' />
+<script type="text/javascript" src="https://www.historic-uk.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.historic-uk.com/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.historic-uk.com/wp-includes/js/wp-util.min.js?ver=6.7.1" id="wp-util-js"></script>
+<script type="text/javascript" src="https://www.historic-uk.com/wp-content/plugins/search-by-algolia-instant-relevant-results/includes/../js/algoliasearch/algoliasearch.jquery.min.js?ver=2.11.2" id="algolia-search-js"></script>
+<script type="text/javascript" src="https://www.historic-uk.com/wp-content/plugins/search-by-algolia-instant-relevant-results/includes/../js/autocomplete.js/autocomplete.min.js?ver=2.11.2" id="algolia-autocomplete-js"></script>
+<script type="text/javascript" src="https://www.historic-uk.com/wp-content/plugins/search-by-algolia-instant-relevant-results/includes/../js/autocomplete-noconflict.js?ver=2.11.2" id="algolia-autocomplete-noconflict-js"></script>
+<script type="text/javascript">var algolia = {"debug":false,"application_id":"KF90JI97TU","search_api_key":"5183ec14cd366810bb5c126f4d370e5e","powered_by_enabled":false,"query":"","autocomplete":{"sources":[{"index_id":"posts_articles","index_name":"wp_posts_articles","label":"Articles","admin_name":"Articles","position":0,"max_suggestions":8,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_page","index_name":"wp_posts_page","label":"Pages","admin_name":"Pages","position":1,"max_suggestions":5,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true},{"index_id":"posts_post","index_name":"wp_posts_post","label":"Blog","admin_name":"Posts","position":10,"max_suggestions":2,"tmpl_suggestion":"autocomplete-post-suggestion","enabled":true}],"input_selector":"input[name='s']:not('.no-autocomplete')"},"indices":{"posts_post":{"name":"wp_posts_post","id":"posts_post","enabled":true,"replicas":[]},"posts_page":{"name":"wp_posts_page","id":"posts_page","enabled":true,"replicas":[]},"posts_articles":{"name":"wp_posts_articles","id":"posts_articles","enabled":true,"replicas":[]}}};</script><link rel="icon" href="https://www.historic-uk.com/wp-content/uploads/2019/01/cropped-ms-icon-310x310-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.historic-uk.com/wp-content/uploads/2019/01/cropped-ms-icon-310x310-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.historic-uk.com/wp-content/uploads/2019/01/cropped-ms-icon-310x310-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.historic-uk.com/wp-content/uploads/2019/01/cropped-ms-icon-310x310-270x270.png" />
+<script type="text/html" id="tmpl-autocomplete-header">
+  <div class="autocomplete-header">
+	<div class="autocomplete-header-title">{{{ data.label }}}</div>
+	<div class="clear"></div>
+  </div>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-post-suggestion">
+  <a class="suggestion-link" href="{{ data.permalink }}" title="{{ data.post_title }}">
+	<# if ( data.images.thumbnail ) { #>
+	  <img class="suggestion-post-thumbnail" src="{{ data.images.thumbnail.url }}" alt="{{ data.post_title }}">
+	  <# } #>
+		<div class="suggestion-post-attributes">
+		  <span class="suggestion-post-title">{{{ data._highlightResult.post_title.value }}}</span>
+		  <# if ( data._snippetResult['content'] ) { #>
+			<span class="suggestion-post-content">{{{ data._snippetResult['content'].value }}}</span>
+			<# } #>
+		</div>
+  </a>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-term-suggestion">
+  <a class="suggestion-link" href="{{ data.permalink }}" title="{{ data.name }}">
+	<svg viewBox="0 0 21 21" width="21" height="21">
+	  <svg width="21" height="21" viewBox="0 0 21 21">
+		<path
+			d="M4.662 8.72l-1.23 1.23c-.682.682-.68 1.792.004 2.477l5.135 5.135c.7.693 1.8.688 2.48.005l1.23-1.23 5.35-5.346c.31-.31.54-.92.51-1.36l-.32-4.29c-.09-1.09-1.05-2.06-2.15-2.14l-4.3-.33c-.43-.03-1.05.2-1.36.51l-.79.8-2.27 2.28-2.28 2.27zm9.826-.98c.69 0 1.25-.56 1.25-1.25s-.56-1.25-1.25-1.25-1.25.56-1.25 1.25.56 1.25 1.25 1.25z"
+			fill-rule="evenodd"></path>
+	  </svg>
+	</svg>
+	<span class="suggestion-post-title">{{{ data._highlightResult.name.value }}}</span>
+  </a>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-user-suggestion">
+  <a class="suggestion-link user-suggestion-link" href="{{ data.posts_url }}" title="{{ data.display_name }}">
+	<# if ( data.avatar_url ) { #>
+	  <img class="suggestion-user-thumbnail" src="{{ data.avatar_url }}" alt="{{ data.display_name }}">
+	  <# } #>
+
+		<span class="suggestion-post-title">{{{ data._highlightResult.display_name.value }}}</span>
+  </a>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-footer">
+  <div class="autocomplete-footer">
+	<div class="autocomplete-footer-branding">
+	  <a href="#" class="algolia-powered-by-link" title="Algolia">
+		<svg width="130" viewBox="0 0 130 18" xmlns="http://www.w3.org/2000/svg">
+		  <title>Search by Algolia</title>
+		  <defs>
+			<linearGradient x1="-36.868%" y1="134.936%" x2="129.432%" y2="-27.7%" id="a">
+			  <stop stop-color="#00AEFF" offset="0%"/>
+			  <stop stop-color="#3369E7" offset="100%"/>
+			</linearGradient>
+		  </defs>
+		  <g fill="none" fill-rule="evenodd">
+			<path
+				d="M59.399.022h13.299a2.372 2.372 0 0 1 2.377 2.364V15.62a2.372 2.372 0 0 1-2.377 2.364H59.399a2.372 2.372 0 0 1-2.377-2.364V2.381A2.368 2.368 0 0 1 59.399.022z"
+				fill="url(#a)"/>
+			<path
+				d="M66.257 4.56c-2.815 0-5.1 2.272-5.1 5.078 0 2.806 2.284 5.072 5.1 5.072 2.815 0 5.1-2.272 5.1-5.078 0-2.806-2.279-5.072-5.1-5.072zm0 8.652c-1.983 0-3.593-1.602-3.593-3.574 0-1.972 1.61-3.574 3.593-3.574 1.983 0 3.593 1.602 3.593 3.574a3.582 3.582 0 0 1-3.593 3.574zm0-6.418v2.664c0 .076.082.131.153.093l2.377-1.226c.055-.027.071-.093.044-.147a2.96 2.96 0 0 0-2.465-1.487c-.055 0-.11.044-.11.104l.001-.001zm-3.33-1.956l-.312-.311a.783.783 0 0 0-1.106 0l-.372.37a.773.773 0 0 0 0 1.101l.307.305c.049.049.121.038.164-.011.181-.245.378-.479.597-.697.225-.223.455-.42.707-.599.055-.033.06-.109.016-.158h-.001zm5.001-.806v-.616a.781.781 0 0 0-.783-.779h-1.824a.78.78 0 0 0-.783.779v.632c0 .071.066.12.137.104a5.736 5.736 0 0 1 1.588-.223c.52 0 1.035.071 1.534.207a.106.106 0 0 0 .131-.104z"
+				fill="#FFF"/>
+			<path
+				d="M102.162 13.762c0 1.455-.372 2.517-1.123 3.193-.75.676-1.895 1.013-3.44 1.013-.564 0-1.736-.109-2.673-.316l.345-1.689c.783.163 1.819.207 2.361.207.86 0 1.473-.174 1.84-.523.367-.349.548-.866.548-1.553v-.349a6.374 6.374 0 0 1-.838.316 4.151 4.151 0 0 1-1.194.158 4.515 4.515 0 0 1-1.616-.278 3.385 3.385 0 0 1-1.254-.817 3.744 3.744 0 0 1-.811-1.351c-.192-.539-.29-1.504-.29-2.212 0-.665.104-1.498.307-2.054a3.925 3.925 0 0 1 .904-1.433 4.124 4.124 0 0 1 1.441-.926 5.31 5.31 0 0 1 1.945-.365c.696 0 1.337.087 1.961.191a15.86 15.86 0 0 1 1.588.332v8.456h-.001zm-5.954-4.206c0 .893.197 1.885.592 2.299.394.414.904.621 1.528.621.34 0 .663-.049.964-.142a2.75 2.75 0 0 0 .734-.332v-5.29a8.531 8.531 0 0 0-1.413-.18c-.778-.022-1.369.294-1.786.801-.411.507-.619 1.395-.619 2.223zm16.12 0c0 .719-.104 1.264-.318 1.858a4.389 4.389 0 0 1-.904 1.52c-.389.42-.854.746-1.402.975-.548.229-1.391.36-1.813.36-.422-.005-1.26-.125-1.802-.36a4.088 4.088 0 0 1-1.397-.975 4.486 4.486 0 0 1-.909-1.52 5.037 5.037 0 0 1-.329-1.858c0-.719.099-1.411.318-1.999.219-.588.526-1.09.92-1.509.394-.42.865-.741 1.402-.97a4.547 4.547 0 0 1 1.786-.338 4.69 4.69 0 0 1 1.791.338c.548.229 1.019.55 1.402.97.389.42.69.921.909 1.509.23.588.345 1.28.345 1.999h.001zm-2.191.005c0-.921-.203-1.689-.597-2.223-.394-.539-.948-.806-1.654-.806-.707 0-1.26.267-1.654.806-.394.539-.586 1.302-.586 2.223 0 .932.197 1.558.592 2.098.394.545.948.812 1.654.812.707 0 1.26-.272 1.654-.812.394-.545.592-1.166.592-2.098h-.001zm6.962 4.707c-3.511.016-3.511-2.822-3.511-3.274L113.583.926l2.142-.338v10.003c0 .256 0 1.88 1.375 1.885v1.792h-.001zm3.774 0h-2.153V5.072l2.153-.338v9.534zm-1.079-10.542c.718 0 1.304-.578 1.304-1.291 0-.714-.581-1.291-1.304-1.291-.723 0-1.304.578-1.304 1.291 0 .714.586 1.291 1.304 1.291zm6.431 1.013c.707 0 1.304.087 1.786.262.482.174.871.42 1.156.73.285.311.488.735.608 1.182.126.447.186.937.186 1.476v5.481a25.24 25.24 0 0 1-1.495.251c-.668.098-1.419.147-2.251.147a6.829 6.829 0 0 1-1.517-.158 3.213 3.213 0 0 1-1.178-.507 2.455 2.455 0 0 1-.761-.904c-.181-.37-.274-.893-.274-1.438 0-.523.104-.855.307-1.215.208-.36.487-.654.838-.883a3.609 3.609 0 0 1 1.227-.49 7.073 7.073 0 0 1 2.202-.103c.263.027.537.076.833.147v-.349c0-.245-.027-.479-.088-.697a1.486 1.486 0 0 0-.307-.583c-.148-.169-.34-.3-.581-.392a2.536 2.536 0 0 0-.915-.163c-.493 0-.942.06-1.353.131-.411.071-.75.153-1.008.245l-.257-1.749c.268-.093.668-.185 1.183-.278a9.335 9.335 0 0 1 1.66-.142l-.001-.001zm.181 7.731c.657 0 1.145-.038 1.484-.104v-2.168a5.097 5.097 0 0 0-1.978-.104c-.241.033-.46.098-.652.191a1.167 1.167 0 0 0-.466.392c-.121.169-.175.267-.175.523 0 .501.175.79.493.981.323.196.75.289 1.293.289h.001zM84.109 4.794c.707 0 1.304.087 1.786.262.482.174.871.42 1.156.73.29.316.487.735.608 1.182.126.447.186.937.186 1.476v5.481a25.24 25.24 0 0 1-1.495.251c-.668.098-1.419.147-2.251.147a6.829 6.829 0 0 1-1.517-.158 3.213 3.213 0 0 1-1.178-.507 2.455 2.455 0 0 1-.761-.904c-.181-.37-.274-.893-.274-1.438 0-.523.104-.855.307-1.215.208-.36.487-.654.838-.883a3.609 3.609 0 0 1 1.227-.49 7.073 7.073 0 0 1 2.202-.103c.257.027.537.076.833.147v-.349c0-.245-.027-.479-.088-.697a1.486 1.486 0 0 0-.307-.583c-.148-.169-.34-.3-.581-.392a2.536 2.536 0 0 0-.915-.163c-.493 0-.942.06-1.353.131-.411.071-.75.153-1.008.245l-.257-1.749c.268-.093.668-.185 1.183-.278a8.89 8.89 0 0 1 1.66-.142l-.001-.001zm.186 7.736c.657 0 1.145-.038 1.484-.104v-2.168a5.097 5.097 0 0 0-1.978-.104c-.241.033-.46.098-.652.191a1.167 1.167 0 0 0-.466.392c-.121.169-.175.267-.175.523 0 .501.175.79.493.981.318.191.75.289 1.293.289h.001zm8.682 1.738c-3.511.016-3.511-2.822-3.511-3.274L89.461.926l2.142-.338v10.003c0 .256 0 1.88 1.375 1.885v1.792h-.001z"
+				fill="#182359"/>
+			<path
+				d="M5.027 11.025c0 .698-.252 1.246-.757 1.644-.505.397-1.201.596-2.089.596-.888 0-1.615-.138-2.181-.414v-1.214c.358.168.739.301 1.141.397.403.097.778.145 1.125.145.508 0 .884-.097 1.125-.29a.945.945 0 0 0 .363-.779.978.978 0 0 0-.333-.747c-.222-.204-.68-.446-1.375-.725-.716-.29-1.221-.621-1.515-.994-.294-.372-.44-.82-.44-1.343 0-.655.233-1.171.698-1.547.466-.376 1.09-.564 1.875-.564.752 0 1.5.165 2.245.494l-.408 1.047c-.698-.294-1.321-.44-1.869-.44-.415 0-.73.09-.945.271a.89.89 0 0 0-.322.717c0 .204.043.379.129.524.086.145.227.282.424.411.197.129.551.299 1.063.51.577.24.999.464 1.268.671.269.208.466.442.591.704.125.261.188.569.188.924l-.001.002zm3.98 2.24c-.924 0-1.646-.269-2.167-.808-.521-.539-.782-1.281-.782-2.226 0-.97.242-1.733.725-2.288.483-.555 1.148-.833 1.993-.833.784 0 1.404.238 1.858.714.455.476.682 1.132.682 1.966v.682H7.357c.018.577.174 1.02.467 1.329.294.31.707.465 1.241.465.351 0 .678-.033.98-.099a5.1 5.1 0 0 0 .975-.33v1.026a3.865 3.865 0 0 1-.935.312 5.723 5.723 0 0 1-1.08.091l.002-.001zm-.231-5.199c-.401 0-.722.127-.964.381s-.386.625-.432 1.112h2.696c-.007-.491-.125-.862-.354-1.115-.229-.252-.544-.379-.945-.379l-.001.001zm7.692 5.092l-.252-.827h-.043c-.286.362-.575.608-.865.739-.29.131-.662.196-1.117.196-.584 0-1.039-.158-1.367-.473-.328-.315-.491-.761-.491-1.337 0-.612.227-1.074.682-1.386.455-.312 1.148-.482 2.079-.51l1.026-.032v-.317c0-.38-.089-.663-.266-.851-.177-.188-.452-.282-.824-.282-.304 0-.596.045-.876.134a6.68 6.68 0 0 0-.806.317l-.408-.902a4.414 4.414 0 0 1 1.058-.384 4.856 4.856 0 0 1 1.085-.132c.756 0 1.326.165 1.711.494.385.329.577.847.577 1.552v4.002h-.902l-.001-.001zm-1.88-.859c.458 0 .826-.128 1.104-.384.278-.256.416-.615.416-1.077v-.516l-.763.032c-.594.021-1.027.121-1.297.298s-.406.448-.406.814c0 .265.079.47.236.615.158.145.394.218.709.218h.001zm7.557-5.189c.254 0 .464.018.628.054l-.124 1.176a2.383 2.383 0 0 0-.559-.064c-.505 0-.914.165-1.227.494-.313.329-.47.757-.47 1.284v3.105h-1.262V7.218h.988l.167 1.047h.064c.197-.354.454-.636.771-.843a1.83 1.83 0 0 1 1.023-.312h.001zm4.125 6.155c-.899 0-1.582-.262-2.049-.787-.467-.525-.701-1.277-.701-2.259 0-.999.244-1.767.733-2.304.489-.537 1.195-.806 2.119-.806.627 0 1.191.116 1.692.349l-.381 1.015c-.534-.208-.974-.312-1.321-.312-1.028 0-1.542.682-1.542 2.046 0 .666.128 1.166.384 1.501.256.335.631.502 1.125.502a3.23 3.23 0 0 0 1.595-.419v1.101a2.53 2.53 0 0 1-.722.285 4.356 4.356 0 0 1-.932.086v.002zm8.277-.107h-1.268V9.506c0-.458-.092-.8-.277-1.026-.184-.226-.477-.338-.878-.338-.53 0-.919.158-1.168.475-.249.317-.373.848-.373 1.593v2.949h-1.262V4.801h1.262v2.122c0 .34-.021.704-.064 1.09h.081a1.76 1.76 0 0 1 .717-.666c.306-.158.663-.236 1.072-.236 1.439 0 2.159.725 2.159 2.175v3.873l-.001-.001zm7.649-6.048c.741 0 1.319.269 1.732.806.414.537.62 1.291.62 2.261 0 .974-.209 1.732-.628 2.275-.419.542-1.001.814-1.746.814-.752 0-1.336-.27-1.751-.811h-.086l-.231.704h-.945V4.801h1.262v1.987l-.021.655-.032.553h.054c.401-.591.992-.886 1.772-.886zm-.328 1.031c-.508 0-.875.149-1.098.448-.224.299-.339.799-.346 1.501v.086c0 .723.115 1.247.344 1.571.229.324.603.486 1.123.486.448 0 .787-.177 1.018-.532.231-.354.346-.867.346-1.536 0-1.35-.462-2.025-1.386-2.025l-.001.001zm3.244-.924h1.375l1.209 3.368c.183.48.304.931.365 1.354h.043c.032-.197.091-.436.177-.717.086-.281.541-1.616 1.364-4.004h1.364l-2.541 6.73c-.462 1.235-1.232 1.853-2.31 1.853-.279 0-.551-.03-.816-.091v-.999c.19.043.406.064.65.064.609 0 1.037-.353 1.284-1.058l.22-.559-2.385-5.941h.001z"
+				fill="#1D3657"/>
+		  </g>
+		</svg>
+	  </a>
+	</div>
+  </div>
+</script>
+
+<script type="text/html" id="tmpl-autocomplete-empty">
+  <div class="autocomplete-empty">
+	  No results matched your query 	<span class="empty-query">"{{ data.query }}"</span>
+  </div>
+</script>
+
+<script type="text/javascript">
+  jQuery(function () {
+	/* init Algolia client */
+	var client = algoliasearch(algolia.application_id, algolia.search_api_key);
+
+	/* setup default sources */
+	var sources = [];
+	jQuery.each(algolia.autocomplete.sources, function (i, config) {
+	  var suggestion_template = wp.template(config['tmpl_suggestion']);
+	  sources.push({
+		source: algoliaAutocomplete.sources.hits(client.initIndex(config['index_name']), {
+		  hitsPerPage: config['max_suggestions'],
+		  attributesToSnippet: [
+			'content:10'
+		  ],
+		  highlightPreTag: '__ais-highlight__',
+		  highlightPostTag: '__/ais-highlight__'
+		}),
+		templates: {
+		  header: function () {
+			return wp.template('autocomplete-header')({
+			  label: _.escape(config['label'])
+			});
+		  },
+		  suggestion: function (hit) {
+      if(hit.escaped === true) {
+        return suggestion_template(hit);
+      }
+      hit.escaped = true;
+
+			for (var key in hit._highlightResult) {
+			  /* We do not deal with arrays. */
+			  if (typeof hit._highlightResult[key].value !== 'string') {
+				continue;
+			  }
+			  hit._highlightResult[key].value = _.escape(hit._highlightResult[key].value);
+			  hit._highlightResult[key].value = hit._highlightResult[key].value.replace(/__ais-highlight__/g, '<em>').replace(/__\/ais-highlight__/g, '</em>');
+			}
+
+			for (var key in hit._snippetResult) {
+			  /* We do not deal with arrays. */
+			  if (typeof hit._snippetResult[key].value !== 'string') {
+				continue;
+			  }
+
+			  hit._snippetResult[key].value = _.escape(hit._snippetResult[key].value);
+			  hit._snippetResult[key].value = hit._snippetResult[key].value.replace(/__ais-highlight__/g, '<em>').replace(/__\/ais-highlight__/g, '</em>');
+			}
+
+			return suggestion_template(hit);
+		  }
+		}
+	  });
+
+	});
+
+	/* Setup dropdown menus */
+	jQuery(algolia.autocomplete.input_selector).each(function (i) {
+	  var $searchInput = jQuery(this);
+
+	  var config = {
+		debug: algolia.debug,
+		hint: false,
+		openOnFocus: true,
+		appendTo: 'body',
+		templates: {
+		  empty: wp.template('autocomplete-empty')
+		}
+	  };
+
+	  if (algolia.powered_by_enabled) {
+		config.templates.footer = wp.template('autocomplete-footer');
+	  }
+
+	  /* Instantiate autocomplete.js */
+	  var autocomplete = algoliaAutocomplete($searchInput[0], config, sources)
+	  .on('autocomplete:selected', function (e, suggestion) {
+		/* Redirect the user when we detect a suggestion selection. */
+		window.location.href = suggestion.permalink;
+	  });
+
+	  /* Force the dropdown to be re-drawn on scroll to handle fixed containers. */
+	  jQuery(window).scroll(function() {
+		if(autocomplete.autocomplete.getWrapper().style.display === "block") {
+		  autocomplete.autocomplete.close();
+		  autocomplete.autocomplete.open();
+		}
+	  });
+	});
+
+	jQuery(document).on("click", ".algolia-powered-by-link", function (e) {
+	  e.preventDefault();
+	  window.location = "https://www.algolia.com/?utm_source=WordPress&utm_medium=extension&utm_content=" + window.location.hostname + "&utm_campaign=poweredby";
+	});
+  });
+</script>
+
+		<script>
+	    var $ = jQuery;
+	</script>
+
+	    <!-- Google Tag Manager -->
+<script>(function (w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({'gtm.start':
+            new Date().getTime(), event: 'gtm.js'});
+var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; 
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TXRPKX');</script>
+<!-- End Google Tag Manager -->
+<meta property="fb:app_id" content="188109141314159" />	</head>
+
+<body class="home page-template page-template-page-templates page-template-page-front page-template-page-templatespage-front-php page page-id-27470">
+
+<div class="body-overlay" style="position: fixed; top: 0px; width: 100%; height: 100%; z-index: 99; background: #ffffff;">
+    <div class="body-loading">
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+<div class="body-content">
+
+<div class="container--expanded header__wrapper">
+	<header class="header" id="main-header" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="small-4 large-4 columns">
+					<div class="site__branding">
+						<a class="site__branding__logo animate fadeInDown fadeout" data-wow-delay="0.2s" href="https://www.historic-uk.com">Historic UK</a>
+					</div>
+				</div>
+				<div class="small-8 large-8 columns text--right">
+					<div class="top-menu">
+						<ul>
+							<li><a class="no-underline" href="http://www.twitter.com/historicuk" target="_blank"><i class="icon-twitter" aria-hidden="true"></i></a></li>
+							<li><a class="no-underline" href="http://www.facebook.com/HistoricUK" target="_blank"><i class="icon-facebook" aria-hidden="true"></i></a></li>
+							                                                        							<li><a class="fadeout" href="https://www.historic-uk.com/AdvertiseWithUs/" target="">Advertise with us</a></li>
+                                                        							<li><a class="fadeout" href="https://www.historic-uk.com/Blog/" target="">Blog</a></li>
+                                                        							<li><a class="fadeout" href="https://www.historic-uk.com/ContactUs/" target="">Contact Us</a></li>
+                            														<li><a class="search-overlay__open no-underline" href="#search-overlay"><i class="icon-search" aria-hidden="true"></i></a></li>
+						</ul>
+					</div>
+					<button class="burger-menu" id="burger-menu" aria-expanded="false">
+						<i class="icon-align_justify" aria-hidden="true"></i>
+					</button>
+				</div>
+			</div>
+			<div class="row">
+				<div class="large-12 columns">
+					<div class="separator separator-horizontal animate zoomIn" data-wow-delay="0.3s"></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="large-12 columns text--right">
+									</div>
+			</div>
+			<div class="row">
+				<div class="large-12 columns">
+					
+	<div class="menu-wrap">
+		<nav id="site-navigation" class="main-menu main-menu--default" role="navigation">
+			<div class="menu-wrap"><ul id="primary-menu" class="menu-items-list"><li id="menu-item-28952" class="columns-3 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28952"><a class="fadeout" href="https://www.historic-uk.com/AccommodationGuide/">Historic Accommodation</a>
+<ul class="sub-menu">
+	<li id="menu-item-58092" class="column column-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-58092"><a class="fadeout" href="https://www.historic-uk.com/AccommodationGuide/">Accommodation Type</a>
+	<ul class="sub-menu">
+		<li id="menu-item-28953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28953"><a class="fadeout" href="https://www.historic-uk.com/BedBreakfasts/">Bed and Breakfasts</a></li>
+		<li id="menu-item-28955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28955"><a class="fadeout" href="https://www.historic-uk.com/CastleHotels/">Castle Hotels</a></li>
+		<li id="menu-item-28956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28956"><a class="fadeout" href="https://www.historic-uk.com/CountryHouseHotels/">Country House Hotels</a></li>
+		<li id="menu-item-28957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28957"><a class="fadeout" href="https://www.historic-uk.com/HolidayCottages/">Historic Holiday Cottages</a></li>
+		<li id="menu-item-28954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28954"><a class="fadeout" href="https://www.historic-uk.com/Boats/">House Boats</a></li>
+	</ul>
+</li>
+	<li id="menu-item-69509" class="column column-2 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-69509"><a class="fadeout" href="https://www.historic-uk.com/AccommodationGuide/">Location</a>
+	<ul class="sub-menu">
+		<li id="menu-item-58095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58095"><a class="fadeout" href="https://www.historic-uk.com/England/">England</a></li>
+		<li id="menu-item-58096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58096"><a class="fadeout" href="https://www.historic-uk.com/Scotland/">Scotland</a></li>
+		<li id="menu-item-58099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58099"><a class="fadeout" href="https://www.historic-uk.com/Wales/">Wales</a></li>
+		<li id="menu-item-75214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75214"><a class="fadeout" href="https://www.historic-uk.com/Channel-Islands/">Channel Islands</a></li>
+	</ul>
+</li>
+	<li id="menu-item-61922" class="column column-2 orange menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-61922"><a class="fadeout" href="https://www.historic-uk.com/Unusual-Holidays-Places-To-Stay/">Unusual Holidays</a>
+	<ul class="sub-menu">
+		<li id="menu-item-63859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63859"><a class="fadeout" href="https://www.historic-uk.com/AccommodationGuide/CastleBreaks/">Castle Breaks</a></li>
+		<li id="menu-item-60532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60532"><a class="fadeout" href="https://www.historic-uk.com/RentCastle/">Castles to Rent</a></li>
+		<li id="menu-item-60534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60534"><a class="fadeout" href="https://www.historic-uk.com/CottagesbytheSea/">Cottages by the Sea</a></li>
+		<li id="menu-item-60529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60529"><a class="fadeout" href="https://www.historic-uk.com/CottageswithHotTubs/">Cottages with Hot Tubs</a></li>
+		<li id="menu-item-59180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59180"><a class="fadeout" href="https://www.historic-uk.com/CottageswithPools/">Cottages with Pools</a></li>
+		<li id="menu-item-59179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59179"><a class="fadeout" href="https://www.historic-uk.com/LargeCottages/">Large Cottages</a></li>
+		<li id="menu-item-60531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60531"><a class="fadeout" href="https://www.historic-uk.com/QuirkyUnusualCottages/">Quirky Cottages</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-27561" class="columns-2 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27561"><a class="fadeout" href="https://www.historic-uk.com/HistoryUK/">History Magazine</a>
+<ul class="sub-menu">
+	<li id="menu-item-28959" class="column column-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28959"><a class="fadeout" href="https://www.historic-uk.com/HistoryUK/">The History Magazine</a>
+	<ul class="sub-menu">
+		<li id="menu-item-34252" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34252"><a class="fadeout" href="https://www.historic-uk.com/HistoryUK/HistoryofEngland/">History of England</a></li>
+		<li id="menu-item-34253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34253"><a class="fadeout" href="https://www.historic-uk.com/HistoryUK/HistoryofScotland/">History of Scotland</a></li>
+		<li id="menu-item-34254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34254"><a class="fadeout" href="https://www.historic-uk.com/HistoryUK/HistoryofWales/">History of Wales</a></li>
+		<li id="menu-item-34255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34255"><a class="fadeout" href="https://www.historic-uk.com/HistoryUK/HistoryofBritain/">History of Britain</a></li>
+		<li id="menu-item-28961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28961"><a class="fadeout" href="https://www.historic-uk.com/CultureUK/">Culture UK</a></li>
+		<li id="menu-item-28962" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28962"><a class="fadeout" href="https://www.historic-uk.com/HistoryMagazine/DestinationsUK/">Destinations UK</a></li>
+		<li id="menu-item-59210" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59210"><a class="fadeout" href="https://www.historic-uk.com/HistoryUK/KingsQueensofBritain/">Kings &#038; Queens of Britain</a></li>
+	</ul>
+</li>
+	<li id="menu-item-28960" class="column column-2 gray menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28960"><a class="fadeout" href="https://www.historic-uk.com/LivingHistory/">Living History Guide</a>
+	<ul class="sub-menu">
+		<li id="menu-item-34248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34248"><a class="fadeout" href="https://www.historic-uk.com/LivingHistory/TradersMarket/">Trader’s Market</a></li>
+		<li id="menu-item-34250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34250"><a class="fadeout" href="https://www.historic-uk.com/LivingHistory/EventsDiary/">Events Diary</a></li>
+		<li id="menu-item-34251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34251"><a class="fadeout" href="https://www.historic-uk.com/LivingHistory/ReenactorsDirectory/">Reenactors Directory</a></li>
+		<li id="menu-item-58229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58229"><a class="fadeout" href="https://www.historic-uk.com/LivingHistory/PhotoGallery/">Living History Photo Gallery</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-68338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68338"><a class="fadeout" href="https://www.historic-uk.com/Family-History/">Family History</a></li>
+<li id="menu-item-27560" class="column-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-27560"><a class="fadeout" href="https://www.historic-uk.com/AboutHistoricUK/">About Historic UK</a></li>
+<li id="menu-item-58741" class="column-1 small-only menu-item menu-item-type-post_type menu-item-object-page menu-item-58741"><a class="fadeout" href="https://www.historic-uk.com/ContactUs/">Contact Us</a></li>
+<li id="menu-item-58742" class="column-1 small-only search-overlay-phone__open menu-item menu-item-type-custom menu-item-object-custom menu-item-58742"><a class="fadeout" href="#search-overlay">Search <i class="fa fa-search" aria-hidden="true"></i></a></li>
+</ul></div>		</nav>
+	</div><!-- .wrap -->
+				</div>
+			</div>
+		</div>
+	</header>
+</div><!--.container-->
+<div class="container--expanded carousel__wrapper">
+			<div class="carousel carousel--header carousel--single">
+										<div class="item carousel__item">
+					<div class="carousel__background img-fit">
+						<img width="2560" height="1317" src="https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-scaled.jpg" class="attachment-super_duper size-super_duper" alt="" decoding="async" fetchpriority="high" srcset="https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-scaled.jpg 2560w, https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-300x154.jpg 300w, https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-1024x527.jpg 1024w, https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-768x395.jpg 768w, https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-1536x790.jpg 1536w, https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-2048x1053.jpg 2048w, https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-1366x703.jpg 1366w, https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-1500x771.jpg 1500w, https://www.historic-uk.com/wp-content/uploads/2020/10/historic-uk-banner-1920x987.jpg 1920w" sizes="(max-width: 2560px) 100vw, 2560px" />					</div>
+					<div class="carousel__overlay"></div>
+					<div class="carousel__caption carousel__caption--left">
+						<div class="container">
+							<div class="row">
+								<div class="small-12 columns">
+									<div class="carousel__caption__content">
+										<h2>The History Magazine and Accommodation Guide</h2>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+									</div>
+	</div><!--.container-->
+
+<div class="container container--up container--wide" role="main">
+	<div class="row">
+		<div class="small-12 columns">
+			<div class="search search--accommodation">
+    <div class="row">
+        <div class="medium-12 large-11 large-centered columns">
+            <form class="accommodation-filter" action="https://www.historic-uk.com/property-search/" method="get">
+                <div class="row">
+                    <div class="large-4 columns">
+                        <div class="search__title">
+                            <div class="icon icon--house search__icon"></div>
+                            <h3>Search Historic Breaks</h3>
+                        </div>
+                    </div>
+                    <div class="large-8 columns text--right">
+                        <div class="search__controls">
+							                            <label>
+                                <select class="autocomplete" name="type[]" data-placeholder="type" data-allow-clear="true" multiple="multiple" data-ajax--url="https://www.historic-uk.com/wp-content/themes/historic/api/property-types.php" data-ajax--cache="true">
+                                </select>
+                            </label>
+                            <label>
+                                <select class="autocomplete" name="location" data-placeholder="location" data-allow-clear="true" data-ajax--url="https://www.historic-uk.com/wp-content/themes/historic/api/property-locations.php" data-ajax--cache="true">
+                                </select>
+                            </label>
+                            <label>
+                                <select name="guests" data-placeholder="guests" data-allow-clear="true" data-minimum-results-for-search="infinity">
+                                    <option value="" class="placeholder" hidden_>guests</option>
+			                                                                <option value="51" >1</option>
+			                                                                <option value="52" >2</option>
+			                                                                <option value="53" >3</option>
+			                                                                <option value="54" >4</option>
+			                                                                <option value="55" >5</option>
+			                                                                <option value="56" >6</option>
+			                                                                <option value="57" >7</option>
+			                                                                <option value="58" >8</option>
+			                                                                <option value="59" >9</option>
+			                                                                <option value="60" >10</option>
+			                                                                <option value="61" >11</option>
+			                                                                <option value="62" >12</option>
+			                                                                <option value="63" >13</option>
+			                                                                <option value="64" >14</option>
+			                                                                <option value="65" >15</option>
+			                                                                <option value="66" >16</option>
+			                                                                <option value="67" >17</option>
+			                                                                <option value="68" >18+</option>
+			                                                        </select>
+                            </label>
+                            <button class="button button--color-black" type="submit">GO</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>		</div>
+	</div><!--.search accommodation-->
+		<div class="row">
+		<div class="small-12 columns">
+							<div class="featured-blocks featured-blocks--top">
+					<div class="row">
+																									<div class="medium-4 columns ">
+	<a class="fadeout" href="https://www.historic-uk.com/CastleHotels/" target="">
+    <div class="featured-block animate fadeInUp" data-wow-delay="0.0666666666667s">
+        <div class="featured-block__background img-fit">
+             <img width="600" height="580" src="https://www.historic-uk.com/wp-content/uploads/2020/10/castle-hotels-cta.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://www.historic-uk.com/wp-content/uploads/2020/10/castle-hotels-cta.jpg 600w, https://www.historic-uk.com/wp-content/uploads/2020/10/castle-hotels-cta-300x290.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />         </div>
+        <div class="featured-block__overlay"></div>
+        <div class="featured-block__caption featured-block__caption--center">
+            <h3 class="animate fadeInUp" data-wow-delay="0.15s">Castle Hotels</h3>
+            <p class="animate fadeInUp" data-wow-delay="0.2s">Live the fairytale and stay in a castle.</p>
+        </div>
+    </div>
+	</a>
+</div>																				<div class="medium-4 columns ">
+	<a class="fadeout" href="https://www.historic-uk.com/HolidayCottages/" target="">
+    <div class="featured-block animate fadeInUp" data-wow-delay="0.133333333333s">
+        <div class="featured-block__background img-fit">
+             <img width="600" height="580" src="https://www.historic-uk.com/wp-content/uploads/2020/10/holiday-cottages-cta.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://www.historic-uk.com/wp-content/uploads/2020/10/holiday-cottages-cta.jpg 600w, https://www.historic-uk.com/wp-content/uploads/2020/10/holiday-cottages-cta-300x290.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />         </div>
+        <div class="featured-block__overlay"></div>
+        <div class="featured-block__caption featured-block__caption--center">
+            <h3 class="animate fadeInUp" data-wow-delay="0.15s">Holiday Cottages</h3>
+            <p class="animate fadeInUp" data-wow-delay="0.2s">Historic self catering cottages across the UK</p>
+        </div>
+    </div>
+	</a>
+</div>																				<div class="medium-4 columns end">
+	<a class="fadeout" href="https://www.historic-uk.com/CountryHouseHotels/" target="">
+    <div class="featured-block animate fadeInUp" data-wow-delay="0.2s">
+        <div class="featured-block__background img-fit">
+             <img width="600" height="580" src="https://www.historic-uk.com/wp-content/uploads/2020/10/country-house-hotel-cta.jpg" class="attachment-large size-large" alt="" decoding="async" srcset="https://www.historic-uk.com/wp-content/uploads/2020/10/country-house-hotel-cta.jpg 600w, https://www.historic-uk.com/wp-content/uploads/2020/10/country-house-hotel-cta-300x290.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />         </div>
+        <div class="featured-block__overlay"></div>
+        <div class="featured-block__caption featured-block__caption--center">
+            <h3 class="animate fadeInUp" data-wow-delay="0.15s">Country House Hotels</h3>
+            <p class="animate fadeInUp" data-wow-delay="0.2s">A directory of the most historic hotels in Britain</p>
+        </div>
+    </div>
+	</a>
+</div>																		</div>
+				</div>
+					</div>
+	</div><!--.featured accommodation-->
+			<div class="row">
+		<div class="small-12 columns">
+			<div class="section-title section-title--left">
+				<h2 class="animate fadeInUp">History Magazine</h2>
+			</div>
+		</div>
+	</div><!--.history magazine title-->
+	<div class="row">
+		<div class="small-12 columns">
+			<div class="featured-articles">
+													<div class="row">
+					                    											<div class="medium-8 columns ">
+	<a class="fadeout" href="https://www.historic-uk.com/CultureUK/English-Renaissance/">
+		<div class="featured-article featured-article--wide animate fadeInUp"  data-wow-delay="0.1s">
+
+            <div class="featured-article__background img-fit">
+                 <img width="640" height="329" src="https://www.historic-uk.com/wp-content/uploads/2025/06/english-renaiassance-1024x527.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://www.historic-uk.com/wp-content/uploads/2025/06/english-renaiassance-1024x527.jpg 1024w, https://www.historic-uk.com/wp-content/uploads/2025/06/english-renaiassance-300x154.jpg 300w, https://www.historic-uk.com/wp-content/uploads/2025/06/english-renaiassance-768x395.jpg 768w, https://www.historic-uk.com/wp-content/uploads/2025/06/english-renaiassance-1536x790.jpg 1536w, https://www.historic-uk.com/wp-content/uploads/2025/06/english-renaiassance-2048x1053.jpg 2048w, https://www.historic-uk.com/wp-content/uploads/2025/06/english-renaiassance-1366x703.jpg 1366w, https://www.historic-uk.com/wp-content/uploads/2025/06/english-renaiassance-1500x771.jpg 1500w, https://www.historic-uk.com/wp-content/uploads/2025/06/english-renaiassance-1920x987.jpg 1920w" sizes="(max-width: 640px) 100vw, 640px" />            </div>
+
+			<div class="featured-article__overlay"></div>
+			<div class="featured-article__caption">
+				<div class="featured-article__caption__content">
+                    <div class="featured-article__caption__inner">
+                        <div class="featured-article__caption__inner__title"><h3 class="animate fadeInUp" data-wow-delay="0.15s">The English Renaissance</h3></div>
+                        <div class="featured-article__caption__inner__text"><p>William Shakespeare, Ben Jonson, Inigo Jones, Christopher Marlowe, Thomas Tallis. The Elizabethan era is seen as the height of the English Renaissance, the dominant art forms of which were literature, theatre and music&#8230;</p>
+</div>
+                    </div>
+					<a class="button animate fadeInDown fadeout" data-wow-delay="0.15s" href="https://www.historic-uk.com/CultureUK/English-Renaissance/">read more</a>
+				</div>
+			</div>
+		</div>
+	</a>
+</div>																<div class="medium-4 columns ">
+	<a class="fadeout" href="https://www.historic-uk.com/HistoryUK/HistoryofBritain/Did-Cavalry-End-With-World-War-One/">
+		<div class="featured-article  animate fadeInUp"  data-wow-delay="0.1s">
+
+            <div class="featured-article__background img-fit">
+                 <img width="640" height="329" src="https://www.historic-uk.com/wp-content/uploads/2025/05/cavalry-1024x527.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://www.historic-uk.com/wp-content/uploads/2025/05/cavalry-1024x527.jpg 1024w, https://www.historic-uk.com/wp-content/uploads/2025/05/cavalry-300x154.jpg 300w, https://www.historic-uk.com/wp-content/uploads/2025/05/cavalry-768x395.jpg 768w, https://www.historic-uk.com/wp-content/uploads/2025/05/cavalry-1536x790.jpg 1536w, https://www.historic-uk.com/wp-content/uploads/2025/05/cavalry-2048x1053.jpg 2048w, https://www.historic-uk.com/wp-content/uploads/2025/05/cavalry-1366x703.jpg 1366w, https://www.historic-uk.com/wp-content/uploads/2025/05/cavalry-1500x771.jpg 1500w, https://www.historic-uk.com/wp-content/uploads/2025/05/cavalry-1920x987.jpg 1920w" sizes="(max-width: 640px) 100vw, 640px" />            </div>
+
+			<div class="featured-article__overlay"></div>
+			<div class="featured-article__caption">
+				<div class="featured-article__caption__content">
+                    <div class="featured-article__caption__inner">
+                        <div class="featured-article__caption__inner__title"><h3 class="animate fadeInUp" data-wow-delay="0.15s">Did Cavalry End With World War One?</h3></div>
+                        <div class="featured-article__caption__inner__text"><p>The role of mounted cavalry seems to belong to another age. It brings to mind the Charge of the Light Brigade, the subject of the famous poem by Alfred Lord Tennyson;<br />
+&#8220;Half a league, half a league,<br />
+ Half a league onward,<br />
+ All in the valley of Death<br />
+ Rode the six hundred.&#8221;<br />
+However the last British cavalry charge actually took place in 1942 in Burma&#8230;</p>
+</div>
+                    </div>
+					<a class="button animate fadeInDown fadeout" data-wow-delay="0.15s" href="https://www.historic-uk.com/HistoryUK/HistoryofBritain/Did-Cavalry-End-With-World-War-One/">read more</a>
+				</div>
+			</div>
+		</div>
+	</a>
+</div>																<div class="medium-4 columns ">
+	<a class="fadeout" href="https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Clifton-Suspension-Bridge/">
+		<div class="featured-article  animate fadeInUp"  data-wow-delay="0.1s">
+
+            <div class="featured-article__background img-fit">
+                 <img width="640" height="329" src="https://www.historic-uk.com/wp-content/uploads/2025/05/clifton-top-1024x527.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://www.historic-uk.com/wp-content/uploads/2025/05/clifton-top-1024x527.jpg 1024w, https://www.historic-uk.com/wp-content/uploads/2025/05/clifton-top-300x154.jpg 300w, https://www.historic-uk.com/wp-content/uploads/2025/05/clifton-top-768x395.jpg 768w, https://www.historic-uk.com/wp-content/uploads/2025/05/clifton-top-1536x790.jpg 1536w, https://www.historic-uk.com/wp-content/uploads/2025/05/clifton-top-2048x1053.jpg 2048w, https://www.historic-uk.com/wp-content/uploads/2025/05/clifton-top-1366x703.jpg 1366w, https://www.historic-uk.com/wp-content/uploads/2025/05/clifton-top-1500x771.jpg 1500w, https://www.historic-uk.com/wp-content/uploads/2025/05/clifton-top-1920x987.jpg 1920w" sizes="(max-width: 640px) 100vw, 640px" />            </div>
+
+			<div class="featured-article__overlay"></div>
+			<div class="featured-article__caption">
+				<div class="featured-article__caption__content">
+                    <div class="featured-article__caption__inner">
+                        <div class="featured-article__caption__inner__title"><h3 class="animate fadeInUp" data-wow-delay="0.15s">Clifton Suspension Bridge</h3></div>
+                        <div class="featured-article__caption__inner__text"><p>&#8220;The Ornament of Bristol and the Wonder of the Age&#8221; – Sir Abraham Elton, 1831.<br />
+Spanning the Avon Gorge in Bristol, the iconic Clifton Suspension Bridge was designed by Isambard Kingdom Brunel&#8230; </p>
+</div>
+                    </div>
+					<a class="button animate fadeInDown fadeout" data-wow-delay="0.15s" href="https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Clifton-Suspension-Bridge/">read more</a>
+				</div>
+			</div>
+		</div>
+	</a>
+</div>																<div class="medium-4 columns ">
+	<a class="fadeout" href="https://www.historic-uk.com/HistoryUK/HistoryofBritain/Windermere-Children-Refugees/">
+		<div class="featured-article  animate fadeInUp"  data-wow-delay="0.1s">
+
+            <div class="featured-article__background img-fit">
+                 <img width="640" height="329" src="https://www.historic-uk.com/wp-content/uploads/2025/04/windermere-1024x527.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://www.historic-uk.com/wp-content/uploads/2025/04/windermere-1024x527.jpg 1024w, https://www.historic-uk.com/wp-content/uploads/2025/04/windermere-300x154.jpg 300w, https://www.historic-uk.com/wp-content/uploads/2025/04/windermere-768x395.jpg 768w, https://www.historic-uk.com/wp-content/uploads/2025/04/windermere-1536x790.jpg 1536w, https://www.historic-uk.com/wp-content/uploads/2025/04/windermere-2048x1053.jpg 2048w, https://www.historic-uk.com/wp-content/uploads/2025/04/windermere-1366x703.jpg 1366w, https://www.historic-uk.com/wp-content/uploads/2025/04/windermere-1500x771.jpg 1500w, https://www.historic-uk.com/wp-content/uploads/2025/04/windermere-1920x987.jpg 1920w" sizes="(max-width: 640px) 100vw, 640px" />            </div>
+
+			<div class="featured-article__overlay"></div>
+			<div class="featured-article__caption">
+				<div class="featured-article__caption__content">
+                    <div class="featured-article__caption__inner">
+                        <div class="featured-article__caption__inner__title"><h3 class="animate fadeInUp" data-wow-delay="0.15s">The Windermere Children</h3></div>
+                        <div class="featured-article__caption__inner__text"><p>Discover the true story of how in 1945, hundreds of traumatised children, liberated from German concentration camps, were taken to a tiny town in the Lake District to rebuild their lives&#8230;</p>
+</div>
+                    </div>
+					<a class="button animate fadeInDown fadeout" data-wow-delay="0.15s" href="https://www.historic-uk.com/HistoryUK/HistoryofBritain/Windermere-Children-Refugees/">read more</a>
+				</div>
+			</div>
+		</div>
+	</a>
+</div>																<div class="medium-4 columns end">
+	<a class="fadeout" href="https://www.historic-uk.com/HistoryUK/HistoryofEngland/Henry-Avery-Every-King-Of-Pirates/">
+		<div class="featured-article  animate fadeInUp"  data-wow-delay="0.1s">
+
+            <div class="featured-article__background img-fit">
+                 <img width="640" height="329" src="https://www.historic-uk.com/wp-content/uploads/2025/04/avery-1024x527.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" srcset="https://www.historic-uk.com/wp-content/uploads/2025/04/avery-1024x527.jpg 1024w, https://www.historic-uk.com/wp-content/uploads/2025/04/avery-300x154.jpg 300w, https://www.historic-uk.com/wp-content/uploads/2025/04/avery-768x395.jpg 768w, https://www.historic-uk.com/wp-content/uploads/2025/04/avery-1536x790.jpg 1536w, https://www.historic-uk.com/wp-content/uploads/2025/04/avery-2048x1053.jpg 2048w, https://www.historic-uk.com/wp-content/uploads/2025/04/avery-1366x703.jpg 1366w, https://www.historic-uk.com/wp-content/uploads/2025/04/avery-1500x771.jpg 1500w, https://www.historic-uk.com/wp-content/uploads/2025/04/avery-1920x987.jpg 1920w" sizes="(max-width: 640px) 100vw, 640px" />            </div>
+
+			<div class="featured-article__overlay"></div>
+			<div class="featured-article__caption">
+				<div class="featured-article__caption__content">
+                    <div class="featured-article__caption__inner">
+                        <div class="featured-article__caption__inner__title"><h3 class="animate fadeInUp" data-wow-delay="0.15s">The King of Pirates</h3></div>
+                        <div class="featured-article__caption__inner__text"><p>Henry Avery, also known as Henry Every, earned the name &#8216;King of Pirates&#8217; for an audacious act of piracy against a convoy of twenty-five Grand Mughal ships, loaded with gold, jewels and treasure&#8230;</p>
+</div>
+                    </div>
+					<a class="button animate fadeInDown fadeout" data-wow-delay="0.15s" href="https://www.historic-uk.com/HistoryUK/HistoryofEngland/Henry-Avery-Every-King-Of-Pirates/">read more</a>
+				</div>
+			</div>
+		</div>
+	</a>
+</div>															</div>
+											</div>
+		</div>
+	</div><!--.featured articles-->
+	</div><!--.container-->
+
+
+
+<footer class="container--expanded main-footer" id="main-footer" role="contentinfo">
+	<div class="container">
+		<div class="row">
+			<div class="medium-10 medium-centered large-8 large-centered columns">
+				<div class="row">
+					<div class="medium-4 columns">
+						<div class="menu-wrap">
+							<nav class="footer__menu footer__menu--default" role="navigation">
+								<div class="footer__menu__wrap"><ul id="footer-one" class="footer__menu__items-list"><li id="menu-item-28963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28963"><a class="fadeout" href="https://www.historic-uk.com/AccommodationGuide/">Historic Accommodation</a>
+<ul class="sub-menu">
+	<li id="menu-item-28964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28964"><a class="fadeout" href="https://www.historic-uk.com/BedBreakfasts/">Bed and Breakfasts</a></li>
+	<li id="menu-item-28966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28966"><a class="fadeout" href="https://www.historic-uk.com/CastleHotels/">Castle Hotels</a></li>
+	<li id="menu-item-28967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28967"><a class="fadeout" href="https://www.historic-uk.com/CountryHouseHotels/">Historic Hotels</a></li>
+	<li id="menu-item-28968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28968"><a class="fadeout" href="https://www.historic-uk.com/HolidayCottages/">Historic Holiday Cottages</a></li>
+	<li id="menu-item-72298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72298"><a class="fadeout" href="https://www.historic-uk.com/LargeCottages/">Large Holiday Cottages</a></li>
+	<li id="menu-item-72299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-72299"><a class="fadeout" href="https://www.historic-uk.com/CottageswithPools/">Cottages with Private Pools</a></li>
+	<li id="menu-item-73120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-73120"><a class="fadeout" href="https://www.historic-uk.com/WeddingEventVenues/">Historic Wedding &#038; Event Venues</a></li>
+</ul>
+</li>
+</ul></div>							</nav>
+						</div>
+					</div>
+					<div class="medium-4 columns">
+						<div class="menu-wrap">
+							<nav class="footer__menu footer__menu--default" role="navigation">
+								<div class="footer__menu__wrap"><ul id="footer-two" class="footer__menu__items-list"><li id="menu-item-27545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27545"><a class="fadeout" href="https://www.historic-uk.com/HistoryUK/">History Magazine</a>
+<ul class="sub-menu">
+	<li id="menu-item-60961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60961"><a class="fadeout" href="https://www.historic-uk.com/HistoryUK/KingsQueensofBritain/">Kings and Queens</a></li>
+	<li id="menu-item-28978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28978"><a class="fadeout" href="https://www.historic-uk.com/CultureUK/">British Culture</a></li>
+	<li id="menu-item-28979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28979"><a class="fadeout" href="https://www.historic-uk.com/HistoryMagazine/DestinationsUK/">Historic Destinations</a></li>
+	<li id="menu-item-28982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28982"><a class="fadeout" href="https://www.historic-uk.com/LivingHistory/EventsDiary/">Events Diary</a></li>
+	<li id="menu-item-28984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28984"><a class="fadeout" href="https://www.historic-uk.com/LivingHistory/ReenactorsDirectory/">Reenactors Directory</a></li>
+	<li id="menu-item-28985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28985"><a class="fadeout" href="https://www.historic-uk.com/LivingHistory/TradersMarket/">Trader’s Market</a></li>
+</ul>
+</li>
+</ul></div>							</nav>
+						</div>
+					</div>
+					<div class="medium-4 columns">
+						<div class="menu-wrap">
+							<nav class="footer__menu footer__menu--default" role="navigation">
+								<div class="footer__menu__wrap"><ul id="footer-three" class="footer__menu__items-list"><li id="menu-item-27552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27552"><a class="fadeout" href="https://www.historic-uk.com/AboutHistoricUK/">Historic UK</a>
+<ul class="sub-menu">
+	<li id="menu-item-27554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27554"><a class="fadeout" href="https://www.historic-uk.com/AboutHistoricUK/">About Us</a></li>
+	<li id="menu-item-60571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60571"><a class="fadeout" href="https://www.historic-uk.com/AdvertiseWithUs/">Advertise</a></li>
+	<li id="menu-item-60572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60572"><a class="fadeout" href="https://www.historic-uk.com/ContactUs/">Contact Us</a></li>
+	<li id="menu-item-63952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63952"><a class="fadeout" href="https://www.historic-uk.com/HistoryMagazine/WriteforUs/">Write for Historic UK</a></li>
+	<li id="menu-item-27553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27553"><a class="fadeout" href="https://www.historic-uk.com/Sitemap/">Sitemap</a></li>
+</ul>
+</li>
+</ul></div>							</nav>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="medium-10 medium-centered large-8 large-centered columns">
+				<div class="row">
+										<div class="medium-6 columns">
+						<div class="footer__copy">
+														                            <a class="fadeout" href="https://www.historic-uk.com/TermsConditions/" target="">Terms & Conditions</a> |
+														                            <a class="fadeout" href="https://www.historic-uk.com/CookiePolicy/" target="">Privacy & Cookie Policy</a> |
+														                            <a class="fadeout" href="https://www.historic-uk.com/Blog/" target="">Blog</a> |
+													</div>
+					</div>
+										<div class="small-12 medium-6 columns text--center">
+						<div class="footer__social">
+							<a class="no-underline" href="http://www.twitter.com/historicuk" target="_blank"><i class="icon-twitter" aria-hidden="true"></i></a>
+							<a class="no-underline" href="http://www.facebook.com/HistoricUK" target="_blank"><i class="icon-facebook" aria-hidden="true"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="medium-10 medium-centered large-8 large-centered columns">
+				<div class="footer__copy" style="font-size:13px; line-height: 22px; color: #ccd6ca; position: relative; margin-top: 10px">Copyright &copy; Historic UK Ltd. Company Registered in England No. 5621230. </div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<div class="overlay search-overlay" id="search-overlay">
+    <div class="search-overlay__inner">
+        <div class="search-overlay__form">
+            <form role="search" method="get" class="search-form search-form-inline" action="https://www.historic-uk.com/" onsubmit="return false;">
+	<label>
+		<span class="visuallyhidden">Search for:</span>
+		<input type="search" class="inline-search-field"
+			placeholder="Search …"
+			value="" name="s"
+			title="Search for:" />
+	</label>
+	<button type="submit" class="inline-search-submit" onclick="return false;"/>
+		<span class="visuallyhidden">Search</span>
+		<span class="icon-search" aria-hidden="true"></span>
+	</button>
+</form>
+	                    <div class="search-overlay__popular">
+                <h3>Popular searches</h3>
+                <ul>
+	                                                        <li>
+                        <a class="fadeout" href="https://www.historic-uk.com/CastleHotels/" target="">Castle Hotels</a>
+                    </li>
+	                                                        <li>
+                        <a class="fadeout" href="https://www.historic-uk.com/CottagesbytheSea/" target="">Coastal Cottages</a>
+                    </li>
+	                                                        <li>
+                        <a class="fadeout" href="https://www.historic-uk.com/CottageswithPools/" target="">Cottages with Pools</a>
+                    </li>
+	                                                        <li>
+                        <a class="fadeout" href="https://www.historic-uk.com/HistoryUK/KingsQueensofBritain/" target="">Kings and Queens</a>
+                    </li>
+	                                                        <li>
+                        <a class="fadeout" href="https://www.historic-uk.com/ContactUs/" target="">Contact Us</a>
+                    </li>
+	                                </ul>
+            </div>
+	        <!--.popular-searches-->
+        </div>
+    </div>
+    <a class="search-overlay__close" href="#search-overlay"><i class="icon-remove" aria-hidden="true"></i></a>
+</div>
+
+</div><!--.body-content-->
+
+<script type="text/javascript" src="https://www.historic-uk.com/wp-content/themes/historic/assets/js/libs.min.js?ver=1.0.6" id="wgd-libs-js-js"></script>
+<script type="text/javascript" id="wgd-js-js-extra">
+/* <![CDATA[ */
+var wgd_params = {"ajax_url":"https:\/\/www.historic-uk.com\/wp-admin\/admin-ajax.php","template_url":"https:\/\/www.historic-uk.com\/wp-content\/themes\/historic","autocomplete_api":"property-locations.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.historic-uk.com/wp-content/themes/historic/assets/js/app.min.js?ver=1.0.2" id="wgd-js-js"></script>
+
+
+</body>
+</html>

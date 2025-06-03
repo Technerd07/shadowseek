@@ -1,0 +1,1591 @@
+Content from: https://www.amritmahotsav.nic.in
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head><meta charset="UTF-8" />
+<!-- Start Viewport -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>
+	Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India
+</title><link id="lnkFavicon" rel="icon" type="image/png" href="writereaddata/images/favicon.ico" /><meta name="format-detection" content="telephone=no" /><meta name="robots" content="index, follow" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="language" content="English" /><meta name="revisit-after" content="7 days" /><meta name="author" content="Amrit Mahotsav" /><meta name="geo.region" content="IN" /><meta name="geo.position" content="22.351115;78.667743" />
+
+<script type="application/ld+json">
+ {
+  "@context": "https://schema.org",
+  "@type": "GovernmentOrganization",
+  "name": "Azadi Ka Amrit Mahotsav",
+  "url": "https://amritmahotsav.nic.in/",
+  "logo": "https://amritmahotsav.nic.in/writereaddata/portal/images/logo-poster-1.jpg",
+  "sameAs": [
+  "https://twitter.com/AmritMahotsav",
+  "https://www.facebook.com/AzadiKaAmritMahotsav/",
+  "https://www.instagram.com/amritmahotsav/"
+  ]
+ }
+ </script>
+<!-- Start Viewport -->
+<link media="all" href="writereaddata/Portal/Design_CSS/font-awesome.min.css" type="text/css" rel="stylesheet" /><link media="all" href="writereaddata/Portal/Design_CSS/bootstrap.min.css" type="text/css" rel="stylesheet" />
+<script src="writereaddata/js/all-min-in-one.js" type="text/javascript"></script>
+<noscript class="displayNone"></noscript>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W6CSRXB');</script>
+<!-- End Google Tag Manager -->
+
+
+<link href='/writereaddata/Portal/Design_CSS/1.css?v=27012025152122' type="text/css" rel="stylesheet"  /><link href='/writereaddata/Portal/Design_CSS/2.css?v=05062024132804' type="text/css" rel="stylesheet"  />
+<meta name="keywords" content='Azadi Ka Amrit Mahotsav, azadi ka amrut mahotsav, amrit mahotsav, amrit mahotsav.nic.in, amrit mahotsav 2022, azadi ka amrit mahotsav website,azadi ka amrut mahotsav website'/>
+<meta name="description" content='Azadi ka Amrit Mahotsav is a 75-week grand celebration launched by honorable prime minister Shri Narendra Modi to mark 75 years of Independence'/>
+
+
+<link  rel="canonical" href="https://amritmahotsav.nic.in/" />
+
+
+<meta property="og:title" content="Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India"/>
+<meta property="og:site_name" content="Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India"/>
+<meta property="og:url" content="/"/>
+<meta property="og:description" content="Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India"/>
+<meta property="og:type" content="article"/>
+<meta property="og:image" content="https://amritmahotsav.nic.in//writereaddata/images/event-no-img.jpg"/>
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/png" />
+
+
+
+<meta property="twitter:card" content="summary"/>
+<meta property="twitter:title" content="Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India"/>
+<meta property="twitter:site" content="Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India"/>
+<meta property="twitter:description" content="Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India"/>
+<meta property="twitter:image" content="https://amritmahotsav.nic.in/writereaddata/images/event-no-img.jpg"/>
+
+
+<script type="text/javascript">
+<!--
+    if (window.location.protocol == "http:") {
+        var restOfUrl = window.location.href.substr(5);
+        window.location = "https:" + restOfUrl;
+    }
+	//-->
+</script>
+</head>
+<body id="bdMainSite" class="noJS">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W6CSRXB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<noscript class="jsRequired">
+This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.
+</noscript>
+<form method="post" action="/" id="form1" autocomplete="off">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMzUwMTk0OTcPZBYCZg9kFgQCAQ9kFgICEQ9kFiACAQ8WAh4EVGV4dAXSATxsaW5rIGhyZWY9Jy93cml0ZXJlYWRkYXRhL1BvcnRhbC9EZXNpZ25fQ1NTLzEuY3NzP3Y9MjcwMTIwMjUxNTIxMjInIHR5cGU9InRleHQvY3NzIiByZWw9InN0eWxlc2hlZXQiICAvPjxsaW5rIGhyZWY9Jy93cml0ZXJlYWRkYXRhL1BvcnRhbC9EZXNpZ25fQ1NTLzIuY3NzP3Y9MDUwNjIwMjQxMzI4MDQnIHR5cGU9InRleHQvY3NzIiByZWw9InN0eWxlc2hlZXQiICAvPmQCAw8WAh8ABc8BPG1ldGEgbmFtZT0ia2V5d29yZHMiIGNvbnRlbnQ9J0F6YWRpIEthIEFtcml0IE1haG90c2F2LCBhemFkaSBrYSBhbXJ1dCBtYWhvdHNhdiwgYW1yaXQgbWFob3RzYXYsIGFtcml0IG1haG90c2F2Lm5pYy5pbiwgYW1yaXQgbWFob3RzYXYgMjAyMiwgYXphZGkga2EgYW1yaXQgbWFob3RzYXYgd2Vic2l0ZSxhemFkaSBrYSBhbXJ1dCBtYWhvdHNhdiB3ZWJzaXRlJy8+ZAIFDxYCHwAFtAE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0nQXphZGkga2EgQW1yaXQgTWFob3RzYXYgaXMgYSA3NS13ZWVrIGdyYW5kIGNlbGVicmF0aW9uIGxhdW5jaGVkIGJ5IGhvbm9yYWJsZSBwcmltZSBtaW5pc3RlciBTaHJpIE5hcmVuZHJhIE1vZGkgdG8gbWFyayA3NSB5ZWFycyBvZiBJbmRlcGVuZGVuY2UnLz5kAgcPFgIeB1Zpc2libGVoZAIJDxYCHwAFPjxsaW5rICByZWw9ImNhbm9uaWNhbCIgaHJlZj0iaHR0cHM6Ly9hbXJpdG1haG90c2F2Lm5pYy5pbi8iIC8+ZAILDxYCHwAFZzxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iQXphZGkgS2EgQW1yaXQgTWFob3RzYXYsIE1pbmlzdHJ5IG9mIEN1bHR1cmUsIEdvdmVybm1lbnQgb2YgSW5kaWEiLz5kAg0PFgIfAAVrPG1ldGEgcHJvcGVydHk9Im9nOnNpdGVfbmFtZSIgY29udGVudD0iQXphZGkgS2EgQW1yaXQgTWFob3RzYXYsIE1pbmlzdHJ5IG9mIEN1bHR1cmUsIEdvdmVybm1lbnQgb2YgSW5kaWEiLz5kAg8PFgIfAAUlPG1ldGEgcHJvcGVydHk9Im9nOnVybCIgY29udGVudD0iLyIvPmQCEQ8WAh8ABW08bWV0YSBwcm9wZXJ0eT0ib2c6ZGVzY3JpcHRpb24iIGNvbnRlbnQ9IkF6YWRpIEthIEFtcml0IE1haG90c2F2LCBNaW5pc3RyeSBvZiBDdWx0dXJlLCBHb3Zlcm5tZW50IG9mIEluZGlhIi8+ZAITDxYCHwAFLDxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJhcnRpY2xlIi8+ZAIVDxYCHwAFaTxtZXRhIHByb3BlcnR5PSJvZzppbWFnZSIgY29udGVudD0iaHR0cHM6Ly9hbXJpdG1haG90c2F2Lm5pYy5pbi8vd3JpdGVyZWFkZGF0YS9pbWFnZXMvZXZlbnQtbm8taW1nLmpwZyIvPmQCFw8WAh8ABTE8bWV0YSBwcm9wZXJ0eT0idHdpdHRlcjpjYXJkIiBjb250ZW50PSJzdW1tYXJ5Ii8+ZAIZDxYCHwAFbDxtZXRhIHByb3BlcnR5PSJ0d2l0dGVyOnRpdGxlIiBjb250ZW50PSJBemFkaSBLYSBBbXJpdCBNYWhvdHNhdiwgTWluaXN0cnkgb2YgQ3VsdHVyZSwgR292ZXJubWVudCBvZiBJbmRpYSIvPmQCGw8WAh8ABWs8bWV0YSBwcm9wZXJ0eT0idHdpdHRlcjpzaXRlIiBjb250ZW50PSJBemFkaSBLYSBBbXJpdCBNYWhvdHNhdiwgTWluaXN0cnkgb2YgQ3VsdHVyZSwgR292ZXJubWVudCBvZiBJbmRpYSIvPmQCHQ8WAh8ABXI8bWV0YSBwcm9wZXJ0eT0idHdpdHRlcjpkZXNjcmlwdGlvbiIgY29udGVudD0iQXphZGkgS2EgQW1yaXQgTWFob3RzYXYsIE1pbmlzdHJ5IG9mIEN1bHR1cmUsIEdvdmVybm1lbnQgb2YgSW5kaWEiLz5kAh8PFgIfAAVtPG1ldGEgcHJvcGVydHk9InR3aXR0ZXI6aW1hZ2UiIGNvbnRlbnQ9Imh0dHBzOi8vYW1yaXRtYWhvdHNhdi5uaWMuaW4vd3JpdGVyZWFkZGF0YS9pbWFnZXMvZXZlbnQtbm8taW1nLmpwZyIvPmQCAw9kFgICARBkZBYCAhEPZBYCAgEPZBYCAgEPZBYMZg9kFgJmD2QWAmYPZBYEAgEPZBYCAgUPEA8WBh4NRGF0YVRleHRGaWVsZAUMTGFuZ3VhZ2VOYW1lHg5EYXRhVmFsdWVGaWVsZAUKTGFuZ3VhZ2VJZB4LXyFEYXRhQm91bmRnZBAVCgdFbmdsaXNoFeCql+CrgeCqnOCqsOCqvuCqpOCrgA/gpLngpL/gpILgpKbgpYAGVGVsZWd1B01hcmF0aGkHQmVuZ2FsaQVUYW1pbAlNYWxheWFsYW0HS2FubmFkYQdQdW5qYWJpFQoBMQEyATQBNQE2ATcBOAE5AjEwAjExFCsDCmdnZ2dnZ2dnZ2cWAWZkAgUPZBYCAgEPFgIeCWlubmVyaHRtbAX5Izx1bCBpZD0ibmF2YmFyLW5hdiI+PGxpIGNsYXNzPSdNZW51TGkgTWVudUxpRmlyc3QgTWVudUxpMSc+PGEgY2xhc3M9J21lbnVGaXJzdE5vZGUnIGhyZWY9Jy9hYm91dC5odG0nIHRhcmdldD0nX3NlbGYnID5BYm91dDwvYT48L2xpPjxsaSBjbGFzcz0nTWVudUxpIE1lbnVMaTInPjxhIGNsYXNzPSdtZW51Rmlyc3ROb2RlJyAgaHJlZj0nL3RoZW1lcy5odG0nIHRhcmdldD0nX3NlbGYnID5UaGVtZXM8L2E+PC9saT48bGkgY2xhc3M9J01lbnVMaSBNZW51TGkzJz48YSBjbGFzcz0nbWVudUZpcnN0Tm9kZScgIGhyZWY9Jy90aGVtZXMtMi0wLmh0bScgdGFyZ2V0PSdfc2VsZicgPlRoZW1lcyAyLjA8L2E+PC9saT48bGkgY2xhc3M9J01lbnVMaSBNZW51TGk0Jz48YSBjbGFzcz0nbWVudUZpcnN0Tm9kZScgIGhyZWY9J2phdmFzY3JpcHQ6dm9pZCgwKScgdGFyZ2V0PSdfcGFyZW50JyA+RXZlbnRzPC9hPjx1bCBjbGFzcz0nbWVudVN1YlVsJz48bGkgY2xhc3M9J2ZpcnN0TWVudUxpJz48YSBjbGFzcz0nZmlyc3RNZW51TGlBJyBocmVmPSdjYW1wYWlnbi1ldmVudHMuaHRtPzU1JyB0YXJnZXQ9J19zZWxmJyA+RGhhcmE8L2E+PC9saT48bGkgPjxhIGhyZWY9Jy9ldmVudHMtYWN0aXZpdGllcy5odG0nIHRhcmdldD0nX3NlbGYnID5FdmVudHM8L2E+PC9saT48bGkgY2xhc3M9J2xhc3RNZW51TGknPjxhIGNsYXNzPSdsYXN0TWVudUxpQScgaHJlZj0nYXphZGktc2NpZW50aXN0cy5odG0/MTA1NTEnIHRhcmdldD0nX3NlbGYnID5BemFkaSBTY2llbnRpc3RzPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0nTWVudUxpIE1lbnVMaTUnPjxhIGNsYXNzPSdtZW51Rmlyc3ROb2RlJyAgaHJlZj0nL2NhbXBhaWduLmh0bScgdGFyZ2V0PSdfc2VsZicgPkNhbXBhaWduczwvYT48L2xpPjxsaSBjbGFzcz0nTWVudUxpIE1lbnVMaTYnPjxhIGNsYXNzPSdtZW51Rmlyc3ROb2RlJyAgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJyB0YXJnZXQ9J19wYXJlbnQnID5TdG9yaWVzIG9mIENoYW5nZTwvYT48dWwgY2xhc3M9J21lbnVTdWJVbCc+PGxpIGNsYXNzPSdmaXJzdE1lbnVMaSc+PGEgY2xhc3M9J2ZpcnN0TWVudUxpQScgaHJlZj0nc3Rvcmllcy1vZi1jaGFuZ2UuaHRtJyB0YXJnZXQ9J19zZWxmJyA+U3RvcmllcyBvZiBDaGFuZ2U8L2E+PC9saT48bGkgY2xhc3M9J2xhc3RNZW51TGknPjxhIGNsYXNzPSdsYXN0TWVudUxpQScgaHJlZj0nL21hbm4ta2ktYmFhdC5odG0nIHRhcmdldD0nX3NlbGYnID5NYW5uIEtpIEJhYXQ8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSdNZW51TGkgTWVudUxpNyc+PGEgY2xhc3M9J21lbnVGaXJzdE5vZGUnICBocmVmPScvY29tcGV0aXRpb25zLmh0bScgdGFyZ2V0PSdfc2VsZicgPkNvbXBldGl0aW9uczwvYT48L2xpPjxsaSBjbGFzcz0nTWVudUxpIE1lbnVMaTgnPjxhIGNsYXNzPSdtZW51Rmlyc3ROb2RlJyAgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJyB0YXJnZXQ9J19wYXJlbnQnID5IaXN0b3J5IENvcm5lcjwvYT48dWwgY2xhc3M9J21lbnVTdWJVbCc+PGxpIGNsYXNzPSdmaXJzdE1lbnVMaSc+PGEgY2xhc3M9J2ZpcnN0TWVudUxpQScgaHJlZj0nL2RpZ2l0YWwtZGlzdHJpY3QtcmVwb3NpdG9yeS5odG0nIHRhcmdldD0nX3NlbGYnID5EaWdpdGFsIERpc3RyaWN0IFJlcG9zaXRvcnk8L2E+PHVsIGNsYXNzPSdtZW51U3ViVWwnPjxsaSBjbGFzcz0nbGFzdE1lbnVMaSc+PGEgY2xhc3M9J2xhc3RNZW51TGlBJyBocmVmPSdodHRwczovL2Ftcml0bWFob3RzYXYubmljLmluL2RpZ2l0YWwtZGlzdHJpY3QtcmVwb3NpdG9yeS5odG0nIHRhcmdldD0nX2JsYW5rJyA+RGlzdHJpY3R3aXNlIG5hcnJhdGl2ZXMgb2Ygb3VyIHNwbGVuZGlkIGhlcml0YWdlPC9hPjwvbGk+PC91bD48L2xpPjxsaSA+PGEgaHJlZj0nL3Vuc3VuZy1oZXJvZXMuaHRtJyB0YXJnZXQ9J19zZWxmJyA+VW5zdW5nIEhlcm9lcyBvZiBJbmRpYeKAmXMgZnJlZWRvbSBzdHJ1Z2dsZTwvYT48dWwgY2xhc3M9J21lbnVTdWJVbCc+PGxpIGNsYXNzPSdsYXN0TWVudUxpJz48YSBjbGFzcz0nbGFzdE1lbnVMaUEnIGhyZWY9J2h0dHBzOi8vYW1yaXRtYWhvdHNhdi5uaWMuaW4vdW5zdW5nLWhlcm9lcy5odG0nIHRhcmdldD0nX2JsYW5rJyA+UGF5aW5nIHRyaWJ1dGUgdG8gSW5kaWHigJlzIGZyZWVkb20gZmlnaHRlcnM8L2E+PC9saT48L3VsPjwvbGk+PGxpID48YSBocmVmPSdodHRwczovL2FrYW0ubmljLmluLycgdGFyZ2V0PSdfYmxhbmsnID5QdWJsaWMgQ29udHJpYnV0aW9uIFBvcnRhbDwvYT48L2xpPjxsaSA+PGEgaHJlZj0nL3N3YXRhbnRyYS1zd2FyLmh0bScgdGFyZ2V0PSdfc2VsZicgPlN3YXRhbnRyYSBTd2FyPC9hPjx1bCBjbGFzcz0nbWVudVN1YlVsJz48bGkgY2xhc3M9J2xhc3RNZW51TGknPjxhIGNsYXNzPSdsYXN0TWVudUxpQScgaHJlZj0naHR0cHM6Ly9hbXJpdG1haG90c2F2Lm5pYy5pbi9zd2F0YW50cmEtc3dhci5odG0nIHRhcmdldD0nX2JsYW5rJyA+UmV2b2x1dGlvbmFyeSBwb2V0cnkgYmFubmVkIGR1cmluZyB0aGUgQnJpdGlzaCBSYWo8L2E+PC9saT48L3VsPjwvbGk+PGxpID48YSBocmVmPSdqYXZhc2NyaXB0OnZvaWQoMCknIHRhcmdldD0nX3BhcmVudCcgPlBvZGNhc3Qgb24gRnJlZWRvbSBNb3ZlbWVudDwvYT48dWwgY2xhc3M9J21lbnVTdWJVbCc+PGxpIGNsYXNzPSdmaXJzdE1lbnVMaSc+PGEgY2xhc3M9J2ZpcnN0TWVudUxpQScgaHJlZj0nL3phcmEteWFhZC1rYXJvLXF1cmJhbmkuaHRtJyB0YXJnZXQ9J19zZWxmJyA+WmFyYSBZYWFkIEthcm8gUXVyYmFuaTwvYT48L2xpPjxsaSBjbGFzcz0nbGFzdE1lbnVMaSc+PGEgY2xhc3M9J2xhc3RNZW51TGlBJyBocmVmPScvYmhhcmF0LWtpLWthaGFuaS1tbC1raS16dWJhYW5pLmh0bScgdGFyZ2V0PSdfc2VsZicgPkJoYXJhdCBLaSBLYWhhbmksIE1lZW5ha2FzaGkgTGVraGkgS2kgWnViYWFuaTwvYT48L2xpPjwvdWw+PC9saT48bGkgPjxhIGhyZWY9Jy9tZWxvZGllcy1vZi1mcmVlZG9tLWxpc3QuaHRtJyB0YXJnZXQ9J19zZWxmJyA+UmFqeWFnZWV0PC9hPjx1bCBjbGFzcz0nbWVudVN1YlVsJz48bGkgY2xhc3M9J2xhc3RNZW51TGknPjxhIGNsYXNzPSdsYXN0TWVudUxpQScgaHJlZj0naHR0cHM6Ly9hbXJpdG1haG90c2F2Lm5pYy5pbi9tZWxvZGllcy1vZi1mcmVlZG9tLWxpc3QuaHRtJyB0YXJnZXQ9J19ibGFuaycgPk1lbG9kaWMgaWRlbnRpdHkgb2Ygb3VyIFN0YXRlczwvYT48L2xpPjwvdWw+PC9saT48bGkgPjxhIGhyZWY9J2h0dHBzOi8vaW5kaWFuY3VsdHVyZS5nb3YuaW4vZnJlZWRvbS1hcmNoaXZlJyB0YXJnZXQ9J19ibGFuaycgPkZyZWVkb20gQ29ybmVyPC9hPjx1bCBjbGFzcz0nbWVudVN1YlVsJz48bGkgY2xhc3M9J2xhc3RNZW51TGknPjxhIGNsYXNzPSdsYXN0TWVudUxpQScgaHJlZj0naHR0cHM6Ly9pbmRpYW5jdWx0dXJlLmdvdi5pbi9mcmVlZG9tLWFyY2hpdmUnIHRhcmdldD0nX2JsYW5rJyA+U3RvcmllcyBvZiBJbmRpYeKAmXMgRnJlZWRvbSBTdHJ1Z2dsZTwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J2xhc3RNZW51TGknPjxhIGNsYXNzPSdsYXN0TWVudUxpQScgaHJlZj0namF2YXNjcmlwdDp2b2lkKDApJyB0YXJnZXQ9J19wYXJlbnQnID5FeGhpYml0aW9uczwvYT48dWwgY2xhc3M9J21lbnVTdWJVbCc+PGxpIGNsYXNzPSdmaXJzdE1lbnVMaSc+PGEgY2xhc3M9J2ZpcnN0TWVudUxpQScgaHJlZj0nL3BhcnRpdGlvbi1ob3Jyb3ItcmVtZW1icmFuY2UtZGF5Lmh0bScgdGFyZ2V0PSdfc2VsZicgPlBhcnRpdGlvbiBIb3Jyb3JzIFJlbWVtYnJhbmNlIERheTwvYT48L2xpPjxsaSA+PGEgaHJlZj0nL3VuaXR5LWZlc3RpdmFsLmh0bScgdGFyZ2V0PSdfc2VsZicgPlVuaXR5IEZlc3RpdmFsPC9hPjwvbGk+PGxpIGNsYXNzPSdsYXN0TWVudUxpJz48YSBjbGFzcz0nbGFzdE1lbnVMaUEnIGhyZWY9Jy92ZWVyLWJhYWwtZGl3YXMuaHRtJyB0YXJnZXQ9J19zZWxmJyA+VmVlciBCYWFsIERpd2FzPC9hPjwvbGk+PC91bD48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9J01lbnVMaSBNZW51TGk5Jz48YSBjbGFzcz0nbWVudUZpcnN0Tm9kZScgIGhyZWY9Jy9ibG9nLmh0bScgdGFyZ2V0PSdfc2VsZicgPkJsb2c8L2E+PC9saT48bGkgY2xhc3M9J01lbnVMaSBNZW51TGkxMCc+PGEgY2xhc3M9J21lbnVGaXJzdE5vZGUnICBocmVmPScvZ2FsbGVyeS5odG0nIHRhcmdldD0nX3NlbGYnID5NZWRpYSBDb3ZlcmFnZTwvYT48dWwgY2xhc3M9J21lbnVTdWJVbCc+PGxpIGNsYXNzPSdmaXJzdE1lbnVMaSc+PGEgY2xhc3M9J2ZpcnN0TWVudUxpQScgaHJlZj0nL3Bob3RvLWdhbGxlcnkuaHRtJyB0YXJnZXQ9J19zZWxmJyA+UGhvdG8gR2FsbGVyeTwvYT48L2xpPjxsaSBjbGFzcz0nbGFzdE1lbnVMaSc+PGEgY2xhc3M9J2xhc3RNZW51TGlBJyBocmVmPScvdmlkZW8tZ2FsbGVyeS5odG0nIHRhcmdldD0nX3NlbGYnID5WaWRlbyBHYWxsZXJ5PC9hPjwvbGk+PC91bD48L2xpPjxsaSBzdHlsZT0iYmFja2dyb3VuZDpub25lIiBjbGFzcz0nTWVudUxpIE1lbnVMaUxhc3QgTWVudUxpMTEnPjxhIGNsYXNzPSdtZW51Rmlyc3ROb2RlJyBocmVmPScvZG93bmxvYWRzLmh0bScgdGFyZ2V0PSdfc2VsZicgPkRvd25sb2FkczwvYT48L2xpPjwvdWw+ZAICD2QWBAIBDxYCHgtfIUl0ZW1Db3VudAICFgRmD2QWBgIBDxYCHgVzdHlsZQVvIGJhY2tncm91bmQtaW1hZ2U6IHVybCgnL3dyaXRlcmVhZGRhdGEvUG9ydGFsL1RlbXBsYXRlX1NjcmlwdEJhbm5lci8xXzFfMV9lay1kZXNoLWVrLWRoYWRrYW4taG9tZS1iYW5uZXIuanBnJyk7FgJmDxUBOC93cml0ZXJlYWRkYXRhL1BvcnRhbC9pbWFnZXMvaG9tZS1iYW5uZXItaW1nLWRlZmF1bHQuanBnZAICDxUDVC93cml0ZXJlYWRkYXRhL1BvcnRhbC9UZW1wbGF0ZV9TY3JpcHRCYW5uZXIvMV8xXzFfZWstZGVzaC1lay1kaGFka2FuLWhvbWUtYmFubmVyLmpwZxJFayBEZXNoIEVrIERoYWRrYW4AZAIDDw8WBB4GVGFyZ2V0BQVfc2VsZh4LTmF2aWdhdGVVcmwFAS9kZAIBD2QWBgIBDxYCHwcFaSBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoJy93cml0ZXJlYWRkYXRhL1BvcnRhbC9UZW1wbGF0ZV9TY3JpcHRCYW5uZXIvNzlfMV8xX1NhbXZpZGhhbi1EaXZhcy1CYW5uZXIud2VicCcpOxYCZg8VATgvd3JpdGVyZWFkZGF0YS9Qb3J0YWwvaW1hZ2VzL2hvbWUtYmFubmVyLWltZy1kZWZhdWx0LmpwZ2QCAg8VA04vd3JpdGVyZWFkZGF0YS9Qb3J0YWwvVGVtcGxhdGVfU2NyaXB0QmFubmVyLzc5XzFfMV9TYW12aWRoYW4tRGl2YXMtQmFubmVyLndlYnAPU2FtdmlkaGFuIERpdmFzAGQCAw8PFgQfCAUFX3NlbGYfCQUBL2RkAgMPFgIfBgICZAIED2QWBgICDw8WAh8ABRo8c3Ryb25nPjExMjA3MjcwMTwvc3Ryb25nPmRkAgYPDxYCHwAFBjUxNjg4NWRkAgoPDxYCHwAFBjE4ODk5NGRkAggPZBYCAgQPFgIfBgIGFgxmD2QWAgIHDw8WBB8JBUBodHRwOi8vYW1yaXRtYWhvdHNhdi5uaWMuaW4vc3BvdGxpZ2h0LW9mLXRoZS13ZWVrLWRldGFpbC5odG0/MjYzHwgFBV9zZWxmZBYKAgEPD2QWCB4IZGF0YS1zcmMFdy4vd3JpdGVyZWFkZGF0YS9Qb3J0YWwvV2hhdHNOZXdJbWFnZXMvMjYzXzFfMV9QcmltZV9NaW5pc3Rlcl9hZGRyZXNzZXNf4oCYVmlrc2l0X0JoYXJhdF9WaWtzaXRfUmFqYXN0aGFu4oCZX3Byb2dyYW0uanBnHgV3aWR0aAUDMzI3HgZoZWlnaHQFAzE4NR4DYWx0BUVQcmltZSBNaW5pc3RlciBhZGRyZXNzZXMg4oCYVmlrc2l0IEJoYXJhdCBWaWtzaXQgUmFqYXN0aGFu4oCZIHByb2dyYW1kAgMPDxYCHwAFESAyMCBGZWJydWFyeSAyMDI0ZGQCBA8WAh8ABQMgMjBkAgYPDxYCHwAFBkZlYicyNGRkAgcPFQMHQXJ0aWNsZUVQcmltZSBNaW5pc3RlciBhZGRyZXNzZXMg4oCYVmlrc2l0IEJoYXJhdCBWaWtzaXQgUmFqYXN0aGFu4oCZIHByb2dyYW0KQWN0aW9uc0A3NWQCAQ9kFgICBw8PFgQfCQVAaHR0cDovL2Ftcml0bWFob3RzYXYubmljLmluL3Nwb3RsaWdodC1vZi10aGUtd2Vlay1kZXRhaWwuaHRtPzI2Mh8IBQVfc2VsZmQWCgIBDw9kFggfCgVjLi93cml0ZXJlYWRkYXRhL1BvcnRhbC9XaGF0c05ld0ltYWdlcy8yNjJfMV8xX1ByaW1lX01pbmlzdGVyX2luYXVndXJhdGVzX0luZGlhX0VuZXJneV9XZWVrXzIwMjQuanBnHwsFAzMyNx8MBQMxODUfDQUxUHJpbWUgTWluaXN0ZXIgaW5hdWd1cmF0ZXMgSW5kaWEgRW5lcmd5IFdlZWsgMjAyNGQCAw8PFgIfAAURIDEyIEZlYnJ1YXJ5IDIwMjRkZAIEDxYCHwAFAyAxMmQCBg8PFgIfAAUGRmViJzI0ZGQCBw8VAwdBcnRpY2xlMVByaW1lIE1pbmlzdGVyIGluYXVndXJhdGVzIEluZGlhIEVuZXJneSBXZWVrIDIwMjQKQWN0aW9uc0A3NWQCAg9kFgICBw8PFgQfCQVAaHR0cDovL2Ftcml0bWFob3RzYXYubmljLmluL3Nwb3RsaWdodC1vZi10aGUtd2Vlay1kZXRhaWwuaHRtPzI2MR8IBQVfc2VsZmQWCgIBDw9kFggfCgVrLi93cml0ZXJlYWRkYXRhL1BvcnRhbC9XaGF0c05ld0ltYWdlcy8yNjFfMV8xX1ByaW1lX01pbmlzdGVyX2FkZHJlc3Nlc19CaGFyYXRfTW9iaWxpdHlfR2xvYmFsX0V4cG9fMjAyNC5qcGcfCwUDMzI3HwwFAzE4NR8NBTlQcmltZSBNaW5pc3RlciBhZGRyZXNzZXMgQmhhcmF0IE1vYmlsaXR5IEdsb2JhbCBFeHBvIDIwMjRkAgMPDxYCHwAFESAwNSBGZWJydWFyeSAyMDI0ZGQCBA8WAh8ABQMgMDVkAgYPDxYCHwAFBkZlYicyNGRkAgcPFQMHQXJ0aWNsZTlQcmltZSBNaW5pc3RlciBhZGRyZXNzZXMgQmhhcmF0IE1vYmlsaXR5IEdsb2JhbCBFeHBvIDIwMjQKQWN0aW9uc0A3NWQCAw9kFgICBw8PFgQfCQVAaHR0cDovL2Ftcml0bWFob3RzYXYubmljLmluL3Nwb3RsaWdodC1vZi10aGUtd2Vlay1kZXRhaWwuaHRtPzI2MB8IBQVfc2VsZmQWCgIBDw9kFggfCgV9Li93cml0ZXJlYWRkYXRhL1BvcnRhbC9XaGF0c05ld0ltYWdlcy8yNjBfMV8xX01pbmlzdHJ5X29mX0N1bHR1cmVfdGFibGVhdV9jbGluY2hlc19maXJzdF9zcG90X2F0X1JlcHVibGljX0RheV9QYXJhZGVfMjAyNC5qcGcfCwUDMzI3HwwFAzE4NR8NBUtNaW5pc3RyeSBvZiBDdWx0dXJlIHRhYmxlYXUgY2xpbmNoZXMgZmlyc3Qgc3BvdCBhdCBSZXB1YmxpYyBEYXkgUGFyYWRlIDIwMjRkAgMPDxYCHwAFESAwMSBGZWJydWFyeSAyMDI0ZGQCBA8WAh8ABQMgMDFkAgYPDxYCHwAFBkZlYicyNGRkAgcPFQMHQXJ0aWNsZUNNaW5pc3RyeSBvZiBDdWx0dXJlIHRhYmxlYXUgY2xpbmNoZXMgZmlyc3Qgc3BvdCBhdCBSZXB1YmxpYyBEYXkgLi4uD0FjaGlldmVtZW50c0A3NWQCBA9kFgICBw8PFgQfCQVAaHR0cDovL2Ftcml0bWFob3RzYXYubmljLmluL3Nwb3RsaWdodC1vZi10aGUtd2Vlay1kZXRhaWwuaHRtPzI1OR8IBQVfc2VsZmQWCgIBDw9kFggfCgVWLi93cml0ZXJlYWRkYXRhL1BvcnRhbC9XaGF0c05ld0ltYWdlcy8yNTlfMV8xXzc1dGhfUmVwdWJsaWNfRGF5X2F0X0thcnRhdnlhX1BhdGhfMS5qcGcfCwUDMzI3HwwFAzE4NR8NBVBXb21lbiBwb3dlciBzaG93Y2FzZWQgb24gSW5kaWHigJlzIDc1dGggUmVwdWJsaWMgRGF5IGF0IEthcnRhdnlhIFBhdGgsIE5ldyBEZWxoaWQCAw8PFgIfAAUQIDI2IEphbnVhcnkgMjAyNGRkAgQPFgIfAAUDIDI2ZAIGDw8WAh8ABQZKYW4nMjRkZAIHDxUDB0FydGljbGVFV29tZW4gcG93ZXIgc2hvd2Nhc2VkIG9uIEluZGlh4oCZcyA3NXRoIFJlcHVibGljIERheSBhdCBLYXJ0YXZ5YSBQLi4uCkFjdGlvbnNANzVkAgUPZBYCAgcPDxYEHwkFQGh0dHA6Ly9hbXJpdG1haG90c2F2Lm5pYy5pbi9zcG90bGlnaHQtb2YtdGhlLXdlZWstZGV0YWlsLmh0bT8yNTgfCAUFX3NlbGZkFgoCAQ8PZBYIHwoFRC4vd3JpdGVyZWFkZGF0YS9Qb3J0YWwvV2hhdHNOZXdJbWFnZXMvMjU4XzFfMV9yYW1tYW5kaXJ0aHVtYm5haWwuanBnHwsFAzMyNx8MBQMxODUfDQVwUHJpbWUgTWluaXN0ZXIgTmFyZW5kcmEgTW9kaSBwYXJ0aWNpcGF0ZWQgaW4gUHJhbiBQcmF0aXNodGhhIGNlcmVtb255IG9mIFNocmkgUmFtbGFsbGEgaW4gQXlvZGh5YSwgVXR0YXIgUHJhZGVzaGQCAw8PFgIfAAUQIDIzIEphbnVhcnkgMjAyNGRkAgQPFgIfAAUDIDIzZAIGDw8WAh8ABQZKYW4nMjRkZAIHDxUDB0FydGljbGVDUHJpbWUgTWluaXN0ZXIgTmFyZW5kcmEgTW9kaSBwYXJ0aWNpcGF0ZWQgaW4gUHJhbiBQcmF0aXNodGhhIGNlci4uLg9BY2hpZXZlbWVudHNANzVkAgoPZBYKAhAPZBYCZg9kFgYCBQ8WAh4EaHJlZgUefi9ldmVudGxpc3R0aGVtZXdpc2VkYXRhLmh0bT85ZAIHDxYCHwYCBhYMZg9kFg5mDxUCBjI3MDU2OUZEZSBKdXJlIFRyYW5zZmVyIERheSBoZWxkIG9uIDE2LTA4LTIwMjQgYXQgS2l6aHVyIE1vbnVtZW50LCBQdWR1Y2hlcnJ5ZAIBDw9kFggfCgVfLi93cml0ZXJlYWRkYXRhL1BvcnRhbC9FdmVudC9JbmRpYUF0NzVFdmVudEltYWdlLzI5ZTkwYzg4LTMxNDYtNGNjOC1hYWU4LWNkMTY3M2FjOGM2NV8xMjIyMi5qcGcfCwUDMzI3HwwFAzE4NR8NBUZEZSBKdXJlIFRyYW5zZmVyIERheSBoZWxkIG9uIDE2LTA4LTIwMjQgYXQgS2l6aHVyIE1vbnVtZW50LCBQdWR1Y2hlcnJ5ZAIDDw8WAh8AZWRkAgUPFgIfAAUDIDE2ZAIHDw8WAh8ABQZBdWcnMjRkZAIJDw8WAh8AZWRkAgoPFQErRGUgSnVyZSBUcmFuc2ZlciBEYXkgaGVsZCBvbiAxNi0wOC0yMDI0IC4uLmQCAQ9kFg5mDxUCBjI3MDU2MVdIYXIgR2hhciBUaXJhbmdhIC0gQm9hdCByYWxseSBmbGFnZ2VkIG9mZiBieSBIb27igJlibGUgTGlldXRuYW50IEdvdmVybm9yIG9uIDE0LTA4LTIwMjRkAgEPD2QWCB8KBWMuL3dyaXRlcmVhZGRhdGEvUG9ydGFsL0V2ZW50L0luZGlhQXQ3NUV2ZW50SW1hZ2UvOTgwNWIwYTAtOWJjNS00YTEwLWJhMGMtODgyMTY1YTljMWVkX3BpY2NjcmUxMS5qcGcfCwUDMzI3HwwFAzE4NR8NBVdIYXIgR2hhciBUaXJhbmdhIC0gQm9hdCByYWxseSBmbGFnZ2VkIG9mZiBieSBIb27igJlibGUgTGlldXRuYW50IEdvdmVybm9yIG9uIDE0LTA4LTIwMjRkAgMPDxYCHwBlZGQCBQ8WAh8ABQMgMTRkAgcPDxYCHwAFBkF1ZycyNGRkAgkPDxYCHwBlZGQCCg8VAStIYXIgR2hhciBUaXJhbmdhIC0gQm9hdCByYWxseSBmbGFnZ2VkIG9mLi4uZAICD2QWDmYPFQIGMjcwNTYyY0Rpc3RyaWJ1dGlvbiBvZiBmbGFncyB0byBHb3Z0IFNjaG9vbHMgYnkgSG9u4oCZYmxlIE1pbmlzdGVyIGZvciBFZHVjYXRpb24sIEdvdmVybm1lbnQgb2YgUHVkdWNoZXJyeWQCAQ8PZBYIHwoFYS4vd3JpdGVyZWFkZGF0YS9Qb3J0YWwvRXZlbnQvSW5kaWFBdDc1RXZlbnRJbWFnZS8yM2VhOWExYi04OTdkLTQ1OGEtOGMzMi1hNTI1NGIwMTRmZTNfcGljbWFpbi5qcGcfCwUDMzI3HwwFAzE4NR8NBWNEaXN0cmlidXRpb24gb2YgZmxhZ3MgdG8gR292dCBTY2hvb2xzIGJ5IEhvbuKAmWJsZSBNaW5pc3RlciBmb3IgRWR1Y2F0aW9uLCBHb3Zlcm5tZW50IG9mIFB1ZHVjaGVycnlkAgMPDxYCHwBlZGQCBQ8WAh8ABQMgMTRkAgcPDxYCHwAFBkF1ZycyNGRkAgkPDxYCHwBlZGQCCg8VAStEaXN0cmlidXRpb24gb2YgZmxhZ3MgdG8gR292dCBTY2hvb2xzIGJ5Li4uZAIDD2QWDmYPFQIGMjcwNTYzYUhhciBHaGFyIFRpcmFuZ2EgLSBzdHVkZW50cyByYWxseSBjb25kdWN0ZWQgYnkgU2Nob29sIEVkdWNhdGlvbiBhbmQgRGVwYXJ0bWVudCBvZiBBcnQgYW5kIEN1bHR1cmVkAgEPD2QWCB8KBV8uL3dyaXRlcmVhZGRhdGEvUG9ydGFsL0V2ZW50L0luZGlhQXQ3NUV2ZW50SW1hZ2UvOTlkZmE1NmMtMmM5NS00OGNlLWE5MDktNzYyYjQ4N2YzMzM4X3BpY2MxLmpwZx8LBQMzMjcfDAUDMTg1Hw0FYUhhciBHaGFyIFRpcmFuZ2EgLSBzdHVkZW50cyByYWxseSBjb25kdWN0ZWQgYnkgU2Nob29sIEVkdWNhdGlvbiBhbmQgRGVwYXJ0bWVudCBvZiBBcnQgYW5kIEN1bHR1cmVkAgMPDxYCHwBlZGQCBQ8WAh8ABQMgMTRkAgcPDxYCHwAFBkF1ZycyNGRkAgkPDxYCHwBlZGQCCg8VAStIYXIgR2hhciBUaXJhbmdhIC0gc3R1ZGVudHMgcmFsbHkgY29uZHVjLi4uZAIED2QWDmYPFQIGMjcwNTY0PEhhciBHaGFyIFRpcmFuZ2EgLSBzdHVkZW50cyByYWxseSBoZWxkIGF0IFB1ZHVjaGVycnkgQWlycG9ydGQCAQ8PZBYIHwoFYC4vd3JpdGVyZWFkZGF0YS9Qb3J0YWwvRXZlbnQvSW5kaWFBdDc1RXZlbnRJbWFnZS8xNjkzZWUwOC05ZGVjLTRhM2ItOTM5ZS1lNDQ5NDkxYzNkNDNfcGljY2MxLmpwZx8LBQMzMjcfDAUDMTg1Hw0FPEhhciBHaGFyIFRpcmFuZ2EgLSBzdHVkZW50cyByYWxseSBoZWxkIGF0IFB1ZHVjaGVycnkgQWlycG9ydGQCAw8PFgIfAGVkZAIFDxYCHwAFAyAxNGQCBw8PFgIfAAUGQXVnJzI0ZGQCCQ8PFgIfAGVkZAIKDxUBK0hhciBHaGFyIFRpcmFuZ2EgLSBzdHVkZW50cyByYWxseSBoZWxkIGEuLi5kAgUPZBYOZg8VAgYyNzA1NjdUSGFyIEdoYXIgVGlyYW5nYSByYWxseSBwcm9ncmFtIGhlbGQgYXQgS2FyYWlrYWwgQ29sbGVjdG9yYXRlLCBLYXJhaWthbCBvbiAxMy0wOC0yMDI0ZAIBDw9kFggfCgVjLi93cml0ZXJlYWRkYXRhL1BvcnRhbC9FdmVudC9JbmRpYUF0NzVFdmVudEltYWdlLzZiYWY3YzdjLWI5MTgtNGI2ZC05OThkLTk4MWYzYmQxZmEwNF9waWNjY21haW4uanBnHwsFAzMyNx8MBQMxODUfDQVUSGFyIEdoYXIgVGlyYW5nYSByYWxseSBwcm9ncmFtIGhlbGQgYXQgS2FyYWlrYWwgQ29sbGVjdG9yYXRlLCBLYXJhaWthbCBvbiAxMy0wOC0yMDI0ZAIDDw8WAh8AZWRkAgUPFgIfAAUDIDEzZAIHDw8WAh8ABQZBdWcnMjRkZAIJDw8WAh8AZWRkAgoPFQErSGFyIEdoYXIgVGlyYW5nYSByYWxseSBwcm9ncmFtIGhlbGQgYXQgSy4uLmQCCQ8WAh8BaBYCAgEPFgIfAWhkAhEPZBYCZg9kFgICBQ8WAh8OBR5+L2V2ZW50bGlzdHRoZW1ld2lzZWRhdGEuaHRtPzhkAhIPZBYCZg9kFgICBQ8WAh8OBR5+L2V2ZW50bGlzdHRoZW1ld2lzZWRhdGEuaHRtPzZkAhMPZBYCZg9kFgICBQ8WAh8OBR5+L2V2ZW50bGlzdHRoZW1ld2lzZWRhdGEuaHRtPzVkAhQPZBYCZg9kFgICBQ8WAh8OBR5+L2V2ZW50bGlzdHRoZW1ld2lzZWRhdGEuaHRtPzdkAg4PZBYCZg9kFgJmD2QWBAIBD2QWAmYPDxYCHwAFM1dlYnNpdGUgbGFzdCB1cGRhdGVkIG9uOiA8c3Ryb25nPjE0LTUtMjAyNTwvc3Ryb25nPmRkAgMPZBYCZg8PFgIfAAUkVmlzaXRvcnM6IDxzdHJvbmc+MTEyMDcyNzA0PC9zdHJvbmc+ZGRk4vBIispLIFTpEvfid6hVZd7vpEde6GEV3dJGYJW0irE=" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=oJl5tyj3whKDM6AxQyYwceEfsjd83_Kr5H-7EQk0f93FZLoxFYBsx6ByEl1qD0V8Z_sTlr5TlkKDpQaLo0pKo2LmwQ7McY3VeUY-U_HGpps1&amp;t=638246535643328042" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=BlFrqzOG86-8ceyzsSzrvjl_qNT1xkyRESNf9q3nHe63NBwxOeE2M-jvaK8j3gRlQhGOUHayNmWmQNncXKhK-FEsYmjs2S3QpJVUC3phlrQZ0my7pJPbSsGghC3Mex8Vv6BcKQI8Zfc4LbRvjAUvQ-dfMyHroTcOHcDA-oJmey3zx-J0IOxUoETjSuquhLDR0&amp;t=fffffffff4ed9dba" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=UInaSnnM-75pys2zSNL7v2qZPIk_K1rBNjtmQaXD6_oqeTfhnzuEf9zKd6XrhIDaa6Y4vZ3IEI2ymQfmZnf_W0qCYb35zmS14KqlndzxxOnzn8NkKY5E9eOicePr2VmS5371lzw0BPXxRMLVEb1BGa5-eqCpja3xVVKdvTYEgyIlXEYMbTwQaLTdOIcrB0IS0&amp;t=fffffffff4ed9dba" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAEAPWPIcsGTnDhkTfu3x5hcqfCW7YCPN/zCfpT/6ISaUTDG/+zX4vhEhx7/26caM3bctn+YHvsRT+9CnUsKaFSHYtM76SeF8RB/8i90Vzou4zFRsgZr9KUdIOHDLJOoxaMqe057W69gh1bSpK2zh++gXkT6cLu81nso7DIZ+4o9Uk78520LHV1Fw70FJvSVV8XYV5DeTvRYnsbNS8FGz7CKBsrjQWWiDE4x9FZQwLSJE946Vc7Gx1+LqJvZUrzV5fhEmZMTUqwqubwFgknTol8hQ7LmyptZh7buw2xQPwHU0qhTHeSwmyc8LAupL1/+Z68xuyL8f+kNAc0Uu3yHasF3l5XAGfAw7gqlIKyavaG8p0uuZGT+lfIcNKqCDrkoLYxodhsxal2ijOnYU5vX6Z+Y2mXhOKDFU5C/Jl4W1HEiSv4GA2r3wdeCcRo5vOwgPkNYKXw8Fp2mKkpHFRqcDFayafsDvrp7G/JhO80HiKsf/HRGj+TSnXmoJ8ja/3tlmAats+zUQLZUKmRAZTl/VHCrQKut/LSwV00fsCSD42OgnIUIBs2gmQpyOqLESKumyxsvmluegx8qgd1plgTtPOyDleZciIBAUrH70M+Kb+SEgZ0KMm2klyxzSc3ia0ZaFWNqayPkHUArPUAWPq1UCEgSQ//ir6kQ3gAvnbty9+e9AbjiysGW/BWW4o+WaM3g3hwsF/WZUHrxA0nvtap2Ngdd6+TuGkgmoOtf3/Pna5fkpFwrIdXVSVxlObJfhJYSdTrOcPJLNYUrEEwXDGN1meQLpGuv3xGcaVzz3adwKhY+7R8Fwy+/Y1c/XMnw3mSk2Qq/DcvnEk+8fEFtmLV445pl3lwQ9rTkF1BruzO3Y/xG+ZFC6L/EAiACSi0UJJbrzOHTu60q97wuWiN7/PLkRacJAmy3oT9oNQeObsbbpMEM9fIb2gQ8RGMzr6tt66Yc6AI52lEgWJgDjFS64L+vG0zm4kr5IX4oooIRDFpv1dz+WzWutIpPpNGZUP6UJUBIPeBOgacLzJaIjrAabgixW0sZT8XsTMANrcqiP2H+IlcQ1hJPtN4NSO+a3v1vZzj1EQWZhmTt3GpFaf052wmmbx5vR4oKTrAGVGDuRTOa4Sl28Uc3sw43uuZHa7fNPFkWBLd/kV1yOrx8Ub/pHTzH479vJLKHnQ3zoIMUaewR03122k4hxEEHuuzLfQrFZ54A6xCnbh7QPex4Yl0gHuLwNG0izY0XxZikQKsYmLP9xpT5eVKtOeHiOnKaD32S9nKJXVfHxMWDHETnHTt63tUvW/KHf34SVaI1g7CtdLZDUAXl8OuRKmF6QC6elfwefVJZ53MWMAvixk7U4Og62t4qboUgYLVwMbfnVCloVxfUqaYNxEDYqElqwVZWngED09EA9yok=" />
+</div>
+  <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', ['tctl00$ContentPlaceHolder1$FiveThemeControl1$UpdtFs','ContentPlaceHolder1_FiveThemeControl1_UpdtFs','tctl00$ContentPlaceHolder1$FiveThemeControl1$Updatepanel1','ContentPlaceHolder1_FiveThemeControl1_Updatepanel1','tctl00$ContentPlaceHolder1$FiveThemeControl1$ctl00','ContentPlaceHolder1_FiveThemeControl1_ctl00','tctl00$ContentPlaceHolder1$FiveThemeControl1$ctl01','ContentPlaceHolder1_FiveThemeControl1_ctl01','tctl00$ContentPlaceHolder1$FiveThemeControl1$ctl02','ContentPlaceHolder1_FiveThemeControl1_ctl02'], ['ctl00$ContentPlaceHolder1$FiveThemeControl1$btntheme1','ContentPlaceHolder1_FiveThemeControl1_btntheme1','ctl00$ContentPlaceHolder1$FiveThemeControl1$btnthemeIdea75','ContentPlaceHolder1_FiveThemeControl1_btnthemeIdea75','ctl00$ContentPlaceHolder1$FiveThemeControl1$btnthemeResolve75','ContentPlaceHolder1_FiveThemeControl1_btnthemeResolve75','ctl00$ContentPlaceHolder1$FiveThemeControl1$btnthemeAction75','ContentPlaceHolder1_FiveThemeControl1_btnthemeAction75','ctl00$ContentPlaceHolder1$FiveThemeControl1$btnthemeAchievement75','ContentPlaceHolder1_FiveThemeControl1_btnthemeAchievement75'], [], 90, 'ctl00');
+//]]>
+</script>
+
+  <input type="hidden" name="ctl00$hdnserverip" id="hdnserverip" value="669.3.10.72.166.5.455" />
+  <div id="wrapper">
+    
+    
+    <input type="hidden" name="ctl00$bodyDefaultTextSizehdn" id="bodyDefaultTextSizehdn" value="100" />
+    <input type="hidden" name="ctl00$hdnSiteName" id="hdnSiteName" value="Amritmahotsav" />
+    <input name="ctl00$RootPathInt" type="hidden" id="RootPathInt" />
+    <input type="hidden" name="ctl00$hdnParamHightlight" id="hdnParamHightlight" />
+    
+
+<div id="ContentPlaceHolder1_mainbody">
+
+<div id="ContentPlaceHolder1_UserCMSHeader1_header"><header id="header">
+<div class="topStrip">
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<div class="d-flex govtName">
+<p>भारत सरकार<span>GOVERNMENT OF INDIA</span></p>
+<p>संस्कृति मंत्रालय<span>MINISTRY OF CULTURE</span></p>
+</div>
+</div>
+<div class="col-md-6">
+<div class="d-flex align-items-center justify-content-end rightTopStrip"><!--<a class="skipContent" href="#main">Skip to main content</a>-->
+<div class="topSocial">
+<div class="footer-social d-flex"><a title="Twitter" href="https://twitter.com/AmritMahotsav?s=08" target="_blank" rel="noopener"><img alt="Twitter" src="writereaddata/Portal/Images/twitter-new-logo.png" width="18" height="17" /></a> <a title="Facebook" href="https://www.facebook.com/Amrit-Mahotsav-101713962007976" target="_blank" rel="noopener"><span class="fa fa-facebook"></span></a> <a href="https://www.youtube.com/c/AmritMahotsava" target="_blank" rel="noopener" title="YouTube"><span class="fa fa-youtube-play"></span></a> <a title="Instagram" href="https://www.instagram.com/amritmahotsav/" target="_blank" rel="noopener"><span class="fa fa-instagram"></span></a> <a href="https://www.kooapp.com/profile/AmritMahotsav" target="_blank" rel="noopener" title="Koo"><img src="writereaddata/Portal/Images/koo-icon.svg" alt="koo" width="24" height="34" /></a></div>
+</div>
+<div class="language">
+<script language="JavaScript" type="text/javascript">
+    function setVisibility(id, visibility, status) {
+        if (status == "over") {
+            document.getElementById(id).style.display = visibility;
+        }
+        else {
+            document.getElementById(id).style.display = visibility;
+        }
+    }
+</script>
+<noscript></noscript>
+
+<div class="customSelectOuter">
+<select name="ctl00$ContentPlaceHolder1$UserCMSHeader1$UserLanguageDropdown1$ddlLang1" id="ddlLang1" title="Select Language" class="customSelect">
+	<option selected="selected" value="1">English</option>
+	<option value="4">Hindi</option>
+	<option value="6">Marathi</option>
+	<option value="7">Bengali</option>
+	<option value="10">Kannada</option>
+	<option value="5">Telugu</option>
+	<option value="9">Malayalam</option>
+	<option value="11">Punjabi</option>
+
+</select>
+<select name="ctl00$ContentPlaceHolder1$UserCMSHeader1$UserLanguageDropdown1$ddlLanguage" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$ContentPlaceHolder1$UserCMSHeader1$UserLanguageDropdown1$ddlLanguage\&#39;,\&#39;\&#39;)&#39;, 0)" id="ContentPlaceHolder1_UserCMSHeader1_UserLanguageDropdown1_ddlLanguage" title="Select Language" class="customSelect displayNone">
+	<option selected="selected" value="1">English</option>
+	<option value="2">ગુજરાતી</option>
+	<option value="4">हिंदी</option>
+	<option value="5">Telegu</option>
+	<option value="6">Marathi</option>
+	<option value="7">Bengali</option>
+	<option value="8">Tamil</option>
+	<option value="9">Malayalam</option>
+	<option value="10">Kannada</option>
+	<option value="11">Punjabi</option>
+
+</select>
+     <input type="submit" name="ctl00$ContentPlaceHolder1$UserCMSHeader1$UserLanguageDropdown1$btnSearchLng" value="Go" id="ContentPlaceHolder1_UserCMSHeader1_UserLanguageDropdown1_btnSearchLng" class="goButton" /></div>
+	
+	<script type="text/javascript">
+    $(function () {
+        $("#ddlLang1").change(function () {
+            debugger;
+            $.ajax({
+                type: "POST",
+                url: "Default.aspx/SetSession",
+                data: '{name: "' + $("[id*=ddlLang1]").val() + '" }',
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (response) {
+                    var jsVariable =  response.d;
+                    if (jsVariable == 4) 
+		   {    
+                        window.location.href = "index-hi.htm";
+                   }
+		   else if (jsVariable == 6)
+		   {
+			window.location.href = "index-mr.htm";
+		   }
+		  else if (jsVariable == 7)
+		  {
+			window.location.href = "index-ben.htm";
+		  }
+		  else if (jsVariable == 10)
+		  {
+			window.location.href = "index-kn.htm";
+		  }
+		  else if (jsVariable == 5)
+		  {
+			window.location.href = "index-te.htm";
+		  }
+		  else if (jsVariable == 9)
+		{
+			window.location.href = "index-ml.htm";
+		}
+		else if (jsVariable == 11)
+		{
+			window.location.href = "index-pu.htm";
+		}
+		 else
+                 {
+                        window.location.href = "index.htm";
+                 }
+                },
+                failure: function (response) {
+                    alert(response.responseText);
+                },
+                error: function (response) {
+                    alert(response.responseText);
+                }
+            });
+        });
+    });
+</script></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="headerRow">
+<div class="container">
+<div class="d-flex align-items-center justify-content-between posRelative">
+<div id="navbar-brand" class="d-flex align-items-center"><a href="index.htm" title="Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India"><img src="writereaddata/portal/images/logo-black.png" alt="Azadi Ka Amrit Mahotsav, Ministry of Culture, Government of India" width="132" height="72" /></a> <a href="https://www.g20.org/en/" target="_blank" title="G20" rel="noopener"><img src="writereaddata/portal/images/g-20-logo.png" alt="G20" width="132" height="72" /></a></div>
+<div class="headerRight">
+<div class="d-flex align-items-center justify-content-end topSocial"><input type="hidden" name="ctl00$ContentPlaceHolder1$UserCMSHeader1$KeywordSearch1$hdnLanguageID" id="ContentPlaceHolder1_UserCMSHeader1_KeywordSearch1_hdnLanguageID" value="1" />
+<input type="hidden" name="ctl00$ContentPlaceHolder1$UserCMSHeader1$KeywordSearch1$hdnSiteID" id="ContentPlaceHolder1_UserCMSHeader1_KeywordSearch1_hdnSiteID" value="1" />
+<input type="hidden" name="ctl00$ContentPlaceHolder1$UserCMSHeader1$KeywordSearch1$hdnInternalMEA" id="ContentPlaceHolder1_UserCMSHeader1_KeywordSearch1_hdnInternalMEA" value="0" />
+<div class="search"> <a class="searchLink" title="Search" href="#"><span class="fa fa-search"><span class="displayNone">search</span></span></a>
+  <div class="form-wrapper">
+    <div id="ContentPlaceHolder1_UserCMSHeader1_KeywordSearch1_pnlKeywordSrch" onkeypress="javascript:return WebForm_FireDefaultButton(event, &#39;ContentPlaceHolder1_UserCMSHeader1_KeywordSearch1_btnSearch&#39;)">
+	
+      <div id="edit-basic" class="container-inline">
+        <div class="form-item form-type-textfield form-item-keys">
+          <input name="ctl00$ContentPlaceHolder1$UserCMSHeader1$KeywordSearch1$txtKeyword" type="text" value="Enter Keyword..." id="ContentPlaceHolder1_UserCMSHeader1_KeywordSearch1_txtKeyword" title="Enter Keyword" class="form-text searchInput ui-autocomplete-input" onkeypress="return IsSpecialCharacters(event)" onblur="if (this.value ==&#39;&#39; || this.value==&#39;Search&#39;) this.value = this.defaultValue;" onkeyup="this.value = this.value.replace(/[^a-zA-Z0-9 ]/g, &#39;&#39;)" onfocus="this.value=&#39;&#39;" />
+        <input type="submit" name="ctl00$ContentPlaceHolder1$UserCMSHeader1$KeywordSearch1$btnSearch" value="Go" onclick="return CheckString();" id="ContentPlaceHolder1_UserCMSHeader1_KeywordSearch1_btnSearch" title="Go" class="goBtn submit homeSprite displayNone" />
+				 <input type="button" class="goBtn submit homeSprite"  value="GO" id="btngo"  onclick="CheckString();" />
+        </div>
+        
+      </div>
+    </div>
+    
+</div>
+</div>
+
+<script type="text/javascript">
+function CheckString() {
+        
+        var Key = document.getElementById('ContentPlaceHolder1_UserCMSHeader1_KeywordSearch1_txtKeyword');
+        if (Key.value.length < 3) {
+            Key.value = "Minimum 3 character required";
+            return false;
+
+        }
+        if (Key.value == Key.defaultValue) {
+            Key.value = "Enter valid search text";
+            return false;
+        }
+
+        if (Key.value == "Minimum 3 character required" || Key.value == "Enter valid search text") {
+            return false;
+        }
+        window.location.href = "/advanced-search-list.htm?keysrch=" + Key.value;
+        return true;
+    }
+
+function IsSpecialCharacters(e) {
+        var k;
+        document.all ? k = e.keyCode : k = e.which;
+        return ((k > 64 && k < 91) || (k > 96 && k < 123) || k == 8 || k == 32 || (k >= 48 && k <= 57));
+    }
+</script></div>
+</div>
+</div>
+</div>
+</div>
+<div class="menuBox">
+<div class="container">
+
+
+<div id="navbarNav"><div id="ContentPlaceHolder1_UserCMSHeader1_UserMenuHorizontal1_divMenu"><ul id="navbar-nav"><li class='MenuLi MenuLiFirst MenuLi1'><a class='menuFirstNode' href='/about.htm' target='_self' >About</a></li><li class='MenuLi MenuLi2'><a class='menuFirstNode'  href='/themes.htm' target='_self' >Themes</a></li><li class='MenuLi MenuLi3'><a class='menuFirstNode'  href='/themes-2-0.htm' target='_self' >Themes 2.0</a></li><li class='MenuLi MenuLi4'><a class='menuFirstNode'  href='javascript:void(0)' target='_parent' >Events</a><ul class='menuSubUl'><li class='firstMenuLi'><a class='firstMenuLiA' href='campaign-events.htm?55' target='_self' >Dhara</a></li><li ><a href='/events-activities.htm' target='_self' >Events</a></li><li class='lastMenuLi'><a class='lastMenuLiA' href='azadi-scientists.htm?10551' target='_self' >Azadi Scientists</a></li></ul></li><li class='MenuLi MenuLi5'><a class='menuFirstNode'  href='/campaign.htm' target='_self' >Campaigns</a></li><li class='MenuLi MenuLi6'><a class='menuFirstNode'  href='javascript:void(0)' target='_parent' >Stories of Change</a><ul class='menuSubUl'><li class='firstMenuLi'><a class='firstMenuLiA' href='stories-of-change.htm' target='_self' >Stories of Change</a></li><li class='lastMenuLi'><a class='lastMenuLiA' href='/mann-ki-baat.htm' target='_self' >Mann Ki Baat</a></li></ul></li><li class='MenuLi MenuLi7'><a class='menuFirstNode'  href='/competitions.htm' target='_self' >Competitions</a></li><li class='MenuLi MenuLi8'><a class='menuFirstNode'  href='javascript:void(0)' target='_parent' >History Corner</a><ul class='menuSubUl'><li class='firstMenuLi'><a class='firstMenuLiA' href='/digital-district-repository.htm' target='_self' >Digital District Repository</a><ul class='menuSubUl'><li class='lastMenuLi'><a class='lastMenuLiA' href='https://amritmahotsav.nic.in/digital-district-repository.htm' target='_blank' >Districtwise narratives of our splendid heritage</a></li></ul></li><li ><a href='/unsung-heroes.htm' target='_self' >Unsung Heroes of India’s freedom struggle</a><ul class='menuSubUl'><li class='lastMenuLi'><a class='lastMenuLiA' href='https://amritmahotsav.nic.in/unsung-heroes.htm' target='_blank' >Paying tribute to India’s freedom fighters</a></li></ul></li><li ><a href='https://akam.nic.in/' target='_blank' >Public Contribution Portal</a></li><li ><a href='/swatantra-swar.htm' target='_self' >Swatantra Swar</a><ul class='menuSubUl'><li class='lastMenuLi'><a class='lastMenuLiA' href='https://amritmahotsav.nic.in/swatantra-swar.htm' target='_blank' >Revolutionary poetry banned during the British Raj</a></li></ul></li><li ><a href='javascript:void(0)' target='_parent' >Podcast on Freedom Movement</a><ul class='menuSubUl'><li class='firstMenuLi'><a class='firstMenuLiA' href='/zara-yaad-karo-qurbani.htm' target='_self' >Zara Yaad Karo Qurbani</a></li><li class='lastMenuLi'><a class='lastMenuLiA' href='/bharat-ki-kahani-ml-ki-zubaani.htm' target='_self' >Bharat Ki Kahani, Meenakashi Lekhi Ki Zubaani</a></li></ul></li><li ><a href='/melodies-of-freedom-list.htm' target='_self' >Rajyageet</a><ul class='menuSubUl'><li class='lastMenuLi'><a class='lastMenuLiA' href='https://amritmahotsav.nic.in/melodies-of-freedom-list.htm' target='_blank' >Melodic identity of our States</a></li></ul></li><li ><a href='https://indianculture.gov.in/freedom-archive' target='_blank' >Freedom Corner</a><ul class='menuSubUl'><li class='lastMenuLi'><a class='lastMenuLiA' href='https://indianculture.gov.in/freedom-archive' target='_blank' >Stories of India’s Freedom Struggle</a></li></ul></li><li class='lastMenuLi'><a class='lastMenuLiA' href='javascript:void(0)' target='_parent' >Exhibitions</a><ul class='menuSubUl'><li class='firstMenuLi'><a class='firstMenuLiA' href='/partition-horror-remembrance-day.htm' target='_self' >Partition Horrors Remembrance Day</a></li><li ><a href='/unity-festival.htm' target='_self' >Unity Festival</a></li><li class='lastMenuLi'><a class='lastMenuLiA' href='/veer-baal-diwas.htm' target='_self' >Veer Baal Diwas</a></li></ul></li></ul></li><li class='MenuLi MenuLi9'><a class='menuFirstNode'  href='/blog.htm' target='_self' >Blog</a></li><li class='MenuLi MenuLi10'><a class='menuFirstNode'  href='/gallery.htm' target='_self' >Media Coverage</a><ul class='menuSubUl'><li class='firstMenuLi'><a class='firstMenuLiA' href='/photo-gallery.htm' target='_self' >Photo Gallery</a></li><li class='lastMenuLi'><a class='lastMenuLiA' href='/video-gallery.htm' target='_self' >Video Gallery</a></li></ul></li><li style="background:none" class='MenuLi MenuLiLast MenuLi11'><a class='menuFirstNode' href='/downloads.htm' target='_self' >Downloads</a></li></ul></div></div></div>
+</div>
+</header></div> <div class="autoPopupOverlay displayNone">
+<div class="autoPopup">
+<p><span class="popupTitle">Meri Maati Mera Desh</span> <iframe width="100%" height="400" src="https://www.youtube.com/embed/lItUvtO32QQ?si=rtofaGLcWZvAuMeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe> <!--<iframe width="100%" height="400" src="https://www.youtube.com/embed/t8XW4oIxRq0" title="YouTube video player" id="videoId" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe>--></p>
+<span class="autoPopupClose">X</span></div>
+</div>
+<section id="homeBanner" class="homeBanner">
+  <div class="homeImgSlider">
+    <div class="swiper-container">
+      <div class="swiper-wrapper">
+
+	
+			
+          <div class="swiper-slide">
+          <div id="ContentPlaceHolder1_TemplateScriptBanner1_rptbanner_DivHomeBannerImg_0" class="homeBannerImg" style=" background-image: url(&#39;/writereaddata/Portal/Template_ScriptBanner/1_1_1_ek-desh-ek-dhadkan-home-banner.jpg&#39;);">
+          <img src='/writereaddata/Portal/images/home-banner-img-default.jpg' width="1600" height="475" alt='Azadi Ka Amrit Mahotsav' />
+          	
+          </div>
+				<!--<img src='/writereaddata/Portal/Template_ScriptBanner/1_1_1_ek-desh-ek-dhadkan-home-banner.jpg' width="1600" height="475" alt='Ek Desh Ek Dhadkan' />-->
+				
+              <div class="bannerCaption">
+                <div class="container"> 
+						
+						
+						<!--<a id="ContentPlaceHolder1_TemplateScriptBanner1_rptbanner_hplReadMode_0" title="Read More" class="viewAllLink" href="/" target="_self">Read More</a>-->
+					</div>
+                    </div>
+
+                </div>
+             
+		
+			
+          <div class="swiper-slide">
+          <div id="ContentPlaceHolder1_TemplateScriptBanner1_rptbanner_DivHomeBannerImg_1" class="homeBannerImg" style=" background-image: url(&#39;/writereaddata/Portal/Template_ScriptBanner/79_1_1_Samvidhan-Divas-Banner.webp&#39;);">
+          <img src='/writereaddata/Portal/images/home-banner-img-default.jpg' width="1600" height="475" alt='Azadi Ka Amrit Mahotsav' />
+          	
+          </div>
+				<!--<img src='/writereaddata/Portal/Template_ScriptBanner/79_1_1_Samvidhan-Divas-Banner.webp' width="1600" height="475" alt='Samvidhan Divas' />-->
+				
+              <div class="bannerCaption">
+                <div class="container"> 
+						
+						
+						<!--<a id="ContentPlaceHolder1_TemplateScriptBanner1_rptbanner_hplReadMode_1" title="Read More" class="viewAllLink" href="/" target="_self">Read More</a>-->
+					</div>
+                    </div>
+
+                </div>
+             
+		
+</div>
+<div class="homeImgSlider-next">
+        <i class="fa fa-angle-right"></i>
+      </div>
+      <div class="homeImgSlider-prev">
+        <i class="fa fa-angle-left"></i>
+      </div>
+      <div class="homeImgSlider-swiper-pagination"></div>
+</div>				
+</div>
+                         
+              
+            
+
+            
+            
+            
+            
+            
+            
+
+</section>
+<section id="#main" class="highlightScore">
+<div class="container">
+<div class="row"><input type="hidden" name="ctl00$ContentPlaceHolder1$HomePageEventCounts1$hdnEventCntLanguageID" id="ContentPlaceHolder1_HomePageEventCounts1_hdnEventCntLanguageID" value="1" />
+	
+<div class="col-4">
+    <div class="scoreItem">
+        <h2>
+            <span class="counter"><span id="ContentPlaceHolder1_HomePageEventCounts1_lblHitCounters"><strong>112072701</strong></span></span></h2>
+        <p>
+            Visitors
+            
+            </p>
+    </div>
+</div>
+<div class="col-4">
+    <div class="scoreItem">
+        <h2>
+            <span class="counter">
+                <span id="ContentPlaceHolder1_HomePageEventCounts1_lblCompCount">516885</span>
+            </span>
+        </h2>
+        <p>
+            Participation in Competitions</p>
+    </div>
+</div>
+<div class="col-4">
+    <div class="scoreItem">
+        <h2>
+            <span class="counter"><span id="ContentPlaceHolder1_HomePageEventCounts1_lblEventCount">188994</span></span></h2>
+        <p>
+            Events Published</p>
+    </div>
+</div>
+<!--<div class="col-4">
+    <div class="scoreItem">
+        <h2>
+            <span class="counter"><span id="ContentPlaceHolder1_HomePageEventCounts1_lblUnsungHeroesCount"></span></span>+</h2>
+        <p>
+            Unsung Heroes Celebrated</p>
+    </div>
+</div>--></div>
+</div>
+</section>
+<section id="homeAboutAkam" class="homeAboutAkam homeCommonPad">
+<div class="container">
+<h2 class="homeTitle">Azadi Ka Amrit Mahotsav</h2>
+<div class="row">
+<div class="col-lg-7 homeAboutContent">
+<p>Azadi Ka Amrit Mahotsav is an initiative of the Government of India to celebrate and commemorate 75 years of independence and the glorious history of its people, culture and achievements.</p>
+<a href="about.htm" class="button hideInDesktop">Read More</a>
+<p class="hideInMob">This Mahotsav is dedicated to the people of India who have not only been instrumental in bringing India thus far in its evolutionary journey but also hold within them the power and potential to enable Prime Minister Narendra Modi's vision of activating India 2.0, fuelled by the spirit of Aatmanirbhar Bharat.</p>
+<p class="hideInMob">The official journey of Azadi Ka Amrit Mahotsav commenced on 12th March 2021 which started a 75-week countdown to our 75th anniversary of independence and will end post a year on 15th August 2023. Following are the five themes of Azadi Ka Amrit Mahotsav.</p>
+<ul class="aboutThemeList d-flex">
+<li><a href="freedom-strugle.htm" class="homeThemeItem"> <span class="icon icon1"></span> <span class="themeTitle">Freedom struggle</span> </a></li>
+<li><a href="ideas-75.htm" class="homeThemeItem"> <span class="icon icon2"></span> <span class="themeTitle">Ideas@75</span> </a></li>
+<li><a href="resolve-75-reinforcing-commitments-to-specific-goals-and-targets.htm" class="homeThemeItem"> <span class="icon icon3"></span> <span class="themeTitle">Resolve@75</span> </a></li>
+<li><a href="actions-75.htm" class="homeThemeItem"> <span class="icon icon4"></span> <span class="themeTitle">Actions@75</span> </a></li>
+<li><a href="achivements-75.htm" class="homeThemeItem"> <span class="icon icon5"></span> <span class="themeTitle">Achievements@75</span> </a></li>
+</ul>
+</div>
+<div class="col-lg-5">
+<div class="homeAboutVideo">
+<div class="imgHolder" data-video-id="1s22XL4Kh94"><img alt="Azadi Ka Amrit Mahotsav: Celebrating 75 Years of India's Independence" src="writereaddata/portal/images/home-about-video-poster.webp" width="565" height="392" /> <span class="fa fa-play"></span>
+<div class="aboutVideoIframe"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="themeIntroduction">
+<div class="row">
+<div class="col-md-12"><!--<p>As we countdown to 15th August 2023, Azadi Ka Amrit Mahotsav aims to further boost this peoples’ movement through collaborative campaigns and outreach across India and the world. This evolution has led to the creation of nine new themes under Azadi Ka Amrit Mahotsav, each aligned with the ‘Panch Pran’ announced by Hon’ble Prime Minister during Independence Day 2022.</p>-->
+<p>As we countdown to 15th August 2023, Azadi Ka Amrit Mahotsav aims to further boost this peoples’ movement through collaborative campaigns and outreach across India and the world. Following campaigns are on the lines of nine critical themes aligned with the ‘Panch Pran’ announced by Hon’ble Prime Minister: Women and Children, Tribal Empowerment, Water, Cultural Pride, Lifestyle for Environment (LiFE), Health and Wellness, Inclusive Development, Aatmanirbhar Bharat and Unity.</p>
+</div>
+</div>
+</div>
+<div class="nineThemeHomeSlider">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide"><a title="Women and Children" href="women-and-children.htm"><img alt="Women and Children" src="writereaddata/portal/images/01-women-and-children.svg" width="125" height="125" /> <span class="newThemeTitle">Women and Children</span> </a></div>
+<div class="swiper-slide"><a title="Tribal Empowerment" href="tribal-development.htm"><img alt="Tribal Empowerment" src="writereaddata/portal/images/02-tribal-development.svg" width="125" height="125" /> <span class="newThemeTitle">Tribal Empowerment</span> </a></div>
+<div class="swiper-slide"><a title="Water" href="water.htm"><img alt="Water" src="writereaddata/portal/images/03-water.svg" width="125" height="125" /> <span class="newThemeTitle">Water</span> </a></div>
+<div class="swiper-slide"><a title="Lifestyle for Environment (LiFE)" href="lifestyle-for-environment-life.htm"><img alt="Lifestyle for Environment (LiFE)" src="writereaddata/portal/images/04-lifestyle-for-environment.svg" width="125" height="125" /> <span class="newThemeTitle">Lifestyle for Environment (LiFE)</span> </a></div>
+<div class="swiper-slide"><a title="Health and Wellness" href="health-and-wellness.htm"><img alt="Health and Wellness" src="writereaddata/portal/images/05-health-and-wellness.svg" width="125" height="125" /> <span class="newThemeTitle">Health and Wellness</span> </a></div>
+<div class="swiper-slide"><a title="Inclusive Development" href="inclusive-development.htm"><img alt="Inclusive Development" src="writereaddata/portal/images/06-inclusive-development.svg" width="125" height="125" /> <span class="newThemeTitle">Inclusive Development</span> </a></div>
+<div class="swiper-slide"><a title="Aatmanirbhar Bharat" href="aatmanirbhar-bharat.htm"><img alt="Aatmanirbhar Bharat" src="writereaddata/portal/images/07-aatmanirbhar-bharat.svg" width="125" height="125" /> <span class="newThemeTitle">Aatmanirbhar Bharat</span> </a></div>
+<div class="swiper-slide"><a title="" href="cultural-pride.htm"><img alt="Cultural Pride" src="writereaddata/portal/images/08-cultural-pride.svg" width="125" height="125" /> <span class="newThemeTitle">Cultural Pride</span> </a></div>
+<div class="swiper-slide"><a title="Unity" href="unity.htm"><img alt="Unity" src="writereaddata/portal/images/09-unity.svg" width="125" height="125" /> <span class="newThemeTitle">Unity</span> </a></div>
+</div>
+</div>
+<div class="nineThemeHomeSlider-prev sliderSmallArrow" role="button" aria-label="Previous slide" tabindex="0"><i class="fa fa-angle-left"></i></div>
+<div class="nineThemeHomeSlider-next sliderSmallArrow" role="button" aria-label="Next slide" tabindex="0"><i class="fa fa-angle-right"></i></div>
+</div>
+</div>
+</section>
+<section id="testimonials" class="testimonials homeCommonPad">
+<div class="container">
+<div class="titleHeader noViewAllLink">
+<h2 class="homeTitle">Quotes</h2>
+<div class="sliderNavWrap d-flex align-items-center">
+<div class="testimonialsSlider-prev sliderSmallArrow" role="button" aria-label="Previous slide" tabindex="0"><span class="fa fa-angle-left"></span></div>
+<div class="testimonialsSlider-next sliderSmallArrow" role="button" aria-label="Next slide" tabindex="0"><span class="fa fa-angle-right"></span></div>
+</div>
+</div>
+<div class="testimonialsSliderWrap">
+<div class="testimonialsSlider">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="testimonialsItem">
+<div class="ministerPhoto"><img src="writereaddata/portal/images/narendra-modi-photo.webp" alt="Narendra Modi, Prime Minister of India" width="343" height="378" /></div>
+<div class="testimonialsText">
+<p class="clientSpeak"><span class="fa fa-quote-left" aria-hidden="true"></span> Like the history of the freedom movement, the journey of 75 years after independence is a reflection of the hard work, innovation, enterprise of ordinary Indians. Whether in the country or abroad, we Indians have proved ourselves with our hard work. We are proud of our Constitution. We are proud of our democratic traditions. The mother of democracy, India is still moving forward by strengthening democracy. India, rich in knowledge and science, is leaving its mark from Mars to the moon. <span class="fa fa-quote-right" aria-hidden="true"></span></p>
+<p class="clientName">Narendra Modi <span>Prime Minister of India</span></p>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="testimonialsItem">
+<div class="ministerPhoto"><img src="writereaddata/portal/images/narendra-modi-photo.webp" alt="Narendra Modi, Prime Minister of India" width="343" height="378" /></div>
+<div class="testimonialsText">
+<p class="clientSpeak"><span class="fa fa-quote-left" aria-hidden="true"></span> The Azadi Ka Amrit Mahotsav means elixir of energy of independence; elixir of inspirations of the warriors of freedom struggle; elixir of new ideas and pledges; and elixir of Aatmanirbharta. Therefore, this Mahotsav is a festival of awakening of the nation; festival of fulfilling the dream of good governance; and the festival of global peace and development. <span class="fa fa-quote-right" aria-hidden="true"></span></p>
+<p class="clientName">Narendra Modi <span>Prime Minister of India</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<span class="fa fa-quote-right largeQuote" aria-hidden="true"></span></div>
+</div>
+</section>
+<section class="mmmdBannerWrap">
+<div class="container">
+<h2 class="homeTitle">Meri Maati Mera Desh</h2>
+<div class="mmmdBannerbox text-center"><a href="meri-maati-mera-desh.htm" rel="noopener" title="Meri Maati Mera Desh"><img src="writereaddata/Portal/images/Meri-Matti-Mera-Desh-Revised-Banner-Home-Section-Hindi.webp" alt="Meri Maati Mera Desh" /></a>
+<div class="twoButtonLinks"><span><a class="mmmdHomeBtnNew" href="meri-maati-mera-desh.htm" title="Know More">Know More</a></span> <span><a class="mmmdHomeBtnNew" href="https://merimaatimeradesh.gov.in/" target="_blank" title="Take Pledge" rel="noopener">Take Pledge</a></span></div>
+</div>
+</div>
+</section>
+<section class="htgBannerWrap">
+<div class="container">
+<h2 class="homeTitle">Har Ghar Tiranga</h2>
+<div class="htgBannerbox text-center"><a href="https://harghartiranga.com/" target="_blank" rel="noopener" title="Har Ghar Tiranga"><img src="writereaddata/Portal/Images/hgt-final-banner-05-05-2024.webp" alt="Har Ghar Tiranga" /></a>
+<div class="twoButtonLinks displayNone"><span><a class="orangeBtnNew" href="har-ghar-tiranga-2023.htm" title="Know More">Know More</a></span> <span><a class="orangeBtnNew" href="https://harghartiranga.com" title="Upload Selfie with Tiranga" target="_blank" rel="noopener">Upload Selfie with Tiranga</a></span> <span><a class="orangeBtnNew" href="downloads.htm" title="Download">Downloads</a></span></div>
+</div>
+<div class="htgBannerbox text-center displayNone"><a href="har-ghar-tiranga-2023.htm" rel="noopener" title="Har Ghar Tiranga"><img src="writereaddata/Portal/images/har-ghar-tiranga-2023-web-banner-small.webp" alt="Har Ghar Tiranga" /></a>
+<div class="twoButtonLinks"><span><a class="orangeBtnNew" href="har-ghar-tiranga-2023.htm" title="Know More">Know More</a></span> <span><a class="orangeBtnNew" href="https://harghartiranga.com" title="Upload Selfie with Tiranga" target="_blank" rel="noopener">Upload Selfie with Tiranga</a></span> <span><a class="orangeBtnNew" href="downloads.htm" title="Download">Downloads</a></span></div>
+</div>
+</div>
+</section>
+<section class="combinedMittiHtgBannerWrap">
+<div class="container">
+<h2 class="homeTitle">Combined Creatives</h2>
+<div class="combinedMittiHtgBannerBox text-center"><img src="writereaddata/Portal/Images/combined-mitti-htg-collaterals-home-section-bnr.jpg" alt="Har Ghar Tiranga" />
+<div class="twoButtonLinks"><span><a class="orangeBtnNew" href="https://merimaatimeradesh.gov.in" target="_blank" title="Know More" rel="noopener">Take Pledge</a></span> <span><a class="orangeBtnNew" href="https://harghartiranga.com" title="Upload Selfie with Tiranga" target="_blank" rel="noopener">Upload Selfie with Tiranga</a></span></div>
+</div>
+</div>
+</section>
+<section id="homeOngoingEvent" class="homeOngoingEvent">
+<div class="container">
+<div class="titleHeader">
+<h2 class="homeTitle">Ongoing Iconic Events</h2>
+<div class="sliderNavWrap d-flex align-items-center"><a title="View All" href="whole-of-government.htm" class="viewMoreLink">View All</a>
+<div class="ongoingEventSlider-prev sliderSmallArrow"><span class="fa fa-angle-left"></span></div>
+<div class="ongoingEventSlider-next sliderSmallArrow"><span class="fa fa-angle-right"></span></div>
+</div>
+</div>
+</div>
+<div class="ongoingEventSliderWrap">
+<div class="container">
+<div class="ongoingEventSlider">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="ongoingEvent">
+<div class="row">
+<div class="col-lg-6">
+<div class="imgHolderWrap">
+<div class="imgHolder"><img class="swiper-lazy" data-src="writereaddata/Portal/Images/iac-02.webp" alt="Indian Art, Architecture, and Design Biennale 2023" src="writereaddata/Portal/Images/iac-02.webp" width="685" height="450" /> <span class="swiper-lazy-preloader swiper-lazy-preloader-white"></span></div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="ongoingEventRight">
+<h3>Indian Art, Architecture, and Design Biennale 2023</h3>
+<div class="d-flex ongoingEventDate">
+<div>
+<p>Start Date <span>December 8, 2023</span></p>
+</div>
+<div>
+<p>End Date <span>March 31, 2024</span></p>
+</div>
+</div>
+<p class="eventOrganiser"><strong>Organiser -</strong>Ministry of Culture</p>
+<div class="d-flex align-items-center justify-content-between eventBtnGroup">
+<div class="eventBtnGroupLeft"><a href="event-detail.htm?270325" class="button whiteBtn">Read More</a></div>
+<p class="themeName"><span>Ideas@75</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide displayNone">
+<div class="ongoingEvent">
+<div class="row">
+<div class="col-lg-6">
+<div class="imgHolderWrap">
+<div class="imgHolder"><img class="swiper-lazy" data-src="writereaddata/Portal/Images/AKAM-MMMD-GC-OE-thumb.webp" alt="Meri Maati Mera Desh" src="writereaddata/Portal/Images/AKAM-MMMD-GC-OE-thumb.webp" width="685" height="450" /> <span class="swiper-lazy-preloader swiper-lazy-preloader-white"></span></div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="ongoingEventRight">
+<h3>Meri Maati Mera Desh</h3>
+<div class="d-flex ongoingEventDate">
+<div>
+<p>Start Date <span>August 9, 2023</span></p>
+</div>
+<div>
+<p>End Date <span>October 31, 2023</span></p>
+</div>
+</div>
+<p class="eventOrganiser"><strong>Organiser -</strong>Ministry of Youth Affairs and Sports and Ministry of Culture</p>
+<!--<p class="mt-2"><span class="firstButton m-0"><a target="_blank" class="orangeBtnNew" href="https://www.youtube.com/watch?v=coaooJp25JA" title="Live Link" rel="noopener">Live Link</a></span></p>-->
+<div class="d-flex align-items-center justify-content-between eventBtnGroup">
+<div class="eventBtnGroupLeft"><a href="meri-maati-mera-desh.htm" class="button whiteBtn">Know More</a> <a href="event-detail.htm?269187" class="button whiteBtn">Read More</a> <a href="https://www.youtube.com/live/KQSvUNm1m7c?si=9LZDsP1p79Kpb3Y4" target="_blank" rel="noopener"><img src="writereaddata/Portal/Images/live-streaming-icon.png" /></a></div>
+<p class="themeName"><span>Freedom Struggle</span></p>
+</div>
+<!--<div class="d-flex align-items-center justify-content-between eventBtnGroup">
+                        <div class="eventBtnGroupLeft"><a href="https://amritmahotsav.nic.in/meri-maati-mera-desh.htm" class="button whiteBtn" rel="noopener" title="Know More">Know More</a></div>
+                        <p class="themeName"><span>Freedom Struggle</span></p>
+                      </div>--></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="upcomingEvent" class="upcomingEvent homeCommonPad displayNone">
+<div class="container">
+<div class="titleHeader">
+<h2 class="homeTitle">Upcoming Iconic Events</h2>
+<div class="sliderNavWrap d-flex align-items-center"><a href="upcoming-lconic-events.htm" class="viewMoreLink" title="View All">View All</a>
+<div class="upcomingIEventSlider-prev sliderSmallArrow"><span class="fa fa-angle-left"></span></div>
+<div class="upcomingIEventSlider-next sliderSmallArrow"><span class="fa fa-angle-right"></span></div>
+</div>
+</div>
+<div class="upcomingIEventSlider noDate">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<input type="hidden" name="ctl00$ContentPlaceHolder1$UpcomingIconicEventsForHome1$hdnLanguageID" id="ContentPlaceHolder1_UpcomingIconicEventsForHome1_hdnLanguageID" value="1" />
+</div>
+</div>
+</div>
+</div>
+</section>
+<!--<section class="htgBannerWrap">
+  <div class="container">
+
+    <h2 class="homeTitle">Har Ghar Tiranga</h2>
+    <div class="htgBannerbox text-center"><a href="har-ghar-tiranga.htm" rel="noopener" title="Har Ghar Tiranga"><img src="writereaddata/Portal/Images/har-ghar-tiranga-web-banner-download-section-english-version.jpg" alt="Har Ghar Tiranga" /></a>
+      <div class="twoButtonLinks"><span><a class="blueBtnNew" href="har-ghar-tiranga.htm" title="Know More">Know More</a></span> <span><a class="orangeBtnNew" href="downloads.htm" title="Download">Downloads</a></span></div>
+    </div>
+  </div>
+</section>-->
+<section class="meaStrip homeCommonPad pt-0 displayNone">
+<div class="container">
+<h2 class="homeTitle">Grand Hologram Statue of Netaji</h2>
+<div class="text-center"><a href="https://netajihologram.com/" target="_blank" rel="noopener" title="Grand Hologram Statue of Netaji"> <img src="writereaddata/Portal/images/hologram.webp" alt="Grand Hologram Statue of Netaji" width="1400" height="347" /> </a></div>
+</div>
+</section>
+<section id="spotlightWeek" class="spotlightWeek homeCommonPad">
+<div class="container">
+<div class="titleHeader">
+<h2 class="homeTitle">Spotlight of the Week</h2>
+<div class="sliderNavWrap d-flex align-items-center"><a href="spotlight-of-the-week.htm" class="viewMoreLink" title="View All">View All</a>
+<div class="spotlightWeekSlider-prev sliderSmallArrow"><span class="fa fa-angle-left"></span></div>
+<div class="spotlightWeekSlider-next sliderSmallArrow"><span class="fa fa-angle-right"></span></div>
+</div>
+</div>
+<div class="spotlightWeekSlider">
+<div class="swiper-container">
+<div class="swiper-wrapper"><input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$hdnTopRecord" id="ContentPlaceHolder1_SpotlightScrollingNew1_hdnTopRecord" value="12" />
+<input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$hdnLanguageID" id="ContentPlaceHolder1_SpotlightScrollingNew1_hdnLanguageID" value="1" />
+
+        <div class="swiper-slide">
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl00$hdnSpotlightCat" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnSpotlightCat_0" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl00$hdnID" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnID_0" value="263" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl00$hdnImageName" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnImageName_0" value="Prime_Minister_addresses_‘Viksit_Bharat_Viksit_Rajasthan’_program.jpg" />
+            <a id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_HypID1_0" class="iEventItem" href="http://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?263" target="_self">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_imgWhatsNew1_0" class="swiper-lazy" data-src="./writereaddata/Portal/WhatsNewImages/263_1_1_Prime_Minister_addresses_‘Viksit_Bharat_Viksit_Rajasthan’_program.jpg" width="327" height="185" alt="Prime Minister addresses ‘Viksit Bharat Viksit Rajasthan’ program" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                        </div>
+                    </div>
+                    <div class="iEventDate">
+                        <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblDt_0" class="displayNone"> 20 February 2024</span> 20
+                        <span>
+                            <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblMonthYear1_0">Feb'24</span></span>
+                    </div>
+					<div class="spotlightCard">
+						Article
+                    </div>
+                </div>
+                <div class="iEventCard">
+                    <h2>
+                        Prime Minister addresses ‘Viksit Bharat Viksit Rajasthan’ program
+                    </h2>
+                    <div class="d-flex align-items-center justify-content-between recordCategory">
+                        <span class="viewMoreLink">Know More</span>
+                        <p class="eventSubCategory"> Actions@75 </p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl01$hdnSpotlightCat" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnSpotlightCat_1" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl01$hdnID" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnID_1" value="262" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl01$hdnImageName" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnImageName_1" value="Prime_Minister_inaugurates_India_Energy_Week_2024.jpg" />
+            <a id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_HypID1_1" class="iEventItem" href="http://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?262" target="_self">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_imgWhatsNew1_1" class="swiper-lazy" data-src="./writereaddata/Portal/WhatsNewImages/262_1_1_Prime_Minister_inaugurates_India_Energy_Week_2024.jpg" width="327" height="185" alt="Prime Minister inaugurates India Energy Week 2024" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                        </div>
+                    </div>
+                    <div class="iEventDate">
+                        <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblDt_1" class="displayNone"> 12 February 2024</span> 12
+                        <span>
+                            <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblMonthYear1_1">Feb'24</span></span>
+                    </div>
+					<div class="spotlightCard">
+						Article
+                    </div>
+                </div>
+                <div class="iEventCard">
+                    <h2>
+                        Prime Minister inaugurates India Energy Week 2024
+                    </h2>
+                    <div class="d-flex align-items-center justify-content-between recordCategory">
+                        <span class="viewMoreLink">Know More</span>
+                        <p class="eventSubCategory"> Actions@75 </p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl02$hdnSpotlightCat" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnSpotlightCat_2" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl02$hdnID" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnID_2" value="261" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl02$hdnImageName" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnImageName_2" value="Prime_Minister_addresses_Bharat_Mobility_Global_Expo_2024.jpg" />
+            <a id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_HypID1_2" class="iEventItem" href="http://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?261" target="_self">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_imgWhatsNew1_2" class="swiper-lazy" data-src="./writereaddata/Portal/WhatsNewImages/261_1_1_Prime_Minister_addresses_Bharat_Mobility_Global_Expo_2024.jpg" width="327" height="185" alt="Prime Minister addresses Bharat Mobility Global Expo 2024" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                        </div>
+                    </div>
+                    <div class="iEventDate">
+                        <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblDt_2" class="displayNone"> 05 February 2024</span> 05
+                        <span>
+                            <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblMonthYear1_2">Feb'24</span></span>
+                    </div>
+					<div class="spotlightCard">
+						Article
+                    </div>
+                </div>
+                <div class="iEventCard">
+                    <h2>
+                        Prime Minister addresses Bharat Mobility Global Expo 2024
+                    </h2>
+                    <div class="d-flex align-items-center justify-content-between recordCategory">
+                        <span class="viewMoreLink">Know More</span>
+                        <p class="eventSubCategory"> Actions@75 </p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl03$hdnSpotlightCat" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnSpotlightCat_3" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl03$hdnID" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnID_3" value="260" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl03$hdnImageName" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnImageName_3" value="Ministry_of_Culture_tableau_clinches_first_spot_at_Republic_Day_Parade_2024.jpg" />
+            <a id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_HypID1_3" class="iEventItem" href="http://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?260" target="_self">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_imgWhatsNew1_3" class="swiper-lazy" data-src="./writereaddata/Portal/WhatsNewImages/260_1_1_Ministry_of_Culture_tableau_clinches_first_spot_at_Republic_Day_Parade_2024.jpg" width="327" height="185" alt="Ministry of Culture tableau clinches first spot at Republic Day Parade 2024" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                        </div>
+                    </div>
+                    <div class="iEventDate">
+                        <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblDt_3" class="displayNone"> 01 February 2024</span> 01
+                        <span>
+                            <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblMonthYear1_3">Feb'24</span></span>
+                    </div>
+					<div class="spotlightCard">
+						Article
+                    </div>
+                </div>
+                <div class="iEventCard">
+                    <h2>
+                        Ministry of Culture tableau clinches first spot at Republic Day ...
+                    </h2>
+                    <div class="d-flex align-items-center justify-content-between recordCategory">
+                        <span class="viewMoreLink">Know More</span>
+                        <p class="eventSubCategory"> Achievements@75 </p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl04$hdnSpotlightCat" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnSpotlightCat_4" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl04$hdnID" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnID_4" value="259" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl04$hdnImageName" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnImageName_4" value="75th_Republic_Day_at_Kartavya_Path_1.jpg" />
+            <a id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_HypID1_4" class="iEventItem" href="http://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?259" target="_self">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_imgWhatsNew1_4" class="swiper-lazy" data-src="./writereaddata/Portal/WhatsNewImages/259_1_1_75th_Republic_Day_at_Kartavya_Path_1.jpg" width="327" height="185" alt="Women power showcased on India’s 75th Republic Day at Kartavya Path, New Delhi" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                        </div>
+                    </div>
+                    <div class="iEventDate">
+                        <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblDt_4" class="displayNone"> 26 January 2024</span> 26
+                        <span>
+                            <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblMonthYear1_4">Jan'24</span></span>
+                    </div>
+					<div class="spotlightCard">
+						Article
+                    </div>
+                </div>
+                <div class="iEventCard">
+                    <h2>
+                        Women power showcased on India’s 75th Republic Day at Kartavya P...
+                    </h2>
+                    <div class="d-flex align-items-center justify-content-between recordCategory">
+                        <span class="viewMoreLink">Know More</span>
+                        <p class="eventSubCategory"> Actions@75 </p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl05$hdnSpotlightCat" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnSpotlightCat_5" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl05$hdnID" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnID_5" value="258" />
+            <input type="hidden" name="ctl00$ContentPlaceHolder1$SpotlightScrollingNew1$rptScrolling$ctl05$hdnImageName" id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_hdnImageName_5" value="rammandirthumbnail.jpg" />
+            <a id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_HypID1_5" class="iEventItem" href="http://amritmahotsav.nic.in/spotlight-of-the-week-detail.htm?258" target="_self">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_imgWhatsNew1_5" class="swiper-lazy" data-src="./writereaddata/Portal/WhatsNewImages/258_1_1_rammandirthumbnail.jpg" width="327" height="185" alt="Prime Minister Narendra Modi participated in Pran Pratishtha ceremony of Shri Ramlalla in Ayodhya, Uttar Pradesh" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                        </div>
+                    </div>
+                    <div class="iEventDate">
+                        <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblDt_5" class="displayNone"> 23 January 2024</span> 23
+                        <span>
+                            <span id="ContentPlaceHolder1_SpotlightScrollingNew1_rptScrolling_lblMonthYear1_5">Jan'24</span></span>
+                    </div>
+					<div class="spotlightCard">
+						Article
+                    </div>
+                </div>
+                <div class="iEventCard">
+                    <h2>
+                        Prime Minister Narendra Modi participated in Pran Pratishtha cer...
+                    </h2>
+                    <div class="d-flex align-items-center justify-content-between recordCategory">
+                        <span class="viewMoreLink">Know More</span>
+                        <p class="eventSubCategory"> Achievements@75 </p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="homeTheme" class="homeTheme homeCommonPad pt-0">
+<div class="container">
+<h2 class="homeTitle noBrd">Five Themes of Azadi Ka Amrit Mahotsav</h2>
+<input type="hidden" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$hdnLanguageID" id="ContentPlaceHolder1_FiveThemeControl1_hdnLanguageID" value="1" />
+<input type="hidden" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$hdnThemeName" id="ContentPlaceHolder1_FiveThemeControl1_hdnThemeName" value="Freedom Struggle" />
+<input type="hidden" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$hdnThemeNameIdea75" id="ContentPlaceHolder1_FiveThemeControl1_hdnThemeNameIdea75" value="Ideas@75" />
+<input type="hidden" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$hdnThemeNameResolved75" id="ContentPlaceHolder1_FiveThemeControl1_hdnThemeNameResolved75" value="Resolve@75" />
+<input type="hidden" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$hdnThemeNameAction75" id="ContentPlaceHolder1_FiveThemeControl1_hdnThemeNameAction75" value="Actions@75" />
+<input type="hidden" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$hdnThemeNameAchive75" id="ContentPlaceHolder1_FiveThemeControl1_hdnThemeNameAchive75" value="Achievements@75" />
+<input type="submit" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$btntheme1" value="" id="ContentPlaceHolder1_FiveThemeControl1_btntheme1" style="display: none;" />
+<input type="submit" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$btnthemeIdea75" value="" id="ContentPlaceHolder1_FiveThemeControl1_btnthemeIdea75" style="display: none;" />
+<input type="submit" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$btnthemeResolve75" value="" id="ContentPlaceHolder1_FiveThemeControl1_btnthemeResolve75" style="display: none;" />
+<input type="submit" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$btnthemeAction75" value="" id="ContentPlaceHolder1_FiveThemeControl1_btnthemeAction75" style="display: none;" />
+<input type="submit" name="ctl00$ContentPlaceHolder1$FiveThemeControl1$btnthemeAchievement75" value="" id="ContentPlaceHolder1_FiveThemeControl1_btnthemeAchievement75" style="display: none;" />
+<div class="resTab themeTab">
+<ul class="tabNav themeTabList">
+<li><a href="#theme-tab-1" class="themeTabLink ThemeTab1"><span>Freedom Struggle</span></a></li>
+<li><a href="#theme-tab-2" class="themeTabLink ThemeTab2"><span>Ideas@75</span></a></li>
+<li><a href="#theme-tab-3" class="themeTabLink ThemeTab3"><span>Resolve@75</span></a></li>
+<li><a href="#theme-tab-4" class="themeTabLink ThemeTab4"><span>Actions@75</span></a></li>
+<li><a href="#theme-tab-5" class="themeTabLink ThemeTab5"><span>Achievements@75</span></a></li>
+
+
+</ul>
+<div class="tabContainer">
+<div class="tabContent" id="theme-tab-1">
+
+<div id="ContentPlaceHolder1_FiveThemeControl1_UpdtFs">
+	
+<div class="row">
+<div class="col-lg-5 tabThemeLeft">
+<h2 class="homeTitle">Freedom Struggle</h2>
+<p>This theme anchors our commemoration initiatives under Azadi Ka Amrit Mahotsav. It helps bring alive stories of unsung heroes whose sacrifices have made freedom a reality for us and also revisits the milestones, freedom movements etc. in the historical journey to 15 August, 1947.</p><p>Programmes under this theme include Birsa Munda Jayanti (Janjatiya Gaurav Diwas), Declaration of Provisional Government of Free India by Netaji, Shaheed Diwas etc...</p><p> </p><a href="freedom-strugle.htm" class="viewMoreLink" title="Read More">Read More</a> 
+</div>
+<div class="col-lg-7">
+<div class="sliderNavWrap d-flex align-items-center justify-content-end"><a href="eventlistthemewisedata.htm?9" id="ContentPlaceHolder1_FiveThemeControl1_Tab1Link" class="viewMoreLink">View All</a>
+<div class="prevArrow sliderSmallArrow"><span class="fa fa-angle-left"></span></div>
+<div class="nextArrow sliderSmallArrow"><span class="fa fa-angle-right"></span></div>
+</div>
+<div class="themeNewSlider smallLabel">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+
+        <div class="swiper-slide">
+            <a href="event-detail.htm?270569" title="De Jure Transfer Day held on 16-08-2024 at Kizhur Monument, Puducherry" class="iEventItem">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_imgevent_0" class="swiper-lazy" data-src="./writereaddata/Portal/Event/IndiaAt75EventImage/29e90c88-3146-4cc8-aae8-cd1673ac8c65_12222.jpg" width="327" height="185" alt="De Jure Transfer Day held on 16-08-2024 at Kizhur Monument, Puducherry" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                         </div>
+                        
+                        
+                    </div>
+                    <div class="iEventDate">
+                         16
+                        <span>
+                            <span id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_lblMonthYear_0">Aug'24</span></span>
+                    </div>
+                </div>
+                <div class="iEventCard">
+                        
+                    <h2>
+                            De Jure Transfer Day held on 16-08-2024 ...
+                    </h2>
+                    <span class="viewMoreLink">Know More</span>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <a href="event-detail.htm?270561" title="Har Ghar Tiranga - Boat rally flagged off by Hon’ble Lieutnant Governor on 14-08-2024" class="iEventItem">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_imgevent_1" class="swiper-lazy" data-src="./writereaddata/Portal/Event/IndiaAt75EventImage/9805b0a0-9bc5-4a10-ba0c-882165a9c1ed_picccre11.jpg" width="327" height="185" alt="Har Ghar Tiranga - Boat rally flagged off by Hon’ble Lieutnant Governor on 14-08-2024" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                         </div>
+                        
+                        
+                    </div>
+                    <div class="iEventDate">
+                         14
+                        <span>
+                            <span id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_lblMonthYear_1">Aug'24</span></span>
+                    </div>
+                </div>
+                <div class="iEventCard">
+                        
+                    <h2>
+                            Har Ghar Tiranga - Boat rally flagged of...
+                    </h2>
+                    <span class="viewMoreLink">Know More</span>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <a href="event-detail.htm?270562" title="Distribution of flags to Govt Schools by Hon’ble Minister for Education, Government of Puducherry" class="iEventItem">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_imgevent_2" class="swiper-lazy" data-src="./writereaddata/Portal/Event/IndiaAt75EventImage/23ea9a1b-897d-458a-8c32-a5254b014fe3_picmain.jpg" width="327" height="185" alt="Distribution of flags to Govt Schools by Hon’ble Minister for Education, Government of Puducherry" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                         </div>
+                        
+                        
+                    </div>
+                    <div class="iEventDate">
+                         14
+                        <span>
+                            <span id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_lblMonthYear_2">Aug'24</span></span>
+                    </div>
+                </div>
+                <div class="iEventCard">
+                        
+                    <h2>
+                            Distribution of flags to Govt Schools by...
+                    </h2>
+                    <span class="viewMoreLink">Know More</span>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <a href="event-detail.htm?270563" title="Har Ghar Tiranga - students rally conducted by School Education and Department of Art and Culture" class="iEventItem">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_imgevent_3" class="swiper-lazy" data-src="./writereaddata/Portal/Event/IndiaAt75EventImage/99dfa56c-2c95-48ce-a909-762b487f3338_picc1.jpg" width="327" height="185" alt="Har Ghar Tiranga - students rally conducted by School Education and Department of Art and Culture" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                         </div>
+                        
+                        
+                    </div>
+                    <div class="iEventDate">
+                         14
+                        <span>
+                            <span id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_lblMonthYear_3">Aug'24</span></span>
+                    </div>
+                </div>
+                <div class="iEventCard">
+                        
+                    <h2>
+                            Har Ghar Tiranga - students rally conduc...
+                    </h2>
+                    <span class="viewMoreLink">Know More</span>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <a href="event-detail.htm?270564" title="Har Ghar Tiranga - students rally held at Puducherry Airport" class="iEventItem">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_imgevent_4" class="swiper-lazy" data-src="./writereaddata/Portal/Event/IndiaAt75EventImage/1693ee08-9dec-4a3b-939e-e449491c3d43_piccc1.jpg" width="327" height="185" alt="Har Ghar Tiranga - students rally held at Puducherry Airport" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                         </div>
+                        
+                        
+                    </div>
+                    <div class="iEventDate">
+                         14
+                        <span>
+                            <span id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_lblMonthYear_4">Aug'24</span></span>
+                    </div>
+                </div>
+                <div class="iEventCard">
+                        
+                    <h2>
+                            Har Ghar Tiranga - students rally held a...
+                    </h2>
+                    <span class="viewMoreLink">Know More</span>
+                </div>
+            </a>
+        </div>
+    
+        <div class="swiper-slide">
+            <a href="event-detail.htm?270567" title="Har Ghar Tiranga rally program held at Karaikal Collectorate, Karaikal on 13-08-2024" class="iEventItem">
+                <div class="imgHolderWrap">
+                    <div class="imgHolder">
+                        <div class="eventBgImage">
+                            <img id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_imgevent_5" class="swiper-lazy" data-src="./writereaddata/Portal/Event/IndiaAt75EventImage/6baf7c7c-b918-4b6d-998d-981f3bd1fa04_picccmain.jpg" width="327" height="185" alt="Har Ghar Tiranga rally program held at Karaikal Collectorate, Karaikal on 13-08-2024" src="" /><span
+                                class="swiper-lazy-preloader swiper-lazy-preloader-white"></span>
+                         </div>
+                        
+                        
+                    </div>
+                    <div class="iEventDate">
+                         13
+                        <span>
+                            <span id="ContentPlaceHolder1_FiveThemeControl1_rptEventList_lblMonthYear_5">Aug'24</span></span>
+                    </div>
+                </div>
+                <div class="iEventCard">
+                        
+                    <h2>
+                            Har Ghar Tiranga rally program held at K...
+                    </h2>
+                    <span class="viewMoreLink">Know More</span>
+                </div>
+            </a>
+        </div>
+    
+
+</div>
+<div class="themeNewSlider-prev sliderSmallArrow" role="button" aria-label="Previous slide" tabindex="0"><span class="fa fa-angle-left"></span></div>
+<div class="themeNewSlider-next sliderSmallArrow" role="button" aria-label="Next slide" tabindex="0"><span class="fa fa-angle-right"></span></div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+   
+</div>
+<div class="tabContent" id="theme-tab-2">
+
+<div id="ContentPlaceHolder1_FiveThemeControl1_Updatepanel1">
+	
+<div class="row">
+<div class="col-lg-5 tabThemeLeft">
+<h2 class="homeTitle">Ideas@75</h2>
+<p>This theme focuses on programmes and events inspired by ideas and ideals that have shaped us and will guide us as we navigate through this period of Amrit Kaal (25 years between India@75 and India@100). The world as we knew it is changing and a new world is unfolding. The strength of our convictions will determine the longevity of our ideas. Events and programmes under this theme include popular, participatory initiatives that help bring alive India’s unique contribution to the world. These include events and initiatives such as <strong>Kashi Utsav</strong> dedicated to Hindi literary luminaries from the land of Kashi, <strong>Post Cards to Prime Minister</strong> wherein more than...</p>
+<a href="ideas-75.htm" class="viewMoreLink" title="Read More">Read More</a>
+</div>
+<div class="col-lg-7">
+<div class="sliderNavWrap d-flex align-items-center justify-content-end"><a href="eventlistthemewisedata.htm?8" id="ContentPlaceHolder1_FiveThemeControl1_Tab2Link" class="viewMoreLink">View All</a>
+<div class="prevArrow sliderSmallArrow"><span class="fa fa-angle-left"></span></div>
+<div class="nextArrow sliderSmallArrow"><span class="fa fa-angle-right"></span></div>
+</div>
+<div class="themeNewSlider smallLabel">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+
+<div id="ContentPlaceHolder1_FiveThemeControl1_DiverrorIdea75" class="error" style="display:none;">
+    No Event Found.
+</div>
+</div>
+<div class="themeNewSlider-prev sliderSmallArrow" role="button" aria-label="Previous slide" tabindex="0"><span class="fa fa-angle-left"></span></div>
+<div class="themeNewSlider-next sliderSmallArrow" role="button" aria-label="Next slide" tabindex="0"><span class="fa fa-angle-right"></span></div>
+</div>
+</div>
+</div>
+</div>
+ 
+</div>
+</div>
+<div class="tabContent" id="theme-tab-3">
+<div id="ContentPlaceHolder1_FiveThemeControl1_ctl00">
+	
+        <div class="row">
+<div class="col-lg-5 tabThemeLeft">
+<h2 class="homeTitle">Resolve@75</h2>
+<p>This theme focuses on our collective resolve and determination to shape the destiny of our motherland. The journey to 2047 requires each one of us to rise up and play our part as individuals, groups, civil society, institutions of governance etc. Only through our collective resolve, well laid out action plans and determined efforts will ideas translate into actions. Events and programmes under this theme include initiatives such as <strong>Constitution Day, Good Governance Week etc.</strong> that help bring alive our commitment towards the ‘PLANET AND PEOPLE’ while being driven by a deep sense of PURPOSE...</p>
+<a href="resolve-75-reinforcing-commitments-to-specific-goals-and-targets.htm" class="viewMoreLink" title="Read More">Read More</a>
+
+</div>
+<div class="col-lg-7">
+<div class="sliderNavWrap d-flex align-items-center justify-content-end"><a href="eventlistthemewisedata.htm?6" id="ContentPlaceHolder1_FiveThemeControl1_Tab3Link" class="viewMoreLink">View All</a>
+<div class="prevArrow sliderSmallArrow"><span class="fa fa-angle-left"></span></div>
+<div class="nextArrow sliderSmallArrow"><span class="fa fa-angle-right"></span></div>
+</div>
+<div class="themeNewSlider smallLabel">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+
+<div id="ContentPlaceHolder1_FiveThemeControl1_DivErrorResolvAt75" class="error" style="display:none;">
+    No Event Found.
+</div>
+
+</div>
+<div class="themeNewSlider-prev sliderSmallArrow" role="button" aria-label="Previous slide" tabindex="0"><span class="fa fa-angle-left"></span></div>
+<div class="themeNewSlider-next sliderSmallArrow" role="button" aria-label="Next slide" tabindex="0"><span class="fa fa-angle-right"></span></div>
+</div>
+</div>
+</div>
+</div>
+    
+</div>
+
+</div>
+
+<div class="tabContent" id="theme-tab-4">
+<div id="ContentPlaceHolder1_FiveThemeControl1_ctl01">
+	
+        <div class="row">
+            <div class="col-lg-5 tabThemeLeft">
+                <h2 class="homeTitle">Actions@75</h2>
+                <p>This theme focuses on all the efforts that are being undertaken to help India take its rightful position in the new world order emerging in a post covid world by highlighting the steps being taken to implement policies and actualise commitments. It is driven by Prime Minister Modi’s clarion call of <strong>SABKA SAATH. SABKA VIKAS. SABKA VISHWAS, SABKA PRAYAS.</strong> It encompasses Government policies, schemes, action plans along with commitments from businesses, NGOs, civil society that help actualise our ideas and help us collectively create a better tomorrow. Programmes under this theme include initiatives such as <strong> Gati Shakti - National Master Plan for</strong>...</p>
+<a href="actions-75.htm" class="viewMoreLink" title="Read More">Read More</a>
+            </div>
+            <div class="col-lg-7">
+                <div class="sliderNavWrap d-flex align-items-center justify-content-end"><a href="eventlistthemewisedata.htm?5" id="ContentPlaceHolder1_FiveThemeControl1_Tab4Link" class="viewMoreLink">View All</a>
+                    <div class="prevArrow sliderSmallArrow"><span class="fa fa-angle-left"></span></div>
+                    <div class="nextArrow sliderSmallArrow"><span class="fa fa-angle-right"></span></div>
+                </div>
+                <div class="themeNewSlider smallLabel">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            
+<div id="ContentPlaceHolder1_FiveThemeControl1_DiverrorAction75" class="error" style="display:none;">
+    No Event Found.
+</div>
+
+                        </div>
+                        <div class="themeNewSlider-prev sliderSmallArrow" role="button" aria-label="Previous slide" tabindex="0"><span class="fa fa-angle-left"></span></div>
+                        <div class="themeNewSlider-next sliderSmallArrow" role="button" aria-label="Next slide" tabindex="0"><span class="fa fa-angle-right"></span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>
+</div>
+
+<div class="tabContent" id="theme-tab-5">
+<div id="ContentPlaceHolder1_FiveThemeControl1_ctl02">
+	
+        <div class="row">
+            <div class="col-lg-5 tabThemeLeft">
+                <h2 class="homeTitle">Achievements@75</h2>
+               <p>This theme focuses on marking the passage of time and all our milestones along the way. It is intended to grow into a public account of our collective achievements as a 75-year-old independent country with a legacy of 5000+ years of ancient history.</p>
+               <p>Events and programmes under this theme include initiatives such as <strong>Swarnim Vijay Varsh dedicated to the victory of 1971, launch of Shreshtha Yojana during Mahaparinirvan Diwas etc...</strong></p>
+<a href="achivements-75.htm" class="viewMoreLink" title="Read More">Read More</a>
+
+            </div>
+            <div class="col-lg-7">
+                <div class="sliderNavWrap d-flex align-items-center justify-content-end"><a href="eventlistthemewisedata.htm?7" id="ContentPlaceHolder1_FiveThemeControl1_Tab5Link" class="viewMoreLink">View All</a>
+                    <div class="prevArrow sliderSmallArrow"><span class="fa fa-angle-left"></span></div>
+                    <div class="nextArrow sliderSmallArrow"><span class="fa fa-angle-right"></span></div>
+                </div>
+                <div class="themeNewSlider smallLabel">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            
+<div id="ContentPlaceHolder1_FiveThemeControl1_DiverrorAchievement75" class="error" style="display:none;"> 
+    No Event Found.
+</div>
+                        </div>
+                        <div class="themeNewSlider-prev sliderSmallArrow" role="button" aria-label="Previous slide" tabindex="0"><span class="fa fa-angle-left"></span></div>
+                        <div class="themeNewSlider-next sliderSmallArrow" role="button" aria-label="Next slide" tabindex="0"><span class="fa fa-angle-right"></span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+</div>     
+</div>
+
+</div>
+</div>
+
+<script type="text/javascript">
+
+var parameter = Sys.WebForms.PageRequestManager.getInstance();
+        parameter.add_endRequest(function () {
+            $(document).ready(function () {
+                // Responsive Tabing Script
+                if ($(".resTab").length) {
+                    $('.resTab').responsiveTabs({
+                        rotate: false,
+                        startCollapsed: 'tab',
+                        collapsible: 'accordion',
+                        scrollToAccordion: true,
+                        scrollToAccordionOnLoad: false
+                    });
+                };
+                //alert(1);
+
+                //Home Theme wise Slider
+	if($(".themeNewSlider").length){
+		var themeNewSlider = new Swiper('.themeNewSlider .swiper-container', {
+		speed: 400,
+    	spaceBetween: 10,
+		slidesPerView: 2,
+		loop:true,
+		lazy: true,
+		simulateTouch: false,
+		autoplay:false,	
+		observer:true,
+		observeParents:true,
+    	navigation: {
+			nextEl: '.themeNewSlider-next',
+			prevEl: '.themeNewSlider-prev',
+        },
+		breakpoints: {
+		639: {
+          slidesPerView: 1,
+		  simulateTouch: true,
+		  centerSlide:true,
+		  spaceBetween: 0
+        },
+		767: {
+          slidesPerView: 1,
+		  simulateTouch: true,
+		  centerSlide:true,
+		  spaceBetween: 0
+        },
+		992: {
+          slidesPerView: 2,
+		  simulateTouch: true
+        },
+		1169: {
+          slidesPerView: 2,
+		  simulateTouch: true
+        }
+      }
+		
+		});
+	}
+	
+	
+	//Home event bg image
+	if($(".themeTab .eventBgImage").length){
+		$(".themeTab .eventBgImage").each(function(){
+			  var eventBgImage=$(this).find("img").attr("data-src");
+			  $(this).css("background-image","url( "+eventBgImage+" )");
+		});
+	}
+	
+	
+	
+	$('.themeTabLink').click(function() {
+		var $thePane = $('.themeTab .tabContent');
+  		var paneIndex = $thePane.index();
+  		if ($thePane.find('.swiper-container').length > 0 && 0 === $thePane.find('.swiper-slide-active').length) {
+    		themeNewSlider[paneIndex].update();
+  		}
+	});
+	$('.prevArrow').click(function() {
+        $(this).parents().find(".tabContent.r-tabs-state-active").find('.themeNewSlider-prev').trigger('click');
+	});
+	$('.nextArrow').click(function() {
+        	$(this).parents().find(".tabContent.r-tabs-state-active").find('.themeNewSlider-next').trigger('click');
+	});
+
+
+            });
+        });
+
+
+
+	$(".ThemeTab1").click(function () {
+        FuncTheme1();
+    });	
+    
+	$(".ThemeTab2").click(function () {
+        FuncTheme2();
+    });
+
+    $(".ThemeTab3").click(function () {
+        FuncTheme3();
+    });
+
+    $(".ThemeTab4").click(function () {
+        FuncTheme4();
+    });
+
+    $(".ThemeTab4").click(function () {
+        FuncTheme4();
+    });
+
+    $(".ThemeTab5").click(function () {
+        FuncTheme5();
+    });
+	
+	/*$(".themeAcc-0").click(function () {
+    FuncTheme1();
+    });
+    $(".themeAcc-1").click(function () {
+    FuncTheme2();
+    });
+    $(".themeAcc-2").click(function () {
+	
+    FuncTheme3();
+    });
+    $(".themeAcc-3").click(function () {
+    FuncTheme4();
+    });
+    $(".themeAcc-4").click(function () {
+    FuncTheme5();
+    });*/
+
+    function FuncTheme1() {
+        document.getElementById('ContentPlaceHolder1_FiveThemeControl1_btntheme1').click();
+    }
+
+    function FuncTheme2() {
+        document.getElementById('ContentPlaceHolder1_FiveThemeControl1_btnthemeIdea75').click();
+    }
+    
+    function FuncTheme3() {
+        document.getElementById('ContentPlaceHolder1_FiveThemeControl1_btnthemeResolve75').click();
+    }
+    
+    function FuncTheme4() {
+        document.getElementById('ContentPlaceHolder1_FiveThemeControl1_btnthemeAction75').click();
+    }
+    
+    function FuncTheme5() {
+        document.getElementById('ContentPlaceHolder1_FiveThemeControl1_btnthemeAchievement75').click();
+    }
+</script>
+</div>
+</section>
+<section id="homeVideoGallery" class="homeVideoGallery homeCommonPad">
+<div class="container">
+<div class="row">
+<div class="col-md-8">
+<div class="titleHeader">
+<h2 class="homeTitle">Video Gallery</h2>
+<div class="sliderNavWrap d-flex align-items-center"><a title="View All" href="video-gallery.htm" class="viewMoreLink">View All</a>
+<div class="gallery-thumbs-prev sliderSmallArrow" role="button" aria-label="Previous slide" tabindex="0"><span class="fa fa-angle-left"></span></div>
+<div class="gallery-thumbs-next sliderSmallArrow" role="button" aria-label="Next slide" tabindex="0"><span class="fa fa-angle-right"></span></div>
+</div>
+</div>
+<div class="homeGallery">
+<div class="swiper-container gallery-top">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="video-background">
+<div class="video-foreground" data-video-id="wPqkae1fKwA"></div>
+</div>
+<div class="slick-button"><img alt="Act on Thaayin Manikodi Paareer" src="writereaddata/portal/images/poster-1.webp" width="923" height="500" /> <span class="play-video icons"> <span class="fa fa-play"></span> </span>
+<div class="galleryVideoTitle">Act on Thaayin Manikodi Paareer</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="video-background">
+<div class="video-foreground" data-video-id="_qN-fan5t5M"></div>
+</div>
+<div class="slick-button"><img alt="Soun Wattan by Saurabh Zadoo and Indian Harmonies" src="writereaddata/portal/images/poster-2.webp" width="923" height="500" /> <span class="play-video icons"> <span class="fa fa-play"></span> </span>
+<div class="galleryVideoTitle">Soun Wattan by Saurabh Zadoo and Indian Harmonies...</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="video-background">
+<div class="video-foreground" data-video-id="Qc6VPdABOZg"></div>
+</div>
+<div class="slick-button"><img alt="Vande Mataram By Padma Shri Hariharan" src="writereaddata/Portal/Images/poster-6.webp" width="923" height="500" /> <span class="play-video icons"> <span class="fa fa-play"></span> </span>
+<div class="galleryVideoTitle">Vande Mataram By Padma Shri Hariharan</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="video-background">
+<div class="video-foreground" data-video-id="BVTAlCvdxnY"></div>
+</div>
+<div class="slick-button"><img alt="Jai Ho By Ustad Arshad Ali Khan" src="writereaddata/portal/images/poster-3.webp" width="923" height="500" /> <span class="play-video icons"> <span class="fa fa-play"></span> </span>
+<div class="galleryVideoTitle">Jai Ho By Ustad Arshad Ali Khan, Pratibha Singh...</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="video-background">
+<div class="video-foreground" data-video-id="vE7U9s-FhBQ"></div>
+</div>
+<div class="slick-button"><img alt="Hon'ble Prime Minister Shri Narendra Modi" src="writereaddata/portal/images/poster-4.webp" width="923" height="500" /> <span class="play-video icons"> <span class="fa fa-play"></span> </span>
+<div class="galleryVideoTitle">Hon'ble Prime Minister Shri Narendra Modi's...</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-container gallery-thumbs">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="swiper-slide-container">
+<div class="imgHolder"><img alt="Act on Thaayin Manikodi Paareer" src="writereaddata/portal/images/video-thumb-1.webp" width="308" height="158" /> <span class="fa fa-play"></span></div>
+<p class="videoTitle">Act on Thaayin Manikodi Paareer</p>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-slide-container">
+<div class="imgHolder"><img alt="Soun Wattan by Saurabh Zadoo and Indian Harmonies" src="writereaddata/portal/images/video-thumb-2.webp" width="308" height="158" /> <span class="fa fa-play"></span></div>
+<p class="videoTitle">Soun Wattan by Saurabh Zadoo and Indian Harmonies...</p>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-slide-container">
+<div class="imgHolder"><img alt="Vande Mataram By Padma Shri Hariharan" src="writereaddata/Portal/Images/thumb-6.webp" width="308" height="158" /> <span class="fa fa-play"></span></div>
+<p class="videoTitle">Vande Mataram By Padma Shri Hariharan...</p>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-slide-container">
+<div class="imgHolder"><img alt="Jai Ho By Ustad Arshad Ali Khan, Pratibha Singh" src="writereaddata/portal/images/video-thumb-3.webp" width="308" height="158" /> <span class="fa fa-play"></span></div>
+<p class="videoTitle">Jai Ho By Ustad Arshad Ali Khan, Pratibha Singh...</p>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="swiper-slide-container">
+<div class="imgHolder"><img alt="Hon'ble Prime Minister Shri Narendra Modi" src="writereaddata/portal/images/video-thumb-4.webp" width="308" height="158" /> <span class="fa fa-play"></span></div>
+<p class="videoTitle">Hon'ble Prime Minister Shri Narendra Modi's...</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<h2 class="homeTitle">Social Feeds</h2>
+<div class="evs ovr-visible socialfeeds"><nav>
+<div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist"><a class="nav-item nav-link active twitterLink" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true"> <img src="writereaddata/portal/images/twitter.png" alt="Twitter" /> <!--<span class="fa fa-twitter"></span>--> </a> <a class="nav-item nav-link facebookLink" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> <span class="fa fa-facebook-square"></span> </a></div>
+</nav>
+<div class="tab-content " id="nav-tabContent">
+              <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+              	<div id="twitterHolder"></div>
+                <!--<div class="ibContentBox">
+                  <a class="twitter-timeline" href="https://twitter.com/AmritMahotsav" data-dnt="true" data-widget-id="478522991832092674">Tweets by @AmritMahotsav</a>
+                  <script>// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// ]]></script>
+                </div>-->
+              </div>
+              <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+                <div id="facebookHolder"></div>
+                <!--<iframe class="facebookFrame" style="border: none; overflow: hidden;" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FAmrit-Mahotsav-101713962007976&amp;tabs=timeline&amp;width=442&amp;height=705&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId" width="442" height="705"></iframe>-->
+              </div>
+            </div>
+<script>
+	/*setTimeout(function() {
+		$('#twitterHolder').load('tw-social.html');
+	}, 8000);					
+
+	$(".facebookLink").click(function() {
+		$('#facebookHolder').load('fb-social.html');
+	});
+	$(".twitterLink").click(function() {
+		setTimeout(function() {$('#twitterHolder').load('twitter-feed.html');}, 100);
+	});*/
+	
+	
+
+
+	
+
+</script></div>
+</div>
+</div>
+</div>
+</section> <div id="ContentPlaceHolder1_UserCMSFooter1_footer"><div class="footer-logos">
+<div class="container">
+<div class="footerLogoSlider">
+<div class="swiper-container">
+<div class="swiper-wrapper">
+<div class="swiper-slide"><a title="http://india.gov.in, The National Portal of India : External website that opens in a new " target="_blank" href="http://india.gov.in/" rel="noopener"><img alt="http://india.gov.in, The National Portal of India : External website that opens in a new " src="writereaddata/portal/images/footerlog-1.webp" width="127" height="60" /></a></div>
+<div class="swiper-slide"><a title="https://www.mygov.in, MyGov.in | MyGov: A Platform for Citizen Engagement towards Good Governance in India : External website that opens in a new " target="_blank" href="https://www.mygov.in" rel="noopener"><img alt="https://www.mygov.in, MyGov.in | MyGov: A Platform for Citizen Engagement towards Good Governance in India : External website that opens in a new " src="writereaddata/portal/images/footerlog-5.webp" width="120" height="60" /></a></div>
+<div class="swiper-slide"><a title="https://www.digitalindia.gov.in | Digitalindia | Digital India Programme | Ministry of Electronics & Information Technology(MeitY)  Government of India : External website that opens in a new " target="_blank" href="https://www.digitalindia.gov.in" rel="noopener"><img alt="https://www.digitalindia.gov.in, Digitalindia | Digital India Programme | Ministry of Electronics & Information Technology(MeitY)  Government of India : External website that opens in a new " src="writereaddata/portal/images/footerlog-6.webp" width="156" height="60" /></a></div>
+<div class="swiper-slide"><a title="https://www.indiaculture.nic.in, Ministry of Culture, Government of India : External website that opens in a new " target="_blank" href="https://www.indiaculture.nic.in/" rel="noopener"><img alt="https://www.indiaculture.nic.in, Ministry of Culture, Government of India : External website that opens in a new " src="writereaddata/portal/images/footerlog-2.webp" width="127" height="60" /></a></div>
+<div class="swiper-slide"><a title="https://www.incredibleindia.org/, Incredible India, Ministry of Tourism, Government of India : External website that opens in a new " target="_blank" href="https://www.incredibleindia.org/content/incredible-india-v2/en.html" rel="noopener"><img alt="https://www.indiaculture.nic.in, Incredible, India Ministry of Tourism, Government of India : External website that opens in a new " src="writereaddata/portal/images/footerlog-3.webp" width="127" height="60" /></a></div>
+<div class="swiper-slide"><a title="https://mea.gov.in/, Ministry of External Affairs, Government of India : External website that opens in a new " target="_blank" href="https://mea.gov.in/" rel="noopener"><img alt="https://mea.gov.in/, Ministry of External Affairs, Government of India : External website that opens in a new " src="writereaddata/portal/images/footerlog-4.webp" width="127" height="60" /></a></div>
+</div>
+</div>
+<div class="footerLogoSlider-prev sliderSmallArrow" role="button" aria-label="Previous slide" tabindex="0"><span class="fa fa-angle-left"></span></div>
+<div class="footerLogoSlider-next sliderSmallArrow" role="button" aria-label="Next slide" tabindex="0"><span class="fa fa-angle-right"></span></div>
+</div>
+</div>
+</div>
+<footer id="footer" class="footer">
+<div class="container">
+<div class="row">
+<div class="col-lg-6">
+<div class="copyright">
+<ul class="footer-privacy-link">
+<li><a href="sitemap.htm" title="Sitemap">Sitemap </a><span>|</span></li>
+<li><a href="feedback.htm" title="Feedback">Feedback</a><span>|</span></li>
+<li><a href="downloads.htm" title="Downloads">Downloads</a><span>|</span></li>
+<li><a href="tender.htm" title="Tenders">Tenders</a><span>|</span></li>
+<li><a href="http://cmsadmin.amritmahotsav.nic.in/EventUser/EventLogin.aspx" target="_blank" title="Login" rel="noopener">Login</a><span>|</span></li>
+<li><a href="privacy-policy.htm" title="Privacy Policy">Privacy Policy </a><span>|</span></li>
+<li><a href="contact.htm" title="Contact">Contact</a></li>
+</ul>
+<p class="copyrightText">Copyright © 2021 Azadi Ka Amrit Mahotsav, Government of India. All Rights Reserved.</p>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="copyright text-right">
+<p class="mb-10"><span id="ContentPlaceHolder1_UserCMSFooter1_UserPageLastUpdateDate1_lblPageLastUpdateDate">Website last updated on: <strong>14-5-2025</strong></span></p>
+<p class="mb-10 displayNone">Website last updated on: 13-05-2022</p>
+<p><span id="ContentPlaceHolder1_UserCMSFooter1_UserHitCounter1_lblHitCount">Visitors: <strong>112072704</strong></span></p>
+</div>
+</div>
+</div>
+</div>
+</footer></div></div>
+
+    <a href="#" id="backtotop" title="On click go to Top"><i class="fa fa-angle-up"></i> Top</a> </div>
+</form>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5EH59ZDQNR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5EH59ZDQNR');
+</script>
+<noscript class="displayNone"></noscript>
+<script src="writereaddata/js/functions.js?V=2" type="text/javascript"></script>
+<noscript class="displayNone">
+</noscript>
+<script src="writereaddata/js/general.js?V=5" type="text/javascript"></script>
+<noscript class="displayNone">
+</noscript>
+<script src="writereaddata/js/bootstrap-datepicker.min.js" type="text/javascript"></script>
+<noscript class="displayNone">
+</noscript>
+</body>
+</html>

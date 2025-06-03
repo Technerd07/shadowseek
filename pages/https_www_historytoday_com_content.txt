@@ -1,0 +1,1135 @@
+Content from: https://www.historytoday.com
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="History Today is the world’s leading serious history magazine. Read our monthly articles, features and reviews. Subscriptions to print, archive and digital available." />
+<link rel="shortlink" href="https://www.historytoday.com/" />
+<link rel="canonical" href="https://www.historytoday.com" />
+<meta name="baggage" content="sentry-trace_id=8cf4649a5e92491ca58113885219e6b5,sentry-sample_rate=0.01,sentry-public_key=09b56f7ec8f2d6fe769b5f610295e1dc,sentry-environment=production" />
+<meta name="sentry-trace" content="8cf4649a5e92491ca58113885219e6b5-cfbef92ab19449e4" />
+<meta name="traceparent" content="00-8cf4649a5e92491ca58113885219e6b5-cfbef92ab19449e4-00" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favicon.png" type="image/png" />
+<script src="/sites/default/files/google_tag/main/google_tag.script.js?sx9nuq" defer></script>
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.templates = {
+    twitter: "${title} ${link} via @HistoryToday"
+};
+a2a_config.icon_color = "transparent";
+</script>
+
+    <title>History Today | The World’s Leading Serious History Magazine</title>
+    <link rel="stylesheet" media="all" href="/libraries/slick/slick/slick.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/align.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/fieldgroup.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/container-inline.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/clearfix.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/details.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/hidden.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/item-list.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/js.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/nowrap.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/position-container.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/reset-appearance.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/resize.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-counter.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-counters.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/system-status-report-general-info.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/system/components/tablesort.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/core.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/slider.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/views/views.module.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/modules/contrib/addtoany/css/addtoany.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/modules/custom/ht_signup/css/ht_signup.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/themes/base/theme.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/modules/custom/axis_slider_block/css/axis_slider_block.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/assets/vendor/normalize-css/normalize.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/stable/css/core/normalize-fixes.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/action-links.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/breadcrumb.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/button.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/collapse-processed.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/container-inline.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/details.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/exposed-filters.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/field.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/form.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/icons.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/inline-form.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/item-list.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/link.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/links.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/menu.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/more-link.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/pager.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabledrag.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tableselect.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tablesort.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/tabs.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/textarea.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/ui-dialog.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/messages.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/contrib/classy/css/components/node.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,700;1,300&amp;family=Oswald:wght@500;700&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/themes/custom/historytoday/compiled/global-styling.css?sx9nuq" />
+<link rel="stylesheet" media="all" href="/themes/custom/historytoday/assets/overrides.css?sx9nuq" />
+
+    
+  </head>
+  <body class="path-frontpage page-node-type-page path--homepage sidebar-second">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NR4LBLQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+      <div class="layout-header-top" role="ads">
+        <div class="region region-header-top">
+    <div id="block-advertisement-banner" class="block block-axis-advertisement block-advertisement-banner-block">
+  
+    
+      <div id="advertisement--banner"></div>
+  </div>
+
+  </div>
+
+    </div>
+  
+  <header role="banner">
+      <div class="header__content">
+    <div id="block-historytoday-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/themes/custom/historytoday/assets/HT-logo.png" alt="Home" id="site-logo__image"/>
+    </a>
+      </div>
+<nav role="navigation" aria-labelledby="block-usermenuloggedout-menu" id="block-usermenuloggedout" class="block block-menu navigation menu--user-menu-logged-out">
+            
+  <h2 class="visually-hidden" id="block-usermenuloggedout-menu">User menu logged out</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+                        <a  href="https://www.historytoday.com/subscribe">Subscribe</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/user/login">Sign in</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-headersubscribe" class="block block-block-content block-block-contentca78db47-bb69-48e3-9075-dbf40a1d37e5">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a href="https://www.historytoday.com/magazine"><img data-entity-uuid="cb7bf7a9-d365-403e-8275-975fc2bb11c0" data-entity-type="file" src="/sites/default/files/inline-images/History%20Today%20June%202025%20Thumb.jpg" width="300" height="425" alt="History Today June 2025 issue" loading="lazy"></a>
+</p><p><a class="sub" href="//www.historytoday.com/subscription/subscribe">Subscription</a><br><a class="sub" href="//www.historytoday.com/subscription/subscribe">Offers</a></p>
+<p><a class="click" href="//www.historytoday.com/subscription/gift-subscription">Give a Gift</a></p>
+</div>
+      
+  </div>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1-header">
+  
+    
+      <form action="/site-search" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-keys form-item-keys">
+      <label for="edit-keys">Enter your keywords</label>
+        <input placeholder="Enter your keywords" data-drupal-selector="edit-keys" type="text" id="edit-keys" name="keys" value="Search" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Search" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+    <a href="/subscribe" class="mobile-menu__subscribe-link">
+      <button class="mobile-menu__subscribe-button">Subscribe</button>
+    </a>
+    <button class="mobile-menu__search-button">
+      <span class="sr-only">Search</span>
+    </button>
+    <button class="mobile-menu__navbar-toggle">
+      <span class="sr-only">Toggle navigation</span>
+      <span class="icon-bar icon-bar--top"></span>
+      <span class="icon-bar icon-bar--middle"></span>
+      <span class="icon-bar icon-bar--bottom"></span>
+    </button>
+  </div>
+
+      <nav class="region region-header-bottom">
+    <div class="nav__content">
+      <nav role="navigation" aria-labelledby="block-mainmenu-menu" id="block-mainmenu" class="block block-menu navigation menu--main-menu">
+            
+  <h2 class="visually-hidden" id="block-mainmenu-menu">Main menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+                        <a  href="https://www.historytoday.com/">Home</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/magazine">The Magazine</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/subscription/subscribe">Subscribe</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/shop/buy-current-issue">Buy the Current Issue</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/archive">Explore the Digital Archive</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/subscription/institutional-subscriptions">Institutions</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/reviews">Reviews</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/user/login">Sign in</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+    </div>
+  </nav>
+
+      <nav class="region region-header-mini">
+    <div class="nav__content">
+      <div id="block-sitebranding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" rel="home" class="site-logo">
+      <img src="/themes/custom/historytoday/assets/HT-logo.png" alt="Home" id="site-logo__image"/>
+    </a>
+      </div>
+<nav role="navigation" aria-labelledby="block-miniheadermenu-menu" id="block-miniheadermenu" class="block block-menu navigation menu--mini-header-menu">
+            
+  <h2 class="visually-hidden" id="block-miniheadermenu-menu">Mini header menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+                        <a  href="https://www.historytoday.com/site-search">Search</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/magazine">Magazine</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/latest">Latest</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/subscribe">Subscribe</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-miniheadersubscribelink" class="block block-block-content block-block-content6748f192-b526-43f7-b6ae-a3f1cfd327e1">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><a class="sub" href="//www.historytoday.com/subscribe">Subscribe</a></p>
+</div>
+      
+  </div>
+
+    </div>
+  </nav>
+
+  </header>
+
+  <main role="main">
+
+    
+
+          <div class="layout-content-top" role="complementary">
+          <div class="region region-content-top">
+    <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-homepageslider" class="block block-block-content block-block-contente9deb15a-20ff-4c68-811a-812aeb2d14de">
+  
+    
+      
+<div class="block-slider-content">
+      <div class="block_slide">  <div class="paragraph paragraph--type--block-slide paragraph--view-mode--default block-slide row">
+          <div class="col-m-6 col-xs-12 block-slide__image">
+        <a href="https://www.historytoday.com/archive/history-matters/politicising-abortion-united-states">
+            <img loading="lazy" src="/sites/default/files/2025-05/pennyroyal_abortion_us_history_today.jpeg" width="1200" height="1084" alt="A packet of pennyroyal leaves used to induce abortion, c. 1900. OHSU Library. Public Domain." typeof="foaf:Image" />
+
+
+        </a>
+      </div>
+      <div class="col-m-6 col-xs-12 block-slide__content">
+        <div class="block-slide__section">HISTORY MATTERS</div>
+        <div class="block-slide__title"><h2 class="title"><a href="https://www.historytoday.com/archive/history-matters/politicising-abortion-united-states">Politicising Abortion in the United States</a></h2></div>
+        <div class="block-slide__text"><p>In 19th-century America abortion was weaponised as part of a culture war.</p>
+</div>
+        <div class="block-slide__author">Mary Fissell</div>
+      </div>
+      </div>
+</div>
+      <div class="block_slide">  <div class="paragraph paragraph--type--block-slide paragraph--view-mode--default block-slide row">
+          <div class="col-m-6 col-xs-12 block-slide__image">
+        <a href="https://www.historytoday.com/archive/feature/nasser-suez-and-muslim-brotherhood">
+            <img loading="lazy" src="/sites/default/files/2025-05/egypt_nasser_muslim_brotherhood_history_today_0.jpg" width="500" height="371" alt="Crowds gather around the burning headquarters of the Muslim Brotherhood in Cairo, 27 October 1954.  It was set on fire after the attempted assassination of Gamal Abdel Nasser. Associated Press/Alamy." typeof="foaf:Image" />
+
+
+        </a>
+      </div>
+      <div class="col-m-6 col-xs-12 block-slide__content">
+        <div class="block-slide__section">FEATURE</div>
+        <div class="block-slide__title"><h2 class="title"><a href="https://www.historytoday.com/archive/feature/nasser-suez-and-muslim-brotherhood">Nasser, Suez, and the Muslim Brotherhood</a></h2></div>
+        <div class="block-slide__text"><p>As Nasser moved to nationalise the Suez Canal in 1956, Egypt’s Muslim Brotherhood was forced to choose between faith and freedom.</p>
+</div>
+        <div class="block-slide__author">Mathias Ghyoot</div>
+      </div>
+      </div>
+</div>
+      <div class="block_slide">  <div class="paragraph paragraph--type--block-slide paragraph--view-mode--default block-slide row">
+          <div class="col-m-6 col-xs-12 block-slide__image">
+        <a href="https://www.historytoday.com/archive/head-head/why-did-rome-fall">
+            <img loading="lazy" src="/sites/default/files/2025-05/fall_of_rome_barbarians_history_today.jpeg" width="1200" height="770" alt="Battle between Romans and barbarians, unknown artist, 16th century. Art Institute of Chicago. Public Domain." typeof="foaf:Image" />
+
+
+        </a>
+      </div>
+      <div class="col-m-6 col-xs-12 block-slide__content">
+        <div class="block-slide__section">HEAD TO HEAD</div>
+        <div class="block-slide__title"><h2 class="title"><a href="https://www.historytoday.com/archive/head-head/why-did-rome-fall">Why Did Rome Fall?</a></h2></div>
+        <div class="block-slide__text"><p>When it comes to the end of the Roman Empire three things are certain: death, taxes, and Goths. Were reports of its demise exaggerated?</p>
+</div>
+        <div class="block-slide__author">History Today</div>
+      </div>
+      </div>
+</div>
+      <div class="block_slide">  <div class="paragraph paragraph--type--block-slide paragraph--view-mode--default block-slide row">
+          <div class="col-m-6 col-xs-12 block-slide__image">
+        <a href="https://www.historytoday.com/archive/feature/black-chamber-opening-europes-post">
+            <img loading="lazy" src="/sites/default/files/2025-05/black_chamber_spies_post_history_today_0.jpeg" width="1200" height="903" alt="Der Briefträger, Giuseppe Maria Crespi, 1725-30. Staatliche Kunsthalle, Karlsruhe. Public Domain." typeof="foaf:Image" />
+
+
+        </a>
+      </div>
+      <div class="col-m-6 col-xs-12 block-slide__content">
+        <div class="block-slide__section">FEATURE</div>
+        <div class="block-slide__title"><h2 class="title"><a href="https://www.historytoday.com/archive/feature/black-chamber-opening-europes-post">The Black Chamber: Opening Europe’s Post</a></h2></div>
+        <div class="block-slide__text"><p>In the febrile political climate of early modern Europe, letters – and the information they contained – were dangerous. Notorious ‘black chambers’ turned postmasters into spies.</p>
+</div>
+        <div class="block-slide__author">Rachel Midura</div>
+      </div>
+      </div>
+</div>
+      <div class="block_slide">  <div class="paragraph paragraph--type--block-slide paragraph--view-mode--default block-slide row">
+          <div class="col-m-6 col-xs-12 block-slide__image">
+        <a href="https://www.historytoday.com/archive/feature/hidden-diary-samuel-pepys">
+            <img loading="lazy" src="/sites/default/files/2025-05/samuel_pepys_diary_censored_history_today_0.jpg" width="500" height="390" alt="Portrait of Samuel Pepys by John Riley, late 17th century. Yale University Art Gallery. Public Domain." typeof="foaf:Image" />
+
+
+        </a>
+      </div>
+      <div class="col-m-6 col-xs-12 block-slide__content">
+        <div class="block-slide__section">FEATURE</div>
+        <div class="block-slide__title"><h2 class="title"><a href="https://www.historytoday.com/archive/feature/hidden-diary-samuel-pepys">The Hidden Diary of Samuel Pepys</a></h2></div>
+        <div class="block-slide__text"><p>When Samuel Pepys’ diary was first published 200 years ago it was an instant hit, but rumours soon spread about what had been cut and why.</p>
+</div>
+        <div class="block-slide__author">Kate Loveman</div>
+      </div>
+      </div>
+</div>
+  </div>
+
+  </div>
+<div class="views-element-container block block-views block-views-blockhistory-today-today-featured-articles" id="block-views-block-history-today-today-featured-articles">
+  
+      <h2 class="block-title">Today’s featured articles</h2>
+    
+      <div><div class="view view-history-today view-id-history_today view-display-id-today_featured_articles js-view-dom-id-74b2454d399ad0ff7a365b3d47b93b0572a5d4cb944ed47df5ff4e4baec00771">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-field-images"><div class="field-content">  <a href="/archive/feature/iron-curtain-torn-israel" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/featured/public/2025-06/six_day_war_cold_war_israel_history_today_0.jpg?itok=2QhVS4KW" width="392" height="300" alt="Israeli tanks in the Negev desert on Day Six of the Six Day War, by Dan Hadani, 1967. National Library of Israel (CC BY)." typeof="foaf:Image" class="image-style-featured" />
+
+</a>
+</div></div><div class="views-field views-field-field-site-sections"><div class="field-content"><a href="/archive/feature" hreflang="en">Feature</a></div></div><div class="views-field views-field-title"><span class="field-content"><h3><a href="/archive/feature/iron-curtain-torn-israel" hreflang="en">The Iron Curtain Torn By Israel</a></h3></span></div><div class="views-field views-field-field-summary"><div class="field-content"><p>The Six Day War&nbsp;of 1967, in which Israel devastated its Arab neighbours, also struck a blow against the military prowess of the Soviet Union&nbsp;and its Warsaw&nbsp;Pact satellites.</p>
+</div></div><div class="views-field views-field-field-author"><div class="field-content">Guy Laron</div></div></li>
+          <li><div class="views-field views-field-field-images"><div class="field-content">  <a href="/archive/feature/emily-wilding-davison-good-terrorist" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/featured/public/2025-05/emily_wilding_davison_suffragette_history_today_0.jpg?itok=Y0LogE7P" width="392" height="300" alt="Emily Wilding Davison’s funeral procession in Bloomsbury, 1913. LSE Library. Public Domain." typeof="foaf:Image" class="image-style-featured" />
+
+</a>
+</div></div><div class="views-field views-field-field-site-sections"><div class="field-content"><a href="/archive/feature" hreflang="en">Feature</a></div></div><div class="views-field views-field-title"><span class="field-content"><h3><a href="/archive/feature/emily-wilding-davison-good-terrorist" hreflang="en">Emily Wilding Davison: The Good Terrorist</a></h3></span></div><div class="views-field views-field-field-summary"><div class="field-content"><p>The motives behind Emily Wilding Davison’s fateful actions at the Epsom Derby are still debated – and so is their impact on the Suffragette movement.</p>
+</div></div><div class="views-field views-field-field-author"><div class="field-content">Martin Pugh</div></div></li>
+          <li><div class="views-field views-field-field-images"><div class="field-content">  <a href="/archive/history-matters/tiananmen-square" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/featured/public/2024-05/tiananmen_square_history_today_0.jpg?itok=j1CQ_UNe" width="392" height="300" alt="Tiananmen Square under the portrait of Mao Zedong, 21 February 1972. National Archives and Records Administration. Public Domain." typeof="foaf:Image" class="image-style-featured" />
+
+</a>
+</div></div><div class="views-field views-field-field-site-sections"><div class="field-content"><a href="/section/history-matters" hreflang="en">History Matters</a></div></div><div class="views-field views-field-title"><span class="field-content"><h3><a href="/archive/history-matters/tiananmen-square" hreflang="en">A History of Tiananmen Square</a></h3></span></div><div class="views-field views-field-field-summary"><div class="field-content"><p>For centuries Tiananmen Square has been at the heart of China. Named for the Tiananmen – the Gate of Heavenly Peace – its history has been anything but.</p>
+</div></div><div class="views-field views-field-field-author"><div class="field-content">Neil Taylor</div></div></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+<div id="block-newsletter-frontpage-signup" class="block block-block-content block-block-content3727e6b5-2c89-4337-a818-79ca17bb3e58">
+  
+    
+      
+  </div>
+
+  </div>
+
+      </div>
+    
+    <div class="content-wrapper">
+      <div class="layout-content">
+        <a id="main-content" tabindex="-1"></a>          <div class="region region-content">
+    <div id="block-historytoday-content" class="block block-system block-system-main-block">
+  
+    
+      
+<article about="/homepage" typeof="schema:WebPage" class="node node--type-page node--view-mode-full">
+
+  
+      <span property="schema:name" content="Homepage" class="rdf-meta hidden"></span>
+
+
+  
+  <div class="node__content">
+    
+  </div>
+
+</article>
+
+  </div>
+<div class="views-element-container block block-views block-views-blockhistory-today-most-recent" id="block-views-block-history-today-most-recent">
+  
+      <h2 class="block-title">Most recent</h2>
+    
+      <div><div class="view view-history-today view-id-history_today view-display-id-most_recent js-view-dom-id-57d42b1bffbacb62a17d983838f2e872d7003ffb4a45afb2204f708d9d9db266">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list">
+  
+  <ul>
+
+          <li><article about="/archive/review/america-america-greg-grandin-review" typeof="schema:Article" class="node node--type-article node--view-mode-teaser-list">
+  <div class="row">
+    <div class="col-xs-12 col-m-4">
+      <a href="/archive/review/america-america-greg-grandin-review" rel="bookmark">
+                    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/teaser_list/public/2025-05/america_america_greg_grandin_review_history_today_0.jpg?itok=cS55gae3" width="440" height="340" alt="‘Magnified security’, cover illustration for Puck, by Udo J. Keppler, 6 May 1908." typeof="foaf:Image" class="image-style-teaser-list" />
+
+
+</div>
+      
+
+              </a>
+    </div>
+
+    <div class="col-xs-12 col-m-8">
+      
+      <div class="field field--name-field-site-sections field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">  <a href="/section/review">Review
+</a>
+</div>
+          </div>
+  
+      <h3>
+        <a href="/archive/review/america-america-greg-grandin-review" rel="bookmark"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">‘America, América’ by Greg Grandin review</span>
+</a>
+      </h3>
+      
+            <div class="clearfix text-formatted field field--name-field-summary field--type-text-long field--label-hidden field__item"><p><em>America, América: A New History of the New World</em> by Greg Grandin finds a place for Latin America and its ideals in the story of the United States.</p>
+</div>
+      
+    </div>
+  </div>
+
+</article>
+</li>
+          <li><article about="/archive/head-head/why-did-rome-fall" typeof="schema:Article" class="node node--type-article node--view-mode-teaser-list">
+  <div class="row">
+    <div class="col-xs-12 col-m-4">
+      <a href="/archive/head-head/why-did-rome-fall" rel="bookmark">
+                    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/teaser_list/public/2025-05/fall_of_rome_barbarians_history_today_0.jpg?itok=g7IbwapT" width="440" height="340" alt="Battle between Romans and barbarians, unknown artist, 16th century. Art Institute of Chicago. Public Domain." typeof="foaf:Image" class="image-style-teaser-list" />
+
+
+</div>
+      
+
+              </a>
+    </div>
+
+    <div class="col-xs-12 col-m-8">
+      
+      <div class="field field--name-field-site-sections field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">  <a href="/archive/head-head">Head to Head
+</a>
+</div>
+          </div>
+  
+      <h3>
+        <a href="/archive/head-head/why-did-rome-fall" rel="bookmark"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Why Did Rome Fall?</span>
+</a>
+      </h3>
+      
+            <div class="clearfix text-formatted field field--name-field-summary field--type-text-long field--label-hidden field__item"><p class="p1"><span class="s1">When it comes to the end of the Roman Empire three things are certain: death, taxes, and Goths. Were reports of its demise exaggerated?</span></p>
+</div>
+      
+    </div>
+  </div>
+
+</article>
+</li>
+          <li><article about="/archive/review/sun-rising-anna-whitelock-review" typeof="schema:Article" class="node node--type-article node--view-mode-teaser-list">
+  <div class="row">
+    <div class="col-xs-12 col-m-4">
+      <a href="/archive/review/sun-rising-anna-whitelock-review" rel="bookmark">
+                    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/teaser_list/public/2025-05/sun_rising_anna_whitelock_james_i_history_today_0.jpg?itok=AgwejGIG" width="440" height="340" alt="An allegorical scene showing the benefits of James I’s reign, by Simon Gribelin II after Peter Paul Rubes, 1720. Metropolitan Museum of Art. Public Domain." typeof="foaf:Image" class="image-style-teaser-list" />
+
+
+</div>
+      
+
+              </a>
+    </div>
+
+    <div class="col-xs-12 col-m-8">
+      
+      <div class="field field--name-field-site-sections field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">  <a href="/section/review">Review
+</a>
+</div>
+          </div>
+  
+      <h3>
+        <a href="/archive/review/sun-rising-anna-whitelock-review" rel="bookmark"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">‘The Sun Rising’ by Anna Whitelock review</span>
+</a>
+      </h3>
+      
+            <div class="clearfix text-formatted field field--name-field-summary field--type-text-long field--label-hidden field__item"><p><em>The Sun Rising: James I and the Dawn of a Global Britain</em> by Anna Whitelock offers a panoramic view of Jacobean foreign policy.</p>
+</div>
+      
+    </div>
+  </div>
+
+</article>
+</li>
+          <li><article about="/archive/history-matters/politicising-abortion-united-states" typeof="schema:Article" class="node node--type-article node--view-mode-teaser-list">
+  <div class="row">
+    <div class="col-xs-12 col-m-4">
+      <a href="/archive/history-matters/politicising-abortion-united-states" rel="bookmark">
+                    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/teaser_list/public/2025-05/pennyroyal_abortion_us_history_today_0.jpg?itok=cdp7ao3e" width="440" height="340" alt="A packet of pennyroyal leaves used to induce abortion, c. 1900. OHSU Library. Public Domain." typeof="foaf:Image" class="image-style-teaser-list" />
+
+
+</div>
+      
+
+              </a>
+    </div>
+
+    <div class="col-xs-12 col-m-8">
+      
+      <div class="field field--name-field-site-sections field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">  <a href="/section/history-matters">History Matters
+</a>
+</div>
+          </div>
+  
+      <h3>
+        <a href="/archive/history-matters/politicising-abortion-united-states" rel="bookmark"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Politicising Abortion in the United States</span>
+</a>
+      </h3>
+      
+            <div class="clearfix text-formatted field field--name-field-summary field--type-text-long field--label-hidden field__item"><p class="p1"><span class="s1">In 19th-century America abortion was weaponised as part of a culture war.</span></p>
+</div>
+      
+    </div>
+  </div>
+
+</article>
+</li>
+          <li><article about="/archive/review/world-cold-war-1945-1991-vladislav-zubok-review" typeof="schema:Article" class="node node--type-article node--view-mode-teaser-list">
+  <div class="row">
+    <div class="col-xs-12 col-m-4">
+      <a href="/archive/review/world-cold-war-1945-1991-vladislav-zubok-review" rel="bookmark">
+                    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/teaser_list/public/2025-05/world_of_the_cold_war_zubok_review_history_today_0.jpeg?itok=fxGyByQ_" width="440" height="340" alt="’We demand peace!’, Soviet propaganda poster by Viktor Koretsky, 1950. Brown Digital Repository. Brown University Library. Public Domain." typeof="foaf:Image" class="image-style-teaser-list" />
+
+
+</div>
+      
+
+              </a>
+    </div>
+
+    <div class="col-xs-12 col-m-8">
+      
+      <div class="field field--name-field-site-sections field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">  <a href="/section/review">Review
+</a>
+</div>
+          </div>
+  
+      <h3>
+        <a href="/archive/review/world-cold-war-1945-1991-vladislav-zubok-review" rel="bookmark"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">‘The World of the Cold War: 1945-1991’ by Vladislav Zubok review</span>
+</a>
+      </h3>
+      
+            <div class="clearfix text-formatted field field--name-field-summary field--type-text-long field--label-hidden field__item"><p>In <em>The World of the Cold War: 1945-1991</em> Vladislav Zubok argues that circumstance rather than ideology shaped the clash between communism and capitalism.</p>
+</div>
+      
+    </div>
+  </div>
+
+</article>
+</li>
+          <li><article about="/archive/feature/medieval-queen-grace-god" typeof="schema:Article" class="node node--type-article node--view-mode-teaser-list">
+  <div class="row">
+    <div class="col-xs-12 col-m-4">
+      <a href="/archive/feature/medieval-queen-grace-god" rel="bookmark">
+                    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/teaser_list/public/2025-05/medieval_queens_history_today_0.jpg?itok=I9s6iITH" width="440" height="340" alt="The archbishop of Rheims crowning a queen, from The Coronation Book of Charles V, King of France, c.1365-80." typeof="foaf:Image" class="image-style-teaser-list" />
+
+
+</div>
+      
+
+              </a>
+    </div>
+
+    <div class="col-xs-12 col-m-8">
+      
+      <div class="field field--name-field-site-sections field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">  <a href="/archive/feature">Feature
+</a>
+</div>
+          </div>
+  
+      <h3>
+        <a href="/archive/feature/medieval-queen-grace-god" rel="bookmark"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Medieval Queen by Grace of God</span>
+</a>
+      </h3>
+      
+            <div class="clearfix text-formatted field field--name-field-summary field--type-text-long field--label-hidden field__item"><p class="p1"><span class="s1">Queenship was transformed in the early Middle Ages, as power came to be derived not just from marriage, but from God.</span></p>
+</div>
+      
+    </div>
+  </div>
+
+</article>
+</li>
+          <li><article about="/archive/behind-times/canada-and-us-sleeping-elephant" typeof="schema:Article" class="node node--type-article node--view-mode-teaser-list">
+  <div class="row">
+    <div class="col-xs-12 col-m-4">
+      <a href="/archive/behind-times/canada-and-us-sleeping-elephant" rel="bookmark">
+                    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/teaser_list/public/2025-05/trump_canada_history_today_0.jpg?itok=ZKDXjoiH" width="440" height="340" alt="Trump on Canada illustration © Ben Jones/Heart Agency." typeof="foaf:Image" class="image-style-teaser-list" />
+
+
+</div>
+      
+
+              </a>
+    </div>
+
+    <div class="col-xs-12 col-m-8">
+      
+      <div class="field field--name-field-site-sections field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">  <a href="/archive/behind-times">Behind the Times
+</a>
+</div>
+          </div>
+  
+      <h3>
+        <a href="/archive/behind-times/canada-and-us-sleeping-elephant" rel="bookmark"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Canada and the US: Sleeping with the Elephant</span>
+</a>
+      </h3>
+      
+            <div class="clearfix text-formatted field field--name-field-summary field--type-text-long field--label-hidden field__item"><p class="p1"><span class="s1">Canada and the US have often been uneasy neighbours; the roots of the latest political flare up can be found in their tangled history.</span></p>
+</div>
+      
+    </div>
+  </div>
+
+</article>
+</li>
+          <li><article about="/archive/feature/black-chamber-opening-europes-post" typeof="schema:Article" class="node node--type-article node--view-mode-teaser-list">
+  <div class="row">
+    <div class="col-xs-12 col-m-4">
+      <a href="/archive/feature/black-chamber-opening-europes-post" rel="bookmark">
+                    
+            <div class="field field--name-field-media-image field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/teaser_list/public/2025-05/black_chamber_spies_post_history_today_0.jpg?itok=61vebQLm" width="440" height="340" alt="Der Briefträger, Giuseppe Maria Crespi, 1725-30. Staatliche Kunsthalle, Karlsruhe. Public Domain." typeof="foaf:Image" class="image-style-teaser-list" />
+
+
+</div>
+      
+
+              </a>
+    </div>
+
+    <div class="col-xs-12 col-m-8">
+      
+      <div class="field field--name-field-site-sections field--type-entity-reference field--label-hidden field__items">
+              <div class="field__item">  <a href="/archive/feature">Feature
+</a>
+</div>
+          </div>
+  
+      <h3>
+        <a href="/archive/feature/black-chamber-opening-europes-post" rel="bookmark"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">The Black Chamber: Opening Europe’s Post</span>
+</a>
+      </h3>
+      
+            <div class="clearfix text-formatted field field--name-field-summary field--type-text-long field--label-hidden field__item"><p>In the febrile political climate of early modern Europe, letters – and the information they contained – were dangerous. Notorious ‘black chambers’ turned postmasters into spies.</p>
+</div>
+      
+    </div>
+  </div>
+
+</article>
+</li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+          <div class="more-link"><a href="/latest">More Articles</a></div>
+
+      </div>
+</div>
+
+  </div>
+<div class="views-element-container block block-views block-views-blockhistory-today-taxonomies-current-issue" id="block-views-block-history-today-taxonomies-current-issue">
+  
+      <h2 class="block-title">Current issue</h2>
+    
+      <div><div class="view view-history-today-taxonomies view-id-history_today_taxonomies view-display-id-current_issue js-view-dom-id-fbe0959d9db68bb3cece6dec5bd3f2bd94d11c81e7befc529269d8d031809247">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list">
+  
+  <ul>
+
+          <li><span class="views-field views-field-fieldset-2"><span class="field-content">  <div  class="wrapper">
+    <span class="views-field views-field-fieldset"><span class="field-content">  <div  class="wrapper__image">
+    <div class="views-field views-field-field-issue-cover"><div class="field-content">  
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img loading="lazy" src="/sites/default/files/styles/large/public/2025-05/2025_6_june.jpg?itok=eNPE9cBt" width="339" height="480" alt="History Today June 2025" typeof="foaf:Image" class="image-style-large" />
+
+
+</div>
+          </div>
+
+</div></div>  </div>
+</span></span><span class="views-field views-field-fieldset-1"><span class="field-content">  <div  class="wrapper__content">
+    <div class="views-field views-field-field-full-description"><div class="field-content"><h3><strong>In the June issue:</strong></h3>
+<p style="box-sizing:border-box;counter-reset:list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0;cursor:text;margin:0px;padding:0px;">Censoring Samuel Pepys, Victorian creationism, Nasser and the Muslim Brotherhood, early modern espionage in the Black Chamber, and early medieval queens.</p>
+<p>Plus: reviews, opinion, crossword and much more!</p>
+<p>You can <a href="/shop/buy-current-issue">buy this issue</a> from our website, from newsstands across the UK, or read it as a digital edition via the <a href="http://www.historytoday.com/app"><em>History Today</em></a> App.</p>
+</div></div>  </div>
+</span></span>  </div>
+</span></span></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      
+    </div>
+    </div>
+</div>
+
+  </div>
+
+  </div>
+
+      </div>
+              <aside class="layout-sidebar-second" role="complementary">
+            <div class="region region-sidebar-second">
+    <div class="views-element-container block block-views block-views-blockpopular-content-block-4" id="block-views-block-popular-content-block-4">
+  
+      <h2 class="block-title">Popular Articles</h2>
+    
+      <div><div class="view view-popular-content view-id-popular_content view-display-id-block_4 js-view-dom-id-33dfc2c44b2acdb66df5a2253ba85f1ffda3537c67ea9efecd2b4d1cfaf82976">
+  
+    
+      
+      <div class="view-content">
+      
+<article about="/archive/feature/war-and-wilderness-british-soldiers-revolutionary-america" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-small-preview-with-thumbnail">
+    <div class="row">
+      <div class="col-xs-6 col-m-6">
+                    <a href="/archive/feature/war-and-wilderness-british-soldiers-revolutionary-america" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sidebarnew/public/2025-01/alligators_american_revolutionary_war_history_today_0.jpg?itok=aIt_wzKh" width="335" height="235" alt="An Alligator’s Nest, by George Catlin, c.1850. Paul Mellon Collection, National Gallery of Art Washington. Public Domain." typeof="foaf:Image" class="image-style-sidebarnew" />
+
+</a>
+
+              </div>
+      <div class="col-xs-6 col-m-6">
+        <h5>
+          <a href="/archive/feature/war-and-wilderness-british-soldiers-revolutionary-america"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">War and Wilderness: British Soldiers in Revolutionary America</span>
+</a>
+        </h5>
+      </div>
+    </div>
+</article>
+
+<article about="/archive/head-head/why-did-rome-fall" typeof="schema:Article" class="node node--type-article node--view-mode-small-preview-with-thumbnail">
+    <div class="row">
+      <div class="col-xs-6 col-m-6">
+                    <a href="/archive/head-head/why-did-rome-fall" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sidebarnew/public/2025-05/fall_of_rome_barbarians_history_today_0.jpg?itok=bYU4y6hp" width="335" height="235" alt="Battle between Romans and barbarians, unknown artist, 16th century. Art Institute of Chicago. Public Domain." typeof="foaf:Image" class="image-style-sidebarnew" />
+
+</a>
+
+              </div>
+      <div class="col-xs-6 col-m-6">
+        <h5>
+          <a href="/archive/head-head/why-did-rome-fall"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Why Did Rome Fall?</span>
+</a>
+        </h5>
+      </div>
+    </div>
+</article>
+
+<article about="/archive/review/america-america-greg-grandin-review" typeof="schema:Article" class="node node--type-article node--view-mode-small-preview-with-thumbnail">
+    <div class="row">
+      <div class="col-xs-6 col-m-6">
+                    <a href="/archive/review/america-america-greg-grandin-review" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sidebarnew/public/2025-05/america_america_greg_grandin_review_history_today_0.jpg?itok=TwVcnEqr" width="335" height="235" alt="‘Magnified security’, cover illustration for Puck, by Udo J. Keppler, 6 May 1908." typeof="foaf:Image" class="image-style-sidebarnew" />
+
+</a>
+
+              </div>
+      <div class="col-xs-6 col-m-6">
+        <h5>
+          <a href="/archive/review/america-america-greg-grandin-review"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">‘America, América’ by Greg Grandin review</span>
+</a>
+        </h5>
+      </div>
+    </div>
+</article>
+
+<article about="/archive/review/hitlers-deserters-douglas-carl-peifer-review" typeof="schema:Article" class="node node--type-article node--view-mode-small-preview-with-thumbnail">
+    <div class="row">
+      <div class="col-xs-6 col-m-6">
+                    <a href="/archive/review/hitlers-deserters-douglas-carl-peifer-review" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sidebarnew/public/2025-04/hitlerdeserters_douglas_carl_peifer_history_today_0.jpeg?itok=lPhEcVFG" width="335" height="235" alt="A German soldier sleeps in a railway wagon on his way to the Eastern Front, by Franz Grasser, 1943. Deutsche Fotothek. Public Domain." typeof="foaf:Image" class="image-style-sidebarnew" />
+
+</a>
+
+              </div>
+      <div class="col-xs-6 col-m-6">
+        <h5>
+          <a href="/archive/review/hitlers-deserters-douglas-carl-peifer-review"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">‘Hitler’s Deserters’ by Douglas Carl Peifer review</span>
+</a>
+        </h5>
+      </div>
+    </div>
+</article>
+
+<article about="/archive/feature/maid-who-restored-charles-ii" typeof="schema:Article" class="node node--type-article node--promoted node--view-mode-small-preview-with-thumbnail">
+    <div class="row">
+      <div class="col-xs-6 col-m-6">
+                    <a href="/archive/feature/maid-who-restored-charles-ii" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sidebarnew/public/2025-04/charles_ii_stuart_restoration_anne_monck_history_today_0.jpg?itok=quvNQ28s" width="335" height="235" alt="‘Charles II, Crown Prince of England,’ by François Dieussart, C.1646-50. Rijksmuseum. Public Domain." typeof="foaf:Image" class="image-style-sidebarnew" />
+
+</a>
+
+              </div>
+      <div class="col-xs-6 col-m-6">
+        <h5>
+          <a href="/archive/feature/maid-who-restored-charles-ii"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">The Maid Who Restored Charles II</span>
+</a>
+        </h5>
+      </div>
+    </div>
+</article>
+
+<article about="/archive/feature/hidden-diary-samuel-pepys" typeof="schema:Article" class="node node--type-article node--view-mode-small-preview-with-thumbnail">
+    <div class="row">
+      <div class="col-xs-6 col-m-6">
+                    <a href="/archive/feature/hidden-diary-samuel-pepys" hreflang="en"><img loading="lazy" src="/sites/default/files/styles/sidebarnew/public/2025-05/samuel_pepys_diary_censored_history_today_0.jpg?itok=JeLwn3i_" width="335" height="235" alt="Portrait of Samuel Pepys by John Riley, late 17th century. Yale University Art Gallery. Public Domain." typeof="foaf:Image" class="image-style-sidebarnew" />
+
+</a>
+
+              </div>
+      <div class="col-xs-6 col-m-6">
+        <h5>
+          <a href="/archive/feature/hidden-diary-samuel-pepys"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">The Hidden Diary of Samuel Pepys</span>
+</a>
+        </h5>
+      </div>
+    </div>
+</article>
+
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+<div class="views-element-container block block-views block-views-blocklatest-magazine-block-2" id="block-views-block-latest-magazine-block-2--2">
+  
+      <h2 class="block-title">ALTERNATIVE HISTORIES</h2>
+    
+      <div><div class="view view-latest-magazine view-id-latest_magazine view-display-id-block_2 js-view-dom-id-92ae3f6b309501b07eaf8ad1154743f82d8783913415131ddee870c9e44d9ab7">
+  
+    
+      
+      <div class="view-content">
+      <div class="views-field views-field-field-images"><div class="field-content">  <img loading="lazy" src="/sites/default/files/cartoons/normandy.jpg" width="700" height="683" alt="normandy.jpg" typeof="foaf:Image" />
+
+</div></div>
+    </div>
+  
+          </div>
+</div>
+
+  </div>
+<div id="block-advertisement-sidebar" class="block block-axis-advertisement block-advertisement-sidebar-block">
+  
+    
+      <div id="advertisement--sidebar"></div>
+  </div>
+<div class="views-element-container block block-views block-views-blockhistory-today-taxonomies-recent-issues" id="block-views-block-history-today-taxonomies-recent-issues">
+  
+      <h2 class="block-title">Recent issues</h2>
+    
+      <div><div class="view view-history-today-taxonomies view-id-history_today_taxonomies view-display-id-recent_issues js-view-dom-id-644074a34fb047a623ef990fee38042181905a82014483eeddca3c5346f98c36">
+  
+    
+      
+      <div class="view-content">
+      <div class="item-list">
+  
+  <ul>
+
+          <li><div class="views-field views-field-fieldset"><span class="field-content">  <div  class="wrapper">
+    <div class="views-field views-field-fieldset-2"><span class="field-content"></span></div><div class="views-field views-field-fieldset-1"><span class="field-content">  <div  class="wrapper__content">
+    <div class="views-field views-field-name"><span class="field-content"><h3><a href="/history-today-issues/volume-75-issue-6-june-2025" hreflang="en">Volume 75 Issue 6 June 2025</a></h3></span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Samuel Pepys, Victorian dinosaurs, the Black Chamber</p>
+</span></div>  </div>
+</span></div>  </div>
+</span></div></li>
+          <li><div class="views-field views-field-fieldset"><span class="field-content">  <div  class="wrapper">
+    <div class="views-field views-field-fieldset-2"><span class="field-content"></span></div><div class="views-field views-field-fieldset-1"><span class="field-content">  <div  class="wrapper__content">
+    <div class="views-field views-field-name"><span class="field-content"><h3><a href="/history-today-issues/volume-75-issue-5-may-2025" hreflang="en">Volume 75 Issue 5 May 2025</a></h3></span></div><div class="views-field views-field-description__value"><span class="field-content"><p>VE Day, The Fall of Saigon, Merovingians</p>
+</span></div>  </div>
+</span></div>  </div>
+</span></div></li>
+          <li><div class="views-field views-field-fieldset"><span class="field-content">  <div  class="wrapper">
+    <div class="views-field views-field-fieldset-2"><span class="field-content"></span></div><div class="views-field views-field-fieldset-1"><span class="field-content">  <div  class="wrapper__content">
+    <div class="views-field views-field-name"><span class="field-content"><h3><a href="/history-today-issues/volume-75-issue-4-april-2025" hreflang="en">Volume 75 Issue 4 April 2025</a></h3></span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Mesopotamia, Buchenwald, Brahmins</p>
+</span></div>  </div>
+</span></div>  </div>
+</span></div></li>
+          <li><div class="views-field views-field-fieldset"><span class="field-content">  <div  class="wrapper">
+    <div class="views-field views-field-fieldset-2"><span class="field-content"></span></div><div class="views-field views-field-fieldset-1"><span class="field-content">  <div  class="wrapper__content">
+    <div class="views-field views-field-name"><span class="field-content"><h3><a href="/history-today-issues/volume-75-issue-3-march-2025" hreflang="en">Volume 75 Issue 3 March 2025</a></h3></span></div><div class="views-field views-field-description__value"><span class="field-content"><p>Peasants’ War, Reconquista, Tokyo Firebombing</p>
+</span></div>  </div>
+</span></div>  </div>
+</span></div></li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+            <div class="view-footer">
+      <p><a class="btn-default" href="/archive/history-today-issues">See All Back Issues</a></p>
+<p><a class="btn-default" href="/shop/history-today-back-issues">Buy Back Issues</a></p>
+    </div>
+    </div>
+</div>
+
+  </div>
+
+  </div>
+
+        </aside>
+          </div>
+
+  </main>
+
+      <footer role="contentinfo">
+        <div class="region region-footer">
+    <div class="footer__primary">
+      <div id="block-signupblock" class="block block-ht-signup block-signup-block">
+  
+    
+      <div id="signup-popup">
+  <div id="pop-close"><span>X</span></div>
+  <div class="popup-text">Get <a href="/miscellanies">Miscellanies</a>, our free weekly long read, in your inbox every week</div>
+  <!-- Begin MailChimp Signup Form -->
+  <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+
+  <div id="mc_embed_signup">
+    <form action="https://historytoday.us1.list-manage.com/subscribe/post?u=57d6536789e4868b23723aa54&amp;id=fceec0de95" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+      <div id="mc_embed_signup_scroll"><input class="email" id="mce-EMAIL" name="EMAIL" placeholder="email address" required="" type="email" value=""><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--><div aria-hidden="true" style="position: absolute; left: -5000px;"><input name="b_57d6536789e4868b23723aa54_fceec0de95" tabindex="-1" type="text" value=""></div>
+        <div class="clear"><input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Sign Up"></div>
+      </div>
+    </form>
+  </div>
+</div>
+
+  </div>
+<div id="block-advertisement-footer" class="block block-axis-advertisement block-advertisement-footer-block">
+  
+    
+      <div id="advertisement--footer"></div>
+  </div>
+<nav role="navigation" aria-labelledby="block-historytoday-footer-menu" id="block-historytoday-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-historytoday-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+                        <a  href="https://www.historytoday.com/about-history-today">About</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/masthead">Masthead</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/contact">Contact</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/jobs">Jobs</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/advertising">Advertising</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/history-todays-rss-feeds">RSS feeds</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/submitting-article-history-today">Submit an Article</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/shop/history-today-back-issues">Back Issues</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/shop/history-today-binder">Binders</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/cookie-policy">Cookie policy</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/longman-history-today-awards">Awards</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/students">Students</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/privacy-policy">Privacy policy</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/terms-of-use">Terms of Use</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/twitter">X</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.com/instagram">Instagram</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.comhttps://bsky.app/profile/historytoday.com">Bluesky</a>
+              </li>
+                <li class="menu-item">
+                        <a  href="https://www.historytoday.comhttps://www.facebook.com/historytoday">Facebook</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+      <div class="footer__copyright copyright">
+        <p class="copyright__text">&copy; Copyright 2025 History Today Ltd. Company no. 1556332.</p>
+      </div>
+    </div>
+  </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/18846","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"raven":{"options":{"dsn":"https:\/\/09b56f7ec8f2d6fe769b5f610295e1dc@www.supertreetrunk.com\/\/25","environment":"production","integrations":[],"tracesSampleRate":0.01,"autoSessionTracking":false,"sendClientReports":false},"showReportDialog":false,"browserTracingOptions":{"enableInp":true}},"statistics":{"data":{"nid":"18846"},"url":"\/core\/modules\/statistics\/statistics.php"},"ajaxTrustedUrl":{"\/site-search":true},"user":{"uid":0,"permissionsHash":"5b8f367b481f5f5eecde331dd869c9699a90013124ba0c905233935e705478cd"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.3.10"></script>
+<script src="/core/misc/drupal.js?v=10.3.10"></script>
+<script src="/core/misc/drupal.init.js?v=10.3.10"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/version-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/data-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/form-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/ie-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/labels-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/widget-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=1.13.2"></script>
+<script src="/modules/contrib/jquery_ui/assets/vendor/jquery.ui/ui/widgets/slider-min.js?v=1.13.2"></script>
+<script src="/libraries/slick/slick/slick.min.js?v=1.x"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/modules/contrib/addtoany/js/addtoany.js?v=10.3.10"></script>
+<script src="/modules/custom/ht_signup/js/ht_signup.js?v=10.3.10"></script>
+<script src="/modules/contrib/raven/js/bundle.tracing.min.js?v=8.54.0"></script>
+<script src="/modules/contrib/raven/js/raven.js?v=4.2.0"></script>
+<script src="/themes/custom/historytoday/js/ht-header.js?sx9nuq"></script>
+<script src="/themes/custom/historytoday/js/image_caption.js?sx9nuq"></script>
+<script src="/modules/custom/axis_advertisement/js/axis_advertisement.js?sx9nuq"></script>
+<script src="/core/modules/statistics/statistics.js?v=10.3.10"></script>
+<script src="/modules/custom/axis_slider_block/js/axis_slider_block.js?sx9nuq"></script>
+
+  </body>
+</html>

@@ -1,0 +1,838 @@
+Content from: https://www.indianetzone.com/Indian_Culture
+
+<!doctype html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Indian Culture</title>
+        <meta name="csrf-token" content="8ipT7xbGI75PNiNzQg4oy8EVtV0OwvL7ACrxVdL4">
+        <META name="Description" content="Indian Culture - Informative &amp; researched article on &quot;Indian Culture&quot; from Indianetzone, the largest encyclopedia on India.">
+        <META name="Keywords" content="Indian Culture">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://www.indianetzone.com/public/website/assets/css/bootstrap.min.css" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="https://www.indianetzone.com/public/website/assets/css/demo.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
+        <link href="https://www.indianetzone.com/public/website/assets/img/favicon.png" rel="icon" />
+        <link href="https://www.indianetzone.com/public/website/assets/css/custom.css" rel="stylesheet" />
+        <script> var SITE_URL = "https://www.indianetzone.com"; </script>
+        <script type="text/javascript" src="https://www.indianetzone.com/public/website/assets/js/jquery.min.js"></script>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8040656654961143" crossorigin="anonymous"></script><!-- Global site tag (gtag.js) - Google Analytics --><script async src="https://www.googletagmanager.com/gtag/js?id=UA-6894248-1"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-6894248-1');</script>
+        <script src='https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.wqN35X9thIs.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCOkHPRsN1C_u_VS81j7wx3iulA0pw/cb=gapi.loaded_1' async=''></script><script src='https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.wqN35X9thIs.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=wQ/rs=AGLTcCOkHPRsN1C_u_VS81j7wx3iulA0pw/cb=gapi.loaded_0' async=''></script><script src='https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101'></script><script src='https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-8040656654961143.js'></script><script id='twitter-wjs' src='https://platform.twitter.com/widgets.js'></script>
+        <style>
+            .load {
+                position: relative; 
+            }
+    
+            .load .loader {
+                display: none; 
+                position: absolute; 
+                left: 50%; 
+                top: 60%; 
+                transform: translate(-50%, -50%);
+                z-index: 1000; 
+            }
+        </style>
+    </head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-4">
+                <div class="nav-logo">
+                    <a href="https://www.indianetzone.com">
+                    <div class="box1"><img src="https://www.indianetzone.com/public/website/assets/img/logo.jpg"></div></a>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-8 mt-4">
+                <form id="search-form" action="https://www.indianetzone.com/search" method="GET">
+                    <div id="search-wrapper">
+                        <i class="search-icon fas fa-search"></i>
+                        <input type="text" id="search" name="search" placeholder="Search...">
+                        <button type="submit" id="search-button">Search</button>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+    <div class="section bg-orange mt-2">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light ">
+                <div class="container-fluid">
+                  <a class="navbar-brand" href="#"></a>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                                    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                    <ul class="navbar-nav">
+                                                <li class="nav-item list-none">
+                            <a class="nav-link  font-bold font-2"   href="https://www.indianetzone.com/art_culture">Arts &amp; Culture</a>
+                        </li>
+                                                <li class="nav-item list-none">
+                            <a class="nav-link  font-bold font-2"   href="https://www.indianetzone.com/entertainment">Entertainment</a>
+                        </li>
+                                                <li class="nav-item list-none">
+                            <a class="nav-link  font-bold font-2"   href="https://www.indianetzone.com/health">Health</a>
+                        </li>
+                                                <li class="nav-item list-none">
+                            <a class="nav-link  font-bold font-2"   href="https://www.indianetzone.com/indian_history">Indian History</a>
+                        </li>
+                                                <li class="nav-item list-none">
+                            <a class="nav-link  font-bold font-2"   href="https://www.indianetzone.com/society">Society</a>
+                        </li>
+                                                <li class="nav-item list-none">
+                            <a class="nav-link  font-bold font-2"   href="https://www.indianetzone.com/sports">Sports</a>
+                        </li>
+                                                <li class="nav-item list-none">
+                            <a class="nav-link  font-bold font-2"   href="https://www.indianetzone.com/travel">Travel</a>
+                        </li>
+                                            </ul>
+                  </div>
+                </div>
+              </nav>
+        </div>
+     </div>
+     <div class="row">
+        <div class="clo-md-12">
+            <div class="container">
+                
+                Home >
+                                    <a href="indian_history">
+                        Indian History</a>
+                 
+                
+                 
+                <span style="color:black"> > </span>  <a href="history">  History of India</a>  
+                 
+                 
+                <span style="color:black"> > </span>  Indian Culture 
+                 
+            </div>
+        </div>
+     </div>
+<div class="section mb-3">
+    <div class="section">
+        <div class="container">
+            <div class="row p-3">
+                <div class="col-md-12 col-12 mt-2">
+                    <div class="text-center">
+                        <span class="text-orange font-3">   Indian Culture</span><br>
+                        <span class="font-1">Indian Culture seeks a wider harmony reconciling spirit with matter, preserving the truths of material science and its real utility. It simultaneously keeps intact the spirit as the keystone of the arch of the culture.</span>
+                    </div>
+                </div>
+            </div>
+            <div class="row p-1">
+                <div class="col-md-12 text-center">
+                    <div class="bg-ad1">  
+                        <h3 class="text-white"><div class="row_googleadd" style="width: 100%; height: 90px; align: center;">
+                                    <div class="column_googleadd"></div>
+                                    <div class="column1_googleadd" align="center">
+                                        <div style="width: 100%; height: 90px; align: center;">
+                                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8040656654961143" crossorigin="anonymous"></script>
+                                            <!-- Inz_728x90 11-11-2022-->
+                                            <ins class="adsbygoogle" style="display: inline-block; width: 728px; height: 90px;" Data-ad-client="ca-pub-8040656654961143" data-ad-slot="0251868919"></ins>
+                                            <script>
+                                                (adsbygoogle = window.adsbygoogle || []).push({});
+                                            </script>
+                                        </div>
+                                    </div>
+                                </div></h3>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row mt-4">
+                    <!-- first col start -->
+                    <div class="col-12 col-md-9">
+                        <div class="d-flex mt-2 mb-4">
+                            <div class="d1flex">
+                                <h5 class="font-bold">Share this Article:</h5>
+                            </div>
+                           
+                            <div class="d2flex px-2">
+                                <div class="sharethis-inline-share-buttons"></div>
+                            </div>
+                        </div>
+                        
+                                                                            <div class="row mt-2">
+                                <div class="col-12 col-md-12">
+                                                                            <p><img src="https://www.indianetzone.com/public/admin/uploadImage/01_Indian_Culture.jpg" align="right" valign="absmiddle" style="margin-left:7px" alt="Indian Culture" border="1"> Indian Culture and traditions are something which has now become renowned all across the world. Indian Culture is very diverse and unique and has been interpreted in various ways. There are varied ideas that pass through one`s mind when Indian Culture is the subject to be spoken on. To some philosophical and spiritual beliefs are the bases of Indian Culture. Others say that dreams and ideals as embodied in the best <b><a href="https://www.indianetzone.com/indian_architecture" class="clsCrossLink" title="Indian Architecture">architecture</a></b>, the <b><a href="https://www.indianetzone.com/indian_sculpture" class="clsCrossLink" title="Indian Sculptures">sculpture</a></b> and <b><a href="https://www.indianetzone.com/indian_painting" class="clsCrossLink" title="Indian Painting">paintings</a></b> reflect Indian Culture. Some, on the other hand, point out the various symbolic representations of thought-forms like the concept of <b><a href="https://www.indianetzone.com/shiva_nataraja" class="clsCrossLink" title="Nataraja">Nataraja</a></b> or the <b><a href="https://www.indianetzone.com/indian_music" class="clsCrossLink" title="Indian Music">Indian Music</a></b> with its varied <b><a href="https://www.indianetzone.com/raaga_indian_classical_music" class="clsCrossLink" title="Raaga">Ragas</a></b> as the essence of Indian Culture. The <b><a href="https://www.indianetzone.com/south_indian_states" class="clsCrossLink" title="South Indian States">South</a></b>, <b><a href="https://www.indianetzone.com/east_indian_states" class="clsCrossLink" title="East Indian States">East</a></b>, <b><a href="https://www.indianetzone.com/west_indian_states" class="clsCrossLink" title="West Indian States">West</a></b>, <b><a href="https://www.indianetzone.com/north_indian_states" class="clsCrossLink" title="North Indian States">North</a></b>, <b><a href="https://www.indianetzone.com/central_indian_states" class="clsCrossLink" title="Central Indian States">Central</a></b> and <b><a href="https://www.indianetzone.com/north_eastern_indian_states" class="clsCrossLink" title="North Eastern Indian states">North-East</a></b> have their own distinct cultures and almost every <b><a href="https://www.indianetzone.com/indian_states_union_territories" class="clsCrossLink" title="Indian States">state</a></b> has carved out its own cultural niche. There is hardly any culture in the world that is as varied and unique as India. India is a vast country, having variety of geographical features and <b><a href="https://www.indianetzone.com/indian_climatic_regions" class="clsCrossLink" title="Indian Climatic Regions">climatic conditions</a></b>. India is home to some of the most ancient civilizations, including four major world<b><a href="https://www.indianetzone.com/indian_religions" class="clsCrossLink" title="Indian Religions"> religions</a></b>; Hinduism, Buddhism, <b><a href="https://www.indianetzone.com/jainism" class="clsCrossLink" title="Jainism">Jainism</a></b> and <b><a href="https://www.indianetzone.com/sikhism" class="clsCrossLink" title="Sikhism">Sikhism</a></b>.
+<br>
+
+<br>
+
+
+<img src="https://www.indianetzone.com/public/admin/uploadImage/02_Indian_Heritage.jpg" align="left" valign="absmiddle" style="margin-right:7px" alt="Indian Culture" border="1"> <b><a href="https://www.indianetzone.com/history_indian_culture" class="clsCrossLink" title="History of Indian Culture">History of Indian Culture</a></b>
+<br>
+
+The origin of Indian culture is the Vedic age which includes ancient treatises like,<b><a href="https://www.indianetzone.com/upanishads" class="clsCrossLink" title="Upanishads">Upanishads</a></b>, <b><a href="https://www.indianetzone.com/ramayana" class="clsCrossLink" title="Ramayana">Ramayana</a></b> and <b><a href="https://www.indianetzone.com/mahabharata" class="clsCrossLink" title="Mahabharata">Mahabharata</a></b>. The history of Indian Culture is deep rooted in the<b> <a href="https://www.indianetzone.com/indus_valley_civilization" class="clsCrossLink" title="Indus Valley Civilisation">Indus Valley Civilization</a></b> and the arrival of the <b><a href="https://www.indianetzone.com/the_aryans" class="clsCrossLink" title="Aryans">Aryans</a></b>. Both these phases are described as the pre-Vedic and Post Vedic periods respectively. It was during the Vedic period that <b><a href="https://www.indianetzone.com/hinduism" class="clsCrossLink" title="Hinduism">Hinduism</a></b> evolved. Then ushered in the Classical Age that began with <b><a href="https://www.indianetzone.com/buddhism" class="clsCrossLink" title="Buddhism">Buddhism</a></b> and ended with <b><a href="https://www.indianetzone.com/harshavardhana" class="clsCrossLink" title="Harshavardhana">Harsha Vardhan</a></b>. After this, the medieval age begins with the <b><a href="https://www.indianetzone.com/rajput_culture" class="clsCrossLink" title="Rajput Culture">Rajput culture</a></b> and ending with the Indo-Muslim culture. Thereafter comes the modern age. This age witnesses the <b><a href="https://www.indianetzone.com/influence_west_on_indian_culture" class="clsCrossLink" title="Influence of West on Indian Culture">Western influences on the Indian Culture</a></b> and the beginning of the <b><a href="https://www.indianetzone.com/indian_renaissance" class="clsCrossLink" title="Indian Renaissance">Indian Renaissance</a></b>.
+<br>
+
+<br>
+
+
+<img src="https://www.indianetzone.com/public/admin/uploadImage/03_Indian_Festivals.jpg" align="right" valign="absmiddle" style="margin-left:7px" alt="Indian Culture" border="1"> <b><a href="https://www.indianetzone.com/features_indian_culture" class="clsCrossLink" title="Features of Indian Culture">Features of Indian Culture</a></b>
+<br>
+
+Tolerance is one of the major features of Indian culture. All races have found their habitation in India but they have not been persecuted. Balance is also a marked characteristic of Indian Culture. It is also characterised by harmony. Ceaseless search after truth is another feature of Indian culture. Fundamentally, India has always possessed great unity and continuity of culture. India has found unity in religion and spirituality. All her art forms expressed the same truth. The <b><a href="https://www.indianetzone.com/indian_hindu_customary_ceremonies" class="clsCrossLink" title="Indian Hindu Customary Ceremonies">Hindu custom</a></b> of religious pilgrimages betokened the same consciousness of a common homeland. Fundamental unity of India was rooted in the psychology of the Indians. Politically also, the attempts at empire-building embracing the whole of India indicate the trend towards unity. Culturally there is a complex harmony of composites. Certain common ideas are practiced by the Indians from times immemorial.
+<br>
+
+<br>
+
+
+The principles that guide the various stages of the Indian culture are psychological in character, are symbolical, typical, conventional, individualist and subjective. The symbolical was operating during the <b><a href="https://www.indianetzone.com/vedic_period" class="clsCrossLink" title="Vedic Period">Vedic period</a></b>, the typical in the age of <b><a href="https://www.indianetzone.com/dharma_artha_kama" class="clsCrossLink" title="Dharma">Dharma</a></b>, the conventional in the medieval period, the individualist in the modern and the subjective principle has just begun in the most recent epoch.
+<br>
+
+<br>
+
+
+<b><a href="https://www.indianetzone.com/influences_on_indian_culture" class="clsCrossLink" title="Influences on Indian Culture">Influences on Indian Culture</a></b>
+<br>
+
+In many ways the topography of India has affected the course of her history and culture. The spirit of tolerance has been nurtured and fostered by India"s geography. Diversity in landscape, climate and conditions of life prepared in the Indian minds a readiness to accept difference. The vast spaces offered room for slow infiltration by newcomers and allowed each locality scope for development along its own lines. <b><a href="https://www.indianetzone.com/indian_climate" class="clsCrossLink" title="Indian Climate">Indian climate</a></b> makes one feel lethargic. The fertility of the land and its agricultural economy explain the depth and tenacity of her culture. The geography of India explains the fundamental basis of Indian culture â€“ unity amidst diversity.
+<br>
+
+<br>
+
+
+<img src="https://www.indianetzone.com/public/admin/uploadImage/04_Indian_Food.jpg" align="left" valign="absmiddle" style="margin-right:7px" alt="Indian Culture" border="1"> <b><a href="https://www.indianetzone.com/racial_influence_on_indian_culture" class="clsCrossLink" title="Racial Influence on Indian Culture">Racial factors</a></b> are responsible for the shape the Indian culture has assumed through the course of centuries. Races after races have poured into India lent their original contribution and have been assimilated in the Indian locale. India has been called a museum of races. They have spread themselves in <b><a href="https://www.indianetzone.com/assam" class="clsCrossLink" title="Assam">Assam</a></b>, Chittagong Hills and Bhutan. The Mediterranean people are in Kannada, Tamil, Malayalam, <b><a href="https://www.indianetzone.com/punjab" class="clsCrossLink" title="Punjab">Punjab</a></b>, Gangetic Valley, Sindh, <b><a href="https://www.indianetzone.com/west_bengal" class="clsCrossLink" title="West Bengal">West Bengal</a></b>, <b><a href="https://www.indianetzone.com/orissa" class="clsCrossLink" title="Odisha">Odisha</a></b>, <b><a href="https://www.indianetzone.com/kathiawar" class="clsCrossLink" title="Kathiawar">Kathiawar</a></b>, <b><a href="https://www.indianetzone.com/coorg" class="clsCrossLink" title="Coorg">Coorg</a></b>,<b> <a href="https://www.indianetzone.com/gujarat" class="clsCrossLink" title="Gujarat">Gujarat</a></b>, <b><a href="https://www.indianetzone.com/kashmir_india" class="clsCrossLink" title="Kashmir">Kashmir</a></b>, Upper Ganges Valley and in <b><a href="https://www.indianetzone.com/maharashtra" class="clsCrossLink" title="Maharashtra">Maharashtra</a></b> among the Chitpawan Brahmans. Among these races some have led India in international trade. Their <b><a href="https://www.indianetzone.com/languages_india" class="clsCrossLink" title="Languages of India">language</a></b> forms a solid block in the <b><a href="https://www.indianetzone.com/the_deccan" class="clsCrossLink" title="The Deccan">Deccan</a></b> and South India. The <b><a href="https://www.indianetzone.com/dravidians" class="clsCrossLink" title="Dravidians">Dravidians</a></b> have contributed the cult of <b><a href="https://www.indianetzone.com/mahadeva_lord_shiva" class="clsCrossLink" title="Mahadeva">Lord Shiva</a></b>, the worship of Mother Goddess or <b><a href="https://www.indianetzone.com/shakti_devine_mother_indian_goddess" class="clsCrossLink" title="Shakti">Shakti</a></b> and also the institution of <b><a href="https://www.indianetzone.com/yoga" class="clsCrossLink" title="Yoga">Yoga</a></b>. Aryans have given us through their philosophical, religious and spiritual ideas the original and fundamental basis of Indian culture.
+<br>
+
+<br>
+
+
+Indian cultural evolution, therefore, can be best understood in psychological terms. The core of Indian Culture has always been to be well mannered, polite, respect others and progress together.
+<br>
+
+<br></p>
+                                        <br>
+                                                                    </div>
+                            </div>
+                                          
+                        <div class="d-flex mt-5">
+                            <div class="d1flex">
+                                <h5 class="font-bold">Share this Article:</h5>
+                            </div>
+                            <div class="d2flex px-2">
+                                <div class="sharethis-inline-share-buttons"></div>
+                            </div>
+                        </div>
+                        <div class="row p-5 text-center">
+                                                                                                                                    </div>
+                                            <div class="row p-1 mb-3">
+                            <div class="col-md-12 text-center">
+                                <div class="bg-ad1">
+                                    <h3 class="text-white"><div class="row_googleadd" style="width: 100%; height: 90px; align: center;">
+                                    <div class="column_googleadd"></div>
+                                    <div class="column1_googleadd" align="center">
+                                        <div style="width: 100%; height: 90px; align: center;">
+                                            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8040656654961143" crossorigin="anonymous"></script>
+                                            <!-- Inz_728x90 11-11-2022-->
+                                            <ins class="adsbygoogle" style="display: inline-block; width: 728px; height: 90px;" Data-ad-client="ca-pub-8040656654961143" data-ad-slot="0251868919"></ins>
+                                            <script>
+                                                (adsbygoogle = window.adsbygoogle || []).push({});
+                                            </script>
+                                        </div>
+                                    </div>
+                                </div></h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                   
+                    <!-- first col end -->
+                    <!-- second col start -->
+                    <div class="col-12 col-md-3 mt-3 position-relative">
+                        <div class="row p-2">
+                            <div class="col-md-12">
+                                <h5 class="news-text text-blue font-bold"><a href="https://www.indianetzone.com/subscribe-newsletter" ><span class="text-blue fs-4">Subscribe to Newsletter</span></a></h5>
+                                <hr style="height: 0.1rem; color: #f93e0b; margin-top: -50px; opacity: 0.8;">
+                                <span class="mr-t-5"><a href="https://www.indianetzone.com/subscribe-newsletter" ><span style="color:#212529";>Learn unknown facts about India from a curated list of informative articles.</span></a></span>
+                            </div>
+                        </div>
+                        <div class="row m-2">
+                            <div class="col-12 col-md-12 border bg-ad3">
+                                <h3 class="text-white text-center"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8040656654961143" crossorigin="anonymous"></script>
+                            <!-- Inz_300x600-->
+                            <ins class="adsbygoogle"
+                            style = "display:block"
+                            Data-ad-client = "ca-pub-8040656654961143"
+                            data-ad-slot= "9891051148"
+                            data-ad-format="vertical"
+                            data-full-width-responsive="true"></ins>
+                            <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                            </script></h3>
+                            </div>
+                        </div>
+                        <div class="row mt-4 p-2">
+                            <div class="col-md-12">
+                            <h5 class="font-2 text-b font-bold mt-3">Related Articles</h5>
+                            <hr style="height: 0.1rem; color: #f93e0b; margin-top: -7px; opacity: 0.8;">
+                           
+                                                        </div>
+                           </div>
+                        <!---->
+                        
+                    </div>
+                                        <div class="row mt-5">
+                        <div class="col-md-12">
+                            <div class="mb-4">
+                                <h3 class="text-orange"><span class="text-white bg-orange p-1">More Articles in 
+                                 History of India</span></h3>
+                                    <hr style="height: 2px; color: #f93e0b; margin-top: -5px; opacity: 0.8;">
+                            </div>
+                            
+                    </div>
+                     <div class="col-12 col-md-12">
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/Theatre_masks.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_indian_drama" style="text-decoration: none; color: black;">History of Indian Drama</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Indian Drama is rich with Vedas and Indian epics and has gradually changed with time and remains unaffected by any foreign influence.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/208_Khajuraho_Temple.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/khajuraho_india" style="text-decoration: none; color: black;">History of Khajuraho Temple</a></span>
+                                            </span><br>
+                                            <span class="text-dark">Located in the Chhatarpur district of Madhya Pradesh, Khajuraho is country’s most magnificent groups of temples.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_History_of_Ayurveda_2.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_ayurveda" style="text-decoration: none; color: black;">History of Ayurveda</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Ayurveda dates back to 5,000 years old and is widely considered to be the oldest form of health care in the world.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/mathura_1.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_uttar_pradesh" style="text-decoration: none; color: black;">History of Uttar Pradesh</a></span>
+                                            </span><br>
+                                            <span class="text-dark">The state was the heart of Mahabharata war and the history of Uttar Pradesh is very much the history of India. The place finds its mentions in Hindu epics Ramayana and Mahabharata.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_Indian_Photography.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_photography" style="text-decoration: none; color: black;">History of Indian Photography</a></span>
+                                            </span><br>
+                                            <span class="text-dark">An overview of the development of photography, through the various stages in India.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/Red_Fort_in_Delhi.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/national_capital_territory_delhi" style="text-decoration: none; color: black;">History of Delhi</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Delhi began with the advent of Indian regal dynasties. Delhi witnessed the rise and fall of Hindu dynasties, Muslims and the British as well.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_Indian_Radio.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_indian_radio" style="text-decoration: none; color: black;">History of Indian Radio</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Indian Radio dates back to late 1930s with the first establishment of All India Radio in 1936 that improved further after independence.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/01_Location_of_Punjab_in_Indian_Map.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_punjab" style="text-decoration: none; color: black;">History of Punjab</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Punjab dates back to the 16th century; however its formation is traced in the great epic Mahabharata.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Harappan_Civilisation_at_Rojdi.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_archaeology_india" style="text-decoration: none; color: black;">History Of Archaeology In India</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of archaeology in India contributes a lot to define the past history and the social life of India.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Ala_ud_din_Khalji.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_maharashtra" style="text-decoration: none; color: black;">History of Maharashtra</a></span>
+                                            </span><br>
+                                            <span class="text-dark">Maharashtra, the land of charismatic Marathas, unfolds the legend of diverse culture and tradition, keeping in pace with the modernity. The gallant history of Maharashtra is still echoed amidst its historical relics and archeological wonders.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_Kerala_1.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_kerala" style="text-decoration: none; color: black;">History of Kerala</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Kerala can be interpreted from the inscriptions of Ashoka, Mauryan Emperor. History of Kerala is as interesting as its wide-ranging geographical features that make the land a place of versatile appeal.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/01_History_of_Bihar.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_bihar" style="text-decoration: none; color: black;">History of Bihar</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Bihar goes back to the very dawn of the human civilizations. Many eminent personalities and leaders from Bihar contributed for India’s freedom struggle.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/Palace_built_during_Ahoms_Rule.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_assam" style="text-decoration: none; color: black;">History of Assam</a></span>
+                                            </span><br>
+                                            <span class="text-dark">In the ancient Indian epics like Ramayana and Mahabharata, Assam was known as `Kamarupa` or `Pragjyotish`. In the Mahabharata, the Puranas, the Tantras there are references of Assam as Kamrupa kingdom.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_Andaman_and_Nicobar_Islands.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_andaman_nicobar_islands" style="text-decoration: none; color: black;">History of Andaman and Nicobar Islands</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Andaman and Nicobar Islands dates back to the settlement of the East India Company in the territory of the Islands.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_West_Benga.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_west_bengal" style="text-decoration: none; color: black;">History of West Bengal</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of West Bengal is rooted in richness and is an important episode in the history of India. The history of Bengal played an important role in shaping the history of India.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/ruins_of_Palamu_Kila.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_jharkhand" style="text-decoration: none; color: black;">History of Jharkhand</a></span>
+                                            </span><br>
+                                            <span class="text-dark">One of the fairly newer states, Jharkhand was carved out of the southern portion of Bihar in 2000. The history of Jharkhand is seeped with a variety of cultural significances starting from the Vedic era to Mughal period and finally the British administration.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Tashi_Namgyal.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_sikkim" style="text-decoration: none; color: black;">History of Sikkim</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Sikkim declares the pre historic culture and the colonial era hilly politics and the rules of Sikkim.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_Nagaland__Nagaland_01.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_nagaland" style="text-decoration: none; color: black;">History of Nagaland</a></span>
+                                            </span><br>
+                                            <span class="text-dark">The history of Nagaland mainly revolves around and deals with the customs and economic activities of the Naga Tribes and how the state has evolved since the Indian Independence.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_Mizora.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_mizoram" style="text-decoration: none; color: black;">History of Mizoram</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Mizoram includes the various historical events and incidents which occurred during the various ages, right from before the age of the Mughals.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Kushana_Art_2.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_jammu_kashmir" style="text-decoration: none; color: black;">History of Jammu &amp; Kashmir</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Jammu and Kashmir involves a series of political and geographical transformations from every ancient era to the modern times also. Even now, Jammu and Kashmir has its political tension between Pakistan and India.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Cholas_of_Thanjavur.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_puducherry" style="text-decoration: none; color: black;">History of Puducherry</a></span>
+                                            </span><br>
+                                            <span class="text-dark">Puducherry was invaded by different invaders in different times. The invaders include Pallava Kingdom of Kanchipuram, dynasties of the South, Cholas of Thanjavur, Pandyas and Muslim invaders.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/panditnehru_6626.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_chandigarh" style="text-decoration: none; color: black;">History of Chandigarh</a></span>
+                                            </span><br>
+                                            <span class="text-dark">In 1947, the British India was partitioned into India and Pakistan. Punjab was also included in this partition. So, there was a need for a new capital for Punjab, as the old capital Lahore became part of Pakistan during the partition. So, in 1948, under the leadership of chief architect Mr. P.L. Verma the construction of Chandigarh city began.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/Fort_of_diu_6631.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_daman_diu" style="text-decoration: none; color: black;">History of Daman and Diu</a></span>
+                                            </span><br>
+                                            <span class="text-dark">During the early stage, i.e. from 8th to 13th century, Daman and Diu was part of Goa.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Lakshadweep_Island.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_lakshadweep" style="text-decoration: none; color: black;">History of Lakshadweep</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Lakshadweep defines the first settlement on these islands under the Union Territory of India that was ruled by Cheraman Perumal, who was the last king of Kerala.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_Karnataka_1.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_karnataka" style="text-decoration: none; color: black;">History of Karnataka</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Karnataka comprised of the different rulers of different dynasties of various religions like Hindus, Buddhists, and later the Muslims.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/2_Ancient_church_of_Goa.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_goa" style="text-decoration: none; color: black;">History of Goa</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Goa dates back to the 3rd century BC and reflects the rule of the mighty rulers and gained its independence under Jawaharlal Nehru.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/Natives_of_Arunachal_Pradesh.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_arunachal_pradesh" style="text-decoration: none; color: black;">History of Arunachal Pradesh</a></span>
+                                            </span><br>
+                                            <span class="text-dark">Arunachal Pradesh possesses a rich historical heritage of culture of the ancient tribes. Being a bordering state of India, Arunachal Pradesh also has a history of military unrest since ancient Indian age.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_History_of_Andhra_Pradesh.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_andhra_pradesh" style="text-decoration: none; color: black;">History of Andhra Pradesh</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Andhra Pradesh traces its origin back to the 5th century BC. According to the inscriptions, Kuberaka, the oldest Kingdom in South India had an empire in the coastal Andhra during that period.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_Himachal_Pradesh.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_himachal_pradesh" style="text-decoration: none; color: black;">History of Himachal Pradesh</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Himachal Pradesh narrates about the various settlements and dynasties that emerged in the region over time.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/images/uttarakhand-map_1310.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_uttarakhand" style="text-decoration: none; color: black;">History of Uttarakhand</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Uttarakhand finds mention in the early Hindu scriptures as Kedarkhand, Manaskhand and Himavat. Uttarakhand is called as the Land of the Gods (Dev Bhoomi) because of its various holy places and shrines.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Architecture_of_Medieval_Rajasthan.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_rajasthan" style="text-decoration: none; color: black;">History of Rajasthan</a></span>
+                                            </span><br>
+                                            <span class="text-dark">The history of Rajasthan is dotted with tales of valor, chivalry, camaraderie and romance.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Pandya_Architecture.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_tamil_nadu" style="text-decoration: none; color: black;">History of Tamil Nadu</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Tamil Nadu reveals that this ancient place in South India was ruled by various kingdoms like the Pandyas Dynasty, Cholas Dynasty, Nayakas Dynasty and Pallavas Dynasty.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/History_of_Haryana.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_haryana" style="text-decoration: none; color: black;">History of Haryana</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Haryana depicts various events and influences that have cast a profound effect on the culture and people of the district. The place gained statehood on 1st of November 1966</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Archaeological_Remaining_in_Kalinga.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_orissa" style="text-decoration: none; color: black;">History of Odisha</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Odisha goes back a rather long way. Most of the history of the state is replete with the dynastic as well as tribal struggle for territorial superiority. Odisha is a place where one can find the religion, culture and history flow in away that lead to cultural amalgamation of early India.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Kuki_Tribes.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_manipur" style="text-decoration: none; color: black;">History of Manipur</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Manipur can be traced back to the prehistoric ages and this was followed by a number of rulers who reigned the land from age to age till it came under British rule and later joined the union of India.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/01_Sun_Temple_of_Gujarat.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_gujarat" style="text-decoration: none; color: black;">History of Gujarat</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Gujarat can be dated back to the 14th century that later witnessed the supremacy of many powerful dynasties.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Ujjayanta_Palace_Agartala.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_tripura" style="text-decoration: none; color: black;">History of Tripura</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Tripura is dealing with the early mythological history and the history of British rule in North eastern part of India.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/1_Meghalaya.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_meghalaya" style="text-decoration: none; color: black;">History of Meghalaya</a></span>
+                                            </span><br>
+                                            <span class="text-dark">The history of Meghalaya predominantly comprises of the three tribes of the state- Garo, Khasi and Jaintia tribes. Later on Meghalaya was formed by carving out two districts from the state of Assam.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                           <div class="card2 mb-2">
+                                    <div class="row">
+                                        <div class="col-md-2 mb-2" style="width:137px; height:130px; display: flex; align-items: center; justify-content: center;">
+                                                                                            <img src="https://www.indianetzone.com/public/admin/uploadImage/archeological_ruins_of_Devrani_Jethani_Temple.jpg" style="width:auto; height:120px;">
+                                                                                    </div>
+                                        <div class="col-md-9">
+                                            <span class="small text-dark">
+                                                <span class="font-bold font-1"><a href="https://www.indianetzone.com/history_chhattisgarh" style="text-decoration: none; color: black;">History of Chhattisgarh</a></span>
+                                            </span><br>
+                                            <span class="text-dark">History of Chhattisgarh dates back to the era of epics and traces through the reign of powerful dynasties in India like Marathas. The area developed a rich cultural heritage during British era.</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                                       
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript" src="https://www.indianetzone.com/public/website/validation/article.js"></script>
+<div class="section bg-blue">
+    <div class="container text-center">
+        <footer class="pt-2 pb-1">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <ul class="flex-row list-unstyled">
+                         <li class="list-none">
+                                <a href="https://www.indianetzone.com/contactus"><b class="text-white">Contact Us</b></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                <b class="text-white">Follow Us :</b>
+                                <!--<a href="#" class="text-muted font-2"><i class="bi bi-wifi"></i></a>-->
+                                <a href="https://www.facebook.com/india.netzone.9" class="text-muted font-2 px-3" target="_blank"><i class="bi bi-facebook"></i></a>
+                                <a href="https://x.com/Indianetzone" class="text-muted font-2 px-3" target="_blank"><i class="bi bi-twitter-x"></i></a>
+                                <a href="https://in.pinterest.com/indianetzone/" class="text-muted font-2 px-3" target="_blank"><i class="bi bi-pinterest"></i></a>
+                                <a href="https://www.linkedin.com/showcase/19075773/admin/dashboard/" class="text-muted font-2 px-3" target="_blank"><i class="bi bi-linkedin"></i></a>
+                                <a href="https://www.instagram.com/india_netzone/" class="text-muted font-2 px-3" target="_blank"><i class="bi bi-instagram"></i></a>
+
+                                <!--<a href=https://www.indianetzone.com/subscribe-newsletter class="text-muted font-2 px-3" ><i class="bi bi-book-fill"></i></a>-->
+                            </li>
+                    </ul>
+                </div>
+                <div class="col-md-12">
+                    <div class="d-flex flex-column flex-sm-row justify-content-between border-top">
+                        <span class="text-white pt-4 footer-p px-5">Copyright Jupiter Infomedia Ltd. All rights reserved including the right to reproduce the contents in whole or in part in any form or medium without the express written permission of Jupiter Infomedia Ltd.</span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=6667df33c861e90019a227e5&product=inline-share-buttons&source=platform" async="async"></script>
+    <script src="https://www.indianetzone.com/public/website/assets/js/bootstrap.bundal-min.js"></script>
+    <script type="text/javascript" src="https://www.indianetzone.com/public/website/validation/search.js"></script>
+</body>
+</html>

@@ -1,0 +1,574 @@
+Content from: https://www.newhistorian.com
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-US"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en-US"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+    <head>
+	<meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>New Historian - Just another WordPress site</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.newhistorian.com/xmlrpc.php">
+	<meta property="og:image" content=""/>
+    <meta property="og:image:width" content="300" />
+    <meta property="og:image:height" content="300" />
+
+<meta property="og:title" content="New Historian"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Just another WordPress site"/>
+<meta property="og:url" content="https://www.newhistorian.com/2019/03/19/who-was-harriet-tubman-the-life-and-legacy-of-an-american-heroine/"/>
+<meta property="og:site_name" content="New Historian"/>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="shortcut icon" href="" />
+<link rel="apple-touch-icon" href="https://www.newhistorian.com/wp-content/themes/goodnews5/apple-touch-icon-precomposed.png" />
+
+<link rel="pingback" href="https://www.newhistorian.com/xmlrpc.php" />
+        <!--[if lt IE 9]>
+	<script src="https://www.newhistorian.com/wp-content/themes/goodnews5/framework/helpers/js/html5.js"></script>
+	<script src="https://www.newhistorian.com/wp-content/themes/goodnews5/framework/helpers/js/IE9.js"></script>
+	<![endif]-->
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Just another WordPress site" />
+	<link rel="canonical" href="https://www.newhistorian.com/" />
+	<link rel="next" href="https://www.newhistorian.com/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="New Historian" />
+	<meta property="og:description" content="Just another WordPress site" />
+	<meta property="og:url" content="https://www.newhistorian.com/" />
+	<meta property="og:site_name" content="New Historian" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://www.newhistorian.com/","url":"https://www.newhistorian.com/","name":"New Historian - Just another WordPress site","isPartOf":{"@id":"https://www.newhistorian.com/#website"},"description":"Just another WordPress site","breadcrumb":{"@id":"https://www.newhistorian.com/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://www.newhistorian.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://www.newhistorian.com/#website","url":"https://www.newhistorian.com/","name":"New Historian","description":"Just another WordPress site","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.newhistorian.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.newhistorian.com' />
+<link rel="alternate" type="application/rss+xml" title="New Historian &raquo; Feed" href="https://www.newhistorian.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="New Historian &raquo; Comments Feed" href="https://www.newhistorian.com/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.newhistorian.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.7"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='layerslider-css' href='https://www.newhistorian.com/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.7.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.newhistorian.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.newhistorian.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.newhistorian.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://www.newhistorian.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='simple_responsive_stylesheet-css' href='https://www.newhistorian.com/wp-content/plugins/vc-simple-all-responsive/assets/media.css?ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-css' href='https://www.newhistorian.com/wp-content/themes/goodnews5/css/plugins.css?ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css' href='https://www.newhistorian.com/wp-content/themes/goodnews5/css/main.css?ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css' href='https://www.newhistorian.com/wp-content/themes/goodnews5/css/media.css?ver=6.1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://www.newhistorian.com/wp-content/themes/goodnews5/style.css?ver=6.1.7' type='text/css' media='all' />
+<script type='text/javascript' id='layerslider-greensock-js-extra'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"6.7.6"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0' id='layerslider-greensock-js'></script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.7.6' id='layerslider-js'></script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.7.6' id='layerslider-transitions-js'></script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.1' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.1' id='revmin-js'></script>
+<meta name="generator" content="Powered by LayerSlider 6.7.6 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://layerslider.kreaturamedia.com -->
+<link rel="https://api.w.org/" href="https://www.newhistorian.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.newhistorian.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.newhistorian.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.7" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.newhistorian.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!-- There is no amphtml version available for this URL. --><meta name="generator" content="Powered by Slider Revolution 5.4.8.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<style type="text/css" title="dynamic-css" class="options-output">body{color:#8e8e8e;}</style><style type="text/css">
+    
+.header > .inner, .header .logo {
+line-height: 154px;
+height: 154px;
+}
+/* Category background */
+</style>
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>    </head>
+    <body class="home blog right-sidebar fade-imgs-in-appear navigation_highlight_ancestor time_in_twelve_format wpb-js-composer js-comp-ver-5.6 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+    
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div class="boxed-wrap clearfix">
+	    <div id="header-wrapper">
+                         <div class="topbar">
+  <div class="inner">
+            <div class="top-left-content">
+                 
+                         </div> <!--tb left-->
+        <div class="top-right-content">
+            		    <ul class="mom-social-icons">
+                    <li class="twitter"><a target="_blank" class="vector_icon" href="#"><i class="fa-icon-twitter"></i></a></li>
+        
+                <li class="facebook"><a target="_blank" class="vector_icon" href="#"><i class="fa-icon-facebook "></i></a></li>        
+        
+                   <li class="gplus"><a target="_blank" class="vector_icon" href="#" ><i class="fa-icon-google-plus"></i></a></li>     
+        
+                        <li class="linkedin"><a target="_blank" class="vector_icon" href="#"><i class="fa-icon-linkedin"></i></a></li>
+        
+        
+        
+        
+        
+
+        
+
+        
+                        	
+	    </ul>
+                    </div> <!--tb right-->
+</div>
+ </div> <!--topbar-->
+             <header class="header " itemscope="itemscope" itemtype="http://schema.org/WPHeader" role="banner">
+                <div class="inner">
+						                    <div class="logo">
+					<h1>                    <a href="https://www.newhistorian.com">
+		                                                    <img src="https://www.newhistorian.com/wp-content/themes/goodnews5/images/logo.png" alt="New Historian" width="241" height="60" />
+                                                                                           <img class="mom_retina_logo" src="https://www.newhistorian.com/wp-content/themes/goodnews5/images/retina_logo.png" width="241" height="60" alt="New Historian" />
+                                                		                    </a>
+
+					</h1>
+                    </div>
+                                        <div class="header-right">
+                                  		<div class="mom-e3lanat-wrap  ">
+	<div class="mom-e3lanat " style="">
+		<div class="mom-e3lanat-inner">
+		
+		</div>
+	</div>	<!--Mom ads-->
+	</div>
+                    </div> <!--header right-->
+                    
+                <div class="clear"></div>
+                </div>
+            </header>
+	    	    </div> <!--header wrap-->
+                                    <nav id="navigation" itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" role="navigation" class="dd-effect-slide ">
+                <div class="navigation-inner">
+                <div class="inner">
+                                                            		    <div class="nav-buttons">
+                                        		                        <span class="nav-button nav-search">
+                        <i class="fa-icon-search"></i>
+                    </span>
+                    <div class="nb-inner-wrap search-wrap border-box">
+                        <div class="nb-inner sw-inner">
+                        <div class="search-form mom-search-form">
+                            <form method="get" action="https://www.newhistorian.com">
+                                <input class="sf" type="text" placeholder="Search ..." autocomplete="off" name="s">
+                                <button class="button" type="submit"><i class="fa-icon-search"></i></button>
+                            </form>
+                            <span class="sf-loading"><img src="https://www.newhistorian.com/wp-content/themes/goodnews5/images/ajax-search-nav.gif" alt="loading..." width="16" height="16"></span>
+                        </div>
+                    <div class="ajax_search_results">
+                    </div> <!--ajax search results-->
+                    </div> <!--sw inner-->
+                    </div> <!--search wrap-->
+                    
+        		    </div> <!--nav-buttons-->
+
+                </div>
+                </div> <!--nav inner-->
+            </nav> <!--Navigation-->
+            	    <div class="boxed-content-wrapper clearfix">
+                        <div class="nav-shaddow"></div>
+                         <div style="margin-top:-17px; margin-bottom:20px;"></div>
+            
+            <div class="inner">
+                        
+        <div class="breaking-news">
+    <div class="the_ticker" >
+    <div class="bn-title"><span>BREAKING NEWS</span></div>
+    <div class="news-ticker " data-timeout="5000">
+        <ul>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/03/19/who-was-harriet-tubman-the-life-and-legacy-of-an-american-heroine/">Who was Harriet Tubman? The Life and Legacy of an American Heroine.</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/03/11/what-were-the-causes-of-world-war-i/">What were the causes of World War I?</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/02/28/the-spanish-civil-war-how-it-all-started-and-its-aftermath/">The Spanish Civil War: How it all started and its aftermath</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/02/19/how-did-the-partition-of-india-happen-and-what-were-the-consequences/">How did the Partition of India happen and what were the consequences?</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/02/13/hildegard-of-bingen-a-renaissance-woman-before-her-time/">Hildegard of Bingen: A Renaissance Woman Before Her Time</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/02/10/what-was-watergate/">What was Watergate?</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/01/30/seeking-refuge/">Seeking Refuge: International Refugee Policy and the Holocaust</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/01/29/how-did-switzerland-stay-neutral-during-world-war-ii/">How did Switzerland stay neutral during World War II?</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/01/23/lines-in-the-sand-part-2-the-mexican-american-war/">Lines In The Sand, part 2: The Mexican-American War</a></li>
+            <li><i class="fa-icon-double-angle-right"></i><a href="https://www.newhistorian.com/2019/01/21/what-is-blackbirding/">What is “blackbirding”?</a></li>
+        </ul>
+    </div> <!--news ticker-->
+    </div>
+        <span class="current_time">    GMT+2 01:36      </span>
+        </div> <!--breaking news-->
+            </div>
+        <div class="inner">
+            <div class="main_container">
+                <div class="main-col">
+                                                                    <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-9094 post type-post status-publish format-standard category-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/03/19/who-was-harriet-tubman-the-life-and-legacy-of-an-american-heroine/">Who was Harriet Tubman? The Life and Legacy of an American Heroine.</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/ellesh/">EllesH</a></span></span><span>on: <time datetime="2019-03-19T14:53:37+00:00" class="updated">March 19, 2019</time></span><span>In: <a href="https://www.newhistorian.com/news/" title="View all posts in News">News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	                                                <P>
+                                    				   <a href="https://www.newhistorian.com/2019/03/19/who-was-harriet-tubman-the-life-and-legacy-of-an-american-heroine/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-9087 post type-post status-publish format-standard has-post-thumbnail category-breaking-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/03/11/what-were-the-causes-of-world-war-i/">What were the causes of World War I?</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/ellesh/">EllesH</a></span></span><span>on: <time datetime="2019-03-11T10:26:33+00:00" class="updated">March 11, 2019</time></span><span>In: <a href="https://www.newhistorian.com/breaking-news/" title="View all posts in Breaking News">Breaking News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	            <div class="post-img">
+                <a href="https://www.newhistorian.com/2019/03/11/what-were-the-causes-of-world-war-i/">
+                	<img src="https://www.newhistorian.com/wp-content/uploads/2019/03/franz_ferdinand_1050x700-1.jpg" data-hidpi="https://www.newhistorian.com/wp-content/uploads/2019/03/franz_ferdinand_1050x700-1.jpg" alt="What were the causes of World War I?" width="190" height="122">                </a>
+                <span class="post-format-icon"></span>
+            </div> <!--img-->
+	                                                    <P>
+                                    				   <a href="https://www.newhistorian.com/2019/03/11/what-were-the-causes-of-world-war-i/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-9083 post type-post status-publish format-standard has-post-thumbnail category-breaking-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/02/28/the-spanish-civil-war-how-it-all-started-and-its-aftermath/">The Spanish Civil War: How it all started and its aftermath</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/ellesh/">EllesH</a></span></span><span>on: <time datetime="2019-02-28T21:52:24+00:00" class="updated">February 28, 2019</time></span><span>In: <a href="https://www.newhistorian.com/breaking-news/" title="View all posts in Breaking News">Breaking News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	            <div class="post-img">
+                <a href="https://www.newhistorian.com/2019/02/28/the-spanish-civil-war-how-it-all-started-and-its-aftermath/">
+                	<img src="https://www.newhistorian.com/wp-content/uploads/2019/02/Bundesarchiv_Bild_183-H25224_Guernica_Ruinen-1.jpg" data-hidpi="https://www.newhistorian.com/wp-content/uploads/2019/02/Bundesarchiv_Bild_183-H25224_Guernica_Ruinen-1.jpg" alt="The Spanish Civil War: How it all started and its aftermath" width="190" height="122">                </a>
+                <span class="post-format-icon"></span>
+            </div> <!--img-->
+	                                                    <P>
+                                    				   <a href="https://www.newhistorian.com/2019/02/28/the-spanish-civil-war-how-it-all-started-and-its-aftermath/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-9079 post type-post status-publish format-standard has-post-thumbnail category-breaking-news category-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/02/19/how-did-the-partition-of-india-happen-and-what-were-the-consequences/">How did the Partition of India happen and what were the consequences?</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/ellesh/">EllesH</a></span></span><span>on: <time datetime="2019-02-19T15:43:26+00:00" class="updated">February 19, 2019</time></span><span>In: <a href="https://www.newhistorian.com/breaking-news/" title="View all posts in Breaking News">Breaking News</a>, <a href="https://www.newhistorian.com/news/" title="View all posts in News">News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	            <div class="post-img">
+                <a href="https://www.newhistorian.com/2019/02/19/how-did-the-partition-of-india-happen-and-what-were-the-consequences/">
+                	<img src="https://www.newhistorian.com/wp-content/uploads/2019/02/Brit_IndianEmpireReligions3-1.jpg" data-hidpi="https://www.newhistorian.com/wp-content/uploads/2019/02/Brit_IndianEmpireReligions3-1.jpg" alt="How did the Partition of India happen and what were the consequences?" width="190" height="122">                </a>
+                <span class="post-format-icon"></span>
+            </div> <!--img-->
+	                                                    <P>
+                                    				   <a href="https://www.newhistorian.com/2019/02/19/how-did-the-partition-of-india-happen-and-what-were-the-consequences/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-8909 post type-post status-publish format-standard has-post-thumbnail category-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/02/13/hildegard-of-bingen-a-renaissance-woman-before-her-time/">Hildegard of Bingen: A Renaissance Woman Before Her Time</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/jhoyt/">JHoyt</a></span></span><span>on: <time datetime="2019-02-13T07:05:09+00:00" class="updated">February 13, 2019</time></span><span>In: <a href="https://www.newhistorian.com/news/" title="View all posts in News">News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	            <div class="post-img">
+                <a href="https://www.newhistorian.com/2019/02/13/hildegard-of-bingen-a-renaissance-woman-before-her-time/">
+                	<img src="https://www.newhistorian.com/wp-content/uploads/2018/11/300px-Hildegard_von_Bingen-1.jpg" data-hidpi="https://www.newhistorian.com/wp-content/uploads/2018/11/300px-Hildegard_von_Bingen-1.jpg" alt="Hildegard of Bingen: A Renaissance Woman Before Her Time" width="190" height="122">                </a>
+                <span class="post-format-icon"></span>
+            </div> <!--img-->
+	                                                    <P>
+                                    				   <a href="https://www.newhistorian.com/2019/02/13/hildegard-of-bingen-a-renaissance-woman-before-her-time/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-9072 post type-post status-publish format-standard has-post-thumbnail category-breaking-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/02/10/what-was-watergate/">What was Watergate?</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/ellesh/">EllesH</a></span></span><span>on: <time datetime="2019-02-10T10:10:28+00:00" class="updated">February 10, 2019</time></span><span>In: <a href="https://www.newhistorian.com/breaking-news/" title="View all posts in Breaking News">Breaking News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	            <div class="post-img">
+                <a href="https://www.newhistorian.com/2019/02/10/what-was-watergate/">
+                	<img src="https://www.newhistorian.com/wp-content/uploads/2019/02/Nixon_edited_transcripts-1.jpg" data-hidpi="https://www.newhistorian.com/wp-content/uploads/2019/02/Nixon_edited_transcripts-1.jpg" alt="What was Watergate?" width="190" height="122">                </a>
+                <span class="post-format-icon"></span>
+            </div> <!--img-->
+	                                                    <P>
+                                    				   <a href="https://www.newhistorian.com/2019/02/10/what-was-watergate/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-9059 post type-post status-publish format-standard has-post-thumbnail category-breaking-news category-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/01/30/seeking-refuge/">Seeking Refuge: International Refugee Policy and the Holocaust</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/jhoyt/">JHoyt</a></span></span><span>on: <time datetime="2019-01-30T18:14:57+00:00" class="updated">January 30, 2019</time></span><span>In: <a href="https://www.newhistorian.com/breaking-news/" title="View all posts in Breaking News">Breaking News</a>, <a href="https://www.newhistorian.com/news/" title="View all posts in News">News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	            <div class="post-img">
+                <a href="https://www.newhistorian.com/2019/01/30/seeking-refuge/">
+                	<img src="https://www.newhistorian.com/wp-content/uploads/2019/01/Kindertransport-1.jpg" data-hidpi="https://www.newhistorian.com/wp-content/uploads/2019/01/Kindertransport-1.jpg" alt="Seeking Refuge: International Refugee Policy and the Holocaust" width="190" height="122">                </a>
+                <span class="post-format-icon"></span>
+            </div> <!--img-->
+	                                                    <P>
+                                    				   <a href="https://www.newhistorian.com/2019/01/30/seeking-refuge/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-9055 post type-post status-publish format-standard has-post-thumbnail category-breaking-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/01/29/how-did-switzerland-stay-neutral-during-world-war-ii/">How did Switzerland stay neutral during World War II?</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/ellesh/">EllesH</a></span></span><span>on: <time datetime="2019-01-29T13:19:53+00:00" class="updated">January 29, 2019</time></span><span>In: <a href="https://www.newhistorian.com/breaking-news/" title="View all posts in Breaking News">Breaking News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	            <div class="post-img">
+                <a href="https://www.newhistorian.com/2019/01/29/how-did-switzerland-stay-neutral-during-world-war-ii/">
+                	<img src="https://www.newhistorian.com/wp-content/uploads/2019/01/SwissArmyAlps-1.jpg" data-hidpi="https://www.newhistorian.com/wp-content/uploads/2019/01/SwissArmyAlps-1.jpg" alt="How did Switzerland stay neutral during World War II?" width="190" height="122">                </a>
+                <span class="post-format-icon"></span>
+            </div> <!--img-->
+	                                                    <P>
+                                    				   <a href="https://www.newhistorian.com/2019/01/29/how-did-switzerland-stay-neutral-during-world-war-ii/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-9045 post type-post status-publish format-standard category-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/01/23/lines-in-the-sand-part-2-the-mexican-american-war/">Lines In The Sand, part 2: The Mexican-American War</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/jhoyt/">JHoyt</a></span></span><span>on: <time datetime="2019-01-23T18:51:34+00:00" class="updated">January 23, 2019</time></span><span>In: <a href="https://www.newhistorian.com/news/" title="View all posts in News">News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	                                                <P>
+                                    				   <a href="https://www.newhistorian.com/2019/01/23/lines-in-the-sand-part-2-the-mexican-american-war/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                <div class="base-box blog-post default-blog-post bp-vertical-share share-off post-9041 post type-post status-publish format-standard has-post-thumbnail category-breaking-news">
+    <div class="bp-entry">
+        <div class="bp-head">
+            <h2><a href="https://www.newhistorian.com/2019/01/21/what-is-blackbirding/">What is “blackbirding”?</a></h2>
+            <div class="mom-post-meta bp-meta"><span class="author vcard" itemprop="author" itemscope itemtype="https://schema.org/Person">Posted By: <span class="fn" itemprop="name"><a href="https://www.newhistorian.com/author/ellesh/">EllesH</a></span></span><span>on: <time datetime="2019-01-21T14:11:37+00:00" class="updated">January 21, 2019</time></span><span>In: <a href="https://www.newhistorian.com/breaking-news/" title="View all posts in Breaking News">Breaking News</a></span><span></span></div>        </div> <!--blog post head-->
+        <div class="bp-details">
+	            <div class="post-img">
+                <a href="https://www.newhistorian.com/2019/01/21/what-is-blackbirding/">
+                	<img src="https://www.newhistorian.com/wp-content/uploads/2019/01/Seizure_of_blackbirder_Daphne-1.jpg" data-hidpi="https://www.newhistorian.com/wp-content/uploads/2019/01/Seizure_of_blackbirder_Daphne-1.jpg" alt="What is “blackbirding”?" width="190" height="122">                </a>
+                <span class="post-format-icon"></span>
+            </div> <!--img-->
+	                                                    <P>
+                                    				   <a href="https://www.newhistorian.com/2019/01/21/what-is-blackbirding/" class="read-more-link">Read more <i class="fa-icon-double-angle-right"></i></a>
+				</P>
+                            </div> <!--details-->
+    </div> <!--entry-->
+        <div class="clear"></div>
+</div> <!--blog post-->
+                                                            <div class='pagination'><span class='current'>1</span><a href='https://www.newhistorian.com/page/2/' class='inactive' >2</a><a href='https://www.newhistorian.com/page/3/' class='inactive' >3</a><a href='https://www.newhistorian.com/page/4/' class='inactive' >4</a><a href='https://www.newhistorian.com/page/2/'>&rsaquo;</a><a href='https://www.newhistorian.com/page/248/'>&raquo;</a></div>
+                                                        </div> <!--main column-->
+                            <div class="clear"></div>
+            </div> <!--main container-->            
+                            <div class="sidebar main-sidebar" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar">
+            <div class="widget widget_search"><div class="search-form default-search-form">
+    <form method="get" action="https://www.newhistorian.com">
+        <input class="sf" type="text" placeholder="Search ..." autocomplete="off" name="s">
+        <button class="button" type="submit"><i class="fa-icon-search"></i></button>
+    </form>
+</div>
+</div>
+		<div class="widget widget_recent_entries">
+		<div class="widget-head"><h3 class="widget-title"><span>Recent Posts</span></h3></div>
+		<ul>
+											<li>
+					<a href="https://www.newhistorian.com/2019/03/19/who-was-harriet-tubman-the-life-and-legacy-of-an-american-heroine/">Who was Harriet Tubman? The Life and Legacy of an American Heroine.</a>
+									</li>
+											<li>
+					<a href="https://www.newhistorian.com/2019/03/11/what-were-the-causes-of-world-war-i/">What were the causes of World War I?</a>
+									</li>
+											<li>
+					<a href="https://www.newhistorian.com/2019/02/28/the-spanish-civil-war-how-it-all-started-and-its-aftermath/">The Spanish Civil War: How it all started and its aftermath</a>
+									</li>
+											<li>
+					<a href="https://www.newhistorian.com/2019/02/19/how-did-the-partition-of-india-happen-and-what-were-the-consequences/">How did the Partition of India happen and what were the consequences?</a>
+									</li>
+											<li>
+					<a href="https://www.newhistorian.com/2019/02/13/hildegard-of-bingen-a-renaissance-woman-before-her-time/">Hildegard of Bingen: A Renaissance Woman Before Her Time</a>
+									</li>
+					</ul>
+
+		</div><div class="widget widget_recent_comments"><div class="widget-head"><h3 class="widget-title"><span>Recent Comments</span></h3></div><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://www.facebook.com/app_scoped_user_id/105596493186412/' rel='external nofollow ugc' class='url'>Mike Hunt-Hertz</a></span> on <a href="https://www.newhistorian.com/2016/04/29/large-carnivores-may-eaten-ancient-hominins/#comment-458">Large Carnivores May Have Eaten Ancient Hominins</a></li><li class="recentcomments"><span class="comment-author-link">bob</span> on <a href="https://www.newhistorian.com/2016/04/24/anti-semitic-letter-ex-president-auction/#comment-457">Anti-semitic Letter From Ex-President Up for Auction</a></li><li class="recentcomments"><span class="comment-author-link">Rachel Hug</span> on <a href="https://www.newhistorian.com/2016/04/23/yiddish-may-roots-turkey-not-germany/#comment-456">Yiddish May Have Roots in Turkey, Not Germany</a></li><li class="recentcomments"><span class="comment-author-link">History man</span> on <a href="https://www.newhistorian.com/2016/04/23/yiddish-may-roots-turkey-not-germany/#comment-455">Yiddish May Have Roots in Turkey, Not Germany</a></li><li class="recentcomments"><span class="comment-author-link">History man</span> on <a href="https://www.newhistorian.com/2016/04/23/yiddish-may-roots-turkey-not-germany/#comment-454">Yiddish May Have Roots in Turkey, Not Germany</a></li></ul></div><div class="widget widget_archive"><div class="widget-head"><h3 class="widget-title"><span>Archives</span></h3></div>
+			<ul>
+					<li><a href='https://www.newhistorian.com/2019/03/'>March 2019</a></li>
+	<li><a href='https://www.newhistorian.com/2019/02/'>February 2019</a></li>
+	<li><a href='https://www.newhistorian.com/2019/01/'>January 2019</a></li>
+	<li><a href='https://www.newhistorian.com/2018/12/'>December 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/11/'>November 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/09/'>September 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/08/'>August 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/07/'>July 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/06/'>June 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/05/'>May 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/04/'>April 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/03/'>March 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/02/'>February 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2018/01/'>January 2018</a></li>
+	<li><a href='https://www.newhistorian.com/2017/12/'>December 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/11/'>November 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/10/'>October 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/09/'>September 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/08/'>August 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/07/'>July 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/06/'>June 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/05/'>May 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/04/'>April 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/03/'>March 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/02/'>February 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2017/01/'>January 2017</a></li>
+	<li><a href='https://www.newhistorian.com/2016/12/'>December 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/11/'>November 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/10/'>October 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/09/'>September 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/08/'>August 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/07/'>July 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/06/'>June 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/05/'>May 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/04/'>April 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/03/'>March 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/02/'>February 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2016/01/'>January 2016</a></li>
+	<li><a href='https://www.newhistorian.com/2015/12/'>December 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/11/'>November 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/10/'>October 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/09/'>September 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/08/'>August 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/07/'>July 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/06/'>June 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/05/'>May 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/04/'>April 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/03/'>March 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/02/'>February 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2015/01/'>January 2015</a></li>
+	<li><a href='https://www.newhistorian.com/2014/12/'>December 2014</a></li>
+	<li><a href='https://www.newhistorian.com/2014/11/'>November 2014</a></li>
+	<li><a href='https://www.newhistorian.com/2014/10/'>October 2014</a></li>
+	<li><a href='https://www.newhistorian.com/2014/09/'>September 2014</a></li>
+	<li><a href='https://www.newhistorian.com/2014/08/'>August 2014</a></li>
+	<li><a href='https://www.newhistorian.com/2014/07/'>July 2014</a></li>
+	<li><a href='https://www.newhistorian.com/2014/06/'>June 2014</a></li>
+			</ul>
+
+			</div><div class="widget widget_categories"><div class="widget-head"><h3 class="widget-title"><span>Categories</span></h3></div>
+			<ul>
+					<li class="cat-item cat-item-11"><a href="https://www.newhistorian.com/book-reviews/">Book Reviews</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="https://www.newhistorian.com/breaking-news/">Breaking News</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="https://www.newhistorian.com/editorial/">Editorial</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="https://www.newhistorian.com/news/">News</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://www.newhistorian.com/uncategorized/">Uncategorized</a>
+</li>
+			</ul>
+
+			</div><div class="widget widget_meta"><div class="widget-head"><h3 class="widget-title"><span>Meta</span></h3></div>
+		<ul>
+						<li><a rel="nofollow" href="https://www.newhistorian.com/wp-login.php">Log in</a></li>
+			<li><a href="https://www.newhistorian.com/feed/">Entries feed</a></li>
+			<li><a href="https://www.newhistorian.com/comments/feed/">Comments feed</a></li>
+
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>
+		</ul>
+
+		</div>
+           </div> <!--main sidebar-->
+            <div class="clear"></div>                  </div> <!--main inner-->
+      </div> <!--content boxed wrapper-->
+                        <footer id="footer">
+                <div class="inner">
+	     			<div class="one_fourth">
+			        			</div>
+			<div class="one_fourth">
+			        			</div>
+			<div class="one_fourth">
+			        			</div>
+			<div class="one_fourth last">
+			        			</div>
+	    
+        <div class="clear"></div>
+                </div> <!--// footer inner-->
+            </footer> <!--//footer-->
+            <div class="copyrights-area">
+                <div class="inner">
+                    <p class="copyrights-text">2014 Powered By Wordpress, Goodnews Theme By <a href="http://www.momizat.com/">Momizat Team</a></p>
+                    				                </div>
+           </div>
+            <div class="clear"></div>
+        </div> <!--Boxed wrap-->
+        <a href="#" class="scrollToTop button"><i class="enotype-icon-arrow-up"></i></a>	        <script type='text/javascript' src='https://www.newhistorian.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.4' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.newhistorian.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-content/themes/goodnews5/js/plugins.js?ver=1.0' id='plugins-js'></script>
+<script type='text/javascript' id='Momizat-main-js-js-extra'>
+/* <![CDATA[ */
+var momAjaxL = {"url":"https:\/\/www.newhistorian.com\/wp-admin\/admin-ajax.php","nonce":"053b07b19e","success":"check your email to complete subscription","error":"Already subscribed","error2":"Email invalid","werror":"Enter a valid city name.","nomore":"No More Posts","homeUrl":"https:\/\/www.newhistorian.com","viewAll":"View All","noResults":"Sorry, no posts matched your criteria","bodyad":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-content/themes/goodnews5/js/main.js?ver=1.0' id='Momizat-main-js-js'></script>
+<script type='text/javascript' src='https://www.newhistorian.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=5.6' id='prettyphoto-js'></script>
+    </body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: newhistorian.net @ 2024-12-25 11:36:11 by W3 Total Cache
+-->

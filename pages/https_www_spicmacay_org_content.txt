@@ -1,0 +1,1332 @@
+Content from: https://www.spicmacay.org
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<head>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+		<meta name="viewport" content="height=device-height,
+						                      width=device-width, initial-scale=1.0,
+						                      minimum-scale=1.0, maximum-scale=1.0,
+						                      user-scalable=no, target-densitydpi=device-dpi">
+		<meta charset="utf-8" />
+<meta name="description" content="SPIC MACAY is a 47-year-old movement taking Indian Heritage to Schools and Colleges to Inspire them... What does SPIC MACAY do? Inspire the young, Ignite a spark of inquiry, Promote voluntary work, Inculcate a spirit of service to the nation, Provide leadership opportunities to the young, We also… promote classical music." />
+<link rel="canonical" href="https://spicmacay.org/" />
+<link rel="shortlink" href="https://spicmacay.org/" />
+<link rel="image_src" href="https://spicmacay.org/sites/default/files/2024-04/Our%20Modules%20Collage%20%288%29.png" />
+<meta name="thumbnail" content="https://spicmacay.org/themes/custom/spicmacay/logo.svg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+
+			<title>Home | SPIC MACAY</title>
+			<link rel="stylesheet" media="all" href="/core/modules/views/css/views-responsive-grid.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/../themes/contrib/bootstrap_barrio/components/menu/menu.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/../themes/contrib/bootstrap_barrio/components/menu_columns/menu_columns.css?swjoll" />
+<link rel="stylesheet" media="all" href="/modules/contrib/video_embed_field/css/video_embed_field.responsive-video.css?swjoll" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?swjoll" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?swjoll" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/affix.css?swjoll" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/fonts/dosis_opensans.css?swjoll" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css?family=Open+Sans|Dosis:400,800" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/colors/messages/messages-light.css?swjoll" />
+<link rel="stylesheet" media="all" href="/themes/custom/spicmacay/css/style.css?swjoll" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/navigation.css?swjoll" />
+<link rel="stylesheet" media="all" href="/libraries/tiny-slider/dist/tiny-slider.css?swjoll" />
+<link rel="stylesheet" media="all" href="/themes/custom/spicmacay/css/tiny_slider.css?swjoll" />
+
+				</head>
+				<body class="layout-no-sidebars page-node-2874 path-frontpage node--type-page">
+					<a href="#main-content" class="visually-hidden-focusable">
+						Skip to main content
+					</a>
+					
+					  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+	<div id="page">
+		
+<header id="header" class="header site-header" role="banner" aria-label="Site header">
+	<nav class='navbar navbar-header'>
+		<div class='mobile-main-menu container-fluid'>
+			<div id='site-logo' class='site-logo'>
+	<a href="/" title="Home" rel="home" class="navbar-brand">
+		<img src="/themes/custom/spicmacay/logo.svg" alt="Home" class="img-fluid d-inline-block align-top logo"/>
+	</a>
+	<span class='movement-years'>...in its 47th year</span>
+</div>
+
+			<div class='menu-icon'>
+				<button class='menu-icon-open btn-primary btn' data-bs-toggle="offcanvas" data-bs-target="#offcanvasMenu" aria-controls="offcanvasMenu">
+					<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z"/></svg>
+				</button>
+			</div>
+			  <nav id='site-main-menu' role="navigation" aria-labelledby="block-spicmacay-main-menu-menu"  id="block-spicmacay-main-menu" class="block block-menu navigation menu--main container-fluid p-0 main-menu">
+	<div class="main-menu container-fluid d-none d-lg-flex fs-5">
+						<div class='main-menu-item main-menu-item-single'><a href="/" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">Home</a></div>
+				<div data-tree-target-id=menu_link_content:a9988a0a-a525-4377-a0d5-7dee11bf60f2 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:a9988a0a-a525-4377-a0d5-7dee11bf60f2 class='main-menu-item-parent main-menu-item'>
+				<span>The Movement</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/about" data-drupal-link-system-path="node/2879">About Us</a></div>
+									<div class='main-menu-item link'><a href="/about/four-pillars-spic-macay" data-drupal-link-system-path="node/2855">Four Pillars</a></div>
+									<div class='main-menu-item link'><a href="/chintan" data-drupal-link-system-path="node/2867">Philosophy of the Movement</a></div>
+									<div class='main-menu-item link'><a href="/volunteer-experiences" data-drupal-link-system-path="node/2868">Volunteer Experiences</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:9e41f623-8b7f-4520-a62b-a5254fa31140 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:9e41f623-8b7f-4520-a62b-a5254fa31140 class='main-menu-item-parent main-menu-item'>
+				<span>Our Work</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/our-modules" data-drupal-link-system-path="node/2846">Our Modules</a></div>
+									<div class='main-menu-item link'><a href="/about/activities" data-drupal-link-system-path="node/2849">Our Activities</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:abf67d55-5486-41c4-aab4-7ff00111feab class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:abf67d55-5486-41c4-aab4-7ff00111feab class='main-menu-item-parent main-menu-item'>
+				<span>Events</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/news" data-drupal-link-system-path="node/2878">News</a></div>
+									<div class='main-menu-item link'><a href="/events-calendar" data-drupal-link-system-path="node/2881">Calendar</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:a94878e2-51cd-4ea5-81da-dbb64af7c6e8 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:a94878e2-51cd-4ea5-81da-dbb64af7c6e8 class='main-menu-item-parent main-menu-item'>
+				<span>Our Centres</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/chapters" data-drupal-link-system-path="node/2880">Indian Centres</a></div>
+									<div class='main-menu-item link'><a href="/international-chapters" data-drupal-link-system-path="node/2877">International Centers</a></div>
+							</div>
+		</div>
+					<div class='main-menu-item main-menu-item-single'><a href="/volunteer-with-us" data-drupal-link-system-path="node/2869">Volunteer With Us</a></div>
+					<div class='main-menu-item main-menu-item-single'><a href="/our-supporters" data-drupal-link-system-path="node/2872">Supporters</a></div>
+					<div class='main-menu-item main-menu-item-single'><a href="/donate" data-drupal-link-system-path="node/2865">Donate</a></div>
+	
+	</div>
+	<div class="offcanvas offcanvas-end offcanvas-menu" tabindex="-1" id="offcanvasMenu" aria-labelledby="offcanvasExampleLabel">
+		<div class="offcanvas-header justify-content-between  align-items-center">
+			<img src="/themes/custom/spicmacay/logo.svg" alt="Home" class="img-fluid d-inline-block align-top logo"/>
+			<div class='menu-icon-offcanvas'>
+				<button class='menu-icon-close btn-primary btn' data-bs-dismiss="offcanvas" aria-label="Close">
+					<svg viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="15.9015" y1="17.3536" x2="3.39146" y2="4.84356" stroke="black" stroke-width="2" />
+  <line x1="3.39144" y1="16.6464" x2="15.9014" y2="4.13645" stroke="black" stroke-width="2" />
+</svg>
+				</button>
+			</div>
+		</div>
+		<div class='offcanvas-main-menu-body'>
+			<div class="main-menu">
+								<div class='main-menu-item main-menu-item-single'><a href="/" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">Home</a></div>
+				<div data-tree-target-id=menu_link_content:a9988a0a-a525-4377-a0d5-7dee11bf60f2 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:a9988a0a-a525-4377-a0d5-7dee11bf60f2 class='main-menu-item-parent main-menu-item'>
+				<span>The Movement</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/about" data-drupal-link-system-path="node/2879">About Us</a></div>
+									<div class='main-menu-item link'><a href="/about/four-pillars-spic-macay" data-drupal-link-system-path="node/2855">Four Pillars</a></div>
+									<div class='main-menu-item link'><a href="/chintan" data-drupal-link-system-path="node/2867">Philosophy of the Movement</a></div>
+									<div class='main-menu-item link'><a href="/volunteer-experiences" data-drupal-link-system-path="node/2868">Volunteer Experiences</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:9e41f623-8b7f-4520-a62b-a5254fa31140 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:9e41f623-8b7f-4520-a62b-a5254fa31140 class='main-menu-item-parent main-menu-item'>
+				<span>Our Work</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/our-modules" data-drupal-link-system-path="node/2846">Our Modules</a></div>
+									<div class='main-menu-item link'><a href="/about/activities" data-drupal-link-system-path="node/2849">Our Activities</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:abf67d55-5486-41c4-aab4-7ff00111feab class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:abf67d55-5486-41c4-aab4-7ff00111feab class='main-menu-item-parent main-menu-item'>
+				<span>Events</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/news" data-drupal-link-system-path="node/2878">News</a></div>
+									<div class='main-menu-item link'><a href="/events-calendar" data-drupal-link-system-path="node/2881">Calendar</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:a94878e2-51cd-4ea5-81da-dbb64af7c6e8 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:a94878e2-51cd-4ea5-81da-dbb64af7c6e8 class='main-menu-item-parent main-menu-item'>
+				<span>Our Centres</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/chapters" data-drupal-link-system-path="node/2880">Indian Centres</a></div>
+									<div class='main-menu-item link'><a href="/international-chapters" data-drupal-link-system-path="node/2877">International Centers</a></div>
+							</div>
+		</div>
+					<div class='main-menu-item main-menu-item-single'><a href="/volunteer-with-us" data-drupal-link-system-path="node/2869">Volunteer With Us</a></div>
+					<div class='main-menu-item main-menu-item-single'><a href="/our-supporters" data-drupal-link-system-path="node/2872">Supporters</a></div>
+					<div class='main-menu-item main-menu-item-single'><a href="/donate" data-drupal-link-system-path="node/2865">Donate</a></div>
+	
+			</div>
+			<div id='site-name-slogan'>
+				<div id='site-full-name' class="site-full-name">
+					<span>
+						Society for the Promotion of Indian Classical Music And Culture Amongst Youth
+					</span>
+				</div>
+				<div id='site-slogan' class='site-slogan'>
+					<span>
+						Have every child experience the inspiration and mysticism embodied in Indian and World heritage
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>
+
+
+		</div>
+		<div class='desktop-main-menu container-fluid'>
+			<div id='site-name-slogan'>
+				<div id='site-full-name' class="site-full-name">
+					<span>
+						Society for the Promotion of Indian Classical Music And Culture Amongst Youth
+					</span>
+				</div>
+				<div id='site-slogan' class='site-slogan'>
+					<span>
+						Have every child experience the inspiration and mysticism embodied in Indian and World heritage
+					</span>
+				</div>
+			</div>
+			  <nav id='site-main-menu' role="navigation" aria-labelledby="block-spicmacay-main-menu-menu"  id="block-spicmacay-main-menu" class="block block-menu navigation menu--main container-fluid p-0 main-menu">
+	<div class="main-menu container-fluid d-none d-lg-flex fs-5">
+						<div class='main-menu-item main-menu-item-single'><a href="/" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">Home</a></div>
+				<div data-tree-target-id=menu_link_content:a9988a0a-a525-4377-a0d5-7dee11bf60f2 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:a9988a0a-a525-4377-a0d5-7dee11bf60f2 class='main-menu-item-parent main-menu-item'>
+				<span>The Movement</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/about" data-drupal-link-system-path="node/2879">About Us</a></div>
+									<div class='main-menu-item link'><a href="/about/four-pillars-spic-macay" data-drupal-link-system-path="node/2855">Four Pillars</a></div>
+									<div class='main-menu-item link'><a href="/chintan" data-drupal-link-system-path="node/2867">Philosophy of the Movement</a></div>
+									<div class='main-menu-item link'><a href="/volunteer-experiences" data-drupal-link-system-path="node/2868">Volunteer Experiences</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:9e41f623-8b7f-4520-a62b-a5254fa31140 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:9e41f623-8b7f-4520-a62b-a5254fa31140 class='main-menu-item-parent main-menu-item'>
+				<span>Our Work</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/our-modules" data-drupal-link-system-path="node/2846">Our Modules</a></div>
+									<div class='main-menu-item link'><a href="/about/activities" data-drupal-link-system-path="node/2849">Our Activities</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:abf67d55-5486-41c4-aab4-7ff00111feab class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:abf67d55-5486-41c4-aab4-7ff00111feab class='main-menu-item-parent main-menu-item'>
+				<span>Events</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/news" data-drupal-link-system-path="node/2878">News</a></div>
+									<div class='main-menu-item link'><a href="/events-calendar" data-drupal-link-system-path="node/2881">Calendar</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:a94878e2-51cd-4ea5-81da-dbb64af7c6e8 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:a94878e2-51cd-4ea5-81da-dbb64af7c6e8 class='main-menu-item-parent main-menu-item'>
+				<span>Our Centres</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/chapters" data-drupal-link-system-path="node/2880">Indian Centres</a></div>
+									<div class='main-menu-item link'><a href="/international-chapters" data-drupal-link-system-path="node/2877">International Centers</a></div>
+							</div>
+		</div>
+					<div class='main-menu-item main-menu-item-single'><a href="/volunteer-with-us" data-drupal-link-system-path="node/2869">Volunteer With Us</a></div>
+					<div class='main-menu-item main-menu-item-single'><a href="/our-supporters" data-drupal-link-system-path="node/2872">Supporters</a></div>
+					<div class='main-menu-item main-menu-item-single'><a href="/donate" data-drupal-link-system-path="node/2865">Donate</a></div>
+	
+	</div>
+	<div class="offcanvas offcanvas-end offcanvas-menu" tabindex="-1" id="offcanvasMenu" aria-labelledby="offcanvasExampleLabel">
+		<div class="offcanvas-header justify-content-between  align-items-center">
+			<img src="/themes/custom/spicmacay/logo.svg" alt="Home" class="img-fluid d-inline-block align-top logo"/>
+			<div class='menu-icon-offcanvas'>
+				<button class='menu-icon-close btn-primary btn' data-bs-dismiss="offcanvas" aria-label="Close">
+					<svg viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="15.9015" y1="17.3536" x2="3.39146" y2="4.84356" stroke="black" stroke-width="2" />
+  <line x1="3.39144" y1="16.6464" x2="15.9014" y2="4.13645" stroke="black" stroke-width="2" />
+</svg>
+				</button>
+			</div>
+		</div>
+		<div class='offcanvas-main-menu-body'>
+			<div class="main-menu">
+								<div class='main-menu-item main-menu-item-single'><a href="/" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">Home</a></div>
+				<div data-tree-target-id=menu_link_content:a9988a0a-a525-4377-a0d5-7dee11bf60f2 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:a9988a0a-a525-4377-a0d5-7dee11bf60f2 class='main-menu-item-parent main-menu-item'>
+				<span>The Movement</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/about" data-drupal-link-system-path="node/2879">About Us</a></div>
+									<div class='main-menu-item link'><a href="/about/four-pillars-spic-macay" data-drupal-link-system-path="node/2855">Four Pillars</a></div>
+									<div class='main-menu-item link'><a href="/chintan" data-drupal-link-system-path="node/2867">Philosophy of the Movement</a></div>
+									<div class='main-menu-item link'><a href="/volunteer-experiences" data-drupal-link-system-path="node/2868">Volunteer Experiences</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:9e41f623-8b7f-4520-a62b-a5254fa31140 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:9e41f623-8b7f-4520-a62b-a5254fa31140 class='main-menu-item-parent main-menu-item'>
+				<span>Our Work</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/our-modules" data-drupal-link-system-path="node/2846">Our Modules</a></div>
+									<div class='main-menu-item link'><a href="/about/activities" data-drupal-link-system-path="node/2849">Our Activities</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:abf67d55-5486-41c4-aab4-7ff00111feab class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:abf67d55-5486-41c4-aab4-7ff00111feab class='main-menu-item-parent main-menu-item'>
+				<span>Events</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/news" data-drupal-link-system-path="node/2878">News</a></div>
+									<div class='main-menu-item link'><a href="/events-calendar" data-drupal-link-system-path="node/2881">Calendar</a></div>
+							</div>
+		</div>
+				<div data-tree-target-id=menu_link_content:a94878e2-51cd-4ea5-81da-dbb64af7c6e8 class='main-menu-item-tree mr-2'>
+			<div data-parent-target-id=menu_link_content:a94878e2-51cd-4ea5-81da-dbb64af7c6e8 class='main-menu-item-parent main-menu-item'>
+				<span>Our Centres</span>
+			</div>
+			<div class='main-menu-item-children'>
+									<div class='main-menu-item link'><a href="/chapters" data-drupal-link-system-path="node/2880">Indian Centres</a></div>
+									<div class='main-menu-item link'><a href="/international-chapters" data-drupal-link-system-path="node/2877">International Centers</a></div>
+							</div>
+		</div>
+					<div class='main-menu-item main-menu-item-single'><a href="/volunteer-with-us" data-drupal-link-system-path="node/2869">Volunteer With Us</a></div>
+					<div class='main-menu-item main-menu-item-single'><a href="/our-supporters" data-drupal-link-system-path="node/2872">Supporters</a></div>
+					<div class='main-menu-item main-menu-item-single'><a href="/donate" data-drupal-link-system-path="node/2865">Donate</a></div>
+	
+			</div>
+			<div id='site-name-slogan'>
+				<div id='site-full-name' class="site-full-name">
+					<span>
+						Society for the Promotion of Indian Classical Music And Culture Amongst Youth
+					</span>
+				</div>
+				<div id='site-slogan' class='site-slogan'>
+					<span>
+						Have every child experience the inspiration and mysticism embodied in Indian and World heritage
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+</nav>
+
+
+			<div id='site-logo' class='site-logo'>
+	<a href="/" title="Home" rel="home" class="navbar-brand">
+		<img src="/themes/custom/spicmacay/logo.svg" alt="Home" class="img-fluid d-inline-block align-top logo"/>
+	</a>
+	<span class='movement-years'>...in its 47th year</span>
+</div>
+
+		</div>
+	</nav>
+</header>
+
+					<div class="highlighted">
+				<aside class="container-fluid section clearfix" role="complementary">
+					  <div data-drupal-messages-fallback class="hidden"></div>
+
+
+				</aside>
+			</div>
+						<div id="main-wrapper" class="layout-main-wrapper clearfix">
+							<div id="main" class="row g-0">
+					
+					<div class="row g-0 row-offcanvas row-offcanvas-left clearfix">
+						<main class="main-content col" id="content" role="main">
+							<section class="section">
+								<a href="#main-content" id="main-content" tabindex="-1"></a>
+								  <div id="block-spicmacay-content" class="block block-system block-system-main-block">
+  
+    
+      <div class="content">
+      
+
+<article class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+        
+      </header>
+  <div class="node__content clearfix">
+    <section  class="section--x-edge-to-edge section--y-edge-to-edge section_region--x-edge-to-edge section_region--y-edge-to-edge layout-section layout-section--one-column">
+  <div  class="layout-region layout--region-content" >
+    <div class="block-content-full_slider block block-block-content block-block-contentd2dbdd33-d546-41aa-b98c-46bc86664734">
+  
+    
+      <div class="content">
+      
+
+<div class='hero-slider'>
+<div class="field field--name-field-paragraphs field--type-entity-reference-revisions field--label-hidden field__items tiny-slider-hero-wrapper">
+			<div class="field__item tiny-slider-item">  <div class="paragraph paragraph--type--image-paragraph paragraph--view-mode--default">
+          
+<div  class="slide-details">
+    
+            <div class="field field--name-field-heading field--type-string field--label-hidden field__item"><h4>Volunteer With Us</h4>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>SPIC MACAY is a 47 year old Voluntary movement</p></div>
+      
+            <div class="field field--name-field-ctas field--type-entity-reference-revisions field--label-hidden field__item"><div  class="card-ctas">
+					<a class='btn btn-primary btm' href=/volunteer-with-us target=_blank>
+			Join the Movement
+		</a>
+		</div>
+</div>
+      
+  </div>
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/hero_image_desktop/public/2024-04/subalaksmi.jpg?itok=yN6m7buz 1x, /sites/default/files/styles/hero_image_desktop/public/2024-04/subalaksmi.jpg?itok=yN6m7buz 2x" media="all and (min-width: 992px)" type="image/jpeg" width="1900" height="760"/>
+              <source srcset="/sites/default/files/styles/hero_image_tablet/public/2024-04/subalaksmi.jpg?itok=98IbauaZ 1x, /sites/default/files/styles/hero_image_tablet/public/2024-04/subalaksmi.jpg?itok=98IbauaZ 2x" media="all and (min-width: 768px)" type="image/jpeg" width="900" height="450"/>
+              <source srcset="/sites/default/files/styles/hero_image_mobile/public/2024-04/subalaksmi.jpg?itok=-p1-QapG 1x, /sites/default/files/styles/hero_image_mobile/public/2024-04/subalaksmi.jpg?itok=-p1-QapG 2x" media="all and (max-width: 576px)" type="image/jpeg" width="600" height="400"/>
+                  <img loading="eager" width="1900" height="760" src="/sites/default/files/styles/hero_image_desktop/public/2024-04/subalaksmi.jpg?itok=yN6m7buz" alt="" />
+
+  </picture>
+
+</div>
+      
+      </div>
+</div>
+			<div class="field__item tiny-slider-item">  <div class="paragraph paragraph--type--image-paragraph paragraph--view-mode--default">
+          
+<div  class="slide-details">
+    
+            <div class="field field--name-field-heading field--type-string field--label-hidden field__item"><h4>Our Modules</h4>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>SPIC MACAY core focus is value education&nbsp;</p></div>
+      
+            <div class="field field--name-field-ctas field--type-entity-reference-revisions field--label-hidden field__item"><div  class="card-ctas">
+					<a class='btn btn-primary btm' href=/donate target=_blank>
+			Donate Now
+		</a>
+		</div>
+</div>
+      
+  </div>
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/hero_image_desktop/public/2024-04/Our%20Modules%20Collage%20%288%29.png?itok=feqPF1y8 1x, /sites/default/files/styles/hero_image_desktop/public/2024-04/Our%20Modules%20Collage%20%288%29.png?itok=feqPF1y8 2x" media="all and (min-width: 992px)" type="image/png" width="1900" height="760"/>
+              <source srcset="/sites/default/files/styles/hero_image_tablet/public/2024-04/Our%20Modules%20Collage%20%288%29.png?itok=fT-DOk9E 1x, /sites/default/files/styles/hero_image_tablet/public/2024-04/Our%20Modules%20Collage%20%288%29.png?itok=fT-DOk9E 2x" media="all and (min-width: 768px)" type="image/png" width="900" height="450"/>
+              <source srcset="/sites/default/files/styles/hero_image_mobile/public/2024-04/Our%20Modules%20Collage%20%288%29.png?itok=8bLforBH 1x, /sites/default/files/styles/hero_image_mobile/public/2024-04/Our%20Modules%20Collage%20%288%29.png?itok=8bLforBH 2x" media="all and (max-width: 576px)" type="image/png" width="600" height="400"/>
+                  <img loading="eager" width="1900" height="760" src="/sites/default/files/styles/hero_image_desktop/public/2024-04/Our%20Modules%20Collage%20%288%29.png?itok=feqPF1y8" alt="" />
+
+  </picture>
+
+</div>
+      
+      </div>
+</div>
+	</div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+</section>
+<section  class="section--x-full section--y-boxed section_region--x-full section_region--y-edge-to-edge layout-section layout-section--one-column">
+  <div  class="layout-region layout--region-content" >
+    <div class="block block-layout-builder block-inline-blocksection-heading section-heading d-flex justify-content-between align-items-center">
+	
+			<h2>Featured News</h2>
+		
+			<div class="content">
+								<button class="btn btn-primary d-flex">
+						<a href="/news"><span>All news</span>
+<span class="material-symbols-outlined">
+	arrow_forward
+</span>
+</a>
+					</button>
+					</div>
+	</div>
+<hr />
+<div class="views-element-container block block-views block-views-blockfeatured-news-custom-block-1">
+  
+    
+      <div class="content">
+      <div><div class="view view-featured-news-custom view-id-featured_news_custom view-display-id-block_1 js-view-dom-id-fcd0bcd457a28fdbec9b740d5b3783e1c4c111b016ecab9ee23c264cb4f14fe7">
+  
+    
+      
+      <div class="view-content row">
+      
+
+
+
+
+<div class="views-view-responsive-grid views-view-responsive-grid--horizontal" style="--views-responsive-grid--column-count:3;--views-responsive-grid--cell-min-width:400px;--views-responsive-grid--layout-gap:20px;">
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">  <div class="paragraph paragraph--type--image-paragraph paragraph--view-mode--card-style-2-in-col-3">
+          <article  class="layout-article card card-title-top">
+	  <div class="card-header">
+		<h4  class="card-title">
+			<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-heading">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-heading field--type-string field--label-hidden field__item">SPIC MACAY 10th International Convention</div>
+      
+    </div>
+  </div>
+
+		</h4>
+    </div>
+				<div >
+			<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-image">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2025-01/Poster%2010th%20Intercon_3.jpg?itok=_Dat79cQ 1x, /sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2025-01/Poster%2010th%20Intercon_3.jpg?itok=_Dat79cQ 2x" media="all and (max-width: 576px)" type="image/jpeg" width="297" height="198"/>
+                  <img loading="lazy" width="455" height="303" src="/sites/default/files/styles/image_landscape_30_screen_width_16_9/public/2025-01/Poster%2010th%20Intercon_3.jpg?itok=VBG_bPTZ" alt="" />
+
+  </picture>
+
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+		<div class="card-body">
+					<div  class="card-text">
+				<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-description">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>SPIC MACAY is having its 10th International Convention at IIT Hyderabad from 26th May to 1st June 2025, an Ashram-like atmosphere and experiencing the greatest masteros of the country.</p><p>Join us for the 10th International Convention of SPIC MACAY in IITH. We will release the registration link details shortly. Watch this space out for more details.<br>&nbsp;</p></div>
+      
+    </div>
+  </div>
+
+			</div>
+							<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-ctas">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-ctas field--type-entity-reference-revisions field--label-hidden field__item"><div  class="card-ctas">
+					<a class='btn btn-primary btm' href=https://drive.google.com/file/d/1PBUpZDdrDLEzp5E23Ut9leOxiylglPpQ/view?usp=drive_link target=_blank>
+			View the Schedule
+		</a>
+		</div>
+</div>
+      
+    </div>
+  </div>
+
+			</div>
+</article>
+
+<div  class="slide-details">
+    
+  </div>
+      </div>
+</div>
+    </div>
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">  <div class="paragraph paragraph--type--image-paragraph paragraph--view-mode--card-style-2-in-col-3">
+          <article  class="layout-article card card-title-top">
+	  <div class="card-header">
+		<h4  class="card-title">
+			<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-heading">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-heading field--type-string field--label-hidden field__item">Join us for Music in the Park on 15th Feb at Nehru Park | Delhi</div>
+      
+    </div>
+  </div>
+
+		</h4>
+    </div>
+				<div >
+			<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-image">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2025-03/3167AB26-7DAE-4D4A-AC2E-0DF787091182.png?itok=o6KYb-4N 1x, /sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2025-03/3167AB26-7DAE-4D4A-AC2E-0DF787091182.png?itok=o6KYb-4N 2x" media="all and (max-width: 576px)" type="image/png" width="280" height="198"/>
+                  <img loading="lazy" width="429" height="303" src="/sites/default/files/styles/image_landscape_30_screen_width_16_9/public/2025-03/3167AB26-7DAE-4D4A-AC2E-0DF787091182.png?itok=trsJyMnq" alt="" />
+
+  </picture>
+
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+		<div class="card-body">
+					<div  class="card-text">
+				<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-description">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>Join us for Music in the Park, SPIC MACAY's 21-year-old iconic initiative, &nbsp;at Nehru Park, Delhi on 29th March featuring Indian Classical music maestros.</p><p>When: 29th March | Time: 8:00 PM onwards<br>Where: Nehru Park, Chanakyapuri, New Delhi<br>Entry is open to all, based on first cum first serve basis.</p><p>#IndianClassicalMusic #MusicInThePark #SPICMACAY</p></div>
+      
+    </div>
+  </div>
+
+			</div>
+							<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-ctas">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-ctas field--type-entity-reference-revisions field--label-hidden field__item"><div  class="card-ctas">
+					<a class='btn btn-primary btm' href=https://www.facebook.com/share/18tL5b6cp5/?mibextid=wwXIfr target=_blank>
+			Join us and register
+		</a>
+		</div>
+</div>
+      
+    </div>
+  </div>
+
+			</div>
+</article>
+
+<div  class="slide-details">
+    
+  </div>
+      </div>
+</div>
+    </div>
+      <div class="views-view-responsive-grid__item">
+      <div class="views-view-responsive-grid__item-inner">  <div class="paragraph paragraph--type--image-paragraph paragraph--view-mode--card-style-2-in-col-3">
+          <article  class="layout-article card card-title-top">
+	  <div class="card-header">
+		<h4  class="card-title">
+			<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-heading">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-heading field--type-string field--label-hidden field__item">Gurukul Anubhav Scholarship Scheme</div>
+      
+    </div>
+  </div>
+
+		</h4>
+    </div>
+				<div >
+			<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-image">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2025-03/Screenshot%20from%202025-03-17%2011-25-54.png?itok=mZKhVJV_ 1x, /sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2025-03/Screenshot%20from%202025-03-17%2011-25-54.png?itok=mZKhVJV_ 2x" media="all and (max-width: 576px)" type="image/png" width="158" height="198"/>
+                  <img loading="lazy" width="243" height="303" src="/sites/default/files/styles/image_landscape_30_screen_width_16_9/public/2025-03/Screenshot%20from%202025-03-17%2011-25-54.png?itok=4-eN6-qG" alt="" />
+
+  </picture>
+
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+		<div class="card-body">
+					<div  class="card-text">
+				<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-description">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>SPIC MACAY Resumes Gurukul Anubhav Scholarship Scheme</p></div>
+      
+    </div>
+  </div>
+
+			</div>
+							<div class="block block-layout-builder block-field-blockparagraphimage-paragraphfield-ctas">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-ctas field--type-entity-reference-revisions field--label-hidden field__item"><div  class="card-ctas">
+					<a class='btn btn-primary btm' href=https://docs.google.com/forms/d/e/1FAIpQLSdS2f7atfd7_PtPnf7dRGf4pNhuUisnDA0AT__IYO3dhQ-Nkw/viewform target=_blank>
+			Apply Now
+		</a>
+		</div>
+</div>
+      
+    </div>
+  </div>
+
+			</div>
+</article>
+
+<div  class="slide-details">
+    
+  </div>
+      </div>
+</div>
+    </div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </div>
+</section>
+<section  class="section--x-boxed section--y-full section_region--x-edge-to-edge section_region--y-edge-to-edge layout-section layout-section--one-column">
+  <div  >
+    
+  </div>
+</section>
+<section  class="section--x-boxed section--y-boxed section_region--x-full section_region--y-full layout-section layout-section--one-column">
+  <div  class="layout-region layout--region-content" >
+    <div class="block block-layout-builder block-inline-blockquote">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__item">
+<blockquote class="section-quote blockquote">
+	<div class='quote-author-icon'>
+		<div class='quote-icon'><svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 57 57" xml:space="preserve">
+	<rect x="0" y="0" style="fill:#ECF0F1;" width="57" height="57"/>
+	<g>
+		<circle style="fill:#BDC3C7;" cx="18.5" cy="31.5" r="5.5"/>
+		<path style="fill:#BDC3C7;" d="M18.5,38c-3.584,0-6.5-2.916-6.5-6.5s2.916-6.5,6.5-6.5s6.5,2.916,6.5,6.5S22.084,38,18.5,38z
+												 M18.5,27c-2.481,0-4.5,2.019-4.5,4.5s2.019,4.5,4.5,4.5s4.5-2.019,4.5-4.5S20.981,27,18.5,27z"/>
+	</g>
+	<g>
+		<circle style="fill:#BDC3C7;" cx="35.5" cy="31.5" r="5.5"/>
+		<path style="fill:#BDC3C7;" d="M35.5,38c-3.584,0-6.5-2.916-6.5-6.5s2.916-6.5,6.5-6.5s6.5,2.916,6.5,6.5S39.084,38,35.5,38z
+												 M35.5,27c-2.481,0-4.5,2.019-4.5,4.5s2.019,4.5,4.5,4.5s4.5-2.019,4.5-4.5S37.981,27,35.5,27z"/>
+	</g>
+	<path style="fill:#BDC3C7;" d="M13,32c-0.553,0-1-0.447-1-1c0-7.72,6.28-14,14-14c0.553,0,1,0.447,1,1s-0.447,1-1,1
+											c-6.617,0-12,5.383-12,12C14,31.553,13.553,32,13,32z"/>
+	<path style="fill:#BDC3C7;" d="M30,32c-0.553,0-1-0.447-1-1c0-7.72,6.28-14,14-14c0.553,0,1,0.447,1,1s-0.447,1-1,1
+						c-6.617,0-12,5.383-12,12C31,31.553,30.553,32,30,32z"/>
+</svg>
+</div>
+		<div>
+			<span class="quote-author">
+				
+            <div class="field field--name-field-author field--type-entity-reference field--label-hidden field__item">
+            <div class="field field--name-profile-pic field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/styles/avatar/public/e7c617f3-eb43-4d44-a714-c700d9de8d13_30FRKIRAN-1.jpeg?itok=zbb0kq5O" width="150" height="150" class="image-style-avatar" />
+
+
+</div>
+      
+            <div class="field field--name-label field--type-string field--label-hidden field__item">Kiran Seth</div>
+      </div>
+      
+			</span>
+		</div>
+	</div>
+	<div class='text-right'>
+		<div class="mb-0 quote">
+            <div class="field field--name-field-quote field--type-string-long field--label-hidden field__item">Newton’s third law of motion states that for every action, there is an equal and opposite reaction. Conversely, there is the law of “nishkama karma” it says that for every action in which there is no embedded expectation, there is a reaction that is far greater than the action. This comes from a source other than that which is being acted upon. Newton’s third law can be experimentally proved while the law of  “nishkama karma” can be proven experientially. Check out things through experience. It is a very powerful mechanism for validating the truth. </div>
+      </div>
+					<div>
+				
+            <div class="field field--name-field-primary-cta field--type-link field--label-hidden field__item"><a href="/nishkama-karma-and-voluntary-spirit">Read More</a></div>
+      
+			</div>
+			</div>
+</blockquote>
+</div>
+      
+    </div>
+  </div>
+
+  </div>
+</section>
+<section  class="section--x-full section--y-full section_region--x-full section_region--y-edge-to-edge layout-section layout-section--one-column">
+  <div  class="layout-region layout--region-content" >
+    <div class="block block-layout-builder block-inline-blocksection-heading section-heading d-flex justify-content-between align-items-center">
+	
+			<h2>SPIC MACAY Heritage Clubs</h2>
+		
+			<div class="content">
+								<button class="btn btn-primary d-flex">
+						<a href="/activities/heritage-club"><span>Start at your institution</span>
+<span class="material-symbols-outlined">
+	arrow_forward
+</span>
+</a>
+					</button>
+					</div>
+	</div>
+<hr />
+
+  </div>
+</section>
+<section  class="section--x-edge-to-edge section--y-full section_region--x-boxed section_region--y-full layout-background--color-1 layout-section--three-col-3-34-33 layout-section layout-section--three-col">
+  		<div  class="layout-region layout-region--first">
+			<div class="block block-layout-builder block-inline-blockimage-paragraph">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__item">  <div class="paragraph paragraph--type--image paragraph--view-mode--sm-article-one-third-card-image-top">
+          <article  class="layout-article card card-image-top">
+			<div  class="card-img-top">
+			<div class="block block-layout-builder block-field-blockparagraphimagefield-image">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2024-04/Higher%20Education.png?itok=ox71t6SW 1x, /sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2024-04/Higher%20Education.png?itok=ox71t6SW 2x" media="all and (max-width: 576px)" type="image/png" width="264" height="198"/>
+                  <img loading="lazy" width="404" height="303" src="/sites/default/files/styles/image_landscape_30_screen_width_16_9/public/2024-04/Higher%20Education.png?itok=gUhL8ZHR" alt="" />
+
+  </picture>
+
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+		<div class="card-body">
+					<h4  class="card-title">
+				<div class="block block-layout-builder block-field-blockparagraphimageparagraph-block-title">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-paragraph-block-title field--type-string field--label-hidden field__item">Presence in Higher Education Institutions</div>
+      
+    </div>
+  </div>
+
+			</h4>
+							<div  class="card-text">
+				<div class="block block-layout-builder block-field-blockparagraphimagefield-description">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>SPIC MACAY has a presence in all major Centrally Fund Institutions, and major private Universities and is growing its presence across other state and private universities and colleges with collaborations of UGC, AICTE, AIIMS, Assam State Universities etc.&nbsp;</p></div>
+      
+    </div>
+  </div>
+
+			</div>
+							<div  class="card-body">
+				<div class="block block-layout-builder block-field-blockparagraphimagefield-ctas">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-ctas field--type-entity-reference-revisions field--label-hidden field__item"><div  class="card-ctas">
+		</div>
+</div>
+      
+    </div>
+  </div>
+
+			</div>
+			</div>
+</article>
+
+      </div>
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+	  		<div  class="layout-region layout-region--second">
+			<div class="block block-layout-builder block-inline-blockimage-paragraph">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__item">  <div class="paragraph paragraph--type--image paragraph--view-mode--sm-article-one-third-card-image-top">
+          <article  class="layout-article card card-image-top">
+			<div  class="card-img-top">
+			<div class="block block-layout-builder block-field-blockparagraphimagefield-image">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2024-04/Primary%20Education.png?itok=yjX_HPX_ 1x, /sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2024-04/Primary%20Education.png?itok=yjX_HPX_ 2x" media="all and (max-width: 576px)" type="image/png" width="264" height="198"/>
+                  <img loading="lazy" width="404" height="303" src="/sites/default/files/styles/image_landscape_30_screen_width_16_9/public/2024-04/Primary%20Education.png?itok=iIkfBffC" alt="" />
+
+  </picture>
+
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+		<div class="card-body">
+					<h4  class="card-title">
+				<div class="block block-layout-builder block-field-blockparagraphimageparagraph-block-title">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-paragraph-block-title field--type-string field--label-hidden field__item">Presence in Schools</div>
+      
+    </div>
+  </div>
+
+			</h4>
+							<div  class="card-text">
+				<div class="block block-layout-builder block-field-blockparagraphimagefield-description">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>SPIC MACAY has been doing programs in private, rural, remote schools all over the country with its presence in more than 250 districts. It also has collaborations with CBSE, Kendriya Vidyalaya, Navodaya Vidyalaya, etc.</p></div>
+      
+    </div>
+  </div>
+
+			</div>
+							<div  class="card-body">
+				<div class="block block-layout-builder block-field-blockparagraphimagefield-ctas">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-ctas field--type-entity-reference-revisions field--label-hidden field__item"><div  class="card-ctas">
+		</div>
+</div>
+      
+    </div>
+  </div>
+
+			</div>
+			</div>
+</article>
+
+      </div>
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+	  		<div  class="layout-region layout-region--third">
+			<div class="block block-layout-builder block-inline-blockimage-paragraph">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__item">  <div class="paragraph paragraph--type--image paragraph--view-mode--sm-article-one-third-card-image-top">
+          <article  class="layout-article card card-image-top">
+			<div  class="card-img-top">
+			<div class="block block-layout-builder block-field-blockparagraphimagefield-image">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2024-04/International%20Chapters.png?itok=03rkgiP1 1x, /sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/2024-04/International%20Chapters.png?itok=03rkgiP1 2x" media="all and (max-width: 576px)" type="image/png" width="264" height="198"/>
+                  <img loading="lazy" width="404" height="303" src="/sites/default/files/styles/image_landscape_30_screen_width_16_9/public/2024-04/International%20Chapters.png?itok=JQz4BYiv" alt="" />
+
+  </picture>
+
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+		<div class="card-body">
+					<h4  class="card-title">
+				<div class="block block-layout-builder block-field-blockparagraphimageparagraph-block-title">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-paragraph-block-title field--type-string field--label-hidden field__item">Presence in 20+ Countries Abroad</div>
+      
+    </div>
+  </div>
+
+			</h4>
+							<div  class="card-text">
+				<div class="block block-layout-builder block-field-blockparagraphimagefield-description">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><p>SPIC MACAY has chapters in the USA, Canada, 10+ Countries in Europe, Australia and many more. It has a wide network of volunteers across these countries and has been instrumental in taking our Indian culture beyond the boundaries of the Nation.</p></div>
+      
+    </div>
+  </div>
+
+			</div>
+							<div  class="card-body">
+				<div class="block block-layout-builder block-field-blockparagraphimagefield-ctas">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-ctas field--type-entity-reference-revisions field--label-hidden field__item"><div  class="card-ctas">
+		</div>
+</div>
+      
+    </div>
+  </div>
+
+			</div>
+			</div>
+</article>
+
+      </div>
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+	</section>
+<section  class="section--x-full section--y-full section_region--x-boxed section_region--y-edge-to-edge layout-background--color-2 layout-section--70 text-center layout-section layout-section--one-column">
+  <div  class="layout-region layout--region-content" >
+    <div class="block block-layout-builder block-inline-blocksection-description">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><blockquote><p>SPIC MACAY stands on the shoulders of its four main pillars i.e. Artists, Volunteers, Institutions and Supporters, together working towards the collective effort of reaching every child and enriching the quality of education by increasing awareness about different aspects of Indian heritage and inspiring the young mind to imbibe the values embedded in it.</p></blockquote></div>
+      
+    </div>
+  </div>
+
+  </div>
+</section>
+<section  class="section--x-full section--y-full section_region--x-full section_region--y-edge-to-edge layout-section layout-section--one-column">
+  <div  class="layout-region layout--region-content" >
+    <div class="block block-layout-builder block-inline-blocksection-heading section-heading d-flex justify-content-between align-items-center">
+	
+			<h2>About Us</h2>
+		
+			<div class="content">
+								<button class="btn btn-primary d-flex">
+						<a href="/about"><span>Know More</span>
+<span class="material-symbols-outlined">
+	arrow_forward
+</span>
+</a>
+					</button>
+					</div>
+	</div>
+<hr />
+
+  </div>
+</section>
+<section  class="section--x-boxed section--y-full section_region--x-full section_region--y-full layout-section--three-col-3-34-33 layout-section layout-section--three-col">
+  		<div  class="layout-region layout-region--first">
+			<div class="block block-layout-builder block-inline-blockimage">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/block/images/a5_0.png?itok=4rNjTxgk 1x, /sites/default/files/styles/image_landscape_30_screen_width_mobile_16_9/public/block/images/a5_0.png?itok=4rNjTxgk 2x" media="all and (max-width: 576px)" type="image/png" width="350" height="197"/>
+                  <img loading="lazy" width="539" height="303" src="/sites/default/files/styles/image_landscape_30_screen_width_16_9/public/block/images/a5_0.png?itok=1LanE4gd" alt="" />
+
+  </picture>
+
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+	  		<div  class="layout-region layout-region--second">
+			<div class="block block-layout-builder block-inline-blockvideo">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-video field--type-video-embed-field field--label-hidden field__item"><div class="video-embed-field-provider-youtube video-embed-field-responsive-video"><iframe width="854" height="480" frameborder="0" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/V7ZVMC-8JVU?autoplay=0&amp;start=0&amp;rel=0"></iframe>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+	  		<div  class="layout-region layout-region--third">
+			<div class="block block-layout-builder block-inline-blocktext-paragraph">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-paragraph field--type-entity-reference-revisions field--label-hidden field__item">  <div class="paragraph paragraph--type--description paragraph--view-mode--card-style-2-in-col-3">
+          <article  class="layout-article card card-title-top">
+	  <div class="card-header">
+		<h4  class="card-title">
+			<div class="block block-layout-builder block-field-blockparagraphdescriptionparagraph-block-title">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-paragraph-block-title field--type-string field--label-hidden field__item">What does SPICMACAY do?</div>
+      
+    </div>
+  </div>
+
+		</h4>
+    </div>
+			<div class="card-body">
+					<div  class="card-text">
+				<div class="block block-layout-builder block-field-blockparagraphdescriptionfield-description">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-field-description field--type-text-long field--label-hidden field__item"><ul><li>Inspire the young</li><li>Ignite a spark of inquiry</li><li>Promote voluntary work</li><li>Inculcate a spirit of service to the nation</li><li>Provide leadership opportunities to the young</li><li>&amp; a constructive alternative for utilizing time</li></ul><p><em><strong>We also… promote classical music.</strong></em></p></div>
+      
+    </div>
+  </div>
+
+			</div>
+							<div class="block block-layout-builder block-field-blockparagraphdescriptionfield-ctas">
+  
+    
+      <div class="content">
+      
+            <div class="field field--name-field-ctas field--type-entity-reference-revisions field--label-hidden field__item"><div  class="card-ctas">
+					<a class='btn btn-primary btm' href=/volunteer-with-us target=_blank>
+			Volunteer with us
+		</a>
+		</div>
+</div>
+      
+    </div>
+  </div>
+
+			</div>
+</article>
+
+      </div>
+</div>
+      
+    </div>
+  </div>
+
+		</div>
+	</section>
+
+  </div>
+</article>
+
+    </div>
+  </div>
+
+
+							</section>
+						</main>
+					</div>
+				</div>
+					</div>
+		<footer class="site-footer m-1">
+												<div class="site-footer__top row">
+						<div class="col-12 col-md-6 col-lg-3">
+							  <section class="row region region-footer-first">
+    <nav role="navigation" aria-labelledby="block-spicmacay-footerfirst-menu" id="block-spicmacay-footerfirst" class="block block-menu navigation menu--footer-first">
+            
+  <h2 class="visually-hidden" id="block-spicmacay-footerfirst-menu">Footer First</h2>
+  
+
+        
+                  <ul class="clearfix nav" data-component-id="bootstrap_barrio:menu">
+                    <li class="nav-item">
+                <a href="/about/activities/folk-arts-crafts-workshop" class="nav-link nav-link--about-activities-folk-arts-crafts-workshop" data-drupal-link-system-path="node/2856">Folk &amp; Crafts</a>
+              </li>
+                <li class="nav-item">
+                <a href="/classical-arts" class="nav-link nav-link--classical-arts" data-drupal-link-system-path="node/2837">Classical Arts</a>
+              </li>
+                <li class="nav-item">
+                <a href="/aarambh" class="nav-link nav-link--aarambh" data-drupal-link-system-path="node/2876">Aarambh Play School</a>
+              </li>
+                <li class="nav-item">
+                <a href="/articles/yoga-and-meditation" class="nav-link nav-link--articles-yoga-and-meditation" data-drupal-link-system-path="node/2839">Yoga and Meditation</a>
+              </li>
+                <li class="nav-item">
+                <a href="/support-the-artists" class="nav-link nav-link--support-the-artists" data-drupal-link-system-path="node/2852">Support the Artists Initative</a>
+              </li>
+        </ul>
+  
+
+
+
+  </nav>
+
+  </section>
+
+						</div>
+						<div class="col-12 col-md-6 col-lg-3">
+							  <section class="row region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-spicmacay-footersecond-menu" id="block-spicmacay-footersecond" class="block block-menu navigation menu--footer-second">
+            
+  <h2 class="visually-hidden" id="block-spicmacay-footersecond-menu">Footer Second</h2>
+  
+
+        
+                  <ul class="clearfix nav" data-component-id="bootstrap_barrio:menu">
+                    <li class="nav-item">
+                <a href="/articles/cinema-classics" class="nav-link nav-link--articles-cinema-classics" data-drupal-link-system-path="node/2847">Cinema Classics</a>
+              </li>
+                <li class="nav-item">
+                <a href="/activities/heritage-club" class="nav-link nav-link--activities-heritage-club" data-drupal-link-system-path="node/2861">Heirtage Club</a>
+              </li>
+                <li class="nav-item">
+                <a href="/heritage-walks" class="nav-link nav-link--heritage-walks" data-drupal-link-system-path="node/2843">Heritage Walks</a>
+              </li>
+                <li class="nav-item">
+                <a href="/articles/weekly-meetings" class="nav-link nav-link--articles-weekly-meetings" data-drupal-link-system-path="node/2859">Weekly Meetings</a>
+              </li>
+        </ul>
+  
+
+
+
+  </nav>
+
+  </section>
+
+						</div>
+						<div class="col-12 col-md-6 col-lg-3">
+							  <section class="row region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-spicmacay-footerthird-menu" id="block-spicmacay-footerthird" class="block block-menu navigation menu--footer-third">
+            
+  <h2 class="visually-hidden" id="block-spicmacay-footerthird-menu">Footer Third</h2>
+  
+
+        
+                  <ul class="clearfix nav" data-component-id="bootstrap_barrio:menu">
+                    <li class="nav-item">
+                <a href="https://docs.google.com/spreadsheets/d/1pzQM2VHrQXrQDL8WP68MO4rP-dCi46DH/edit#gid=875632455" class="nav-link nav-link-https--docsgooglecom-spreadsheets-d-1pzqm2vhrqxrqdl8wp68mo4rp-dci46dh-editgid875632455">National Executive</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://docs.google.com/spreadsheets/d/1dGOPUdprojgrySOPQ8d9Coi5uIZUI_wtyXA5w1MQEIM/edit#gid=0" class="nav-link nav-link-https--docsgooglecom-spreadsheets-d-1dgopudprojgrysopq8d9coi5uizui-wtyxa5w1mqeim-editgid0">State Coordinators</a>
+              </li>
+                <li class="nav-item">
+                <a href="https://docs.google.com/spreadsheets/d/1jwWLnQWoGtSL0lTgLCNBbyWMwolzUODiJgJfe7cPJck/edit?usp=drive_web&amp;ouid=107012548247259576938" class="nav-link nav-link-https--docsgooglecom-spreadsheets-d-1jwwlnqwogtsl0ltglcnbbywmwolzuodijgjfe7cpjck-edituspdrive-webouid107012548247259576938">SPIC MACAY Verticals</a>
+              </li>
+                <li class="nav-item">
+                <a href="/complaintsandgrievances" class="nav-link nav-link--complaintsandgrievances" data-drupal-link-system-path="node/2870">Complaints and Grievances</a>
+              </li>
+                <li class="nav-item">
+                <a href="/terms-and-conditons" class="nav-link nav-link--terms-and-conditons" data-drupal-link-system-path="node/3280">Terms and Conditions</a>
+              </li>
+        </ul>
+  
+
+
+
+  </nav>
+
+  </section>
+
+						</div>
+						<div class="col-12 col-md-6 col-lg-3 site-footer-fourth">
+							  <section class="row region region-footer-fourth">
+    <div id="block-spicmacay-footercontactinformation" class="block-content-section_description block block-block-content block-block-content8f93b7ec-19c0-4d1f-80fa-aa6e06ce0c8d">
+  
+      <h2>Contact Us</h2>
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="ant-col ant-col-xs-24 ant-col-sm-8"><p>info@spicmacay.com</p><div><span class="anticon anticon-phone" role="img" aria-label="phone"><svg viewBox="64 64 896 896" focusable="false" data-icon="phone" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M877.1 238.7L770.6 132.3c-13-13-30.4-20.3-48.8-20.3s-35.8 7.2-48.8 20.3L558.3 246.8c-13 13-20.3 30.5-20.3 48.9 0 18.5 7.2 35.8 20.3 48.9l89.6 89.7a405.46 405.46 0 01-86.4 127.3c-36.7 36.9-79.6 66-127.2 86.6l-89.6-89.7c-13-13-30.4-20.3-48.8-20.3a68.2 68.2 0 00-48.8 20.3L132.3 673c-13 13-20.3 30.5-20.3 48.9 0 18.5 7.2 35.8 20.3 48.9l106.4 106.4c22.2 22.2 52.8 34.9 84.2 34.9 6.5 0 12.8-.5 19.2-1.6 132.4-21.8 263.8-92.3 369.9-198.3C818 606 888.4 474.6 910.4 342.1c6.3-37.6-6.3-76.3-33.3-103.4zm-37.6 91.5c-19.5 117.9-82.9 235.5-178.4 331s-213 158.9-330.9 178.4c-14.8 2.5-30-2.5-40.8-13.2L184.9 721.9 295.7 611l119.8 120 .9.9 21.6-8a481.29 481.29 0 00285.7-285.8l8-21.6-120.8-120.7 110.8-110.9 104.5 104.5c10.8 10.8 15.8 26 13.3 40.8z" /></svg></span>+91-9760689747, +91-8108098246</div><div><span class="anticon anticon-environment" role="img" aria-label="environment"><svg viewBox="64 64 896 896" focusable="false" data-icon="environment" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M854.6 289.1a362.49 362.49 0 00-79.9-115.7 370.83 370.83 0 00-118.2-77.8C610.7 76.6 562.1 67 512 67c-50.1 0-98.7 9.6-144.5 28.5-44.3 18.3-84 44.5-118.2 77.8A363.6 363.6 0 00169.4 289c-19.5 45-29.4 92.8-29.4 142 0 70.6 16.9 140.9 50.1 208.7 26.7 54.5 64 107.6 111 158.1 80.3 86.2 164.5 138.9 188.4 153a43.9 43.9 0 0022.4 6.1c7.8 0 15.5-2 22.4-6.1 23.9-14.1 108.1-66.8 188.4-153 47-50.4 84.3-103.6 111-158.1C867.1 572 884 501.8 884 431.1c0-49.2-9.9-97-29.4-142zM512 880.2c-65.9-41.9-300-207.8-300-449.1 0-77.9 31.1-151.1 87.6-206.3C356.3 169.5 431.7 139 512 139s155.7 30.5 212.4 85.9C780.9 280 812 353.2 812 431.1c0 241.3-234.1 407.2-300 449.1zm0-617.2c-97.2 0-176 78.8-176 176s78.8 176 176 176 176-78.8 176-176-78.8-176-176-176zm79.2 255.2A111.6 111.6 0 01512 551c-29.9 0-58-11.7-79.2-32.8A111.6 111.6 0 01400 439c0-29.9 11.7-58 32.8-79.2C454 338.6 482.1 327 512 327c29.9 0 58 11.6 79.2 32.8C612.4 381 624 409.1 624 439c0 29.9-11.6 58-32.8 79.2z" /></svg></span>41/42 Lucknow Road,<br><em><span>Near Vishwavidyalaya Metro Station</span></em><br><span>New Delhi – 110054</span></div></div></div>
+      
+    </div>
+  </div>
+
+  </section>
+
+						</div>
+					</div>
+								<hr/>
+									<div class="site-footer__bottom">
+						<div class="row site-footer__bottom-custom">
+							  <section class="row region region-footer-fifth">
+    <div id="block-spicmacay-sitefooter" class="block-content-section_description block block-block-content block-block-contentaac55413-f71e-4a68-9869-c09c6dd81570">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="container text-center"><div class="row" style="color:rgb(174, 174, 174);"><div class="col-12 order-last col-md-8 col-lg-3" style="padding-left:4em;"><strong>Follow Us</strong>&nbsp;<a href="https://facebook.com/spicmacay"><span class="follow-icons anticon anticon-facebook" style="padding:0 0.5em;" role="img" aria-label="facebook"><svg viewBox="64 64 896 896" focusable="false" data-icon="facebook" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M880 112H144c-17.7 0-32 14.3-32 32v736c0 17.7 14.3 32 32 32h736c17.7 0 32-14.3 32-32V144c0-17.7-14.3-32-32-32zm-32 736H663.9V602.2h104l15.6-120.7H663.9v-77.1c0-35 9.7-58.8 59.8-58.8h63.9v-108c-11.1-1.5-49-4.8-93.2-4.8-92.2 0-155.3 56.3-155.3 159.6v89H434.9v120.7h104.3V848H176V176h672v672z" /></svg></span></a><a href="https://twitter.com/spicmacay"><span class="follow-icons anticon anticon-twitter" style="padding:0 0.5em;" role="img" aria-label="twitter"><svg viewBox="64 64 896 896" focusable="false" data-icon="twitter" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M928 254.3c-30.6 13.2-63.9 22.7-98.2 26.4a170.1 170.1 0 0075-94 336.64 336.64 0 01-108.2 41.2A170.1 170.1 0 00672 174c-94.5 0-170.5 76.6-170.5 170.6 0 13.2 1.6 26.4 4.2 39.1-141.5-7.4-267.7-75-351.6-178.5a169.32 169.32 0 00-23.2 86.1c0 59.2 30.1 111.4 76 142.1a172 172 0 01-77.1-21.7v2.1c0 82.9 58.6 151.6 136.7 167.4a180.6 180.6 0 01-44.9 5.8c-11.1 0-21.6-1.1-32.2-2.6C211 652 273.9 701.1 348.8 702.7c-58.6 45.9-132 72.9-211.7 72.9-14.3 0-27.5-.5-41.2-2.1C171.5 822 261.2 850 357.8 850 671.4 850 843 590.2 843 364.7c0-7.4 0-14.8-.5-22.2 33.2-24.3 62.3-54.4 85.5-88.2z" /></svg></span></a><a href="https://youtube.com/user/spicmacay"><span class="follow-icons anticon anticon-youtube" style="padding:0 0.5em;" role="img" aria-label="youtube"><svg viewBox="64 64 896 896" focusable="false" data-icon="youtube" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M960 509.2c0-2.2 0-4.7-.1-7.6-.1-8.1-.3-17.2-.5-26.9-.8-27.9-2.2-55.7-4.4-81.9-3-36.1-7.4-66.2-13.4-88.8a139.52 139.52 0 00-98.3-98.5c-28.3-7.6-83.7-12.3-161.7-15.2-37.1-1.4-76.8-2.3-116.5-2.8-13.9-.2-26.8-.3-38.4-.4h-29.4c-11.6.1-24.5.2-38.4.4-39.7.5-79.4 1.4-116.5 2.8-78 3-133.5 7.7-161.7 15.2A139.35 139.35 0 0082.4 304C76.3 326.6 72 356.7 69 392.8c-2.2 26.2-3.6 54-4.4 81.9-.3 9.7-.4 18.8-.5 26.9 0 2.9-.1 5.4-.1 7.6v5.6c0 2.2 0 4.7.1 7.6.1 8.1.3 17.2.5 26.9.8 27.9 2.2 55.7 4.4 81.9 3 36.1 7.4 66.2 13.4 88.8 12.8 47.9 50.4 85.7 98.3 98.5 28.2 7.6 83.7 12.3 161.7 15.2 37.1 1.4 76.8 2.3 116.5 2.8 13.9.2 26.8.3 38.4.4h29.4c11.6-.1 24.5-.2 38.4-.4 39.7-.5 79.4-1.4 116.5-2.8 78-3 133.5-7.7 161.7-15.2 47.9-12.8 85.5-50.5 98.3-98.5 6.1-22.6 10.4-52.7 13.4-88.8 2.2-26.2 3.6-54 4.4-81.9.3-9.7.4-18.8.5-26.9 0-2.9.1-5.4.1-7.6v-5.6zm-72 5.2c0 2.1 0 4.4-.1 7.1-.1 7.8-.3 16.4-.5 25.7-.7 26.6-2.1 53.2-4.2 77.9-2.7 32.2-6.5 58.6-11.2 76.3-6.2 23.1-24.4 41.4-47.4 47.5-21 5.6-73.9 10.1-145.8 12.8-36.4 1.4-75.6 2.3-114.7 2.8-13.7.2-26.4.3-37.8.3h-28.6l-37.8-.3c-39.1-.5-78.2-1.4-114.7-2.8-71.9-2.8-124.9-7.2-145.8-12.8-23-6.2-41.2-24.4-47.4-47.5-4.7-17.7-8.5-44.1-11.2-76.3-2.1-24.7-3.4-51.3-4.2-77.9-.3-9.3-.4-18-.5-25.7 0-2.7-.1-5.1-.1-7.1v-4.8c0-2.1 0-4.4.1-7.1.1-7.8.3-16.4.5-25.7.7-26.6 2.1-53.2 4.2-77.9 2.7-32.2 6.5-58.6 11.2-76.3 6.2-23.1 24.4-41.4 47.4-47.5 21-5.6 73.9-10.1 145.8-12.8 36.4-1.4 75.6-2.3 114.7-2.8 13.7-.2 26.4-.3 37.8-.3h28.6l37.8.3c39.1.5 78.2 1.4 114.7 2.8 71.9 2.8 124.9 7.2 145.8 12.8 23 6.2 41.2 24.4 47.4 47.5 4.7 17.7 8.5 44.1 11.2 76.3 2.1 24.7 3.4 51.3 4.2 77.9.3 9.3.4 18 .5 25.7 0 2.7.1 5.1.1 7.1v4.8zM423 646l232-135-232-133z" /></svg></span></a><a href="https://www.instagram.com/spicmacayofficial"><span class="follow-icons anticon anticon-instagram" style="padding:0 0.5em;" role="img" aria-label="instagram"><svg viewBox="64 64 896 896" focusable="false" data-icon="instagram" width="1em" height="1em" fill="currentColor" aria-hidden="true"><path d="M512 306.9c-113.5 0-205.1 91.6-205.1 205.1S398.5 717.1 512 717.1 717.1 625.5 717.1 512 625.5 306.9 512 306.9zm0 338.4c-73.4 0-133.3-59.9-133.3-133.3S438.6 378.7 512 378.7 645.3 438.6 645.3 512 585.4 645.3 512 645.3zm213.5-394.6c-26.5 0-47.9 21.4-47.9 47.9s21.4 47.9 47.9 47.9 47.9-21.3 47.9-47.9a47.84 47.84 0 00-47.9-47.9zM911.8 512c0-55.2.5-109.9-2.6-165-3.1-64-17.7-120.8-64.5-167.6-46.9-46.9-103.6-61.4-167.6-64.5-55.2-3.1-109.9-2.6-165-2.6-55.2 0-109.9-.5-165 2.6-64 3.1-120.8 17.7-167.6 64.5C132.6 226.3 118.1 283 115 347c-3.1 55.2-2.6 109.9-2.6 165s-.5 109.9 2.6 165c3.1 64 17.7 120.8 64.5 167.6 46.9 46.9 103.6 61.4 167.6 64.5 55.2 3.1 109.9 2.6 165 2.6 55.2 0 109.9.5 165-2.6 64-3.1 120.8-17.7 167.6-64.5 46.9-46.9 61.4-103.6 64.5-167.6 3.2-55.1 2.6-109.8 2.6-165zm-88 235.8c-7.3 18.2-16.1 31.8-30.2 45.8-14.1 14.1-27.6 22.9-45.8 30.2C695.2 844.7 570.3 840 512 840c-58.3 0-183.3 4.7-235.9-16.1-18.2-7.3-31.8-16.1-45.8-30.2-14.1-14.1-22.9-27.6-30.2-45.8C179.3 695.2 184 570.3 184 512c0-58.3-4.7-183.3 16.1-235.9 7.3-18.2 16.1-31.8 30.2-45.8s27.6-22.9 45.8-30.2C328.7 179.3 453.7 184 512 184s183.3-4.7 235.9 16.1c18.2 7.3 31.8 16.1 45.8 30.2 14.1 14.1 22.9 27.6 30.2 45.8C844.7 328.7 840 453.7 840 512c0 58.3 4.7 183.2-16.2 235.8z" /></svg></span></a></div><div class="col-12 order-first col-lg-7"><span>Have every child experience the inspiration and mysticism embodied in Indian and World heritage</span></div><div class="col-12 order-2 col-md-4 col-lg-2"><a style="color:rgb(174, 174, 174);text-decoration:underline;" href="https://spicmacay.org/privacypolicy">Privacy Policy</a></div></div></div></div>
+      
+    </div>
+  </div>
+
+  </section>
+
+						</div>
+						<div class="account-menu">
+						
+              <ul class="clearfix nav flex-row" data-component-id="bootstrap_barrio:menu_columns">
+                    <li class="nav-item">
+                <a href="/suser/login" class="nav-link nav-link--suser-login" data-drupal-link-system-path="suser/login">Log in</a>
+              </li>
+        </ul>
+  
+
+
+
+						</div>
+					</div>
+									</footer>
+	</div>
+</div>
+
+  </div>
+
+					
+					<script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2874","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"field_group":{"html_element":{"mode":"default","context":"view","settings":{"classes":"slide-details","show_empty_fields":false,"id":"","element":"div","show_label":false,"label_element":"h3","label_element_classes":"","attributes":"","effect":"none","speed":"fast"}}},"user":{"uid":0,"permissionsHash":"e8649cdf02efe3e165302449a119cae3f4183c5ad693f1f06ccb213fd9755f38"}}</script>
+<script src="/themes/custom/spicmacay/js/popper.min.js?v=10.4.7"></script>
+<script src="/themes/custom/spicmacay/js/bootstrap.min.js?v=10.4.7"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.4.7"></script>
+<script src="/core/misc/drupal.js?v=10.4.7"></script>
+<script src="/core/misc/drupal.init.js?v=10.4.7"></script>
+<script src="/themes/contrib/bootstrap_barrio/js/affix.js?v=10.4.7"></script>
+<script src="/themes/custom/spicmacay/js/barrio.js?v=10.4.7"></script>
+<script src="/themes/custom/spicmacay/js/custom.js?v=10.4.7"></script>
+<script src="/libraries/tiny-slider/dist/tiny-slider.js?v=10.4.7"></script>
+<script src="/themes/custom/spicmacay/js/tiny_slider.js?v=10.4.7"></script>
+</body>
+				</html>

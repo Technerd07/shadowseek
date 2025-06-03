@@ -1,0 +1,1987 @@
+Content from: https://www.asianart.org
+
+
+
+<!doctype html>
+<html lang="en-US" class="no-js">
+<head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T9CW3RH');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" container="IE=edge">
+
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    
+    <title>Asian Art Museum - Home</title>
+
+    <link
+            rel="icon"
+            type="image/png"
+            href="https://asianart.org/wp-content/themes/aam-framework/favicon.ico"/>
+
+    <!--[if IE]>
+    <link
+            rel="shortcut icon"
+            type="image/x-icon"
+            href="https://asianart.org/wp-content/themes/aam-framework/favicon.ico"/>
+    <![endif]-->
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v25.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="The Asian Art Museum of San Francisco houses one of the most comprehensive Asian art collections in the world." />
+	<link rel="canonical" href="https://asianart.org/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Asian Art Museum - Home" />
+	<meta property="og:description" content="The Asian Art Museum of San Francisco houses one of the most comprehensive Asian art collections in the world." />
+	<meta property="og:url" content="https://asianart.org/" />
+	<meta property="og:site_name" content="Main" />
+	<meta property="article:publisher" content="https://www.facebook.com/AsianArtMuseum/" />
+	<meta property="article:modified_time" content="2025-04-07T19:49:40+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" content="https://asianart.org/wp-content/uploads/2023/08/7796_23_Murakami-Homepage-Static-Hero_800x600.jpg" />
+	<meta name="twitter:site" content="@asianartmuseum" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://asianart.org/","url":"https://asianart.org/","name":"Asian Art Museum - Home","isPartOf":{"@id":"https://asianart.org/#website"},"about":{"@id":"https://asianart.org/#organization"},"datePublished":"2020-01-13T15:55:07+00:00","dateModified":"2025-04-07T19:49:40+00:00","description":"The Asian Art Museum of San Francisco houses one of the most comprehensive Asian art collections in the world.","breadcrumb":{"@id":"https://asianart.org/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://asianart.org/"]}]},{"@type":"BreadcrumbList","@id":"https://asianart.org/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://asianart.org/#website","url":"https://asianart.org/","name":"Main","description":"Asian Art Museum","publisher":{"@id":"https://asianart.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://asianart.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://asianart.org/#organization","name":"Asian Art Museum","url":"https://asianart.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://asianart.org/#/schema/logo/image/","url":"https://asianart.org/wp-content/uploads/2020/03/AAM_PL_Black_RGB.png","contentUrl":"https://asianart.org/wp-content/uploads/2020/03/AAM_PL_Black_RGB.png","width":1075,"height":506,"caption":"Asian Art Museum"},"image":{"@id":"https://asianart.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/AsianArtMuseum/","https://x.com/asianartmuseum","https://www.instagram.com/asianartmuseum","https://www.youtube.com/user/AsianArtMuseum"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//maps.google.com' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://asianart.org/wp-includes/css/dist/block-library/style.min.css?ver=6.7.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='sm-style-css' href='https://asianart.org/wp-content/plugins/wp-show-more/wpsm-style.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='aam-theme-css' href='https://asianart.org/wp-content/themes/aam-main/style.css?ver=1747843829' type='text/css' media='all' />
+<!--n2css--><!--n2js--><script type="text/javascript" src="https://asianart.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://asianart.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyDs7jsgN17I_dOnsggnGb8L0LsnSYDgIN0" id="google-maps-js"></script>
+<script type="text/javascript" src="https://asianart.org/wp-content/themes/aam-framework/node_modules/jquery-touchswipe/jquery.touchSwipe.min.js" id="touch-swipe-js"></script>
+<link rel="https://api.w.org/" href="https://asianart.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://asianart.org/wp-json/wp/v2/pages/267" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://asianart.org/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://asianart.org/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://asianart.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasianart.org%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://asianart.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fasianart.org%2F&#038;format=xml" />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-ELLF5DBPKS"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-ELLF5DBPKS');
+		</script>
+
+	<meta name="google-site-verification" content="NjkHmO77FUjLGqTGN6E9ETqwTCOTRua70HbIMJYao0I" /><style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><script id="usntA42start"
+src="https://a42cdn.usablenet.com/a42/asianartmuseum/default/prod/cs-start"
+async data-rapid="true"></script><link rel="icon" href="https://asianart.org/wp-content/uploads/2025/03/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://asianart.org/wp-content/uploads/2025/03/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://asianart.org/wp-content/uploads/2025/03/cropped-android-chrome-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://asianart.org/wp-content/uploads/2025/03/cropped-android-chrome-512x512-1-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			/* homepage hero styles */
+
+.hh .hero-comp__image__button {background-color: rgba(240, 240, 235, 0.5)} 
+
+@media screen and (min-width: 66em) {  	.hh__title {
+	margin-left: 660px;	}
+}
+
+@media screen and (max-width: 65em) {   
+	.hh__title {
+	margin-left: 240px;	}
+	.hh__title h1 { 
+		font-size:48px;
+	}
+		.hh__title h3 { 
+		font-size:36px;
+	}
+}
+
+@media screen and (max-width: 45em) {
+   .hh__title {
+          display:none;
+	}
+		 .hh .hero-comp__image__button {
+			           display:none;	}
+} 
+
+/*
+.hh__title  .hh__title__desktop {
+	box-sizing:content-box;
+	display:block;
+	text-align:right;
+	width:50%;
+}
+*/
+
+.hh__title {
+	font-style:normal;
+	background-color: rgba(240, 240, 235, 0.3);
+	text-transform: none; 
+	padding: 10px 15px; 
+
+
+}
+/*
+.hh-sub, .title--h3 {
+		font-size:36;
+		background-color: rgba(240, 240, 235, 0.3);
+}
+		*/
+
+/* end hero styles */
+
+/* blog styles */
+
+.post__title {
+	font-size: 48px;
+	text-align:left;
+}
+
+.post__card {
+	width: calc(50% - 30px); 
+        margin: 10px;
+    }
+figure.aam-image {
+    /* margin-top: 0px; */
+}
+
+.-padded--v {
+        padding-top: 20px;
+}
+
+
+.card__title {
+       /* font-size: 24px;
+        */
+    }
+.card__bottom {
+	    margin-top: 0px;
+}
+.-wrap--narrow, .text-hero.text-hero--resource-archive .text-hero__bottom {
+    max-width: 70rem;
+}
+.post__intro {
+    font-size: 24px;
+	  margin-bottom: 40px;
+	  margin-top: 40px;
+}
+
+.-wrap--narrow {
+    max-width: 60rem;
+}
+
+
+.bleeding-hero__backtext {
+	visibility: hidden;
+}
+
+
+		</style>
+		
+<!--    <script type="text/javascript" src="--><!--/themes/aam-framework/node_modules/jquery-touchswipe/jquery.touchSwipe.min.js"></script>-->
+
+
+<!-- Facebook Pixel Code -->
+
+<script>
+    !function(f,b,e,v,n,t,s)
+
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+    n.queue=[];t=b.createElement(e);t.async=!0;
+
+    t.src=v;s=b.getElementsByTagName(e)[0];
+
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+    'https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1861119050879672');
+
+    fbq('track', 'PageView');
+</script>
+
+<noscript>
+    <img height="1" width="1"
+        src="https://www.facebook.com/tr?id=1861119050879672&ev=PageView
+        &noscript=1"/>
+</noscript>
+
+<!-- End Facebook Pixel Code -->
+
+<script type="text/javascript">
+    window.AAM_SEARCH_URL = 'https://api.asianart.org/wp-json/aam/1.0.0/search';
+    window.AAM_MAIN_SITE = 'https://asianart.org';
+</script>
+
+</head>
+
+<body class="home page-template page-template-front-page page-template-front-page-php page page-id-267">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T9CW3RH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="header-bump">
+        <div class="header__subnav"></div>
+    
+    <section class="header-buttons">
+        <div class="header-buttons__inner">
+            <button                     class="header-buttons__button button button--lg button--black">
+                <i class="header-buttons__button-icon icon-info"></i>
+                <span class="header-buttons__button-text">
+                    Visit                </span>
+            </button>
+            <a href="https://asianart.org/reserve-tickets"
+                               class="header-buttons__button button button--lg button--purple">
+                <i class="header-buttons__button-icon icon-ticket"></i>
+                <span class="header-buttons__button-text">
+                    Tickets                </span>
+            </a>
+        </div>
+    </section>
+
+    <a href="https://asianart.org/reserve-tickets"
+       id="buy-tickets-button-mobile"
+       class="header-buttons__button header-buttons__button--circular button  button--purple">
+        <i class="header-buttons__button-icon icon-ticket"></i>
+    </a>
+
+    <div class="header__inner"></div>
+    <div class="search-header__inner"></div>
+</div>
+
+
+<header id="header" class="header">
+
+    <script type="text/javascript">adroll_adv_id = "HD6FFNRZSBEXXHLU77OTJL"; adroll_pix_id = "KOTJZHCBJVFJ7MA2V23OXA"; adroll_version = "2.0";  (function(w, d, e, o, a) { w.__adroll_loaded = true; w.adroll = w.adroll || []; w.adroll.f = [ 'setProperties', 'identify', 'track' ]; var roundtripUrl = "https://s.adroll.com/j/" + adroll_adv_id + "/roundtrip.js"; for (a = 0; a < w.adroll.f.length; a++) { w.adroll[w.adroll.f[a]] = w.adroll[w.adroll.f[a]] || (function(n) { return function() { w.adroll.push([ n, arguments ]) } })(w.adroll.f[a]) }  e = d.createElement('script'); o = d.getElementsByTagName('script')[0]; e.async = 1; e.src = roundtripUrl; o.parentNode.insertBefore(e, o); })(window, document); adroll.track("pageView"); </script> 
+
+    
+    <!-- start of header subnav -->
+    <div class="header__subnav">
+
+        <div class="-padded--h">
+            <div class="-wrap">
+
+                <div class="header__subnav-inner">
+                    <div class="header__subnav-left">
+                        <a href="https://about.asianart.org/plan-your-visit/" class="header__info">
+                            <i class="icon-info"></i>
+                            <span class="header__info-text">
+                                Information
+                            </span>
+                        </a>
+                        
+<p class="header__subnav-info-text">
+    CLOSED</p>                        
+
+
+<section class="visit-info visit-info--desktop" id="visit-infovisit-info--desktop">
+    <button class="visit-info__barrier">
+        <span class="visit-info__barrier-text">
+            Close Panel
+        </span>
+    </button>
+    <div class="visit-info__inner -padded--h">
+        <button class="visit-info__close">
+            <span class="visit-info__close-text">
+                Close Panel
+            </span>
+            <i class="visit-info__close-icon icon-close"></i>
+        </button>
+        <div class="visit-info__text">
+                            <div class="visit-info__text-section ">
+                    <div class="visit-info__text-section-title">
+                        Museum Hours                    </div>
+                    <div class="visit-info__text-section-body">
+                        Thu–Mon: 10 AM–5 PM
+<br>
+Tue–Wed: Closed                    </div>
+                </div>
+                            <div class="visit-info__text-section ">
+                    <div class="visit-info__text-section-title">
+                                            </div>
+                    <div class="visit-info__text-section-body">
+                                            </div>
+                </div>
+                            <div class="visit-info__text-section visit-info__text-section--address">
+                    <div class="visit-info__text-section-title">
+                        Location                    </div>
+                    <div class="visit-info__text-section-body">
+                        200 Larkin Street<br/>San Francisco, CA 94102<br/><a href='tel:4155813500'>415.581.3500</a>                    </div>
+                </div>
+                    </div>
+        <div class="visit-info__links">
+                            <a href="https://give.asianart.org/membership/"
+                   class="visit-info__link ">
+                    <span class="visit-info__link-text">
+                        Become a Member                    </span>
+                                    </a>
+                            <a href="https://about.asianart.org/plan-your-visit/"
+                   class="visit-info__link ">
+                    <span class="visit-info__link-text">
+                        Plan Your Visit                    </span>
+                                    </a>
+                            <a href="https://store.asianart.org/"
+                   class="visit-info__link ">
+                    <span class="visit-info__link-text">
+                        Shop                    </span>
+                                            <i class="visit-info__link-icon icon-external-link"></i>
+                                    </a>
+                    </div>
+    </div>
+    <div class="visit-info__tickets -padded--h">
+        <a href="https://asianart.org/reserve-tickets" class="visit-info__tickets-btn button button--lg button--purple">
+            Tickets        </a>
+    </div>
+</section>
+                    </div>
+                    <div class="header__subnav-right">
+                        <ul class="header__subnav-menu">
+                                                            <li class="header__subnav-menu-item">
+                                    <a class="header__subnav-menu-item-link"
+                                       href="https://give.asianart.org/membership/">
+                                        <i class="header__subnav-menu-item-icon icon-user"></i> <span>Members</span>
+                                    </a>
+                                </li>
+                                                                                        <li class="header__subnav-menu-item">
+                                    <a class="header__subnav-menu-item-link"
+                                       href="https://asianart.org/reserve-tickets">
+                                        <i class="header__subnav-menu-item-icon icon-ticket"></i><span>Tickets</span>
+                                    </a>
+                                </li>
+                                                                                        <li class="header__subnav-menu-item">
+                                    <a class="header__subnav-menu-item-link"
+                                       href="https://store.asianart.org/">
+                                        <div class="header__subnav-menu-item-icon">
+                                            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154.87 155.95"><path d="M9.28 64.54l-6-.01.13-58.28a3 3 0 0 1 3-2.99h57.87v6H9.41zm55 88.06H6.11a3 3 0 0 1-3-3.01l.14-58.28 6 .01-.13 55.27h55.17v6.01zm84.13 0H90.24v-6h55.17V91.32h6v58.28a3.009 3.009 0 0 1-3 3zm3-88.07h-6V9.25H90.24v-6h58.17a3 3 0 0 1 3 3zm-74.15 91.42a3 3 0 0 1-3-3V3a3 3 0 0 1 6 0v149.95a3 3 0 0 1-3 3z" fill="#140f14"/><path d="M77.25 79.24a3 3 0 0 1-2.83-4.01 84.816 84.816 0 0 1 17.3-27.47c6.43-6.64 12.94-6.69 16.25-6.13 4.6.78 8.51 3.55 10.2 7.22s1.25 8.13-1.2 12.27c-2.53 4.27-7.01 7.97-12.95 10.71-11.92 5.49-25.8 7.3-26.39 7.37a1.581 1.581 0 0 1-.38.04zm28.1-31.82c-3.19 0-6.44 1.57-9.31 4.52a78.374 78.374 0 0 0-13.86 20.41 90.622 90.622 0 0 0 19.33-5.96c6.11-2.81 8.97-6.08 10.3-8.32 1.43-2.42 1.76-4.86.92-6.7a7.779 7.779 0 0 0-5.76-3.82 9.831 9.831 0 0 0-1.62-.13z" fill="#140f14"/><path fill="#140f14" d="M45.315 108.195L76.925 71.2l4.562 3.898-31.61 36.996z"/><path d="M77.26 79.24c-.13 0-.25-.01-.38-.02-.59-.07-14.47-1.88-26.39-7.37-5.94-2.74-10.42-6.44-12.95-10.71-2.45-4.14-2.89-8.61-1.2-12.27s5.6-6.44 10.2-7.22c3.31-.57 9.81-.52 16.24 6.13a84.614 84.614 0 0 1 17.3 27.47 2.979 2.979 0 0 1-2.82 3.99zm-28.1-31.82a9.846 9.846 0 0 0-1.62.14 7.779 7.779 0 0 0-5.76 3.82c-.85 1.84-.52 4.28.92 6.7 1.33 2.24 4.19 5.51 10.3 8.32a90.154 90.154 0 0 0 19.32 5.96 78.562 78.562 0 0 0-13.85-20.41c-2.86-2.96-6.11-4.53-9.31-4.53z" fill="#140f14"/><path fill="#140f14" d="M73.027 75.094l4.562-3.898 31.61 36.996-4.562 3.898z"/><path d="M151.87 80.92H77.26a3 3 0 0 1 0-6h74.61a3 3 0 0 1 0 6z" fill="#140f14"/><path d="M77.26 80.92H3a3 3 0 0 1 0-6h74.26a3 3 0 0 1 0 6z" fill="#140f14"/></svg>
+                                        </div>
+                                        <span>Shop</span>
+                                    </a>
+                                </li>
+                            <!--                            <li class="header__subnav-menu-item">-->
+<!--                                <button class="header__subnav-menu-item-link">-->
+<!--                                    <i class="header__subnav-menu-item-icon icon-text-size"></i><span>Text size</span>-->
+<!--                                </button>-->
+<!--                            </li>-->
+                            <li class="header__subnav-menu-item"><span>Visit info:</span>
+                                <div class="select__wrapper">
+                                                                        <label for="select-language" class="select__wrapper-label">
+                                        Select a Language
+                                    </label>
+                                    <select id="select-language" class="select__lng">
+                                                                                    <option value="">
+                                                ––                                            </option>
+                                                                                    <option value="https://about.asianart.org/plan-your-visit/">
+                                                EN                                            </option>
+                                                                                    <option value="https://about.asianart.org/plan-your-visit/">
+                                                ZH                                            </option>
+                                                                                    <option value="https://about.asianart.org/plan-your-visit/">
+                                                KO                                            </option>
+                                                                                    <option value="https://about.asianart.org/plan-your-visit/">
+                                                ES                                            </option>
+                                                                                    <option value="https://about.asianart.org/plan-your-visit/">
+                                                FR                                            </option>
+                                                                            </select>
+                                    <div class="select__arrow select__lng-arrow">
+                                        <i class="icon-triangle-down"></i>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="-padded--h">
+        <div class="-wrap">
+            <!-- end of header subnav -->
+            <div class="header__inner">
+                <div class="header__left">
+                    <div class="header__open-menu">
+                        <a
+                                href="#"
+                                class="header__open-menu-inner"
+                                data-toggle-menu>
+                            <div class="header__open-menu-icon">
+                                <i class="icon-menu"></i>
+                            </div>
+                            <div class="header__close-menu-icon">
+                                <i class="icon-close"></i>
+                            </div>
+                            <span class="header__open-menu-inner-text">Menu</span>
+                        </a>
+                    </div>
+
+                </div>
+
+                <div class="header__center">
+                    <a
+                            href="https://asianart.org"
+                            class="header__logo">
+                        <img
+                                class="header__logo-src"
+                                src="https://asianart.org/wp-content/themes/aam-framework/img/AAM-logo.svg"
+                                alt="Asian Art Museum"
+                        >
+                    </a>
+                </div>
+
+                <div class="header__right">
+                    <ul class="header__nav-menu">
+                        <li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="https://about.asianart.org/plan-your-visit/">Visit</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40"><a href="https://calendar.asianart.org/">Calendar</a></li>
+<li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41"><a href="https://exhibitions.asianart.org/">Exhibitions</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="https://collections.asianart.org/home/">Collections</a></li>
+                    </ul>
+                    <div class="header_search-menu" tabindex="0">
+                        <div class="header__search-icon">
+                            <i class="header__search-icon-inactive icon-search"></i>
+                            <i class="header__search-icon-active icon-close"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+    <section class="header-buttons">
+        <div class="header-buttons__inner">
+            <button id="visit-info-button"                    class="header-buttons__button button button--lg button--black">
+                <i class="header-buttons__button-icon icon-info"></i>
+                <span class="header-buttons__button-text">
+                    Visit                </span>
+            </button>
+            <a href="https://asianart.org/reserve-tickets"
+                id="buy-tickets-button"               class="header-buttons__button button button--lg button--purple">
+                <i class="header-buttons__button-icon icon-ticket"></i>
+                <span class="header-buttons__button-text">
+                    Tickets                </span>
+            </a>
+        </div>
+    </section>
+
+    <a href="https://asianart.org/reserve-tickets"
+       id="buy-tickets-button-mobile"
+       class="header-buttons__button header-buttons__button--circular button  button--purple">
+        <i class="header-buttons__button-icon icon-ticket"></i>
+    </a>
+
+
+            
+<div class="search-header">
+    <div class="search-header__inner">
+        
+<form action="https://asianart.org"
+      id="search-header-form" class="search-form" autocomplete="off">
+    <label class="search-form__label">
+        <span class="search-form__label-text">Search</span>
+        <input type="text" name="s"
+               value=""
+               id="search-header" class="search-form__input"
+               placeholder="Search"/>
+        <input type="submit" class="search-form__submit" value="Search">
+        <i class="search-form__icon icon-search"></i>
+    </label>
+</form>    </div>
+</div>
+
+<div id="header-autocomplete" class="search-header--autocomplete">
+    <div id="header-autocomplete-results" class="search-header--autocomplete-results -padded--h"></div>
+    <div id="autocomplete-barrier" class="search-header--autocomplete-barrier"></div>
+</div>
+        </div>
+    </div>
+
+</header>
+
+
+
+
+<section class="visit-info " id="visit-info">
+    <button class="visit-info__barrier">
+        <span class="visit-info__barrier-text">
+            Close Panel
+        </span>
+    </button>
+    <div class="visit-info__inner -padded--h">
+        <button class="visit-info__close">
+            <span class="visit-info__close-text">
+                Close Panel
+            </span>
+            <i class="visit-info__close-icon icon-close"></i>
+        </button>
+        <div class="visit-info__text">
+                            <div class="visit-info__text-section ">
+                    <div class="visit-info__text-section-title">
+                        Museum Hours                    </div>
+                    <div class="visit-info__text-section-body">
+                        Thu–Mon: 10 AM–5 PM
+<br>
+Tue–Wed: Closed                    </div>
+                </div>
+                            <div class="visit-info__text-section ">
+                    <div class="visit-info__text-section-title">
+                                            </div>
+                    <div class="visit-info__text-section-body">
+                                            </div>
+                </div>
+                            <div class="visit-info__text-section visit-info__text-section--address">
+                    <div class="visit-info__text-section-title">
+                        Location                    </div>
+                    <div class="visit-info__text-section-body">
+                        200 Larkin Street<br/>San Francisco, CA 94102<br/><a href='tel:4155813500'>415.581.3500</a>                    </div>
+                </div>
+                    </div>
+        <div class="visit-info__links">
+                            <a href="https://give.asianart.org/membership/"
+                   class="visit-info__link button--gold button--outline">
+                    <span class="visit-info__link-text">
+                        Become a Member                    </span>
+                                    </a>
+                            <a href="https://about.asianart.org/plan-your-visit/"
+                   class="visit-info__link button--gold button--outline">
+                    <span class="visit-info__link-text">
+                        Plan Your Visit                    </span>
+                                    </a>
+                            <a href="https://store.asianart.org/"
+                   class="visit-info__link button--gold button--outline">
+                    <span class="visit-info__link-text">
+                        Shop                    </span>
+                                            <i class="visit-info__link-icon icon-external-link"></i>
+                                    </a>
+                    </div>
+    </div>
+    <div class="visit-info__tickets -padded--h">
+        <a href="https://asianart.org/reserve-tickets" class="visit-info__tickets-btn button button--lg button--purple">
+            Tickets        </a>
+    </div>
+</section>
+
+
+
+<nav id="offscreen-menu" class="offscreen-menu">
+    <div class="offscreen-menu__inner">
+        <div class="offscreen-menu__top -padded--h -padded--v">
+            <button class="offscreen-menu__top-close" data-toggle-menu>
+                <i class="offscreen-menu__top-close-icon icon-close"></i>
+                <span class="offscreen-menu__top-close-text">
+                    Close Menu
+                </span>
+            </button>
+        </div>
+        <ul class="offscreen-menu__primary -padded--h">
+            <li id="menu-item-47" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-47"><a href="https://calendar.asianart.org/">Calendar</a>
+<ul class="sub-menu">
+	<li id="menu-item-3118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3118"><a href="https://about.asianart.org/free-first-sundays/">Free First Sundays</a></li>
+</ul>
+</li>
+<li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48"><a href="https://exhibitions.asianart.org/">Exhibitions</a>
+<ul class="sub-menu">
+	<li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55"><a href="https://exhibitions.asianart.org/past/">Past Exhibitions</a></li>
+</ul>
+</li>
+<li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-49"><a href="https://collections.asianart.org/home/">Collections</a>
+<ul class="sub-menu">
+	<li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="https://collections.asianart.org/collections/masterpieces/">Masterpieces</a></li>
+	<li id="menu-item-316" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-316"><a href="https://collections.asianart.org/in-the-galleries/">In the Galleries</a></li>
+	<li id="menu-item-317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-317"><a href="https://collections.asianart.org/library/">Library</a></li>
+</ul>
+</li>
+<li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-50"><a href="https://about.asianart.org/plan-your-visit/">Visit</a>
+<ul class="sub-menu">
+	<li id="menu-item-3117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3117"><a href="https://about.asianart.org/plan-your-visit/">Plan Your Visit</a></li>
+	<li id="menu-item-323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-323"><a href="https://about.asianart.org/ticketing/">Tickets</a></li>
+	<li id="menu-item-2098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2098"><a href="https://about.asianart.org/dining/">Dining</a></li>
+	<li id="menu-item-2563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2563"><a href="https://about.asianart.org/plan-your-visit/tours/">Tours</a></li>
+</ul>
+</li>
+<li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-51"><a href="https://education.asianart.org/">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-895" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-895"><a href="https://education.asianart.org/for-families/">For Families</a></li>
+	<li id="menu-item-318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-318"><a href="https://education.asianart.org/professional-development/">For Teachers</a></li>
+	<li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="https://education.asianart.org/school-programs/">School Tours</a></li>
+</ul>
+</li>
+<li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-53"><a href="https://give.asianart.org">Join &#038; Give</a>
+<ul class="sub-menu">
+	<li id="menu-item-60" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="https://give.asianart.org/membership">Membership</a></li>
+	<li id="menu-item-320" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-320"><a href="https://give.asianart.org/institutional-partnerships/">Institutional Partnerships</a></li>
+	<li id="menu-item-321" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-321"><a href="https://give.asianart.org/ways-to-give/">Ways to Give</a></li>
+	<li id="menu-item-2278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2278"><a href="https://give.asianart.org/meet-the-development-team/">Contact a Team Member</a></li>
+</ul>
+</li>
+<li id="menu-item-52" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-52"><a href="https://about.asianart.org/about-the-asian-art-museum/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-283"><a href="https://about.asianart.org/press-room/">Press</a></li>
+	<li id="menu-item-286" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-286"><a href="https://about.asianart.org/careers/">Careers</a></li>
+	<li id="menu-item-285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-285"><a href="https://about.asianart.org/volunteering/">Volunteering</a></li>
+	<li id="menu-item-319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-319"><a href="https://about.asianart.org/about-the-asian-art-museum/governance/">Governance</a></li>
+	<li id="menu-item-363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-363"><a href="https://rentals.asianart.org/">Rent the Museum</a></li>
+	<li id="menu-item-284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-284"><a href="https://about.asianart.org/about-the-asian-art-museum/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-901" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-901"><a href="https://store.asianart.org/">Shop</a></li>
+        </ul>
+        <div class="offscreen-menu__tickets -padded--h -padded--v">
+            <a href="https://asianart.org/reserve-tickets"
+               class="button button--lg button--lg--wide button--purple offscreen-menu__tickets-link">
+                <i class="icon-ticket offscreen-menu__tickets-icon"></i>
+                <span class="offscreen-menu__tickets-link-text">
+                    GET TICKETS
+                </span>
+            </a>
+        </div>
+        <ul class="offscreen-menu__bottom -padded--h -padded--v">
+            <li id="menu-item-709" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-709"><a href="https://asianart.org/donate-today">Donate</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="https://buy.acmeticketing.com/membership/474/join">Become a Member</a></li>
+<li id="menu-item-551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-551"><a href="https://asianart.org/newsletter">Newsletter Sign-up</a></li>
+        </ul>
+    </div>
+</nav>
+
+<div id="offscreen-menu-overlay" data-toggle-menu class="offscreen-menu--overlay"></div>
+
+
+<main class="front-page">
+    
+<style>
+    .hh__bg::after {
+        background-color: rgba(242,168,11,1);
+        opacity: 0;
+    }
+
+        .hh-bottom a {
+        color: rgba(238,171,11,1);
+
+        &:hover {
+            filter: brightness(80%);
+        }
+    }
+
+    .hh .hero-comp__image__button {
+        border-color: rgba(238,171,11,1);
+
+        &:hover {
+            background-color: rgba(238,171,11,1);
+        }
+    }
+    </style>
+
+<section class="hh --align-bottom-left  --image --bg-align-top --dark-mode">
+    <div class="hh__bg">
+                <img
+            src="https://asianart.org/wp-content/uploads/2025/03/YGM_everydayWar_1600x900-800x450.jpg"
+            srcset="https://asianart.org/wp-content/uploads/2025/03/YGM_everydayWar_1600x900-800x450.jpg 1x, https://asianart.org/wp-content/uploads/2025/03/YGM_everydayWar_1600x900.jpg 2x"
+            alt="" class="hh__bg__img --mobile">
+                    <img
+                src="https://asianart.org/wp-content/uploads/2025/03/YGM_everydayWar_1600x900.jpg"
+                alt="" class="hh__bg__img --desktop">
+            </div>
+    <div class="hh__inner -padded--h">
+        <div class="hh__content -wrap">
+                                </div>
+    </div>
+</section>
+
+
+<section class="hh-bottom -padded--h">
+    <div class="hh-bottom__inner -wrap">
+        <div class="hh-bottom__left">
+                            <div class="hh-bottom__supertitle">Opens April 3</div>
+                                        <h2 class="hh-bottom__title"><span style="font-color=#FFFFFF; font-size=68px"><h2>Yuan Goang-Ming: Everyday War</h2></span></h2>
+                                        <div class="hh-bottom__body"><div class="wysiwyg"><h6><span style="font-size: 18pt;">A leading video artist offers a dreamlike look at an increasingly unsettling world.</span></h6>
+<h5><a href="https://buy.acmeticketing.com/events/474/detail/67b11cc57f41af2bd997f157">Tickets On Sale Now</a></h5>
+</div></div>
+                    </div>
+        <div class="hh-bottom__right">
+                            <div class="hh-bottom__right__supertitle">tickets</div>
+                                        <a href="https://asianart.org/reserve-tickets"
+                    class="hh-bottom__right__link">Reserve<br>Now</a>
+                    </div>
+    </div>
+</section>
+
+
+    <div class="-padded--h -padded--v" style="max-width:100vw;overflow: hidden;">
+        <div class="-wrap">
+            
+<div class="card-slider -padded--v card-slider--exhibitions card-sliders--show-buttons">
+    <div class="-wrap card-slider__inner">
+                    <div class="card-slider__top">
+                                    <h5 class="card-slider__title">
+                        On View / Upcoming                    </h5>
+                                <div class="card-slider__arrows"></div>
+                                    <a href="https://asianart.org/reserve-tickets"
+                       class="card-slider__button button button--lg button--wide button--purple button--tickets --hide-on-mobile">
+                        <span class="card-slider__button-text">
+                            Tickets                        </span>
+                    </a>
+                            </div>
+                <div class="card-slider__slider">
+                            
+<article  class="card card-slider__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://exhibitions.asianart.org/?p=3594" class="card__img-wrap">
+                <img src="https://exhibitions.asianart.org/wp-content/uploads/sites/7/2025/04/YGM_everydayWar_r2_600w.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#212026;'>Exhibition</span>                </div>
+                                        <a href="https://exhibitions.asianart.org/?p=3594" class="card__title">
+                    Yuan Goang-Ming: Everyday War                </a>
+                                        <div class="card__subtitle">
+                    Through July 7                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-slider__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://exhibitions.asianart.org/?p=3710" class="card__img-wrap">
+                <img src="https://exhibitions.asianart.org/wp-content/uploads/sites/7/2025/05/dalitpanthers_05_600w.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://exhibitions.asianart.org/?p=3710" class="card__title">
+                    Vikrant Bhise: Archival Historicity/Dalit Panthers                </a>
+                                        <div class="card__subtitle">
+                    Through March 23                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-slider__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://exhibitions.asianart.org/?p=3711" class="card__img-wrap">
+                <img src="https://exhibitions.asianart.org/wp-content/uploads/sites/7/2025/05/newClay_02_600w.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#212026;'>Exhibition</span>                </div>
+                                        <a href="https://exhibitions.asianart.org/?p=3711" class="card__title">
+                    New Japanese Clay                </a>
+                                        <div class="card__subtitle">
+                    Opens August 15                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-slider__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://exhibitions.asianart.org/?p=3567" class="card__img-wrap">
+                <img src="https://exhibitions.asianart.org/wp-content/uploads/sites/7/2024/11/bamboo_057_600w.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://exhibitions.asianart.org/?p=3567" class="card__title">
+                    2024 New Generation Bamboo Art Prize Winners                </a>
+                                        <div class="card__subtitle">
+                    Through December 5                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-slider__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://exhibitions.asianart.org/?p=3617" class="card__img-wrap">
+                <img src="https://exhibitions.asianart.org/wp-content/uploads/sites/7/2025/01/JPN_quails_2560w-1200x900.jpg"
+                     width="1200"
+                     height="900"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://exhibitions.asianart.org/?p=3617" class="card__title">
+                    Beautiful, Bountiful, Boisterous Birds                </a>
+                                        <div class="card__subtitle">
+                    Through September 15                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-slider__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://exhibitions.asianart.org/?p=3637" class="card__img-wrap">
+                <img src="https://exhibitions.asianart.org/wp-content/uploads/sites/7/2025/02/JPN_Shinoda_016_600w.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://exhibitions.asianart.org/?p=3637" class="card__title">
+                    Shinoda Toko: Abstract Calligraphy                </a>
+                                        <div class="card__subtitle">
+                    Through September 15                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-slider__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://exhibitions.asianart.org/?p=3429" class="card__img-wrap">
+                <img src="https://exhibitions.asianart.org/wp-content/uploads/sites/7/2024/08/chelsea-wong_commfeast_det2_1600x900-1200x900.jpg"
+                     width="1200"
+                     height="900"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#212026;'>Installation</span>                </div>
+                                        <a href="https://exhibitions.asianart.org/?p=3429" class="card__title">
+                    Community Feast                </a>
+                                        <div class="card__subtitle">
+                    Ongoing                </div>
+                                </div>
+    
+    
+</article>
+                    </div>
+    </div>
+</div>
+
+            
+<div class="card-slider -padded--v card-slider--events card-sliders--show-buttons">
+    <div class="-wrap card-slider__inner">
+                    <div class="card-slider__top">
+                                    <h5 class="card-slider__title">
+                        Events                    </h5>
+                                <div class="card-slider__arrows"></div>
+                                    <a href="https://calendar.asianart.org/"
+                       class="card-slider__button button button--lg button--wide button--gold">
+                        <span class="card-slider__button-text">
+                            View All                        </span>
+                    </a>
+                            </div>
+                <div class="card-slider__slider">
+                            
+<article  class="card card-slider__card" data-time='1748977200' data-event-type='online'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=8197" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2024/11/600x450-600x450.png"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#785252'>Online via Zoom</span>                </div>
+                                        <a href="https://calendar.asianart.org/?p=8197" class="card__title">
+                    Takeout Tuesdays: From the Kiln — Japanese Ceramics, Part 1                </a>
+                                        <div class="card__subtitle">
+                    TUE, JUNE 3 / 12:00PM                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-slider__card" data-time='1749582000' data-event-type='online'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=8198" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/05/geese_1600x728-600x450.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#785252'>Online via Zoom</span>                </div>
+                                        <a href="https://calendar.asianart.org/?p=8198" class="card__title">
+                    Takeout Tuesdays: An investigative look — Chinese Calligraphy...and why is there a Goose?                </a>
+                                        <div class="card__subtitle">
+                    TUE, JUNE 10 / 12:00PM                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-slider__card" data-time='1749661200' data-event-type='for-members'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=8187" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/05/The-Hindu-Deity-Shiva_650_400-466x450.jpg"
+                     width="466"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#785252'>For Members</span>                </div>
+                                        <a href="https://calendar.asianart.org/?p=8187" class="card__title">
+                    Virtual Lecture Series: Expressions of Gender in Asian Art                </a>
+                                        <div class="card__subtitle">
+                    WED, JUNE 11 / 10:00AM                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-slider__card" data-time='1750381200' data-event-type='thursday-nights'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=8288" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/05/Jun-Yang-hero-600x450.png"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#785252'>Thursday Night</span>                </div>
+                                        <a href="https://calendar.asianart.org/?p=8288" class="card__title">
+                    Art Workshop: Squish and Stitch (Sum 숨) with Jun Yang                </a>
+                                        <div class="card__subtitle">
+                    THU, JUNE 19 / 6:00PM                </div>
+                                </div>
+    
+            <div class="card__bottom -padded--h">
+            <div data-slug='free-with-admission' class='card__tag'>Free with Admission</div>        </div>
+    
+</article>
+                            
+<article  class="card card-slider__card" data-time='1750384800' data-event-type='thursday-nights'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=8292" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/05/Rice-Rockettes-1600-600x450.png"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#785252'>Thursday Night</span>                </div>
+                                        <a href="https://calendar.asianart.org/?p=8292" class="card__title">
+                    Drag performances by the incomparable Rice Rockettes                </a>
+                                        <div class="card__subtitle">
+                    THU, JUNE 19 / 7:00PM                </div>
+                                </div>
+    
+            <div class="card__bottom -padded--h">
+            <div data-slug='free-with-admission' class='card__tag'>Free with Admission</div>        </div>
+    
+</article>
+                            
+<article  class="card card-slider__card" data-time='1751824800' data-event-type='storytelling-tour'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=7780" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/02/storytelling-tour_0625_600w.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#785252'>Storytelling Tour</span>                </div>
+                                        <a href="https://calendar.asianart.org/?p=7780" class="card__title">
+                    Family Storytelling, ages 3–6                </a>
+                                        <div class="card__subtitle">
+                    SUN, JULY 6 / 11:00AM                </div>
+                                </div>
+    
+            <div class="card__bottom -padded--h">
+            <div data-slug='family-friendly' class='card__tag'>Family Friendly</div>        </div>
+    
+</article>
+                            
+<article  class="card card-slider__card" data-time='1751832000' data-event-type='storytelling-tour'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=7654" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/02/storytelling-tour_0625_600w.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                            <div class="card__supertitle">
+                    <span style='color:#785252'>Storytelling Tour</span>                </div>
+                                        <a href="https://calendar.asianart.org/?p=7654" class="card__title">
+                    Family Storytelling, all ages                </a>
+                                        <div class="card__subtitle">
+                    SUN, JULY 6 / 1:00PM                </div>
+                                </div>
+    
+            <div class="card__bottom -padded--h">
+            <div data-slug='family-friendly' class='card__tag'>Family Friendly</div>        </div>
+    
+</article>
+                    </div>
+    </div>
+</div>
+        </div>
+    </div>
+
+
+
+<section class="info-cta -wrap">
+    
+    <div class="info-cta__image">
+        <img src="https://asianart.org/wp-content/uploads/2021/08/Home_Visit-Promo_1600w.jpg"
+             srcset="https://asianart.org/wp-content/uploads/2021/08/Home_Visit-Promo_1600w.jpg 1x, https://asianart.org/wp-content/uploads/2021/08/Home_Visit-Promo_1600w.jpg 2x"
+             width="1600"
+             height="727" alt='Two people standing in a gallery with contemporary works on display' class="info-cta__image-src">
+    </div>
+
+    <div class="info-cta__box -padded--h">
+        <div class="info-cta__box-text">
+            <div class="info-cta__title">
+                Plan Your Visit            </div>
+            <div class="info-cta__body">
+                Moments of discovery, exploration, and surprise await you. Find out how to get the most out of your trip.            </div>
+        </div>
+        <div class="info-cta__box-bottom">
+                            <ul class="info-cta__links">
+                                            <li class="info-cta__links-item">
+                            <a href="https://about.asianart.org/plan-your-visit/" class="info-cta__link">
+                                Visit Info                            </a>
+                        </li>
+                                            <li class="info-cta__links-item">
+                            <a href="https://about.asianart.org/plan-your-visit/" class="info-cta__link">
+                                Directions                            </a>
+                        </li>
+                                            <li class="info-cta__links-item">
+                            <a href="https://about.asianart.org/ticketing/" class="info-cta__link">
+                                Ticket Info                            </a>
+                        </li>
+                                    </ul>
+                                        <div class="info-cta__address">
+                    <div class="info-cta__address-name">
+                        Asian Art Museum                    </div>
+                    <div class="info-cta__address-line">
+                        200 Larkin St.                    </div>
+                    <div class="info-cta__address-line">
+                        San Francisco, CA 94102                    </div>
+                    <a href="tel:415.581.3500" class="info-cta__address-phone">
+                        415.581.3500                    </a>
+                </div>
+                    </div>
+    </div>
+
+</section>
+<div class="card-grid-feat -padded--h -padded--v ">
+
+    <div class="card-grid-feat__inner -wrap">
+
+        <div class="card-grid-feat__text">
+                            <div class="card-grid-feat__title title--h1">
+                    <h2>Upcoming Events</h2>                </div>
+                                        <div class="card-grid-feat__desc">
+                    Keep an eye on the calendar for upcoming events at the museum.                </div>
+                                        <a href="https://calendar.asianart.org/"
+                   class="card-grid-feat__button button button--lg title--h1 button--gold">
+                    See all Upcoming                </a>
+                    </div>
+
+        <div class="card-grid-feat__cards">
+                            
+<article  class="card card-grid-feat__card" data-time='1750381200' data-event-type='thursday-nights'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=8288" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/05/Jun-Yang-hero-600x450.png"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://calendar.asianart.org/?p=8288" class="card__title">
+                    Art Workshop: Squish and Stitch (Sum 숨) with Jun Yang                </a>
+                                        <div class="card__subtitle">
+                    THU, JUNE 19 / 6:00PM                </div>
+                                </div>
+    
+    
+</article>
+                            
+<article  class="card card-grid-feat__card" data-time='1750384800' data-event-type='thursday-nights'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=8292" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/05/Rice-Rockettes-1600-600x450.png"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://calendar.asianart.org/?p=8292" class="card__title">
+                    Drag performances by the incomparable Rice Rockettes                </a>
+                                        <div class="card__subtitle">
+                    THU, JUNE 19 / 7:00PM                </div>
+                                </div>
+    
+    
+</article>
+                    </div>
+
+        <div class="card-grid-feat__slider">
+            <div class="card-grid-feat__slider-slides">
+                                    
+<article  class="card card-grid-feat__card" data-time='1750381200' data-event-type='thursday-nights'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=8288" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/05/Jun-Yang-hero-600x450.png"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://calendar.asianart.org/?p=8288" class="card__title">
+                    Art Workshop: Squish and Stitch (Sum 숨) with Jun Yang                </a>
+                                        <div class="card__subtitle">
+                    THU, JUNE 19 / 6:00PM                </div>
+                                </div>
+    
+    
+</article>
+                                    
+<article  class="card card-grid-feat__card" data-time='1750384800' data-event-type='thursday-nights'>
+
+            <div class="card__img" data-aspect-ratio="four-three-sm">
+            <a href="https://calendar.asianart.org/?p=8292" class="card__img-wrap">
+                <img src="https://calendar.asianart.org/wp-content/uploads/sites/4/2025/05/Rice-Rockettes-1600-600x450.png"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://calendar.asianart.org/?p=8292" class="card__title">
+                    Drag performances by the incomparable Rice Rockettes                </a>
+                                        <div class="card__subtitle">
+                    THU, JUNE 19 / 7:00PM                </div>
+                                </div>
+    
+    
+</article>
+                            </div>
+        </div>
+
+    </div>
+
+</div>
+<section id="three-card-" class="module -padded--h -padded--v">
+
+    <div class="three-card -wrap">
+
+                    
+<article  class="card three-card__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://about.asianart.org/plan-your-visit/tours/" class="card__img-wrap">
+                <img src="https://asianart.org/wp-content/uploads/2024/09/members-tour_600x450.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://about.asianart.org/plan-your-visit/tours/" class="card__title">
+                    Daily Tours                </a>
+                                                    <div class="card__body">
+                    Our knowledgeable and friendly docents and storytellers introduce you to the collection and special exhibitions.                </div>
+                    </div>
+    
+            <div class="card__bottom -padded--h">
+            <a class='card__link' href='https://about.asianart.org/plan-your-visit/tours/'>Find Out More</a>        </div>
+    
+</article>
+                    
+<article  class="card three-card__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://www.asianart.org/cultural-celebrations/" class="card__img-wrap">
+                <img src="https://asianart.org/wp-content/uploads/2020/01/Bell-Ringing_Card_1200x900-600x450.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt='Three people hold wooden beam to ring a large bell'>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://www.asianart.org/cultural-celebrations/" class="card__title">
+                    Cultural Celebrations                </a>
+                                                    <div class="card__body">
+                    Enjoy engaging programs that promise to delight and excite the imaginations of both young and old.
+                </div>
+                    </div>
+    
+            <div class="card__bottom -padded--h">
+            <a class='card__link' href='https://www.asianart.org/cultural-celebrations/'>Find Out More</a>        </div>
+    
+</article>
+                    
+<article  class="card three-card__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://about.asianart.org/plan-your-visit/mobile-app/" class="card__img-wrap">
+                <img src="https://asianart.org/wp-content/uploads/2020/06/Tours-scaled-1-600x450.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt='A woman listening to an audio tour looks at a concretion of broken porcelain and sea matter.'>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://about.asianart.org/plan-your-visit/mobile-app/" class="card__title">
+                    Mobile Guide                </a>
+                                                    <div class="card__body">
+                    Choose from a variety of audio tours of the museum's collection and special exhibitions.                </div>
+                    </div>
+    
+            <div class="card__bottom -padded--h">
+            <a class='card__link' href='https://about.asianart.org/plan-your-visit/mobile-app/'>Find Out More</a>        </div>
+    
+</article>
+        
+    </div>
+
+</section>
+
+<div class="image-split -padded--v ">
+
+    <div class="image-split__inner -wrap">
+
+        <div class="image-split__cards">
+
+            <div class="image-split__image image-split__image--left">
+                <div class="image-split__image-wrap">
+                    <img src="https://asianart.org/wp-content/uploads/2019/12/mochi-800x800.jpg"
+                         srcset="https://asianart.org/wp-content/uploads/2019/12/mochi-800x800.jpg 1x, https://asianart.org/wp-content/uploads/2019/12/mochi-scaled-1600x1600.jpg 2x"
+                        alt='One person wearing a red top and a black headband kneads mochi dough while another person holding a mallet prepares to pound it.' class="image-split__image-src">
+                </div>
+            </div>
+
+            <div class="image-split__text">
+                <div class="image-split__icon">
+                    <img src="" alt='' class="image-split__icon-src">
+                </div>
+                <div class="image-split__body">
+                    We need the support of our community now more than ever. Please support us by donating to the <b>Museum Fund</b>.                </div>
+                <a href="https://asianart.org/donate-today"
+                   class="image-split__button button button--lg button--purple">
+                    Support The Museum                </a>
+            </div>
+
+            <div class="image-split__image image-split__image--right">
+                <div class="image-split__image-wrap">
+                    <img src="https://asianart.org/wp-content/uploads/2020/01/VAC_Hero_2970x1350-800x800.jpg"
+                         srcset="https://asianart.org/wp-content/uploads/2020/01/VAC_Hero_2970x1350-800x800.jpg 1x, https://asianart.org/wp-content/uploads/2020/01/VAC_Hero_2970x1350-scaled-1600x1164.jpg 2x"
+                        alt='A horizontal painted mural depicting musicians with a painted dragon mounted above' class="image-split__image-src">
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<section class="bleeding-slider -padded--h -padded--v " data-type="variable-width">
+    <header class="bleeding-slider__head">
+        <div class="bleeding-slider__head-inner -wrap">
+                            <h4 class="bleeding-slider__title title--h4">
+                    From Our Collection                </h4>
+                        <div class="bleeding-slider__buttons">
+                                    <a href="https://collections.asianart.org/collections/masterpieces/"
+                       class="bleeding-slider__link button button--md button--gold">
+                        Find Out More                    </a>
+                                <div class="bleeding-slider__arrows"></div>
+            </div>
+        </div>
+    </header>
+    <div class="bleeding-slider__slides">
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=734" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2020/06/MEDIA-53566-533x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    Moon Jar
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> Korea</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=729" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2020/05/Brahma-Indra_B65S12_B65S13_wide-880x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    The deities Brahma and Indra (Bonten and Taishakuten)
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> Japan</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=733" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2020/07/2006-27-1-a-48268_hero-880x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    Crowned and bejeweled Buddha image and throne
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> Southeast Asia</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=718" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2020/05/shiva_B69S14_wide_v3-880x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    The Hindu deity Shiva
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> South Asia</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=643" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2019/11/Rhino_Explore-More_2048x1536-533x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    Ritual Vessel in the Shape of a Rhinoceros
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> China</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=670" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2019/10/MEDIA-49166-2-660x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    The Buddhist deity Simhavaktra, a dakini
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> The Himalayas &amp; Tibetan Buddhist World</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=881" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2020/07/hero_v3-879x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    The Hindu deity Vishnu
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> Southeast Asia</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=740" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2019/10/B60P123pl.a-.b_v4-1-643x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    Ewer with Lotus-Shaped Lid
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> Korea</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=669" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2020/01/Fish-Jar-hero-image-857x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    Lidded Jar with Design of a Lotus Pond
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> China</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=739" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2019/11/MEDIA-55494_Hero_2970x1386-scaled-857x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    The bodhisattva Avalokiteshvara (Guanyin)
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> China</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=738" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2019/11/Buddha-Triumphing-over-Mara_Hero_2970x1386-scaled-857x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    The Buddha triumphing over Mara
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> South Asia</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=737" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2019/11/Buddha-338-Hero-1-857x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    Buddha dated 338
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> China</div>
+            </div>                        </div>
+                    
+                
+            </div>
+        
+            <div class="bleeding-slider__slide">
+
+                
+                    <a href="https://collections.asianart.org/?p=725" target="_blank" class="bleeding-slider__slide-img">
+                        <div class="bleeding-slider__slide-img-wrap">
+                            <img src="https://collections.asianart.org/wp-content/uploads/sites/5/2019/11/B60J619_001_2970x1386-1-857x400.jpg" alt=""
+                                 class="bleeding-slider__slide-img-src">
+                        </div>
+                    </a>
+                                                                <div class="bleeding-slider__slide-bottom">
+                            
+            <div class='bleeding-slider__bottom'>
+                <div class='bleeding-slider__slide-title'>
+                    Cup with calligraphic inscriptions
+                </div>
+                <div class='bleeding-slider__location'><i class='icon-direction'></i> The Persian World &amp; West Asia</div>
+            </div>                        </div>
+                    
+                
+            </div>
+            </div>
+
+    <div class="bleeding-slider__dots"></div>
+
+            <div class="bleeding-slider__mobile-buttons">
+            <a href="https://collections.asianart.org/collections/masterpieces/"
+               class="bleeding-slider__link button button--lg button--gold">
+                Find Out More            </a>
+        </div>
+    
+</section>
+<section id="three-card-" class="module -padded--h -padded--v">
+
+    <div class="three-card -wrap">
+
+                    
+<article  class="card three-card__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://education.asianart.org/school-programs/" class="card__img-wrap">
+                <img src="https://asianart.org/wp-content/uploads/2020/10/SchoolPrograms_2970x1350_netsuke-scaled-600x450.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt='An adult and three young children approach a museum display case full of small objects.'>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://education.asianart.org/school-programs/" class="card__title">
+                    School Programs                </a>
+                                                    <div class="card__body">
+                    Schedule a livestreaming tour or find lessons and storytelling programs to incorporate into your teaching.                </div>
+                    </div>
+    
+            <div class="card__bottom -padded--h">
+            <a class='card__link' href='https://education.asianart.org/school-programs/'>Find Out More</a>        </div>
+    
+</article>
+                    
+<article  class="card three-card__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://store.asianart.org/" class="card__img-wrap">
+                <img src="https://asianart.org/wp-content/uploads/2024/10/3H7A3051-scaled-600x450.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt=''>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://store.asianart.org/" class="card__title">
+                    Cha May Ching Museum Boutique                </a>
+                                                    <div class="card__body">
+                    Discover Asia through one-of-a-kind objects.                 </div>
+                    </div>
+    
+            <div class="card__bottom -padded--h">
+            <a class='card__link' href='https://store.asianart.org/'>Find Out More</a>        </div>
+    
+</article>
+                    
+<article  class="card three-card__card" >
+
+            <div class="card__img" data-aspect-ratio="four-three">
+            <a href="https://rentals.asianart.org/" class="card__img-wrap">
+                <img src="https://asianart.org/wp-content/uploads/2021/08/Rent_650x400-600x450.jpg"
+                     width="600"
+                     height="450"
+                     class="card__img-src"
+                    alt='Round dinner tables with elaborate table settings inside a moodily lit ballroom.'>
+            </a>
+        </div>
+    
+            <div class="card__text -padded--h">
+                                        <a href="https://rentals.asianart.org/" class="card__title">
+                    Rent the Venue                </a>
+                                                    <div class="card__body">
+                    Choose between several event spaces ideal for corporate events, meetings, weddings and more.                </div>
+                    </div>
+    
+            <div class="card__bottom -padded--h">
+            <a class='card__link' href='https://rentals.asianart.org/'>Find Out More</a>        </div>
+    
+</article>
+        
+    </div>
+
+</section>
+
+<section class="bleeding-slider -padded--h -padded--v --social-slider" data-type="variable-width">
+    <header class="bleeding-slider__head">
+        <div class="bleeding-slider__head-inner -wrap">
+                        <div class="bleeding-slider__buttons">
+                                <div class="bleeding-slider__arrows"></div>
+            </div>
+        </div>
+    </header>
+    <div class="bleeding-slider__slides">
+            </div>
+
+    <div class="bleeding-slider__dots"></div>
+
+    
+</section></main>
+
+<!--Footer Component-->
+
+<div class="footer-social -padded--h -padded--v">
+    <div class="footer-social__inner -wrap">
+        <a
+                href="https://asianart.org"
+                class="footer-social__logo">
+            <img
+                    class="footer-social__logo-src"
+                    src="https://asianart.org/wp-content/themes/aam-framework/img/AAM-logo.svg"
+                    alt="Asian Art Museum"
+            >
+        </a>
+        <ul class="footer-social__list">
+                            <li class="footer-social__list-item">
+                    <a href="https://twitter.com/asianartmuseum?lang=en" class="footer-social__list-item-link">
+                        <i data-icon
+                           class="icon-twitter footer-social__list-item-link-icon"></i>
+                        <span class="footer-social__list-item-name">
+                            Twitter                        </span>
+                    </a>
+                </li>
+                            <li class="footer-social__list-item">
+                    <a href="https://www.facebook.com/AsianArtMuseum/" class="footer-social__list-item-link">
+                        <i data-icon
+                           class="icon-facebook footer-social__list-item-link-icon"></i>
+                        <span class="footer-social__list-item-name">
+                            Facebook                        </span>
+                    </a>
+                </li>
+                            <li class="footer-social__list-item">
+                    <a href="https://www.instagram.com/asianartmuseum/?hl=en" class="footer-social__list-item-link">
+                        <i data-icon
+                           class="icon-instagram footer-social__list-item-link-icon"></i>
+                        <span class="footer-social__list-item-name">
+                            Instagram                        </span>
+                    </a>
+                </li>
+                            <li class="footer-social__list-item">
+                    <a href="https://www.youtube.com/user/AsianArtMuseum" class="footer-social__list-item-link">
+                        <i data-icon
+                           class="icon-youtube footer-social__list-item-link-icon"></i>
+                        <span class="footer-social__list-item-name">
+                            YouTube                        </span>
+                    </a>
+                </li>
+                            <li class="footer-social__list-item">
+                    <a href="https://asianart.org/wp-content/uploads/2020/07/AAM_WeChat.jpg" class="footer-social__list-item-link">
+                        <i data-icon
+                           class="icon-we-chat footer-social__list-item-link-icon"></i>
+                        <span class="footer-social__list-item-name">
+                            WeChat                        </span>
+                    </a>
+                </li>
+                            <li class="footer-social__list-item">
+                    <a href="https://www.tripadvisor.com/Attraction_Review-g60713-d103857-Reviews-Asian_Art_Museum-San_Francisco_California.html" class="footer-social__list-item-link">
+                        <i data-icon
+                           class="icon-trip-advisor footer-social__list-item-link-icon"></i>
+                        <span class="footer-social__list-item-name">
+                            Trip Advisor                        </span>
+                    </a>
+                </li>
+                            <li class="footer-social__list-item">
+                    <a href="https://www.linkedin.com/company/asian-art-museum/" class="footer-social__list-item-link">
+                        <i data-icon
+                           class="icon-linked-in footer-social__list-item-link-icon"></i>
+                        <span class="footer-social__list-item-name">
+                            LinkedIn                        </span>
+                    </a>
+                </li>
+                    </ul>
+                    <div class="footer-social__newsletter">
+                <a href="https://asianart.org/newsletter"
+                   style="display:block;"
+                   target="_blank" class="button button--lg button--gold">
+                    Newsletter Sign-Up                </a>
+            </div>
+        
+<!--        <div class="footer-social__newsletter">-->
+            <!--        </div>-->
+    </div>
+</div>
+
+<footer class="footer">
+
+    <div class="-padded--h">
+        <div class="-wrap">
+
+            <div class="footer__inner">
+
+                <ul class="footer__col">
+                    <li class="footer__col-title">Location</li>
+                    <li class="footer__col-text">Asian Art Museum</li>
+                    <li class="footer__col-text">Chong-Moon Lee Center for <br/>Asian Art and Culture</li>
+                    <li class="footer__col-text">
+                        200 Larkin Street                    </li>
+                    <li class="footer__col-text">
+                        San Francisco, CA 94102                    </li>
+                    <li class="footer__col-text">
+                        <a href="tel:4155813500">
+                            415.581.3500                        </a>
+                    </li>
+                    <li class="footer__col-text">
+                        <a href="https://www.google.com/maps/?daddr=200+Larkin+Street+San+Francisco,+CA+94102" target="_blank"
+                           class="link footer-link">Directions <i class="icon-external-link"></i></a>
+                    </li>
+                </ul>
+
+                <ul class="footer__col">
+                    <li class="footer__col-title">Hours</li>
+                                            <li class="footer__col-text">
+                            Thu: 1 PM–8 PM                        </li>
+                                            <li class="footer__col-text">
+                            Fri–Mon: 10 AM–5 PM                        </li>
+                                            <li class="footer__col-text">
+                            Tue–Wed: Closed                        </li>
+                                        <li class="footer__col-text">
+                        <a href="https://asianart.org/reserve-tickets"
+                           class="link footer-link">Ticket information </a>
+                    </li>
+                </ul>
+
+                <ul class="footer__col">
+                    <li class="footer__col-title">Explore</li>
+                    <li id="menu-item-249" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249"><a href="https://about.asianart.org/plan-your-visit/">Visit</a></li>
+<li id="menu-item-250" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-250"><a href="https://exhibitions.asianart.org/">Exhibitions</a></li>
+<li id="menu-item-251" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-251"><a href="https://education.asianart.org/">Education</a></li>
+<li id="menu-item-252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-252"><a href="https://give.asianart.org/">Support the Museum</a></li>
+<li id="menu-item-253" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-253"><a href="https://about.asianart.org/cha-may-ching-museum-boutique/">Cha May Ching Museum Boutique</a></li>
+<li id="menu-item-324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-324"><a href="https://about.asianart.org/plan-your-visit/mobile-app/">Mobile Guide</a></li>
+                </ul>
+
+                <ul class="footer__col">
+                    <li class="footer__col-title">About</li>
+                    <li id="menu-item-255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-255"><a href="https://about.asianart.org/about-the-asian-art-museum/">About the Museum</a></li>
+<li id="menu-item-260" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-260"><a href="https://about.asianart.org/press/">Press</a></li>
+<li id="menu-item-257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-257"><a href="https://about.asianart.org/careers/">Careers</a></li>
+<li id="menu-item-259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-259"><a href="https://about.asianart.org/volunteering/">Volunteers</a></li>
+<li id="menu-item-258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-258"><a href="https://about.asianart.org/about-the-asian-art-museum/contact-us/">Contact Us</a></li>
+<li id="menu-item-2759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2759"><a href="https://rentals.asianart.org/">Rent the Museum</a></li>
+                </ul>
+
+                <div class="footer__bottom">
+                    <div class="footer__copyright">
+                        &copy; 2025 Asian Art Museum – Chong-Moon Lee Center for Asian Art and Culture
+                    </div>
+                    <div class="footer__legal">
+                        <ul class="footer__legal-menu">
+                            <li id="menu-item-262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-262"><a href="https://asianart.org/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-263"><a rel="privacy-policy" href="https://asianart.org/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-3026" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3026"><a href="https://about.asianart.org/plan-your-visit/policies/">Museum Policies</a></li>
+<li id="menu-item-3032" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3032"><a href="https://about.asianart.org/photography-and-image-rights/">Photography and Image Rights</a></li>
+<li id="menu-item-3160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3160"><a href="https://about.asianart.org/accessibility-statement/">Accessibility Statement</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+</footer>
+
+
+        <script
+            id="roar-inline-share-template"
+            type="text/template">
+                    <div
+                        class="sharing-menu sharing-menu--inline">
+            
+<a
+    class="sharing-menu__button sharing-menu__button--email"
+    href="mailto:?subject=Main%20%E2%80%93%20Home&body=%0Ahttps%3A%2F%2Fasianart.org%2F"
+    data-url="https://asianart.org/"
+    title="Share via Email"
+    target="_blank">
+    <span>Email</span>
+</a>
+<a
+    class="sharing-menu__button sharing-menu__button--linkedin"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fasianart.org%2F&title=Main%20%26%238211%3B%20Home&summary"
+    title="Share on LinkedIn"
+    target="_blank">
+    <span>LinkedIn</span>
+</a>
+
+    <a
+        class="sharing-menu__button sharing-menu__button--facebook"
+        href="https://www.facebook.com/dialog/feed?app_id=207346649321875&display=popup&caption=Main – Home&link=https://asianart.org/&redirect_uri=https://asianart.org/"
+        title="Share on Facebook"
+        target="_blank">
+        <span>Facebook</span>
+    </a>
+        </div>
+            </script><script type="text/javascript" src="https://asianart.org/wp-content/plugins/roar/share/share.js?ver=0.31.28" id="roar__share-js"></script>
+<script type="text/javascript" src="https://asianart.org/wp-content/plugins/wp-show-more/wpsm-script.js?ver=1.0.1" id="sm-script-js"></script>
+<script type="text/javascript" src="https://asianart.org/wp-content/themes/aam-main/script.js?ver=1747843829" id="aam-theme-js"></script>
+
+</body>
+</html>

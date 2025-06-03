@@ -1,0 +1,751 @@
+Content from: https://www.culturalindia.net
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Information on Indian Culture, Tradition & Heritage </title>
+<link rel="icon" href="//www.culturalindia.net/iliimages/cultural_india.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="Keywords" content="Information on Indian Culture, Tradition & Heritage ">
+<meta name="Description" content="The Indian culture is unique and varied. This section on culture of India contains information on various aspects of the great Indian culture.">
+<link rel="stylesheet" type="text/css" href="/responsive/css/bootstrap.min.css"> <!-- Bootstrap core CSS -->
+<link rel="stylesheet" type="text/css" href="/responsive/css/cultural-home.css"> <!-- Cultural core CSS -->
+<meta property="og:site_name" content="Cultural India"/>
+<meta property="og:url" content="//www.culturalindia.net/"/>
+<meta property="og:title" content="Information on Indian Culture, Tradition & Heritage" />
+<meta property="og:description" content="The Indian culture is unique and varied. This section on culture of India contains information on various aspects of the great Indian culture." />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="6f96369f1afd800ff02b8616-text/javascript"></script>
+<script type="6f96369f1afd800ff02b8616-text/javascript">
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-0023073267844535",
+          enable_page_level_ads: true
+     });
+</script>
+<script type="6f96369f1afd800ff02b8616-text/javascript" async=true>
+    var elem = document.createElement('script');
+    elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    (function() {
+    var gdprAppliesGlobally = true;
+    function addFrame() {
+        if (!window.frames['__cmpLocator']) {
+        if (document.body) {
+            var body = document.body,
+                iframe = document.createElement('iframe');
+            iframe.style = 'display:none';
+            iframe.name = '__cmpLocator';
+            body.appendChild(iframe);
+        } else {
+            // In the case where this stub is located in the head,
+            // this allows us to inject the iframe more quickly than
+            // relying on DOMContentLoaded or other events.
+            setTimeout(addFrame, 5);
+        }
+        }
+    }
+    addFrame();
+    function cmpMsgHandler(event) {
+        var msgIsString = typeof event.data === "string";
+        var json;
+        if(msgIsString) {
+        json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+        } else {
+        json = event.data;
+        }
+        if (json.__cmpCall) {
+        var i = json.__cmpCall;
+        window.__cmp(i.command, i.parameter, function(retValue, success) {
+            var returnMsg = {"__cmpReturn": {
+            "returnValue": retValue,
+            "success": success,
+            "callId": i.callId
+            }};
+            event.source.postMessage(msgIsString ?
+            JSON.stringify(returnMsg) : returnMsg, '*');
+        });
+        }
+    }
+    window.__cmp = function (c) {
+        var b = arguments;
+        if (!b.length) {
+        return __cmp.a;
+        }
+        else if (b[0] === 'ping') {
+        b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
+            "cmpLoaded": false}, true);
+        } else if (c == '__cmp')
+        return false;
+        else {
+        if (typeof __cmp.a === 'undefined') {
+            __cmp.a = [];
+        }
+        __cmp.a.push([].slice.apply(b));
+        }
+    }
+    window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+    window.__cmp.msgHandler = cmpMsgHandler;
+    if (window.addEventListener) {
+        window.addEventListener('message', cmpMsgHandler, false);
+    }
+    else {
+        window.attachEvent('onmessage', cmpMsgHandler);
+    }
+    })();
+    window.__cmp('init', {
+    		'Language': 'en',
+		'Initial Screen Reject Button Text': 'I do not accept',
+		'Initial Screen Accept Button Text': 'I accept',
+		'Purpose Screen Body Text': 'You can set your consent preferences and determine how you want your data to be used based on the purposes below. You may set your preferences for us independently from those of third-party partners. Each purpose has a description so that you know how we and partners use your data.',
+		'Vendor Screen Body Text': 'You can set consent preferences for each individual third-party company below. Expand each company list item to see what purposes they use data for to help make your choices. In some cases, companies may disclose that they use your data without asking for your consent, based on their legitimate interests. You can click on their privacy policies for more information and to opt out.',
+		'Vendor Screen Accept All Button Text': 'Accept all',
+		'Vendor Screen Reject All Button Text': 'Reject all',
+		'Initial Screen Body Text': 'We and our partners use technology such as cookies on our site to personalise content and ads, provide social media features, and analyse our traffic. Click “I Accept” to consent to the use of this technology across the web. You can change your mind and change your consent choices at anytime by returning to this site.',
+		'Initial Screen Body Text Option': 1,
+		'Publisher Name': 'culturalindia.net',
+		'Publisher Logo': 'https://www.culturalindia.net/gifs/cultural-india-logo.png',
+		'Publisher Purpose IDs': [1,2,3,4,5],
+		'UI Layout': 'banner',
+		'No Option': false,
+		'Display UI': 'inEU',
+		'Cookie Domain':'culturalindia.net',
+		'Custom Links Displayed on Initial Screen': [
+"[Privacy Policy](https://www.culturalindia.net/privacy-policy.html)",
+"[Cookie Policy](https://www.culturalindia.net/manage_cookies.html)"
+],"Persistent Consent Link Location":3
+
+    });
+</script>
+<style>.qc-cmp-button {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.qc-cmp-button:hover {
+  background-color: transparent !important;
+  border-color: #000000 !important;color:#000000 !important;
+}
+.qc-cmp-alt-action,
+.qc-cmp-link {
+  color: #000000 !important;
+}
+.qc-cmp-button {
+  color: #ffffff !important;
+}
+.qc-cmp-button.qc-cmp-secondary-button {
+  color: #000000 !important;
+}
+.qc-cmp-button.qc-cmp-button.qc-cmp-secondary-button:hover {
+  color:#ffffff !important;
+}
+.qc-cmp-button.qc-cmp-secondary-button {
+  border-color: #000000 !important;
+  background-color: transparent !important;
+}
+.qc-cmp-button.qc-cmp-secondary-button:hover {
+  background-color: #000000 !important;
+}
+.qc-cmp-toggle {	  
+    height: 18px!important;	    
+}
+.qc-cmp-ui,
+.qc-cmp-ui .qc-cmp-main-messaging,
+.qc-cmp-ui .qc-cmp-messaging,
+.qc-cmp-ui .qc-cmp-beta-messaging,
+.qc-cmp-ui .qc-cmp-title,
+.qc-cmp-ui .qc-cmp-sub-title,
+.qc-cmp-ui .qc-cmp-purpose-info,
+.qc-cmp-ui .qc-cmp-table,
+.qc-cmp-ui .qc-cmp-table-header,
+.qc-cmp-ui .qc-cmp-vendor-list,
+.qc-cmp-ui .qc-cmp-vendor-list-title {
+    color: #000000 !important;
+}
+.qc-cmp-ui a,
+.qc-cmp-ui .qc-cmp-alt-action {
+  color: #000000 !important;
+}
+.qc-cmp-ui {
+    background-color: #ffffff !important;
+}
+.qc-cmp-publisher-purposes-table .qc-cmp-table-header {
+  background-color: #fafafa !important;
+}
+.qc-cmp-publisher-purposes-table .qc-cmp-table-row {
+  background-color: #ffffff !important;
+}
+.qc-cmp-ui-content{padding:25px!important;}
+
+.qc-cmp-small-toggle, .qc-cmp-toggle {
+    background-color: #ff1800 !important;
+    border-color: #ff1800 !important;
+}
+
+.qc-cmp-small-toggle.qc-cmp-toggle-on,
+.qc-cmp-toggle.qc-cmp-toggle-on {
+    background-color: #00ff30 !important;
+    border-color: #00ff30 !important;
+}
+.qc-cmp-bold-messaging{text-align:left;padding:0px!important;font-size:14px!important;}
+.qc-cmp-purpose-description{font-style:normal!important;text-align:left;padding:0px!important;}
+.qc-cmp-messaging{font-style:normal!important;text-align:left;padding:0px!important;}
+.qc-cmp-table{
+border: 1px solid hsla(0,0%,100%,.3)!important;
+    border-collapse: collapse!important;
+    color: #fff!important;
+    font-family: Arial,Verdana,sans-serif!important;
+    font-size: 14px!important;
+    width: 100%!important;
+}
+.qc-cmp-persistent-link{#background:#000!important;#color:#fff!important;}
+
+.qc-cmp-scrolling-section {
+    border-bottom: 1px solid hsla(0,0%,100%,.3)!important;
+    border-top: 1px solid hsla(0,0%,100%,.3)!important;
+    height: calc(100vh - 400px)!important;
+    max-height: 1000px!important;
+    min-height: 200px!important;
+    overflow-y: scroll!important;
+}
+#cog{fill: #fff!important;}
+.qc-cmp-table-row {
+    padding: 5px 10px!important;box-shadow: unset!important;
+    border: 1px solid #eee!important;
+}
+</style>
+<!-- Quantcast Choice. Consent Manager Tag -->
+<script type="6f96369f1afd800ff02b8616-text/javascript" async=true>
+    var elem = document.createElement('script');
+    elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    (function() {
+    var gdprAppliesGlobally = true;
+    function addFrame() {
+        if (!window.frames['__cmpLocator']) {
+        if (document.body) {
+            var body = document.body,
+                iframe = document.createElement('iframe');
+            iframe.style = 'display:none';
+            iframe.name = '__cmpLocator';
+            body.appendChild(iframe);
+        } else {
+            // In the case where this stub is located in the head,
+            // this allows us to inject the iframe more quickly than
+            // relying on DOMContentLoaded or other events.
+            setTimeout(addFrame, 5);
+        }
+        }
+    }
+    addFrame();
+    function cmpMsgHandler(event) {
+        var msgIsString = typeof event.data === "string";
+        var json;
+        if(msgIsString) {
+        json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+        } else {
+        json = event.data;
+        }
+        if (json.__cmpCall) {
+        var i = json.__cmpCall;
+        window.__cmp(i.command, i.parameter, function(retValue, success) {
+            var returnMsg = {"__cmpReturn": {
+            "returnValue": retValue,
+            "success": success,
+            "callId": i.callId
+            }};
+            event.source.postMessage(msgIsString ?
+            JSON.stringify(returnMsg) : returnMsg, '*');
+        });
+        }
+    }
+    window.__cmp = function (c) {
+        var b = arguments;
+        if (!b.length) {
+        return __cmp.a;
+        }
+        else if (b[0] === 'ping') {
+        b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
+            "cmpLoaded": false}, true);
+        } else if (c == '__cmp')
+        return false;
+        else {
+        if (typeof __cmp.a === 'undefined') {
+            __cmp.a = [];
+        }
+        __cmp.a.push([].slice.apply(b));
+        }
+    }
+    window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+    window.__cmp.msgHandler = cmpMsgHandler;
+    if (window.addEventListener) {
+        window.addEventListener('message', cmpMsgHandler, false);
+    }
+    else {
+        window.attachEvent('onmessage', cmpMsgHandler);
+    }
+    })();
+    window.__cmp('init', {
+    		'Language': 'en',
+		'Initial Screen Reject Button Text': 'I do not accept',
+		'Initial Screen Accept Button Text': 'I accept',
+		'Purpose Screen Body Text': 'You can set your consent preferences and determine how you want your data to be used based on the purposes below. You may set your preferences for us independently from those of third-party partners. Each purpose has a description so that you know how we and partners use your data.',
+		'Vendor Screen Body Text': 'You can set consent preferences for each individual third-party company below. Expand each company list item to see what purposes they use data for to help make your choices. In some cases, companies may disclose that they use your data without asking for your consent, based on their legitimate interests. You can click on their privacy policies for more information and to opt out.',
+		'Vendor Screen Accept All Button Text': 'Accept all',
+		'Vendor Screen Reject All Button Text': 'Reject all',
+		'Initial Screen Body Text': 'We and our partners use technology such as cookies on our site to personalise content and ads, provide social media features, and analyse our traffic. Click “I Accept” to consent to the use of this technology across the web. You can change your mind and change your consent choices at anytime by returning to this site.',
+		'Initial Screen Body Text Option': 1,
+		'Publisher Name': 'culturalindia.net',
+		'Publisher Logo': 'https://www.culturalindia.net/gifs/cultural-india-logo.png',
+		'Publisher Purpose IDs': [1,2,3,4,5],
+		'UI Layout': 'banner',
+		'No Option': false,
+		'Display UI': 'inEU',
+		'Cookie Domain':'culturalindia.net',
+		'Custom Links Displayed on Initial Screen': [
+"[Privacy Policy](https://www.culturalindia.net/privacy-policy.html)",
+"[Cookie Policy](https://www.culturalindia.net/manage_cookies.html)"
+],"Persistent Consent Link Location":3
+
+    });
+</script>
+<style>.qc-cmp-button {
+  background-color: #000000 !important;
+  border-color: #000000 !important;
+}
+.qc-cmp-button:hover {
+  background-color: transparent !important;
+  border-color: #000000 !important;color:#000000 !important;
+}
+.qc-cmp-alt-action,
+.qc-cmp-link {
+  color: #000000 !important;
+}
+.qc-cmp-button {
+  color: #ffffff !important;
+}
+.qc-cmp-button.qc-cmp-secondary-button {
+  color: #000000 !important;
+}
+.qc-cmp-button.qc-cmp-button.qc-cmp-secondary-button:hover {
+  color:#ffffff !important;
+}
+.qc-cmp-button.qc-cmp-secondary-button {
+  border-color: #000000 !important;
+  background-color: transparent !important;
+}
+.qc-cmp-button.qc-cmp-secondary-button:hover {
+  background-color: #000000 !important;
+}
+.qc-cmp-toggle {	  
+    height: 18px!important;	    
+}
+.qc-cmp-ui,
+.qc-cmp-ui .qc-cmp-main-messaging,
+.qc-cmp-ui .qc-cmp-messaging,
+.qc-cmp-ui .qc-cmp-beta-messaging,
+.qc-cmp-ui .qc-cmp-title,
+.qc-cmp-ui .qc-cmp-sub-title,
+.qc-cmp-ui .qc-cmp-purpose-info,
+.qc-cmp-ui .qc-cmp-table,
+.qc-cmp-ui .qc-cmp-table-header,
+.qc-cmp-ui .qc-cmp-vendor-list,
+.qc-cmp-ui .qc-cmp-vendor-list-title {
+    color: #000000 !important;
+}
+.qc-cmp-ui a,
+.qc-cmp-ui .qc-cmp-alt-action {
+  color: #000000 !important;
+}
+.qc-cmp-ui {
+    background-color: #ffffff !important;
+}
+.qc-cmp-publisher-purposes-table .qc-cmp-table-header {
+  background-color: #fafafa !important;
+}
+.qc-cmp-publisher-purposes-table .qc-cmp-table-row {
+  background-color: #ffffff !important;
+}
+.qc-cmp-ui-content{padding:25px!important;}
+
+.qc-cmp-small-toggle, .qc-cmp-toggle {
+    background-color: #ff1800 !important;
+    border-color: #ff1800 !important;
+}
+
+.qc-cmp-small-toggle.qc-cmp-toggle-on,
+.qc-cmp-toggle.qc-cmp-toggle-on {
+    background-color: #00ff30 !important;
+    border-color: #00ff30 !important;
+}
+.qc-cmp-bold-messaging{text-align:left;padding:0px!important;font-size:14px!important;}
+.qc-cmp-purpose-description{font-style:normal!important;text-align:left;padding:0px!important;}
+.qc-cmp-messaging{font-style:normal!important;text-align:left;padding:0px!important;}
+.qc-cmp-table{
+border: 1px solid hsla(0,0%,100%,.3)!important;
+    border-collapse: collapse!important;
+    color: #fff!important;
+    font-family: Arial,Verdana,sans-serif!important;
+    font-size: 14px!important;
+    width: 100%!important;
+}
+.qc-cmp-persistent-link{#background:#000!important;#color:#fff!important;}
+
+.qc-cmp-scrolling-section {
+    border-bottom: 1px solid hsla(0,0%,100%,.3)!important;
+    border-top: 1px solid hsla(0,0%,100%,.3)!important;
+    height: calc(100vh - 400px)!important;
+    max-height: 1000px!important;
+    min-height: 200px!important;
+    overflow-y: scroll!important;
+}
+#cog{fill: #fff!important;}
+.qc-cmp-table-row {
+    padding: 5px 10px!important;box-shadow: unset!important;
+    border: 1px solid #eee!important;
+}
+</style>
+<meta name="google-site-verification" content="33ilfNR2Ho3R7eDiQLNyu9Ddp3NZvL4TIqfbCjXefmk" />
+</head>
+<body>
+	<div class="site_container">
+
+		<div class="header_container mini_header fixed_area">
+			<div class="header clearfix">
+
+				<div class="logo">
+					<a href="//www.culturalindia.net">
+						<img src="/gifs/cultural-india-logo.png" alt="culturalindia" />
+					</a>
+				</div>
+
+				<div class="navbar-header mobile-navigation">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+
+				<div class="row mobile-navigation-row">
+					<div class="menu_container clearfix" id="header"> 
+						<div role="navigation">			
+							<div class="navbar-collapse collapse">
+								<ul class="nav navbar-nav">
+									<li><a href="//www.culturalindia.net/jewellery/index.html">Jewelry</a></li>
+									<li><a href="//www.culturalindia.net/monuments/index.html">Monuments</a></li>
+									<li><a href="//www.culturalindia.net/indian-history/index.html">History</a></li>
+									<li><a href="//www.culturalindia.net/weddings/index.html">Indian Weddings</a></li>
+									<li><a href="//www.culturalindia.net/indian-art/index.html">Indian Art</a></li>
+									<li><a href="//www.culturalindia.net/indian-dance/index.html">Dances</a></li>
+									<li><a href="//learn.culturalindia.net/social-cause">Social Issues</a></li>
+								</ul>
+								<div class="clear"></div>   
+							</div><!--/.nav-collapse -->
+						</div><!-- /navigation -->
+					</div> <!-- menu_container -->
+				</div> <!-- mobile-navigation-row -->
+
+			</div><!-- header -->
+		</div><!-- header_container mini_header fixed_area -->
+		 
+		<div class="header-buzz-recent-articles">
+		
+		
+				<div class="col-xs-12 col-sm-12 col-lg-6">
+					<div class="item-image">
+						<a href="https://learn.culturalindia.net/social-media-influences-indian-culture.html" title="Social Media Influences On Indian Culture"> 
+							<img src="https://learn.culturalindia.net/wp-content/uploads/2024/04/social-media.jpg" class="img-responsive">
+						</a>
+						<div class="slider_content_box">
+							<h2>
+								<a href="https://learn.culturalindia.net/social-media-influences-indian-culture.html" title="Social Media Influences On Indian Culture">Social Media Influences On Indian Culture</a>
+							</h2>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-xs-12 col-lg-6 header-buzz-recent-articles-right">
+					
+					<div class="col-xs-12 col-sm-6 col-lg-6">
+						<div class="item-image">
+							<a href="https://learn.culturalindia.net/exploring-rich-tapestry-indian-cuisine-culinary-journey.html" title="Exploring the Rich Tapestry of Indian Cuisine: A Culinary Journey"> 
+								<img src="https://learn.culturalindia.net/wp-content/uploads/2024/04/indian-cuisine.jpg" class="img-responsive">
+							</a>
+							<div class="slider_content_box slider_content_box2">
+								<h5>
+									<a href="https://learn.culturalindia.net/exploring-rich-tapestry-indian-cuisine-culinary-journey.html" title="Exploring the Rich Tapestry of Indian Cuisine: A Culinary Journey">Exploring the Rich Tapestry of Indian Cuisine: A Culinary Journey</a>
+								</h5>
+							</div>
+						</div>
+					</div>				
+					
+					<div class="col-xs-12 col-sm-6 col-lg-6">
+						<div class="item-image">
+							<a href="https://learn.culturalindia.net/tiger-conservation-india-challenges-strategies-achievements.html" title="Tiger Conservation in India: Challenges, Strategies, and Achievements"> 
+								<img src="https://learn.culturalindia.net/wp-content/uploads/2024/03/tiger-conservation.jpg" class="img-responsive">
+							</a>
+							<div class="slider_content_box slider_content_box2">
+								<h5>
+									<a href="https://learn.culturalindia.net/tiger-conservation-india-challenges-strategies-achievements.html" title="Tiger Conservation in India: Challenges, Strategies, and Achievements">Tiger Conservation in India: Challenges, Strategies, and Achievements</a>
+								</h5>
+							</div>
+						</div>
+					</div>				
+					
+					<div class="col-xs-12 col-sm-6 col-lg-6">
+						<div class="item-image">
+							<a href="https://learn.culturalindia.net/freida-pinto.html" title="Freida Pinto"> 
+								<img src="https://learn.culturalindia.net/wp-content/uploads/2020/07/freida-pinto-og.jpg" class="img-responsive">
+							</a>
+							<div class="slider_content_box slider_content_box2">
+								<h5>
+									<a href="https://learn.culturalindia.net/freida-pinto.html" title="Freida Pinto">Freida Pinto</a>
+								</h5>
+							</div>
+						</div>
+					</div>				
+					
+					<div class="col-xs-12 col-sm-6 col-lg-6">
+						<div class="item-image">
+							<a href="https://learn.culturalindia.net/noor-inayat-khan.html" title="Noor Inayat Khan"> 
+								<img src="https://learn.culturalindia.net/wp-content/uploads/2019/03/noor_inayat_khan.jpg" class="img-responsive">
+							</a>
+							<div class="slider_content_box slider_content_box2">
+								<h5>
+									<a href="https://learn.culturalindia.net/noor-inayat-khan.html" title="Noor Inayat Khan">Noor Inayat Khan</a>
+								</h5>
+							</div>
+						</div>
+					</div>				
+									</div>				
+		</div>
+
+
+		<div class="container">
+			<div style="clear:both;"></div>
+
+			<h4 class="big_sec_heading color2"><a href="//learn.culturalindia.net/jewellery">Jewellery</a></h4>
+			<div class="header-buzz-recent-articles">
+			
+			
+					<div class="col-xs-12 col-sm-12 col-lg-8">
+						<div class="item-image">
+							<a href="https://learn.culturalindia.net/20-tips-choosing-bridal-jewelry.html" title="20 Tips For Choosing Your Bridal Jewelry"> 
+								<img src="https://learn.culturalindia.net/wp-content/uploads/2016/11/bridal-jewelry-1-1.jpg" class="img-responsive">
+							</a>
+							<div class="slider_content_box">
+								<h2>
+									<a href="https://learn.culturalindia.net/20-tips-choosing-bridal-jewelry.html" title="20 Tips For Choosing Your Bridal Jewelry">20 Tips For Choosing Your Bridal Jewelry</a>
+								</h2>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12 col-xs-12 col-lg-4">
+							
+						<div class="col-xs-12 col-sm-6 col-lg-12 header-buzz-recent-articles-right">
+							<div class="item-image">
+								<a href="https://learn.culturalindia.net/10-hottest-bollywood-jewelry-trends-every-indian-bride-must-check-out-this-wedding-season.html" title="10 Hottest Bollywood Jewelry Trends Every Indian Bride Must Check Out This Wedding Season"> 
+									<img src="https://learn.culturalindia.net/wp-content/uploads/2016/11/bollywood-jewelry-0.jpg" class="img-responsive">
+								</a>
+								<div class="slider_content_box slider_content_box2">
+									<h5>
+										<a href="https://learn.culturalindia.net/10-hottest-bollywood-jewelry-trends-every-indian-bride-must-check-out-this-wedding-season.html" title="10 Hottest Bollywood Jewelry Trends Every Indian Bride Must Check Out This Wedding Season">10 Hottest Bollywood Jewelry Trends Every Indian Bride Must Check Out This Wedding Season</a>
+									</h5>
+								</div>
+							</div>
+						</div>				
+							
+						<div class="col-xs-12 col-sm-6 col-lg-12 header-buzz-recent-articles-right">
+							<div class="item-image">
+								<a href="https://learn.culturalindia.net/all-about-beads-and-indian-bead-jewelry.html" title="All About Beads and Indian Bead Jewelry"> 
+									<img src="https://learn.culturalindia.net/wp-content/uploads/2016/11/indian-bead-jewelry-0.jpg" class="img-responsive">
+								</a>
+								<div class="slider_content_box slider_content_box2">
+									<h5>
+										<a href="https://learn.culturalindia.net/all-about-beads-and-indian-bead-jewelry.html" title="All About Beads and Indian Bead Jewelry">All About Beads and Indian Bead Jewelry</a>
+									</h5>
+								</div>
+							</div>
+						</div>				
+				</div><div class="col-xs-12 col-xs-12 col-lg-12 recent-articles-3-column">								</div>
+			</div>
+			<div style="margin-bottom:5px;margin-top:5px;">
+				<!-- Ezoic - CulturalDynamicTopOld-ezoic - top_of_page -->
+				<div id="ezoic-pub-ad-placeholder-100">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="6f96369f1afd800ff02b8616-text/javascript"></script>
+					<!-- CulturalDynamicTopOld -->
+					<ins class="adsbygoogle"
+					     style="display:block"
+					     data-ad-client="ca-pub-0023073267844535"
+					     data-ad-slot="4952328760"
+					     data-ad-format="auto"></ins>
+					<script type="6f96369f1afd800ff02b8616-text/javascript">
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+				</div>
+				<!-- End Ezoic - CulturalDynamicTopOld-ezoic - top_of_page -->
+			</div>
+			<h4 class="big_sec_heading color3"><a href="//learn.culturalindia.net/social-cause">Social Causes</a></h4>
+			<div class="header-buzz-recent-articles">
+			
+			
+					<div class="col-xs-12 col-sm-12 col-lg-8">
+						<div class="item-image">
+							<a href="https://learn.culturalindia.net/what-is-the-custom-of-sati.html" title="What Is the Custom of Sati?"> 
+								<img src="https://learn.culturalindia.net/wp-content/uploads/2019/03/800px-sati_ceremony.jpg" class="img-responsive">
+							</a>
+							<div class="slider_content_box">
+								<h2>
+									<a href="https://learn.culturalindia.net/what-is-the-custom-of-sati.html" title="What Is the Custom of Sati?">What Is the Custom of Sati?</a>
+								</h2>
+							</div>
+						</div>
+					</div>
+					<div class="col-xs-12 col-xs-12 col-lg-4">
+							
+						<div class="col-xs-12 col-sm-6 col-lg-12 header-buzz-recent-articles-right">
+							<div class="item-image">
+								<a href="https://learn.culturalindia.net/swachh-bharat-abhiyan.html" title="Swachh Bharat Abhiyan"> 
+									<img src="https://learn.culturalindia.net/wp-content/uploads/2018/05/dqmcjtk3fbworlgwiqoprlyg2r372udqskxyu83numznk6n.jpg" class="img-responsive">
+								</a>
+								<div class="slider_content_box slider_content_box2">
+									<h5>
+										<a href="https://learn.culturalindia.net/swachh-bharat-abhiyan.html" title="Swachh Bharat Abhiyan">Swachh Bharat Abhiyan</a>
+									</h5>
+								</div>
+							</div>
+						</div>				
+							
+						<div class="col-xs-12 col-sm-6 col-lg-12 header-buzz-recent-articles-right">
+							<div class="item-image">
+								<a href="https://learn.culturalindia.net/caste-system-in-india.html" title="Caste System in India"> 
+									<img src="https://learn.culturalindia.net/wp-content/uploads/2018/05/39720184_7.jpg" class="img-responsive">
+								</a>
+								<div class="slider_content_box slider_content_box2">
+									<h5>
+										<a href="https://learn.culturalindia.net/caste-system-in-india.html" title="Caste System in India">Caste System in India</a>
+									</h5>
+								</div>
+							</div>
+						</div>				
+				</div><div class="col-xs-12 col-xs-12 col-lg-12 recent-articles-3-column">					
+						<div class="col-xs-12 col-sm-6 col-lg-4  recent-article-4">
+							<div class="item-image">
+								<a href="https://learn.culturalindia.net/brief-history-british-east-india-company-essay.html" title="A Brief History of the British East India Company"> 
+									<img src="https://learn.culturalindia.net/wp-content/uploads/2016/12/british-east-india-company-3.jpg" class="img-responsive">
+								</a>
+								<div class="slider_content_box slider_content_box2">
+									<h5>
+										<a href="https://learn.culturalindia.net/brief-history-british-east-india-company-essay.html" title="A Brief History of the British East India Company">A Brief History of the British East India Company</a>
+									</h5>
+								</div>
+							</div>
+						</div>
+									
+						<div class="col-xs-12 col-sm-6 col-lg-4  recent-article-5">
+							<div class="item-image">
+								<a href="https://learn.culturalindia.net/non-cooperation-movement-history-causes-result-importance.html" title="Non-Cooperation Movement History: Causes, Result and Importance"> 
+									<img src="https://learn.culturalindia.net/wp-content/uploads/2016/12/7059775_orig.jpg" class="img-responsive">
+								</a>
+								<div class="slider_content_box slider_content_box2">
+									<h5>
+										<a href="https://learn.culturalindia.net/non-cooperation-movement-history-causes-result-importance.html" title="Non-Cooperation Movement History: Causes, Result and Importance">Non-Cooperation Movement History: Causes, Result and Importance</a>
+									</h5>
+								</div>
+							</div>
+						</div>
+									
+						<div class="col-xs-12 col-sm-6 col-lg-4  recent-article-6">
+							<div class="item-image">
+								<a href="https://learn.culturalindia.net/essay-women-empowerment-meaning-important.html" title="Women Empowerment: It’s Meaning and Why Is It Important"> 
+									<img src="https://learn.culturalindia.net/wp-content/uploads/2016/12/women.jpeg" class="img-responsive">
+								</a>
+								<div class="slider_content_box slider_content_box2">
+									<h5>
+										<a href="https://learn.culturalindia.net/essay-women-empowerment-meaning-important.html" title="Women Empowerment: It’s Meaning and Why Is It Important">Women Empowerment: It’s Meaning and Why Is It Important</a>
+									</h5>
+								</div>
+							</div>
+						</div>
+												</div>
+			</div>
+			</div>
+			<div style="margin-bottom:5px;margin-top:5px;">
+				<!-- Ezoic - CulturalDynamicTopOld-ezoic - top_of_page -->
+				<div id="ezoic-pub-ad-placeholder-100">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="6f96369f1afd800ff02b8616-text/javascript"></script>
+					<!-- CulturalDynamicTopOld -->
+					<ins class="adsbygoogle"
+					     style="display:block"
+					     data-ad-client="ca-pub-0023073267844535"
+					     data-ad-slot="4952328760"
+					     data-ad-format="auto"></ins>
+					<script type="6f96369f1afd800ff02b8616-text/javascript">
+					(adsbygoogle = window.adsbygoogle || []).push({});
+					</script>
+				</div>
+				<!-- End Ezoic - CulturalDynamicTopOld-ezoic - top_of_page -->
+			</div>
+			<div class="container" style="text-align: justify;">
+			<div style="clear:both;"></div>
+
+			The culture of India is one of the oldest and unique. In India, there is amazing cultural diversity throughout the country. The South, North, and Northeast have their own distinct cultures and almost every state has carved out its own cultural niche. There is hardly any culture in the world that is as varied and unique as India. India is a vast country, having variety of geographical features and climatic conditions. India is home to some of the most ancient civilizations, including four major world religions, Hinduism, Buddhism, Jainism and Sikhism.
+			<br /><br />
+			A combination of these factors has resulted into an exclusive culture- Indian culture. Indian culture is a composite mixture of varying styles and influences. In the matter of cuisine, for instance, the North and the South are totally different. Festivals in India are characterized by color, gaiety, enthusiasm, prayers and rituals. In the realm of music, there are varieties of folk, popular, pop, and classical music. The classical tradition of music in India includes the Carnatic and the Hindustani music.
+			<div style="clear:both;"></div>
+
+
+			</div>
+	</div> <!-- site_container -->
+	<footer class="footer">
+	<ul class="list-inline footer1"  style="border-bottom: 1px solid #464D53;text-align: justify;">
+		<li><a href="/leaders/index.html">Leaders</a></li>
+		<li><a href="/reformers/index.html">Reformers</a></li>
+		<li><a href="/indian-clothing/index.html">Indian Clothing</a></li>
+		<li><a href="/indian-food/index.html">Indian Food</a></li>
+		<li><a href="/indian-architecture/index.html">Indian Architecture</a></li>
+		<li><a href="/indian-crafts/index.html">Indian Crafts</a></li>
+		<li><a href="/indian-crafts/precious-stones/index.html">Precious Stones</a></li>
+		<li><a href="/indian-cinema/index.html">Indian Cinema</a></li>
+		<li><a href="/indian-forts/index.html">Indian Forts</a></li>
+		<li><a href="/indian-pilgrimage/index.html">Indian Pilgrimage</a></li>
+		<li><a href="/indian-religions/index.html">Indian Religions</a></li>
+		<li><a href="/national-symbols/index.html">National Symbols</a></li>
+		<li><a href="/indian-temples/index.html">Temples in India</a></li>		
+		<li><a href="/indian-folktales/index.html">Indian Folktales</a></li>
+		<li><a href="/indian-music/index.html">Indian Music</a></li>
+		<li><a href="http://tamil.culturalindia.net/">Indian Culture (In Tamil)</a></li>
+		<li><a href="http://hindi.culturalindia.net/">Indian Culture (In Hindi)</a></li>
+		<li><a href="//learn.culturalindia.net/">Learn</a></li>
+	</ul>
+	<ul class="list-inline" style="text-align: center;">	
+		<li><p style="margin: 0 0 0px;color:white;">Copyright &copy; <a href="//www.culturalindia.net/"><strong>CulturalIndia.net</strong></a>&nbsp;&nbsp;&nbsp;All Rights Reserved.&nbsp;<a href="//www.culturalindia.net/privacy-policy.html">Privacy Policy</a></p></li>
+	</ul>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="6f96369f1afd800ff02b8616-text/javascript"></script>
+<script type="6f96369f1afd800ff02b8616-text/javascript" src="/responsive/js/bootstrap.min.js"></script>
+<script type="6f96369f1afd800ff02b8616-text/javascript">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-30214700-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script type="6f96369f1afd800ff02b8616-text/javascript">
+		var jqc = jQuery.noConflict();
+		var jql = jQuery.noConflict();
+		var jqfilter = jQuery.noConflict(); 
+		 
+	</script>
+
+ 
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="6f96369f1afd800ff02b8616-|49" defer></script></body>
+</html>

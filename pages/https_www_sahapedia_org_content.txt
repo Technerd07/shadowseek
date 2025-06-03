@@ -1,0 +1,1352 @@
+Content from: https://www.sahapedia.org
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Sahapedia is an open online resource on the arts, cultures and heritage of India. ‘Saha’ (Sanskrit for ‘together with’), is an invitation to explore together the richness of the Indian cultural landscape." />
+<meta name="abstract" content="Sahapedia is an open online resource on the arts, cultures and heritage of India. ‘Saha’ (Sanskrit for ‘together with’), is an invitation to explore together the richness of the Indian cultural landscape." />
+<meta name="keywords" content="Sahapedia,India,Culture,Heritage,Arts,Architecture,Knowledge systems,Oral traditions,History,Built heritage,Performing arts,Arts and crafts,Literature and languages,Natural heritage,Culinary traditions,Film,Museums,institutions,Cultural practices" />
+<link rel="canonical" href="http://www.sahapedia.org/" />
+<link rel="shortlink" href="http://www.sahapedia.org/" />
+<meta property="og:site_name" content="Sahapedia" />
+<meta property="og:type" content="Basic page" />
+<meta property="og:title" content="Sahapedia | An open online resource on the arts, cultures and heritage of India" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<link rel="icon" href="/sites/default/files/logo_small.jpg" type="image/jpeg" />
+
+    <title>Sahapedia | An open online resource on the arts, cultures and heritage of India</title>
+    <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/misc/components/progress.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/misc/components/ajax-progress.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/core/modules/views/css/views.module.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/modules/custom/sahapedia_custom/css/sahapedia.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/libraries/owlcarousel2/dist/assets/owl.carousel.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/libraries/owlcarousel2/dist/assets/owl.theme.default.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/modules/contrib/owlcarousel/lib/owl-carousel/owl.transitions.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/modules/custom/custom_login_register/css/custom_login_register.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/libraries/bootstrap/css/bootstrap.min.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/variables.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/user.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/progress.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/node.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/affix.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/book.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/contextual.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/feed-icon.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/field.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/header.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/help.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/icons.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/image-button.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/item-list.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/list-group.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/media.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/page.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/search-form.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/shortcut.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/sidebar.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/site-footer.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/skip-link.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/table.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/tabledrag.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/tableselect.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/tablesort-indicator.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/ui.widget.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/tabs.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/toolbar.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/vertical-tabs.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/views.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/webform.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/ui-dialog.css?swr7nv" />
+<link rel="stylesheet" media="all" href="//stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" />
+<link rel="stylesheet" media="all" href="/themes/custom/sahapedia/css/style.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/custom/sahapedia/css/colors.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/custom/sahapedia/css/responsive.css?swr7nv" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap_barrio/css/components/form.css?swr7nv" />
+<link rel="stylesheet" media="print" href="/themes/contrib/bootstrap_barrio/css/print.css?swr7nv" />
+
+    
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,500,600,700|IBM+Plex+Mono:300,400,500,600,700|IBM+Plex+Sans:300,400,500,600,700" rel="stylesheet"> 
+<!-- FB Instant Article -->
+<meta property="fb:pages" content="128672614002154" />
+<meta charset="UTF-8">
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PT7D2JWG');</script>
+<!-- End Google Tag Manager -->
+
+    <!-- Hotjar Tracking Code for https://www.sahapedia.org/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:748049,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+  </head>
+  <body class="role-anonymous layout-no-sidebars page-node-8307 path-frontpage node--type-page">
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PT7D2JWG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div id="page-wrapper">
+  <div id="page">
+    <header id="header" class="header" role="banner" aria-label="Site header">
+        
+
+
+        <nav id="navbar-main" class="navbar navbar-dark navbar-expand-sm">
+            <div class="row" class="sp-topbar-one">
+
+              <div class="col-6 col-sm-3 col-md-3  sp-logo">
+                      <a href="/" title="Home" rel="home" class="navbar-brand">
+            Sahapedia
+    </a>
+    
+
+              </div>
+
+             <div class="col-3 col-sm-6 col-md-6 sp-search-block">
+              <!--<a href="https://map.sahapedia.org/search/?keyword=&amp;type=all&amp;lang=" target="_blank" style="
+    display: block;
+    width: 95%;
+    height: 60px;
+    line-height: 1;
+    position: absolute;
+    z-index: 99;
+"> </a>-->
+                <div class="row">
+                  <div class="col-12">
+                  <a class="navbar-toggler navbar-toggler-right" data-toggle="collapse" data-target="#CollapsingNavbar" aria-controls="CollapsingNavbar" aria-expanded="false" aria-label="Toggle navigation"><img src="/themes/custom/sahapedia/images/search-icon.png"></a>
+                  </div>
+                </div>
+                <div class="collapse navbar-collapse" id="CollapsingNavbar">
+                  <div class="row">
+                    <div class="col-12">
+                      <div class="form-inline navbar-form sp-searchbar">
+                          <section class="row region region-header-form">
+    <div class="views-exposed-form block block-views block-views-exposed-filter-blocksahapedia-solar-search-page-1" data-drupal-selector="views-exposed-form-sahapedia-solar-search-page-1" id="block-sahapedia-exposedformsahapedia-solar-searchpage-1">
+  
+    
+      <div class="content">
+      
+<form action="/search/content" method="get" id="views-exposed-form-sahapedia-solar-search-page-1" accept-charset="UTF-8">
+  <div class="d-flex flex-wrap">
+  
+
+
+
+
+
+  <div class="js-form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-keyword form-item-keyword form-no-label mb-3">
+                    <input placeholder="keyword" data-drupal-selector="edit-keyword" type="text" id="edit-keyword" name="keyword" value="" size="30" maxlength="128" class="form-control" />
+
+                      </div>
+
+
+
+
+
+
+  <div class="js-form-item js-form-type-select form-type-select js-form-item-type form-item-type mb-3">
+          <label for="edit-type">Content type</label>
+                    
+<select data-drupal-selector="edit-type" id="edit-type" name="type" class="form-select"><option value="All" selected="selected">- Any -</option><option value="about_us">About us</option><option value="article">Article</option><option value="audio_track">Audio</option><option value="bibliography">Bibliography</option><option value="imagegallery">Image Gallery</option><option value="interview">Interview</option><option value="library_artifacts">Library Artifacts</option><option value="module">Module</option><option value="overview_article">Overview</option><option value="page">Basic page</option><option value="projects">Projects</option><option value="quickfacts">Quick Facts</option><option value="slider_banners">Slider Banners</option><option value="timeline_date">Timeline</option><option value="timrline">TimeLine</option><option value="video">Video</option><option value="virtual_tours">Virtual Tours</option></select>
+                      </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper mb-3" id="edit-actions"><button data-drupal-selector="edit-submit-sahapedia-solar-search" type="submit" id="edit-submit-sahapedia-solar-search" value="Apply" class="button js-form-submit form-submit btn btn-">Apply</button>
+</div>
+
+</div>
+
+</form>
+
+    </div>
+  </div>
+
+  </section>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="col-3 col-sm-3 col-md-3 sp-user-menu">
+                <div class="row">
+                  <div class="col-12">
+                    <div id="block-userloginlink" class="block block-custom-login-register block-user-login-link-block">
+  
+    
+      <div class="content">
+      <nav class="navbar navbar-inverse"><ul class="clearfix nav navbar-nav"><a href="/user/login" class="use-ajax nav-link" data-dialog-type="modal" data-dialog-options="{&quot;width&quot;:800,&quot;height&quot;:500}"><img src="/themes/custom/sahapedia/images/user-icon.png"></a> </ul></nav>
+    </div>
+  </div>
+
+
+                  </div>
+                </div>
+              </div>
+              </div>
+            </div> 
+        </nav>
+
+<div class="container-fluid sp-topbar-two">
+<div class="row no-gutters">
+    <div class="col-6 submenu-block-left-wrapper">
+      <a data-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">Explore</a>
+      <div class="collapse submenu-block-left" id="multiCollapseExample1">
+                  <div class="container">
+                <section class="row region region-top-nav-one">
+    <nav role="navigation" aria-labelledby="block-domains-menu" id="block-domains" class="block block-menu navigation menu--domains">
+      
+  <h2 id="block-domains-menu">Domains</h2>
+  
+
+        
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/domains/knowledge-traditions" class="nav-link nav-link--domains-knowledge-traditions" data-drupal-link-system-path="taxonomy/term/10">Knowledge Traditions</a>
+              </li>
+                <li class="nav-item">
+                <a href="/domains/visual-and-material-arts" class="nav-link nav-link--domains-visual-and-material-arts" data-drupal-link-system-path="taxonomy/term/30">Visual and Material Arts</a>
+              </li>
+                <li class="nav-item">
+                <a href="/domains/performing-arts" class="nav-link nav-link--domains-performing-arts" data-drupal-link-system-path="taxonomy/term/15">Performing Arts</a>
+              </li>
+                <li class="nav-item">
+                <a href="/domains/literature-and-languages" class="nav-link nav-link--domains-literature-and-languages" data-drupal-link-system-path="taxonomy/term/11">Literature and Languages</a>
+              </li>
+                <li class="nav-item">
+                <a href="/domains/practices-and-rituals" class="nav-link nav-link--domains-practices-and-rituals" data-drupal-link-system-path="taxonomy/term/31">Practices and Rituals</a>
+              </li>
+                <li class="nav-item">
+                <a href="/domains/histories" class="nav-link nav-link--domains-histories" data-drupal-link-system-path="taxonomy/term/9">Histories</a>
+              </li>
+                <li class="nav-item">
+                <a href="/domains/institutions" class="nav-link nav-link--domains-institutions" data-drupal-link-system-path="taxonomy/term/32">Institutions</a>
+              </li>
+                <li class="nav-item">
+                <a href="/domains/people" class="nav-link nav-link--domains-people" data-drupal-link-system-path="taxonomy/term/49">People</a>
+              </li>
+                <li class="nav-item">
+                <a href="/domains/built-spaces" class="nav-link nav-link--domains-built-spaces" data-drupal-link-system-path="taxonomy/term/3">Built Spaces</a>
+              </li>
+                <li class="nav-item">
+                <a href="/domains/natural-environment" class="nav-link nav-link--domains-natural-environment" data-drupal-link-system-path="taxonomy/term/13">Natural Environment</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-infocus-menu" id="block-infocus" class="block block-menu navigation menu--in-focus">
+      
+  <h2 id="block-infocus-menu">In Focus</h2>
+  
+
+        
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/my-city-my-heritage" class="nav-link nav-link--my-city-my-heritage" data-drupal-link-system-path="node/9844">My City My Heritage</a>
+              </li>
+                <li class="nav-item">
+                <a href="http://map.sahapedia.org/" class="nav-link nav-link-http--mapsahapediaorg-">map.sahapedia.org</a>
+              </li>
+                <li class="nav-item">
+                <a href="/chhattisgarh-heritage" class="nav-link nav-link--chhattisgarh-heritage" data-drupal-link-system-path="node/7303">Chhattisgarh</a>
+              </li>
+                <li class="nav-item">
+                <a href="/samvad" class="nav-link nav-link--samvad" data-drupal-link-system-path="node/704">Samvad</a>
+              </li>
+                <li class="nav-item">
+                <a href="/rashtrapati-bhavan" class="nav-link nav-link--rashtrapati-bhavan" data-drupal-link-system-path="node/867">Rashtrapati Bhavan</a>
+              </li>
+                <li class="nav-item">
+                <a href="/saha-sutra" class="nav-link nav-link--saha-sutra" data-drupal-link-system-path="node/8953">Saha Sutra</a>
+              </li>
+                <li class="nav-item">
+                <a href="/world-heritage-sites-india" class="nav-link nav-link--world-heritage-sites-india" data-drupal-link-system-path="node/792">World Heritage in India</a>
+              </li>
+                <li class="nav-item">
+                <a href="/museums-india" class="nav-link nav-link--museums-india" data-drupal-link-system-path="node/8887">Museums of India® </a>
+              </li>
+                <li class="nav-item">
+                <a href="/bhakti-sufi-traditions" class="nav-link nav-link--bhakti-sufi-traditions" data-drupal-link-system-path="node/9869">Bhakti &amp; Sufi Traditions</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-language-menu" id="block-language" class="block block-menu navigation menu--language">
+      
+  <h2 id="block-language-menu">Languages</h2>
+  
+
+        
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/lang/bengali" class="nav-link nav-link--lang-bengali" data-drupal-link-system-path="taxonomy/term/12320">বাংলা Bengali</a>
+              </li>
+                <li class="nav-item">
+                <a href="/lang/malayalam" class="nav-link nav-link--lang-malayalam" data-drupal-link-system-path="taxonomy/term/12321">മലയാളം Malayalam</a>
+              </li>
+                <li class="nav-item">
+                <a href="/lang/chhattisgarhi" class="nav-link nav-link--lang-chhattisgarhi" data-drupal-link-system-path="taxonomy/term/12322">छत्तीसगढ़ी Chhattisgarhi</a>
+              </li>
+                <li class="nav-item">
+                <a href="/lang/marathi" class="nav-link nav-link--lang-marathi" data-drupal-link-system-path="taxonomy/term/12323">मराठी Marathi</a>
+              </li>
+                <li class="nav-item">
+                <a href="/lang/urdu" class="nav-link nav-link--lang-urdu" data-drupal-link-system-path="taxonomy/term/12324">اُردُو Urdu</a>
+              </li>
+                <li class="nav-item">
+                <a href="/lang/tamil" class="nav-link nav-link--lang-tamil" data-drupal-link-system-path="taxonomy/term/12325">தமிழ் Tamil</a>
+              </li>
+                <li class="nav-item">
+                <a href="/lang/hindi" class="nav-link nav-link--lang-hindi" data-drupal-link-system-path="taxonomy/term/12326">हिन्दी Hindi</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+          </div>
+              </div>
+    </div>
+    <div class="col-6 submenu-block-right-wrapper">
+      <a data-toggle="collapse" href="#multiCollapseExample2" role="button" aria-expanded="false" aria-controls="multiCollapseExample2">Programmes</a>
+      <div class="collapse submenu-block-right" id="multiCollapseExample2">
+                  <div class="container">
+                <section class="row region region-top-nav-two">
+    <nav role="navigation" aria-labelledby="block-fellowshipsgrants-menu" id="block-fellowshipsgrants" class="block block-menu navigation menu--fellowships-grants">
+      
+  <h2 id="block-fellowshipsgrants-menu">Fellowships &amp; Grants</h2>
+  
+
+        
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/sahapedia-unesco-fellowship" class="nav-link nav-link--sahapedia-unesco-fellowship" data-drupal-link-system-path="node/5699">Sahapedia-UNESCO Fellowship</a>
+              </li>
+                <li class="nav-item">
+                <a href="/sahapedia-frames" class="nav-link nav-link--sahapedia-frames" data-drupal-link-system-path="node/8947">Sahapedia Frames Photography Grant</a>
+              </li>
+                <li class="nav-item">
+                <a href="/sahapedia-explore-fellowship" class="nav-link nav-link--sahapedia-explore-fellowship" data-drupal-link-system-path="node/9263">Sahapedia Explore Fellowship</a>
+              </li>
+                <li class="nav-item">
+                <a href="/sahapedia-film-fellowship" class="nav-link nav-link--sahapedia-film-fellowship" data-drupal-link-system-path="node/9694">Sahapedia Film Fellowship</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-activities-menu" id="block-activities" class="block block-menu navigation menu--activities">
+      
+  <h2 id="block-activities-menu">Activities</h2>
+  
+
+        
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/sahapedia-experiences" class="nav-link nav-link--sahapedia-experiences" data-drupal-link-system-path="node/8881">Heritage Experiences</a>
+              </li>
+                <li class="nav-item">
+                <a href="/baithak" class="nav-link nav-link--baithak" data-drupal-link-system-path="node/8882">Baithaks</a>
+              </li>
+                <li class="nav-item">
+                <a href="/conferences" class="nav-link nav-link--conferences" data-drupal-link-system-path="node/8884">Conferences</a>
+              </li>
+                <li class="nav-item">
+                <a href="/workshops" class="nav-link nav-link--workshops" data-drupal-link-system-path="node/8883">Workshops</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-festivals-menu" id="block-festivals" class="block block-menu navigation menu--festivals">
+      
+  <h2 id="block-festivals-menu">Festivals</h2>
+  
+
+        
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/culture-for-all" class="nav-link nav-link--culture-for-all" data-drupal-link-system-path="node/9693">Culture For All</a>
+              </li>
+                <li class="nav-item">
+                <a href="/india-heritage-walk-festival" class="nav-link nav-link--india-heritage-walk-festival" data-drupal-link-system-path="node/8885">India Heritage Walk Festival</a>
+              </li>
+                <li class="nav-item">
+                <a href="/kutiyattam-surpanakhankam" class="nav-link nav-link--kutiyattam-surpanakhankam" data-drupal-link-system-path="node/8886">Kutiyattam - Surpanakhankam</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+          </div>
+              </div>
+    </div>
+</div>
+</div>
+    </header>
+          <div class="highlighted">
+        <aside class="container section clearfix" role="complementary">
+            <div data-drupal-messages-fallback class="hidden"></div>
+
+
+        </aside>
+      </div>
+            <div id="main-wrapper" class="layout-main-wrapper clearfix">
+      
+          <div class="container-fluid content-related-top">
+            <div class="row">
+            			            </div>
+          </div>
+      
+
+      
+      
+
+
+
+                <div class="container-fluid">
+                <section class="row region region-content-top">
+    <div class="views-element-container block block-views block-views-blockfront-page-slider-block-1" id="block-views-block-front-page-slider-block-1">
+  
+    
+      <div class="content">
+      <div><div class="view view-front-page-slider view-id-front_page_slider view-display-id-block_1 js-view-dom-id-9807abcc48cedfc526b5b524eb7d4417af56e709ebe84b14f75fa8178fcb5be4">
+  
+    
+      
+      <div class="view-content row">
+      <div data-settings="{&quot;grouping&quot;:{},&quot;row_class&quot;:&quot;&quot;,&quot;default_row_class&quot;:true,&quot;uses_fields&quot;:false,&quot;items&quot;:1,&quot;margin&quot;:0,&quot;nav&quot;:false,&quot;autoplay&quot;:false,&quot;autoplayHoverPause&quot;:false,&quot;loop&quot;:false,&quot;dots&quot;:true,&quot;dimensionMobile&quot;:&quot;0&quot;,&quot;itemsMobile&quot;:&quot;1&quot;,&quot;dimensionDesktop&quot;:&quot;0&quot;,&quot;itemsDesktop&quot;:&quot;1&quot;}" class="owl-slider-wrapper owl-carousel owl-theme">
+  
+      <div><div class="views-field views-field-nothing-1"><span class="field-content"><div class="slider-block">
+<div class="slider-block-image"><a href="https://www.sahapedia.org/sunil-kothari-reminisces-his-trysts-odissi">  <img loading="lazy" src="/sites/default/files/2025-05/banner1.jpg" width="1800" height="800" alt="banner" typeof="Image" />
+
+ </a></div>
+<div class="slider-block-caption">
+<div class="slider-block-author">Dr Sunil Kothari  </div>
+<div class="slider-block-title"><a href="https://www.sahapedia.org/sunil-kothari-reminisces-his-trysts-odissi">Sunil Kothari Reminisces His Trysts with Odissi</a> </div>
+<div class="slider-block-domains"><a href="/domains/performing-arts" hreflang="en">Performing Arts</a> </div>
+</div>
+</div></span></div></div>
+      <div><div class="views-field views-field-nothing-1"><span class="field-content"><div class="slider-block">
+<div class="slider-block-image"><a href="https://www.sahapedia.org/understanding-buddhism-through-therigatha">  <img loading="lazy" src="/sites/default/files/2025-05/banner2.jpg" width="1800" height="800" alt="banner" typeof="Image" />
+
+ </a></div>
+<div class="slider-block-caption">
+<div class="slider-block-author">Aparna Sanyal   </div>
+<div class="slider-block-title"><a href="https://www.sahapedia.org/understanding-buddhism-through-therigatha">Understanding Buddhism Through the Therigatha</a> </div>
+<div class="slider-block-domains"><a href="/domains/knowledge-traditions" hreflang="en">Knowledge Traditions</a><a href="/domains/literature-and-languages" hreflang="en">Literature and Languages</a> </div>
+</div>
+</div></span></div></div>
+      <div><div class="views-field views-field-nothing-1"><span class="field-content"><div class="slider-block">
+<div class="slider-block-image"><a href="https://www.sahapedia.org/parbatipur-village-tress-makers-gods-and-goddesses">  <img loading="lazy" src="/sites/default/files/2025-05/banner3.jpg" width="1800" height="800" alt="banner" typeof="Image" />
+
+ </a></div>
+<div class="slider-block-caption">
+<div class="slider-block-author">Pritam Dutta   </div>
+<div class="slider-block-title"><a href="https://www.sahapedia.org/parbatipur-village-tress-makers-gods-and-goddesses">Parbatipur Village: Tress-makers of Gods and Goddesses</a> </div>
+<div class="slider-block-domains"><a href="/domains/visual-and-material-arts" hreflang="en">Visual and Material Arts</a> </div>
+</div>
+</div></span></div></div>
+      <div><div class="views-field views-field-nothing-1"><span class="field-content"><div class="slider-block">
+<div class="slider-block-image"><a href="https://www.sahapedia.org/oceans-crossroads">  <img loading="lazy" src="/sites/default/files/2025-05/banner4.jpg" width="1800" height="800" alt="banner" typeof="Image" />
+
+ </a></div>
+<div class="slider-block-caption">
+<div class="slider-block-author">Ullattil Manmadhan   </div>
+<div class="slider-block-title"><a href="https://www.sahapedia.org/oceans-crossroads">At the Ocean’s Crossroads</a> </div>
+<div class="slider-block-domains"><a href="/domains/histories" hreflang="en">Histories</a> </div>
+</div>
+</div></span></div></div>
+      <div><div class="views-field views-field-nothing-1"><span class="field-content"><div class="slider-block">
+<div class="slider-block-image"><a href="https://www.sahapedia.org/thousand-weddings-and-funeral-koovagam-festival-and-cult-aravan">  <img loading="lazy" src="/sites/default/files/2025-05/banner5.jpg" width="1800" height="800" alt="banner" typeof="Image" />
+
+ </a></div>
+<div class="slider-block-caption">
+<div class="slider-block-author">G. Pattabiraman   </div>
+<div class="slider-block-title"><a href="https://www.sahapedia.org/thousand-weddings-and-funeral-koovagam-festival-and-cult-aravan">Thousand Weddings and a Funeral: Koovagam Festival and Cult of Aravan</a> </div>
+<div class="slider-block-domains"><a href="/domains/practices-and-rituals" hreflang="en">Practices and Rituals</a> </div>
+</div>
+</div></span></div></div>
+      <div><div class="views-field views-field-nothing-1"><span class="field-content"><div class="slider-block">
+<div class="slider-block-image"><a href="https://www.sahapedia.org/royal-courts-modern-runways">  <img loading="lazy" src="/sites/default/files/2025-05/banner6.jpg" width="1800" height="800" alt="banner" typeof="Image" />
+
+ </a></div>
+<div class="slider-block-caption">
+<div class="slider-block-author">Isha Priya Singh   </div>
+<div class="slider-block-title"><a href="https://www.sahapedia.org/royal-courts-modern-runways">From Royal Courts to Modern Runways</a> </div>
+<div class="slider-block-domains"><a href="/domains/visual-and-material-arts" hreflang="en">Visual and Material Arts</a> </div>
+</div>
+</div></span></div></div>
+      <div><div class="views-field views-field-nothing-1"><span class="field-content"><div class="slider-block">
+<div class="slider-block-image"><a href="https://www.sahapedia.org/yoga-it-wasnt-always-about-asanas-and-fitness">  <img loading="lazy" src="/sites/default/files/2025-05/banner7.jpg" width="1800" height="800" alt="banner" typeof="Image" />
+
+ </a></div>
+<div class="slider-block-caption">
+<div class="slider-block-author">Shruti Chakraborty   </div>
+<div class="slider-block-title"><a href="https://www.sahapedia.org/yoga-it-wasnt-always-about-asanas-and-fitness">Yoga: It Wasn’t Always About Asanas and Fitness</a> </div>
+<div class="slider-block-domains"><a href="/domains/knowledge-traditions" hreflang="en">Knowledge Traditions</a><a href="/domains/practices-and-rituals" hreflang="en">Practices and Rituals</a> </div>
+</div>
+</div></span></div></div>
+  
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </section>
+
+          </div>
+      
+                <div class="container">
+                <section class="row region region-position-one">
+    <div class="views-element-container block block-views block-views-blockexplore-languages-block-1" id="block-views-block-explore-languages-block-1">
+  
+      <h2>Languages</h2>
+    
+      <div class="content">
+      <div><div class="view view-explore-languages view-id-explore_languages view-display-id-block_1 js-view-dom-id-534a7f3af8e45539b8cfd426e7d2e743f1faa519b61e291a443e28c6ac15ccc5">
+  
+    
+      
+      <div class="view-content row">
+          <div class="lang-button">
+    <a href="/lang/chhattisgarhi" hreflang="en">छत्तीसगढ़ी Chhattisgarhi</a>
+  </div>
+    <div class="lang-button">
+    <a href="/lang/tamil" hreflang="en">தமிழ் Tamil</a>
+  </div>
+    <div class="lang-button">
+    <a href="/lang/malayalam" hreflang="en">മലയാളം Malayalam</a>
+  </div>
+    <div class="lang-button">
+    <a href="/lang/hindi" hreflang="en">हिन्दी Hindi</a>
+  </div>
+    <div class="lang-button">
+    <a href="/lang/marathi" hreflang="en">मराठी Marathi</a>
+  </div>
+    <div class="lang-button">
+    <a href="/lang/urdu" hreflang="en">اُردُو Urdu</a>
+  </div>
+    <div class="lang-button">
+    <a href="/lang/bengali" hreflang="en">বাংলা Bengali</a>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockfeatured-module-on-home-page-block-1" id="block-views-block-featured-module-on-home-page-block-1">
+  
+      <h2>Topics</h2>
+    
+      <div class="content">
+      <div><div class="medium-gutters slide-by-touch view view-featured-module-on-home-page view-id-featured_module_on_home_page view-display-id-block_1 js-view-dom-id-19d414aaa0125d7cd315a41048d9798140ca53a283c81639f28afb042570fe21">
+  
+    
+      <div class="view-header">
+      <div class="view-all"><a href="/all-topics">+ View all</a></div>
+    </div>
+      
+      <div class="view-content row">
+          <div class="col-8 col-sm-6 col-md-4">
+    <div class="module-block">
+<div class="module-block-image"><a href="/sundarbans "><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/Landscape-3.jpg?itok=7869aBho " /></a></div>
+<div class="module-block-author">Sayantani Chatterjee</div>
+<div class="module-block-title"><a href="/sundarbans">Sundarbans</a> </div>
+<div class="module-block-domains"><a href="/domains/natural-environment" hreflang="en">Natural Environment</a></div>
+</div>
+  </div>
+    <div class="col-8 col-sm-6 col-md-4">
+    <div class="module-block">
+<div class="module-block-image"><a href="/riddle-madku-dweep-restorationconservationreconstruction "><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/madku%20dweep%20banner.jpg?itok=-0giVPXj " /></a></div>
+<div class="module-block-author"></div>
+<div class="module-block-title"><a href="/riddle-madku-dweep-restorationconservationreconstruction">The Riddle of Madku Dweep: Restoration/Conservation/Reco…</a> </div>
+<div class="module-block-domains"><a href="/domains/visual-and-material-arts" hreflang="en">Visual and Material Arts</a><a href="/domains/built-spaces" hreflang="en">Built Spaces</a></div>
+</div>
+  </div>
+    <div class="col-8 col-sm-6 col-md-4">
+    <div class="module-block">
+<div class="module-block-image"><a href="/chavittunatakam-maritime-dance-drama-of-kerala "><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/Banner%20Image.png?itok=kNKckSQV " /></a></div>
+<div class="module-block-author">Geetha K. Wilson </div>
+<div class="module-block-title"><a href="/chavittunatakam-maritime-dance-drama-of-kerala">Chavittunatakam: Maritime Dance Drama of Kerala</a> </div>
+<div class="module-block-domains"><a href="/domains/performing-arts" hreflang="en">Performing Arts</a></div>
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockfeatured-articles-block-4" id="block-views-block-featured-articles-block-4">
+  
+      <h2>Saha Sutra</h2>
+    
+      <div class="content">
+      <div><div class="medium-gutters slide-by-touch view view-featured-articles view-id-featured_articles view-display-id-block_4 js-view-dom-id-ae1cc90869529f3bc2b9a20c0ab16171eb6701f212c38b668ec5be2e992da7be">
+  
+    
+      <div class="view-header">
+      <div class="view-all"><a href="/saha-sutra">+ View all</a></div>
+    </div>
+      
+      <div class="view-content row">
+          <div class="col-12 col-sm-6 col-md-4">
+    <div class="article-block">
+<div class="article-block-image"><a href="/ganesh-chaturthi-and-carnatic-music"><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/Ganesha%20idol%203_sahapedia_Pixabay.jpg?itok=krm9MBiM " /></a></div>
+<div class="article-block-author">M.D. Muthukumaraswamy</div>
+<div class="article-block-title"><a href="/ganesh-chaturthi-and-carnatic-music" hreflang="und">Ganesh Chaturthi and Carnatic Music</a> </div>
+<div class="article-block-domains"><a href="/domains/knowledge-traditions" hreflang="en">Knowledge Traditions</a> <a href="/domains/performing-arts" hreflang="en">Performing Arts</a> <a href="/domains/practices-and-rituals" hreflang="en">Practices and Rituals</a></div>
+</div>
+  </div>
+    <div class="col-12 col-sm-6 col-md-4">
+    <div class="article-block">
+<div class="article-block-image"><a href="/who-was-mandodari-not-just-ravanas-wife"><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/Ravana%20with%20Mandodari%202_by%20Ramachandra%20Madhwa%20Mahishi%2C%20Illustrated%20by%20Balasaheb%20Pandit%20Pant%20Pratinidhi%20-%20Wikimedia%20Commons.jpg?itok=RIqefAB7 " /></a></div>
+<div class="article-block-author">Bhavana Pankaj</div>
+<div class="article-block-title"><a href="/who-was-mandodari-not-just-ravanas-wife" hreflang="en">Who was Mandodari? Not Just Ravana’s Wife</a> </div>
+<div class="article-block-domains"><a href="/domains/knowledge-traditions" hreflang="en">Knowledge Traditions</a> <a href="/domains/literature-and-languages" hreflang="en">Literature and Languages</a></div>
+</div>
+  </div>
+    <div class="col-12 col-sm-6 col-md-4">
+    <div class="article-block">
+<div class="article-block-image"><a href="/how-bal-gangadhar-tilaks-1897-trial-marked-criminalisation-dissent"><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/Bal%20Gangadhar%20Tilak%201_Sanatan%20dot%20org%20-%20public%20domain.jpg?itok=C9kmvSOQ " /></a></div>
+<div class="article-block-author">Simran Agarwal</div>
+<div class="article-block-title"><a href="/how-bal-gangadhar-tilaks-1897-trial-marked-criminalisation-dissent" hreflang="en">How Bal Gangadhar Tilak’s 1897 trial marked the ‘criminalisation of dissent’</a> </div>
+<div class="article-block-domains"><a href="/domains/histories" hreflang="en">Histories</a> <a href="/domains/people" hreflang="en">People</a></div>
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </section>
+
+          </div>
+                    <div id="main" class="container">
+          
+          <div class="row row-offcanvas row-offcanvas-left clearfix">
+              <main class="main-content col" id="content" role="main">
+                <section class="section">
+                  <a id="main-content" tabindex="-1"></a>
+                    <div id="block-sahapedia-inlinecssandcss" class="block-content-basic block block-block-content block-block-content649cf77d-f7f2-4143-899a-34065dfd836b">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><style type="text/css">.block-views-exposed-filter-blocksahapedia-solar-search-page-1{
+    width:100%
+}
+.sp-searchbar input#edit-keyword--2 {
+    height: 58px;
+    padding-left: 10px;
+}
+
+.sp-searchbar input#edit-keyword--2 {
+    background: none;
+    width: 100%;
+    font-family: IBM Plex Mono;
+    font-size: 16px;
+    color: #7C7C7C;
+    letter-spacing: 0.07px;
+    text-align: left;
+    border: 0;
+    box-sizing: border-box;
+    min-width: 550px;
+}
+
+.block-views-exposed-filter-blocksahapedia-solar-search-page-1{
+    width:100%
+}
+.sp-searchbar input#edit-keyword--2 {
+    height: 58px;
+    padding-left: 10px;
+}
+
+.sp-searchbar input#edit-keyword--2 {
+    background: none;
+    width: 100%;
+    font-family: IBM Plex Mono;
+    font-size: 16px;
+    color: #7C7C7C;
+    letter-spacing: 0.07px;
+    text-align: left;
+    border: 0;
+    box-sizing: border-box;
+    min-width: 550px;
+}
+#views-exposed-form-sahapedia-solar-search-page-1 .form-type-search-api-autocomplete label {
+    display: none!important;
+}
+.view-id-sahapedia_solar_search .view-header {top:-70px !important;}
+.sp-searchbar form#views-exposed-form-sahapedia-solar-search-page-1 .js-form-item-type {display:none;}
+.page-view-sahapedia-solar-search .main-content .views-exposed-form{
+    border-bottom: 2px solid #DCDCDC;
+    padding: 10px;
+    max-width: 700px !important;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.page-view-sahapedia-solar-search .main-content .views-exposed-form .form-type-search-api-autocomplete label{display: none!important;}
+.page-view-sahapedia-solar-search .main-content .views-exposed-form select{    
+    min-height: 38px;
+    min-width: 110px;
+    border: 1px #DCDCDC solid;
+}
+
+.page-view-sahapedia-solar-search .navbar .views-exposed-form .form-type-search-api-autocomplete {
+    width: 100%important;
+    margin-bottom: 0px!important;
+    padding: 0px!important;
+}
+
+.page-view-sahapedia-solar-search .ui-menu-item:over {
+    padding: 10px 5px;
+}
+.search-api-autocomplete-search
+.page-view-sahapedia-solar-search .page-view-sahapedia-solar-search{
+  max-width:500px;
+
+}
+
+.views-exposed-form input:focus{
+    outline: none!important;
+
+}
+
+.search-api-autocomplete-search .ui-menu-item {
+    border-bottom: 1px #fff solid;
+    padding: 10px 5px;
+}
+#block-sahapedia-views-block-project-resources-block-1 {
+  width: 100%;
+}
+#block-views-block-related-project-content-block-1 {
+  width: 100%;
+}
+</style><script>
+
+document.addEventListener('DOMContentLoaded', function() {
+    // Update #edit-keyword--3 when #edit-keyword--2 value changes
+    document.getElementById('edit-keyword--2').addEventListener('keyup', function() {
+        document.getElementById('edit-keyword--3').value = this.value;
+    });
+
+    // Handle click event on <li> inside #ui-id-1
+    document.getElementById('ui-id-1').addEventListener('click', function(event) {
+        // Ensure the clicked element is an <li> or its child
+        let li = event.target.closest('li');
+        if (li) {
+            const userInput = li.querySelector('.autocomplete-suggestion-user-input')?.textContent.trim() || '';
+            const suggestionSuffix = li.querySelector('.autocomplete-suggestion-suggestion-suffix')?.textContent.trim() || '';
+            document.getElementById('edit-keyword--3').value = userInput + suggestionSuffix;
+        }
+    });
+});
+
+</script></div>
+      
+    </div>
+  </div>
+
+
+<article data-history-node-id="8307" about="/" typeof="schema:WebPage" class="node node--type-page node--view-mode-full clearfix">
+  <header>
+    
+          <span property="schema:name" content="Sahapedia An open online resource on the arts, cultures and heritage of India" class="rdf-meta hidden"></span>
+
+      </header>
+  <div class="node__content clearfix">
+      
+            <div property="schema:text" class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="row">
+<div class="col-12 col-md-8">
+<p>Sahapedia is an open online resource on the arts, cultures and heritage of India. “Saha”, Sanskrit for “together with”, is an invitation to explore together the richness of our cultural landscapes. Sahapedia is a non-profit organisation registered in India under the Societies Registration Act of 1860.</p>
+</div>
+<div class="col-12 col-md-4">
+<h2>Sahapedia's Mission</h2>
+<p>To creatively engage with culture and history to reveal connections for a wide public using digital media.</p>
+</div>
+</div>
+</div>
+      
+
+
+     </div>
+</article>
+
+
+                </section>
+              </main>
+                                  </div>
+        </div>
+            
+                  <div id="position-three">
+          <div class="container-fluid">
+                <section class="row region region-position-three">
+    <div id="block-contributionblock" class="block-content-basic block block-block-content block-block-content681cd97d-9c27-4ec2-84b2-ab468832bc81">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="container  sign-up-workbench">
+<div class="row border-btm-1">
+<div class="col-8">
+<p>Do you want to publish in Sahapedia?<br>
+Send a 250-word proposal to <a href="mailto:submissions@sahapedia.org">submissions@sahapedia.org</a></p>
+</div>
+<div class="col-4">
+<p>Help us keep<br>
+Sahapedia running</p>
+<p class="donate"><a href="/donate" target="_blank">Donate</a></p>
+</div>
+</div>
+<div class="row br-side-1" style="display: none;">
+<div class="col-8">
+<p class="subscribe-block">Subscribe Block</p>
+</div>
+<div class="col-4">
+<p>Get a weekly dose of curated ideas<br>
+on Indian arts and culture</p>
+</div>
+</div>
+</div>
+</div>
+      
+    </div>
+  </div>
+
+  </section>
+
+          </div>
+      </div>
+                      <div class="container">
+                <section class="row region region-position-four">
+    <div class="views-element-container block block-views block-views-blockfeatured-videos-block-1" id="block-views-block-featured-videos-block-1">
+  
+      <h2>Videos</h2>
+    
+      <div class="content">
+      <div><div class="small-gutters slide-by-touch view view-featured-videos view-id-featured_videos view-display-id-block_1 js-view-dom-id-85f72bfb85c28ba5fa9f48cbe4563e95785e601446b10dea2e53b986434d6527">
+  
+    
+      <div class="view-header">
+      <div class="view-all"><a href="/all-videos">+ View all</a></div>
+    </div>
+      
+      <div class="view-content row">
+          <div class="col-8 col-sm-5 col-md-3">
+    <div class="video-block">
+<div class="video-block-image"><a href="/conversation-kiren-segal-odissi" hreflang="en"><img src="/sites/default/files/styles/sp_video_and_image_gallery_thumb_273x153/public/youtube/-hZRdxfNDHU.jpg?itok=nzTHP_dW" width="273" height="153" alt="Embedded thumbnail for In Conversation with Kiren Segal: Odissi " loading="lazy" typeof="Image" class="image-style-sp-video-and-image-gallery-thumb-273x153" />
+
+</a>
+ </div>
+<div class="video-block-title"><a href="/conversation-kiren-segal-odissi" hreflang="en">In Conversation with Kiren Segal: Odissi </a> </div>
+<div class="video-block-domains"><a href="/domains/performing-arts" hreflang="en">Performing Arts</a></div>
+</div>
+  </div>
+    <div class="col-8 col-sm-5 col-md-3">
+    <div class="video-block">
+<div class="video-block-image"><a href="/mt-vasudevan-nair-conversation-dr-sudha-gopalakrishnan-lifetime-writing" hreflang="en"><img src="/sites/default/files/styles/sp_video_and_image_gallery_thumb_273x153/public/youtube/IE-bBogxe3Q.jpg?itok=6m95h4y8" width="273" height="153" alt="Embedded thumbnail for M.T. Vasudevan Nair in Conversation with Dr Sudha Gopalakrishnan: A Lifetime of Writing" loading="lazy" typeof="Image" class="image-style-sp-video-and-image-gallery-thumb-273x153" />
+
+</a>
+ </div>
+<div class="video-block-title"><a href="/mt-vasudevan-nair-conversation-dr-sudha-gopalakrishnan-lifetime-writing" hreflang="en">M.T. Vasudevan Nair in Conversation with Dr Sudha Gopalakrishnan: A Lifetime of Writing</a> </div>
+<div class="video-block-domains"><a href="/domains/literature-and-languages" hreflang="en">Literature and Languages</a><a href="/domains/people" hreflang="en">People</a></div>
+</div>
+  </div>
+    <div class="col-8 col-sm-5 col-md-3">
+    <div class="video-block">
+<div class="video-block-image"><a href="/conversation-aruna-vasudev" hreflang="und"><img src="/sites/default/files/styles/sp_video_and_image_gallery_thumb_273x153/public/youtube/bWxzb5IYaEU.jpg?itok=0tWjrT2P" width="273" height="153" alt="Embedded thumbnail for In Conversation with Aruna Vasudev" loading="lazy" typeof="Image" class="image-style-sp-video-and-image-gallery-thumb-273x153" />
+
+</a>
+ </div>
+<div class="video-block-title"><a href="/conversation-aruna-vasudev" hreflang="und">In Conversation with Aruna Vasudev</a> </div>
+<div class="video-block-domains"><a href="/domains/visual-and-material-arts" hreflang="en">Visual and Material Arts</a><a href="/domains/people" hreflang="en">People</a></div>
+</div>
+  </div>
+    <div class="col-8 col-sm-5 col-md-3">
+    <div class="video-block">
+<div class="video-block-image"> <a href="/conversation-shyam-benegal" hreflang="und"><img src="/sites/default/files/styles/sp_video_and_image_gallery_thumb_273x153/public/youtube/ZW-7GI0I0o0.jpg?itok=OSVwy0nu" width="273" height="153" alt="Embedded thumbnail for In Conversation with Shyam Benegal" loading="lazy" typeof="Image" class="image-style-sp-video-and-image-gallery-thumb-273x153" />
+
+</a>
+</div>
+<div class="video-block-title"><a href="/conversation-shyam-benegal" hreflang="und">In Conversation with Shyam Benegal</a> </div>
+<div class="video-block-domains"><a href="/domains/performing-arts" hreflang="en">Performing Arts</a></div>
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockfeatured-image-galleries-block-1" id="block-views-block-featured-image-galleries-block-1">
+  
+      <h2>Image Galleries</h2>
+    
+      <div class="content">
+      <div><div class="small-gutters slide-by-touch view view-featured-image-galleries view-id-featured_image_galleries view-display-id-block_1 js-view-dom-id-1ea1cae840abda67ac933cbaddc54650115de4729cc4aa9a423ed8087085c360">
+  
+    
+      <div class="view-header">
+      <div class="view-all"><a href="/all-image-galleries">+ View all</a></div>
+    </div>
+      
+      <div class="view-content row">
+          <div class="col-8 col-sm-5 col-md-3">
+    <div class="gallery-block">
+<div class="gallery-block-image">  <a href="/early-records-petroglyphs-and-rock-art-twentieth-century-ladakh"><img loading="lazy" src="/sites/default/files/styles/sp_video_and_image_gallery_thumb_273x153/public/Figure%201%20Francke%20Petroglyph%20sites.jpg?itok=N5d6p03G" width="273" height="153" alt="" title="Reverend August Hermann Francke left behind drawings of rock carvings collected in the western districts of the lower parts of Ladakh. He states that the rock carvings could have their roots in an ancient art form of the Brogpas of Drads or represemt the pre-Buddhist religion of Ladakh, known as ‘Ling Chos’, the former name of Bon chos. Plate I: Fig.1. Scene at the harvest festival; Fig. 2. Ibex; Fig. 3. A hunting record; Fig.4. A stupa, with Tibetan inscription “red = it is”; Fig. 5. (a) Pyramidal stupas, (b) holy tree, (c and d) two stupas, (e) ibex, (f) inscriptions in unknown character, perhaps ya. Plate No IV: Fig.1. A rider, two men, two ibex with characteristic horns, two stupas, a magic square; Fig. 2. A hand, two men, two svastika, a pig, an ibex; Fig. 3. Various human figures from stone on Molokai (Hawaii Islands) added for comparison (Courtesy: Francke, ‘Notes on Rock Carvings from Lower Ladakh,’ The Indian Antiquary: A Journal of Oriental Research XXXI: 398–401)" typeof="Image" class="image-style-sp-video-and-image-gallery-thumb-273x153" />
+
+</a>
+</div>
+<div class="gallery-block-author">Rigzin Chodon </div>
+<div class="gallery-block-title"><a href="/early-records-petroglyphs-and-rock-art-twentieth-century-ladakh" hreflang="en">Early Records of Petroglyphs and Rock Art from Twentieth-century Ladakh</a> </div>
+</div>
+  </div>
+    <div class="col-8 col-sm-5 col-md-3">
+    <div class="gallery-block">
+<div class="gallery-block-image">  <a href="/ode-road-truck-art-north-india"><img loading="lazy" src="/sites/default/files/styles/sp_video_and_image_gallery_thumb_273x153/public/1_63.JPG?itok=ccjRz1xd" width="273" height="153" alt="" title="A freshly repainted truck being prepared for truck art. Once the painting of the whole body is complete, the painter writes couplets, quartets or phrases on the bonnet in consultation with the owner or the driver. The painter often maintains a diary with stock poetry or phrases from which the owner or the driver choose their favourite lines." typeof="Image" class="image-style-sp-video-and-image-gallery-thumb-273x153" />
+
+</a>
+</div>
+<div class="gallery-block-author">Dinesh Kafle </div>
+<div class="gallery-block-title"><a href="/ode-road-truck-art-north-india" hreflang="en">Ode to the Road: Truck Art of North India</a> </div>
+</div>
+  </div>
+    <div class="col-8 col-sm-5 col-md-3">
+    <div class="gallery-block">
+<div class="gallery-block-image">  <a href="/dress-and-identity-contemporary-ladakh"><img loading="lazy" src="/sites/default/files/styles/sp_video_and_image_gallery_thumb_273x153/public/Fig%201_5.jpg?itok=CP_oVTc0" width="273" height="153" alt="" title="Over the years, Ladakhi dress has gone through a lot of change yet held on to its own identity. These transformations have been influenced both from the outside and from within, and over time Ladakhis have adapted to both the fast pace of the fashion industry and their own handmade products. Perhaps the first visible signs of this was the number of fashion shops (locally called ‘fancy’ shops) that were set up in Leh. These shops sell the latest designs and styles of Western clothing, from jeans and t-shirts to bags and belts. These items are now more easily available for the people to purchase and wear (Courtesy: Rinchen Dolma)" typeof="Image" class="image-style-sp-video-and-image-gallery-thumb-273x153" />
+
+</a>
+</div>
+<div class="gallery-block-author">Rinchen Dolma </div>
+<div class="gallery-block-title"><a href="/dress-and-identity-contemporary-ladakh" hreflang="en">Dress and Identity in Contemporary Ladakh</a> </div>
+</div>
+  </div>
+    <div class="col-8 col-sm-5 col-md-3">
+    <div class="gallery-block">
+<div class="gallery-block-image">  <a href="/fads-and-fashions-sign-industry-delhis-hand-painted-signs-images"><img loading="lazy" src="/sites/default/files/styles/sp_video_and_image_gallery_thumb_273x153/public/Fig%201_4.jpg?itok=qQ_Br71w" width="273" height="153" alt="" title="The basic features and different characteristics of letterforms that capture the variations of style, like serif or sans serif, wide or narrow shading effects to embellish the letter and the range of weights, from thin to heavy, that can be employed by the sign painter to change the appearance of the letter." typeof="Image" class="image-style-sp-video-and-image-gallery-thumb-273x153" />
+
+</a>
+</div>
+<div class="gallery-block-author">Chandrika Acharya </div>
+<div class="gallery-block-title"><a href="/fads-and-fashions-sign-industry-delhis-hand-painted-signs-images" hreflang="en">Fads and Fashions of the Sign Industry: Delhi’s Hand-painted Signs in Images</a> </div>
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockfeatured-articles-block-1" id="block-views-block-featured-articles-block-1-2">
+  
+      <h2>Articles</h2>
+    
+      <div class="content">
+      <div><div class="medium-gutters slide-by-touch view view-featured-articles view-id-featured_articles view-display-id-block_1 js-view-dom-id-2d126c96fad655b18951910701d32d24cc2f75df0a0332ef85cb249f85658dbf">
+  
+    
+      <div class="view-header">
+      <div class="view-all"><a href="/all-articles">+ View all</a></div>
+    </div>
+      
+      <div class="view-content row">
+          <div class="col-12 col-sm-6 col-md-4">
+    <div class="article-block">
+<div class="article-block-image"><a href="/beypore-uru-prevails"><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/Sathyan%20Edathodi%20with%20his%20main%20craftsmen%20at%20the%20boatyard_JOS1665%20copy%20%281%29.jpg?itok=Ju1h4Mn_ " /></a></div>
+<div class="article-block-author">Anjana Premchand</div>
+<div class="article-block-title"><a href="/beypore-uru-prevails" hreflang="en">The Beypore Uru Prevails </a> </div>
+<div class="article-block-domains"><a href="/domains/knowledge-traditions" hreflang="en">Knowledge Traditions</a> <a href="/domains/visual-and-material-arts" hreflang="en">Visual and Material Arts</a></div>
+</div>
+  </div>
+    <div class="col-12 col-sm-6 col-md-4">
+    <div class="article-block">
+<div class="article-block-image"><a href="/cinema-city"><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/Radha%20Theatre%20in%20SM%20Street_JOS2310%20copy%20%281%29.jpg?itok=QH0LkFDe " /></a></div>
+<div class="article-block-author">Anjana Premchand</div>
+<div class="article-block-title"><a href="/cinema-city" hreflang="en">Cinema in the City</a> </div>
+<div class="article-block-domains"><a href="/domains/visual-and-material-arts" hreflang="en">Visual and Material Arts</a> <a href="/domains/histories" hreflang="en">Histories</a> <a href="/domains/people" hreflang="en">People</a></div>
+</div>
+  </div>
+    <div class="col-12 col-sm-6 col-md-4">
+    <div class="article-block">
+<div class="article-block-image"><a href="/poetry-motion-contemporary-themes-and-changing-dynamics-north-indian-truck-literature"><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/Banner%20image_8.jpg?itok=wFDmTzEr " /></a></div>
+<div class="article-block-author">Dinesh Kafle</div>
+<div class="article-block-title"><a href="/poetry-motion-contemporary-themes-and-changing-dynamics-north-indian-truck-literature" hreflang="en">Poetry in Motion: Contemporary Themes and Changing Dynamics of North Indian Truck Literature</a> </div>
+<div class="article-block-domains"><a href="/domains/visual-and-material-arts" hreflang="en">Visual and Material Arts</a></div>
+</div>
+  </div>
+    <div class="col-12 col-sm-6 col-md-4">
+    <div class="article-block">
+<div class="article-block-image"><a href="/jewellery-ladakh"><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/2%20c%29%20Banner%20image%20for%20Jewellery%20essay%2C%20photo%20of%20a%20bride%2C%20Photo%20Tsering%20Wangchuk%20Fargo%202012.jpg?itok=A90EpShT " /></a></div>
+<div class="article-block-author">Monisha Ahmed </div>
+<div class="article-block-title"><a href="/jewellery-ladakh" hreflang="en">Jewellery in Ladakh</a> </div>
+<div class="article-block-domains"><a href="/domains/visual-and-material-arts" hreflang="en">Visual and Material Arts</a></div>
+</div>
+  </div>
+    <div class="col-12 col-sm-6 col-md-4">
+    <div class="article-block">
+<div class="article-block-image"><a href="/hindi-hitaishis-architects-early-historical-novel-hindi"><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/banner_original_better_to_use_the_cropped_img.jpg?itok=bcNDehjd " /></a></div>
+<div class="article-block-author">Rohan Chauhan</div>
+<div class="article-block-title"><a href="/hindi-hitaishis-architects-early-historical-novel-hindi" hreflang="en">Hindi Hitaishis: The Architects of the Early Historical Novel in Hindi</a> </div>
+<div class="article-block-domains"><a href="/domains/knowledge-traditions" hreflang="en">Knowledge Traditions</a> <a href="/domains/literature-and-languages" hreflang="en">Literature and Languages</a></div>
+</div>
+  </div>
+    <div class="col-12 col-sm-6 col-md-4">
+    <div class="article-block">
+<div class="article-block-image"><a href="/music-the-plays-of-samskrita-ranga"><img class="img-fluid" src="/sites/default/files/styles/sp_module_and_article_thumb_366x200/public/n-15_1.jpeg?itok=1rygHQit " /></a></div>
+<div class="article-block-author">V. Sumithra</div>
+<div class="article-block-title"><a href="/music-the-plays-of-samskrita-ranga" hreflang="und">Music in the Plays of Samskrita Ranga </a> </div>
+<div class="article-block-domains"><a href="/domains/performing-arts" hreflang="en">Performing Arts</a></div>
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </section>
+
+          </div>
+                      <div class="container-fluid">
+                <section class="row region region-position-five">
+    <div id="block-sahapediaframesbanner" class="block-content-basic block block-block-content block-block-content7cce458a-5cba-4cd7-bf11-c1eecf2ffc25">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>&nbsp;</p>
+<div class="d-none">
+<p><a href="https://www.sahapedia.org/sahapedia-frames-photography-grant-2020"><img alt="Frames" data-align="center" data-entity-type="file" data-entity-uuid="03080509-b27f-4b89-8c3a-021faeaf3c92" src="/sites/default/files/inline-images/Frames-banner_0.png" width="1305" height="700" loading="lazy"></a></p>
+</div>
+<p><a href="https://map.sahapedia.org/"><img alt="banner" data-entity-type="file" data-entity-uuid="7cae50f0-66f0-4ce9-a156-3292dd9e028f" src="/sites/default/files/inline-images/final%20banner%20web.gif" width="1600" height="600" loading="lazy"></a></p>
+<p>&nbsp;</p>
+</div>
+      
+    </div>
+  </div>
+
+  </section>
+
+          </div>
+                      <div class="container">
+                <section class="row region region-position-six">
+    <div class="views-element-container block block-views block-views-blockfeatured-image-galleries-block-2" id="block-views-block-featured-image-galleries-block-2">
+  
+      <h2>Sahapedia Frames</h2>
+    
+      <div class="content">
+      <div><div class="small-gutters slide-by-touch view view-featured-image-galleries view-id-featured_image_galleries view-display-id-block_2 js-view-dom-id-e933abe49c4cea694e715a5b37566c2d65327ed8d9426f1f58ca7c838d622111">
+  
+    
+      <div class="view-header">
+      <div class="view-all"><a href="/sahapedia-frames">+ View all</a></div>
+    </div>
+      
+      <div class="view-content row">
+          <div class="col-8 col-sm-5 col-md-3">
+    <div class="Frames-block">
+<div class="Frames-block-image"><a href="/art-aromas-ittar-industry-kannauj">  <img loading="lazy" src="/sites/default/files/styles/sp_frames_thumb_275x275/public/2019-10/23Kannauj-Perfumery_UDIT-KULSHRESTHA-5839.jpg?itok=DZqWc1cB" width="275" height="275" alt="A worker fixes the Chonga (bamboo pipe) to the Deg (distillation pot). The fumes (Bhap) pass through the Chonga and condense in small pots called Bhapkas (Courtesy: Udit Kulshreshtra)" typeof="Image" class="image-style-sp-frames-thumb-275x275" />
+
+
+ </a></div>
+<div class="Frames-block-author">Udit Kulshreshtra </div>
+<div class="Frames-block-title"><a href="/art-aromas-ittar-industry-kannauj" hreflang="en">The Art of Aromas: Ittar Industry of Kannauj</a> </div>
+</div>
+  </div>
+    <div class="col-8 col-sm-5 col-md-3">
+    <div class="Frames-block">
+<div class="Frames-block-image"><a href="/the-golden-jejuri">  <img loading="lazy" src="/sites/default/files/styles/sp_frames_thumb_275x275/public/Jejuri_26_0.jpg?itok=xhBGF0Ll" width="275" height="275" alt="1" typeof="Image" class="image-style-sp-frames-thumb-275x275" />
+
+
+ </a></div>
+<div class="Frames-block-author">Jayati Saha </div>
+<div class="Frames-block-title"><a href="/the-golden-jejuri" hreflang="und">The Golden Jejuri</a> </div>
+</div>
+  </div>
+    <div class="col-8 col-sm-5 col-md-3">
+    <div class="Frames-block">
+<div class="Frames-block-image"><a href="/manipuri-ponies-origins-of-polo">  <img loading="lazy" src="/sites/default/files/styles/sp_frames_thumb_275x275/public/Ashima_04_0.jpg?itok=0130-6aY" width="275" height="275" alt="1" typeof="Image" class="image-style-sp-frames-thumb-275x275" />
+
+
+ </a></div>
+<div class="Frames-block-author">Ashima Narain </div>
+<div class="Frames-block-title"><a href="/manipuri-ponies-origins-of-polo" hreflang="und">Manipuri Ponies &amp; Origins of Polo</a> </div>
+</div>
+  </div>
+    <div class="col-8 col-sm-5 col-md-3">
+    <div class="Frames-block">
+<div class="Frames-block-image"><a href="/domes-of-delhi">  <img loading="lazy" src="/sites/default/files/styles/sp_frames_thumb_275x275/public/Jain_Temple_01_0.jpg?itok=hFdNs5lu" width="275" height="275" alt="1" typeof="Image" class="image-style-sp-frames-thumb-275x275" />
+
+
+ </a></div>
+<div class="Frames-block-author">Ayan Ghosh </div>
+<div class="Frames-block-title"><a href="/domes-of-delhi" hreflang="und">Domes of Delhi</a> </div>
+</div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+<div class="views-element-container block block-views block-views-blockfeatured-library-artifacts-block-1" id="block-views-block-featured-library-artifacts-block-1">
+  
+      <h2>Library Artifacts</h2>
+    
+      <div class="content">
+      <div><div class="small-gutters slide-by-touch view view-featured-library-artifacts view-id-featured_library_artifacts view-display-id-block_1 js-view-dom-id-fdd6b1a2ad37b17eb8010867db971e765dfee78477157cbaa1e2b6c3046678d2">
+  
+    
+      <div class="view-header">
+      <div class="view-all"><a href="/all-library-artifacts">+ View all</a></div>
+    </div>
+      
+      <div class="view-content row">
+          <div class="col-7 col-sm-5 col-md-2">
+    <div class="library-block">
+<div class="library-block-image"><a href="/saunai-saunaai-suni-sunai-0"><img src="/sites/default/files/styles/sp_library_artifact_thumb_230x320/public/SuniSunai_e-book.png?itok=iir6_wbT" class="img-fluid" /></a></div>
+<div class="library-block-author">Sahapedia</div>
+<div class="library-block-title">सुनी सुनाई  (Suni Sunai)</div>
+
+</div>
+
+  </div>
+    <div class="col-7 col-sm-5 col-md-2">
+    <div class="library-block">
+<div class="library-block-image"><a href="/dhauumanaatha-mahaatamaya"><img src="/sites/default/files/styles/sp_library_artifact_thumb_230x320/public/madku%20dweep%20banner%20image%20_0.png?itok=KcBpjkgO" class="img-fluid" /></a></div>
+<div class="library-block-author">छत्तीसगढ़ प्रान्त इतिहास संकलन समिति </div>
+<div class="library-block-title">धूमनाथ महात्मय </div>
+
+</div>
+
+  </div>
+    <div class="col-7 col-sm-5 col-md-2">
+    <div class="library-block">
+<div class="library-block-image"><a href="/parakashtha"><img src="/sites/default/files/styles/sp_library_artifact_thumb_230x320/public/Banner%20image_2.jpg?itok=a02HmCr7" class="img-fluid" /></a></div>
+<div class="library-block-author">Ministry of Textiles, Government of India</div>
+<div class="library-block-title">Parākāshthā</div>
+
+</div>
+
+  </div>
+    <div class="col-7 col-sm-5 col-md-2">
+    <div class="library-block">
+<div class="library-block-image"><a href="/bhaimamaa-bhimma"><img src="/sites/default/files/styles/sp_library_artifact_thumb_230x320/public/Chaumasa%20Banner%20Image%203_35.jpg?itok=8s4DuriM" class="img-fluid" /></a></div>
+<div class="library-block-author">मध्य प्रदेश आदिवासी लोक कला प्रकाशन </div>
+<div class="library-block-title">भिम्मा, Bhimma</div>
+
+</div>
+
+  </div>
+    <div class="col-7 col-sm-5 col-md-2">
+    <div class="library-block">
+<div class="library-block-image"><a href="/paandavaanai"><img src="/sites/default/files/styles/sp_library_artifact_thumb_230x320/public/Chaumasa%20Banner%20Image%203_34.jpg?itok=vmeLxhmw" class="img-fluid" /></a></div>
+<div class="library-block-author">Chaumasa</div>
+<div class="library-block-title">पांडवानी</div>
+
+</div>
+
+  </div>
+    <div class="col-7 col-sm-5 col-md-2">
+    <div class="library-block">
+<div class="library-block-image"><a href="/mahaabhaarata-kai-vaacaika-paranparaa-kaa-laokasavarauupa-paandavaanai"><img src="/sites/default/files/styles/sp_library_artifact_thumb_230x320/public/Chaumasa%20Banner%20Image%203_33.jpg?itok=mUte8vJK" class="img-fluid" /></a></div>
+<div class="library-block-author">Chaumasa</div>
+<div class="library-block-title">महाभारत की वाचिक परंपरा का लोकस्वरूप &#039;पांडवानी&#039; </div>
+
+</div>
+
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+    </div>
+  </div>
+
+  </section>
+
+          </div>
+      
+
+    </div>
+        <footer class="site-footer">
+              <div class="container">
+                      <div class="site-footer__top clearfix">
+                <section class="row region region-footer-first">
+    <nav role="navigation" aria-labelledby="block-sahapediaimportantlink-menu" id="block-sahapediaimportantlink" class="block block-menu navigation menu--sahapedia-important-link">
+            
+  <h2 class="visually-hidden" id="block-sahapediaimportantlink-menu">Sahapedia Important link</h2>
+  
+
+        
+              <ul class="clearfix nav">
+                    <li class="nav-item">
+                <a href="/about-us" class="nav-link nav-link--about-us" data-drupal-link-system-path="node/8375">About Sahapedia</a>
+              </li>
+                <li class="nav-item">
+                <a href="/contact-us" class="nav-link nav-link--contact-us" data-drupal-link-system-path="node/9691">Contact Us</a>
+              </li>
+                <li class="nav-item">
+                <a href="/content-partners" class="nav-link nav-link--content-partners" data-drupal-link-system-path="node/8377">Content Partners</a>
+              </li>
+                <li class="nav-item">
+                <a href="/funding-partners" class="nav-link nav-link--funding-partners" data-drupal-link-system-path="node/8378">Funding Partners</a>
+              </li>
+                <li class="nav-item">
+                <a href="/sahapedia-team" class="nav-link nav-link--sahapedia-team" data-drupal-link-system-path="node/8379">Team</a>
+              </li>
+                <li class="nav-item">
+                <a href="/donate" class="nav-link nav-link--donate" data-drupal-link-system-path="node/9732">Donate</a>
+              </li>
+                <li class="nav-item">
+                <a href="/terms-use" class="nav-link nav-link--terms-use" data-drupal-link-system-path="node/8424">Terms of use</a>
+              </li>
+                <li class="nav-item">
+                <a href="/privacy-policy" class="nav-link nav-link--privacy-policy" data-drupal-link-system-path="node/8425">Privacy Policy</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </section>
+
+                <section class="row region region-footer-second">
+    <div id="block-condition" class="block-content-basic block block-block-content block-block-content712509cf-06db-4e2c-82c8-e86c6b504fcc">
+  
+    
+      <div class="content">
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p><span style="font-size:11px">By using this site, you agree to our Terms of Use and Privacy Policy. Unless otherwise specified, all content is made available under the CC-BY-NC-SA 4.0 Licence, though additional terms may apply. Sahapedia® is a registered trademark of Sahapedia, a non-profit organisation registered under the Societies Registration Act of 1860. For any queries, comments, or feedback, please contact Sahapedia at <a href="mailto:contact@sahapedia.org.in">contact@sahapedia.org</a></span></p>
+<p><span style="font-size:11px">© Sahapedia 2024</span></p>
+</div>
+      
+    </div>
+  </div>
+
+  </section>
+
+              
+              
+            </div>
+                            </div>
+          </footer>
+  </div>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/8307","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx9z2EOgjAMBeALDXekpdsqVgsl7RC5vYjJQEj8syzfW7rXKFKsKAwhgiqJv4p2Lh61ZYnAjZWZqW_P-aIPO3MvGXfKFBV09lX-ZU3KvUujFekCS0t9UGzJCmptk5SGYk4mTqAyGrLf3Z3BDQbMBNvQ8Bm6-WGtGoTvv77C-gSdFShLBUrms44D8GUTZ_NSrvMRDN2TcDK_nhe4w-sHOskj4xv7yJZY","theme":"sahapedia","theme_token":null},"ajaxTrustedUrl":{"\/search\/content":true},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:e933abe49c4cea694e715a5b37566c2d65327ed8d9426f1f58ca7c838d622111":{"view_name":"featured_image_galleries","view_display_id":"block_2","view_args":"all","view_path":"\/node\/8307","view_base_path":"all-image-galleries","view_dom_id":"e933abe49c4cea694e715a5b37566c2d65327ed8d9426f1f58ca7c838d622111","pager_element":0},"views_dom_id:1ea1cae840abda67ac933cbaddc54650115de4729cc4aa9a423ed8087085c360":{"view_name":"featured_image_galleries","view_display_id":"block_1","view_args":"all","view_path":"\/node\/8307","view_base_path":"all-image-galleries","view_dom_id":"1ea1cae840abda67ac933cbaddc54650115de4729cc4aa9a423ed8087085c360","pager_element":0}}},"statistics":{"data":{"nid":"8307"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"53df4e0a736651eeee78b0391b58b66f87a72bf71ff544cb1dcb7e015b285616"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.3.3"></script>
+<script src="/core/misc/drupal.js?v=10.3.3"></script>
+<script src="/core/misc/drupal.init.js?v=10.3.3"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+<script src="/themes/contrib/bootstrap_barrio/js/barrio.js?v=10.3.3"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+<script src="//stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="/themes/custom/sahapedia/js/global.js?v=10.3.3"></script>
+<script src="/libraries/lightgallery/dist/js/lightgallery.min.js?v=10.3.3"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0"></script>
+<script src="/core/misc/progress.js?v=10.3.3"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/debounce.js?v=10.3.3"></script>
+<script src="/core/misc/announce.js?v=10.3.3"></script>
+<script src="/core/misc/message.js?v=10.3.3"></script>
+<script src="/core/misc/ajax.js?v=10.3.3"></script>
+<script src="/core/modules/views/js/base.js?v=10.3.3"></script>
+<script src="/core/modules/views/js/ajax_view.js?v=10.3.3"></script>
+<script src="/core/modules/statistics/statistics.js?v=10.3.3"></script>
+<script src="/libraries/owlcarousel2/dist/owl.carousel.js?v=10.3.3"></script>
+<script src="/modules/contrib/owlcarousel/js/owlcarousel.js?v=10.3.3"></script>
+<script src="/modules/custom/custom_login_register/js/custom_login_register.js?v=1.x"></script>
+<script src="/libraries/bootstrap/js/bootstrap.min.js?swr7nv"></script>
+
+  </body>
+</html>

@@ -1,0 +1,1660 @@
+Content from: https://www.indianculture.gov.in
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154718600-1"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("config", "UA-154718600-1", {"groups":"default","anonymize_ip":true});</script>
+<meta property="og:site_name" content="INDIAN CULTURE" />
+<link rel="shortlink" href="http://www.indianculture.gov.in/" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="http://www.indianculture.gov.in/" />
+<meta property="og:type" content="article" />
+<meta name="description" content="Indian Culture is a platform that holds information related to the history,culture and heritage of India ." />
+<meta property="og:url" content="http://www.indianculture.gov.in/node" />
+<meta property="og:title" content="Indian Culture" />
+<meta name="keywords" content="Indian,Indian culture,Indian culture facts,India Portal,culture,heritage,history,Indian history,India,culture of India,culture,India,India culture" />
+<link rel="image_src" href="https://indianculture.gov.in/sites/default/files/styles/background_slider_image/public/2019-12/4.jpg" />
+<meta property="og:description" content="Indian Culture is a platform that holds information related to the history,culture and heritage of India." />
+<meta property="og:image" content="https://indianculture.gov.in/sites/default/files/styles/background_slider_image/public/2019-10/13.jpg" />
+<meta property="og:image:url" content="https://indianculture.gov.in/sites/default/files/styles/background_slider_image/public/2019-10/13.jpg?itok=vlwY-gU2" />
+<meta property="og:image:secure_url" content="https://indianculture.gov.in/sites/default/files/styles/background_slider_image/public/2019-10/13.jpg" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/core/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.no_3p=1;</script>
+
+    <title>INDIAN CULTURE | INDIAN CULTURE</title>
+    <link rel="stylesheet" media="all" href="/libraries/slick/slick/slick.css?su86ur" />
+<link rel="stylesheet" media="all" href="/modules/contrib/slick/css/layout/slick.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/views/views.module.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?su86ur" />
+<link rel="stylesheet" media="all" href="/modules/contrib/lang_dropdown/css/lang_dropdown.css?su86ur" />
+<link rel="stylesheet" media="all" href="/modules/contrib/blazy/css/components/blazy.loading.css?su86ur" />
+<link rel="stylesheet" media="all" href="/libraries/slick/slick/slick-theme.css?su86ur" />
+<link rel="stylesheet" media="all" href="/modules/addtoany/css/addtoany.css?su86ur" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?su86ur" />
+<link rel="stylesheet" media="all" href="/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?su86ur" />
+<link rel="stylesheet" media="all" href="/modules/contrib/text_resize/css/text_resize.css?su86ur" />
+<link rel="stylesheet" media="all" href="/modules/contrib/slick/css/theme/slick.theme.css?su86ur" />
+<link rel="stylesheet" media="all" href="/modules/contrib/slick/css/theme/slick.theme--split.css?su86ur" />
+<link rel="stylesheet" media="all" href="/modules/contrib/slick_extras/css/theme/slick.theme--rounded.css?su86ur" />
+<link rel="stylesheet" media="all" href="/themes/nvli/css/bootstrap.css?su86ur" />
+<link rel="stylesheet" media="all" href="/themes/nvli/css/style.css?su86ur" />
+<link rel="stylesheet" media="all" href="/themes/nvli/css/bootstrap.min.css?su86ur" />
+<link rel="stylesheet" media="all" href="/themes/nvli/css/font-awesome.css?su86ur" />
+<link rel="stylesheet" media="all" href="/themes/nvli/css/font-awesome.min.css?su86ur" />
+<link rel="stylesheet" media="all" href="/themes/nvli/css/font-style.css?su86ur" />
+<link rel="stylesheet" media="all" href="/themes/nvli/css/new-style.css?su86ur" />
+<link rel="stylesheet" media="all" href="/themes/nvli/css/image-puzzle.css?su86ur" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+<script src="/libraries/blazy/blazy.js?v=1.x"></script>
+
+          <script type="text/javascript" src="/modules/contrib/seckit/js/seckit.document_write.js"></script>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-no-body" media="all" href="/modules/contrib/seckit/css/seckit.no_body.css" />
+        <!-- stop SecKit protection -->
+        <noscript>
+        <link type="text/css" rel="stylesheet" id="seckit-clickjacking-noscript-tag" media="all" href="/modules/contrib/seckit/css/seckit.noscript_tag.css" />
+        <div id="seckit-noscript-tag">
+          Sorry, you need to enable JavaScript to visit this website.
+        </div>
+        </noscript></head>
+  <body class="path-frontpage">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      
+
+<html translate="no">
+<style>
+
+#google_translate_element{width:300px;float:right;text-align:right;display:block}
+.goog-te-banner-frame.skiptranslate { display: none !important;} 
+body { top: 0px !important; }
+#goog-gt-tt{display: none !important; top: 0px !important; } 
+.goog-tooltip skiptranslate{display: none !important; top: 0px !important; } 
+.activity-root { display: hide !important;} 
+.status-message { display: hide !important;}
+.started-activity-container { display: hide !important;}
+</style>
+
+<body oncontextmenu="return false;">
+<script src="/themes/nvli/js/jquery.min.js"></script> 
+<script src="/themes/nvli/js/popper.min.js"></script>
+ <link href="#" id="darksite" rel="stylesheet"><link href="#" id="normalsite" rel="stylesheet">
+<script>
+ $(document).ready(function() {
+    $("#darkmode").click(function() {
+         $("#darksite" ).attr("href", "/themes/nvli/css/change.css" );
+		 $("#normalsite" ).attr("href", "#" );
+    });
+ 
+    $("#lightmode").click(function() {
+      $("#normalsite" ).attr("href", "/themes/nvli/css/style.css" );
+	  $("#darksite" ).attr("href", "#" );
+    });
+});
+</script> 
+
+ <div id="content-inner">
+
+ 
+
+             <section id="topbar">
+    <div class="top_nav">
+<!--conatiner open-->
+<div class="container">
+<div class="row">
+
+<div class="col-md-2 col-xs-6 p-0">
+<div class="top_nav_left">  <div>
+    <div id="block-governmentofindia">
+  
+    
+      
+            <div><div class="top_nav_left"><a href="https://www.india.gov.in/" target="_blank"><img alt="Government of India" src="/themes/nvli/img/india-flag.jpg" /> Government of India</a></div>
+</div>
+      
+  </div>
+
+  </div>
+ </a></div>
+</div>
+<!--col-md-3-->
+<div class="col-md-10 col-xs-6 text-right">
+<div class="top_nav_right">
+<ul class="top_nav_menu">  
+<li class="currency">  <div>
+    <div id="block-skiptomaincontent">
+  
+    
+      
+            <div><p><a id="skipdiv">Skip to main content</a></p>
+</div>
+      
+  </div>
+
+  </div>
+</li>
+<li class="currency">  <div>
+    <div id="block-textresize">
+  
+    
+      <div class="content"><a href="javascript:;" class="changer" id="text_resize_decrease"><sup>-</sup>A</a> <a href="javascript:;" class="changer" id="text_resize_reset">A</a> <a href="javascript:;" class="changer" id="text_resize_increase"><sup>+</sup>A</a><div id="text_resize_clear"></div></div>
+
+
+  </div>
+
+  </div>
+</li>
+<li class="currency"><a href="#" id="darkmode"><span style="background-color: #FFEB3B;color: #0a0a0a; padding:2px 5px;">A</span></a></li>
+<li class="currency"><a href="#" id="lightmode"><span style="background: #DA4453;color: #fff; padding:2px 5px;">A</span></a></li>
+<li class="language">
+  <div>
+    <div id="block-languagedropdownswitcher">
+  
+    
+      <form class="lang-dropdown-form lang_dropdown_form language_interface" id="lang_dropdown_form_lang_dropdown_form683e7e84f0c8f0.48516137" data-drupal-selector="lang-dropdown-form" action="/" method="post" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-select form-item-lang-dropdown-select js-form-item-lang-dropdown-select form-no-label">
+      <label for="edit-lang-dropdown-select" class="visually-hidden">Select your language</label>
+        <select style="width:90px" class="lang-dropdown-select-element form-select" id="lang-dropdown-select-lang_dropdown_form683e7e84f0c8f0.48516137" data-drupal-selector="edit-lang-dropdown-select" name="lang_dropdown_select"><option value="en" selected="selected">English</option><option value="hi">हिंदी</option></select>
+        </div>
+<input data-drupal-selector="edit-en" type="hidden" name="en" value="/" />
+<input data-drupal-selector="edit-hi" type="hidden" name="hi" value="/hi" />
+<noscript><div><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Go" class="button js-form-submit form-submit" />
+</div></noscript><input autocomplete="off" data-drupal-selector="form-eu6mhknxzm5lx5lbbid-mlafdeulvxiqlzccz5y-zai" type="hidden" name="form_build_id" value="form-eu6mhknXZM5lx5LbBId_MLAfdeULvxIqLzCcZ5Y_zaI" />
+<input data-drupal-selector="edit-lang-dropdown-form" type="hidden" name="form_id" value="lang_dropdown_form" />
+
+</form>
+
+  </div>
+
+  </div>
+
+</li>
+<li class="account">
+ <div class="dropdown">
+    <button type="button" class="dropboxuser dropdown-toggle" data-toggle="dropdown">
+     <i class="fa fa-user"></i> &nbsp;&nbsp;
+    </button>
+    <div class="dropdown-menu dropdown-menu-left dropbox_menu">
+    
+                  <div>
+    <nav role="navigation" aria-labelledby="block-useraccountmenu-menu" id="block-useraccountmenu">
+            
+  <h2 class="visually-hidden" id="block-useraccountmenu-menu">User account menu</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/user/login" data-drupal-link-system-path="user/login">Log in</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+
+    </div>
+  </div>
+  </li>
+</ul>
+</div>
+</div>
+<!--col-md-9-->
+</div>
+</div>
+<!--conatiner close-->
+</div>
+  </section>
+       
+
+
+ 
+  <header id="header">
+    <div class="container">
+<div class="row">
+<nav class="navbar navbar-light">
+       <div id="logo" class="col-md-4 col-xs-9 pull-left p-0">
+       <h1>   <div>
+    <div id="block-sitebranding">
+  
+    
+        <a href="/" title="Home" rel="home">
+      <img src="/sites/default/files/ic-short-ogo_1_0.png" alt="Home" />
+    </a>
+        <a href="/" title="Home" rel="home">INDIAN CULTURE</a>
+    
+</div>
+<div id="block-slogan">
+  
+    
+      
+            <div><p>Discover, Learn, immerse, Connect</p>
+</div>
+      
+  </div>
+
+  </div>
+</h1> 
+      </div>
+
+<div class="col-md-1 col-xs-3 text-right p-0 d-md-none"> 
+             <button class="navbar-toggler first-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent20"
+    aria-controls="navbarSupportedContent20" aria-expanded="false" aria-label="Toggle navigation">
+    <div class="animated-icon1  pull-right"><span></span><span></span><span></span></div>
+  </button>
+      </div>
+
+       <div class="col-md-5 col-xs-12 storyzero p-0">
+          <div>
+    <div id="block-searchcss">
+  
+    
+      
+            <div><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+#edit-submit-indian-culture-repository {
+    width: 10%;
+    color: #fff!important;
+    background-color: #6b1551!important;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    height: 40px!important;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    font-family: FontAwesome;
+    border: 1px solid #6b1551!important;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.edit-submit-ic-overall-search {
+    width: 10%!important;
+    color: #fff!important;
+    background-color: #6b1551!important;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    height: 40px!important;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    font-family: FontAwesome;
+    border: 1px solid #6b1551!important;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+
+
+/*--><!]]>*/
+</style></div>
+      
+  </div>
+<div class="views-exposed-form" data-drupal-selector="views-exposed-form-indian-culture-repository-page-1" id="block-exposedformindian-culture-repositorypage-1">
+  
+    
+      <form action="/indian-culture-repository" method="get" id="views-exposed-form-indian-culture-repository-page-1" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-search-api-fulltext js-form-item-search-api-fulltext form-no-label">
+        <input placeholder="Discover collections from Archives, Libraries and Museums of India" data-drupal-selector="edit-search-api-fulltext" data-search-api-autocomplete-search="indian_culture_repository" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/indian_culture_repository?display=page_1&amp;&amp;filter=search_api_fulltext" type="text" id="edit-search-api-fulltext" name="search_api_fulltext" value="" size="30" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-indian-culture-repository" type="submit" id="edit-submit-indian-culture-repository" value="" class="button js-form-submit form-submit" />
+</div>
+
+
+</form>
+
+  </div>
+
+  </div>
+
+		<p class="searchtxt">
+              <div>
+    <div id="block-advancedsearch">
+  
+    
+      
+            <div><p><a href="/advance-search-digital-records">ADVANCED SEARCH </a></p>
+
+<p> </p>
+</div>
+      
+  </div>
+
+  </div>
+
+		
+      </div>
+     <div class="col-md-2 col-xs-1 text-right p-0 d-none d-md-block appbuttonid">
+          <div>
+    <div id="block-joinus">
+  
+    
+      
+            <div><p style=" right: -80%;position: absolute;top: 3%;"><a class="btn btn-warning" href="https://indianculture.gov.in/join-us" style="font-weight: bold;font-size: 13px;color:#000;padding:6px;">Join Us</a></p>
+</div>
+      
+  </div>
+<div id="block-kartavyapath">
+  
+    
+      
+            <div><div class="row" style="color:#000; margin-left:2%;">
+<div class="col-md-6 col-xs-6 p-0"><a class="btn btn-warning col-xs-12" href="/kartavya-path" style="line-height: 15px; font-size:13px; color:#000; position: relative; padding: 12px 12px; display: inline-block;" tabindex="-1"><b>Kartavya<br />
+Path</b> </a></div>
+
+<div class="col-md-6 col-xs-5 p-0 pl-2"><a class="btn btn-warning col-xs-12 running-border" href="/kumbh-maps" style="line-height: 15px; font-size: 13px; color: #000; position: relative; padding: 12px 12px; display: inline-block; text-align: center; font-weight: bold;" tabindex="-1"><b>Maha Kumbh<br />
+Map</b> <span style="position: absolute; top: -8px; left: -8px; background-color: orange; color: white; padding: 2px 6px; font-size: 10px; font-weight: bold; transform: rotate(-45deg); border-radius: 3px; box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);">NEW</span> </a></div>
+</div>
+<!-- Running Border Animation CSS -->
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.running-border {
+        position: relative;
+        padding: 12px 8px;
+        border: 1px solid transparent; /* Thin static border */
+        z-index: 1;
+    }
+
+    .running-border:before {
+        content: "";
+        position: absolute;
+        top: -1px;
+        left: -1px;
+        right: -1px;
+        bottom: -1px;
+        border-radius: 5px;
+        border: 5px solid yellow; /* Thin yellow line for "running" effect */
+        box-sizing: border-box;
+        animation: border-travel 2s linear infinite;
+        z-index: -1;
+    }
+
+    /* Keyframes for moving the yellow line around the border */
+    @keyframes border-travel {
+        0% {
+            clip-path: inset(0 75% 75% 0);
+        }
+        25% {
+            clip-path: inset(0 0 75% 0);
+        }
+        50% {
+            clip-path: inset(0 0 0 0);
+        }
+        75% {
+            clip-path: inset(75% 0 0 0);
+        }
+        100% {
+            clip-path: inset(75% 75% 0 75%);
+        }
+    }
+
+/*--><!]]>*/
+</style></div>
+      
+  </div>
+
+  </div>
+
+ </div>
+	  
+	 <div class="col-md-1 col-xs-1 text-right p-0  d-none d-md-block"> 
+             <button class="navbar-toggler first-button" type="button" data-toggle="collapse" data-target="#navbarSupportedContent20"
+    aria-controls="navbarSupportedContent20" aria-expanded="false" aria-label="Toggle navigation">
+    <div class="animated-icon1  pull-right"><span></span><span></span><span></span></div>
+  </button>
+      </div>
+        <div class="d-md-none col-xs-12 text-right pt-1 appbuttonid">
+          <div>
+    <div id="block-joinus">
+  
+    
+      
+            <div><p style=" right: -80%;position: absolute;top: 3%;"><a class="btn btn-warning" href="https://indianculture.gov.in/join-us" style="font-weight: bold;font-size: 13px;color:#000;padding:6px;">Join Us</a></p>
+</div>
+      
+  </div>
+<div id="block-kartavyapath">
+  
+    
+      
+            <div><div class="row" style="color:#000; margin-left:2%;">
+<div class="col-md-6 col-xs-6 p-0"><a class="btn btn-warning col-xs-12" href="/kartavya-path" style="line-height: 15px; font-size:13px; color:#000; position: relative; padding: 12px 12px; display: inline-block;" tabindex="-1"><b>Kartavya<br />
+Path</b> </a></div>
+
+<div class="col-md-6 col-xs-5 p-0 pl-2"><a class="btn btn-warning col-xs-12 running-border" href="/kumbh-maps" style="line-height: 15px; font-size: 13px; color: #000; position: relative; padding: 12px 12px; display: inline-block; text-align: center; font-weight: bold;" tabindex="-1"><b>Maha Kumbh<br />
+Map</b> <span style="position: absolute; top: -8px; left: -8px; background-color: orange; color: white; padding: 2px 6px; font-size: 10px; font-weight: bold; transform: rotate(-45deg); border-radius: 3px; box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.2);">NEW</span> </a></div>
+</div>
+<!-- Running Border Animation CSS -->
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.running-border {
+        position: relative;
+        padding: 12px 8px;
+        border: 1px solid transparent; /* Thin static border */
+        z-index: 1;
+    }
+
+    .running-border:before {
+        content: "";
+        position: absolute;
+        top: -1px;
+        left: -1px;
+        right: -1px;
+        bottom: -1px;
+        border-radius: 5px;
+        border: 5px solid yellow; /* Thin yellow line for "running" effect */
+        box-sizing: border-box;
+        animation: border-travel 2s linear infinite;
+        z-index: -1;
+    }
+
+    /* Keyframes for moving the yellow line around the border */
+    @keyframes border-travel {
+        0% {
+            clip-path: inset(0 75% 75% 0);
+        }
+        25% {
+            clip-path: inset(0 0 75% 0);
+        }
+        50% {
+            clip-path: inset(0 0 0 0);
+        }
+        75% {
+            clip-path: inset(75% 0 0 0);
+        }
+        100% {
+            clip-path: inset(75% 75% 0 75%);
+        }
+    }
+
+/*--><!]]>*/
+</style></div>
+      
+  </div>
+
+  </div>
+
+ </div>
+	   <!-- Collapsible content -->
+  <div class="collapse navbar-collapse" id="navbarSupportedContent20">
+
+	   <div class="row  mega-dropdown-menu">
+	  	<div class="col-sm-3"> 
+						<ul class="menutype"> 
+						  <div>
+    <nav role="navigation" aria-labelledby="block-nvlicollections-menu" id="block-nvlicollections">
+            
+  <h2 class="visually-hidden" id="block-nvlicollections-menu">Catagories</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/musical-instruments" data-drupal-link-system-path="musical-instruments">Musical Instruments of India</a>
+              </li>
+          <li>
+        <a href="/archives" data-drupal-link-system-path="archives">Archives</a>
+              </li>
+          <li>
+        <a href="/artefacts-museums" data-drupal-link-system-path="artefacts-museums">Museum Collections</a>
+              </li>
+          <li>
+        <a href="/photo-archives" data-drupal-link-system-path="photo-archives">Photo Archives</a>
+              </li>
+          <li>
+        <a href="/audio" data-drupal-link-system-path="audio">Audios</a>
+              </li>
+          <li>
+        <a href="/forts-of-india" data-drupal-link-system-path="forts-of-india">Forts of India</a>
+              </li>
+          <li>
+        <a href="/virtual-walkthrough" data-drupal-link-system-path="virtual-walkthrough">Virtual Walkthrough</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+						</ul>
+					</div>
+					<div class="col-sm-3"> 
+					 
+						<ul class="menutype"> 
+							  <div>
+    <nav role="navigation" aria-labelledby="block-nvlirepository-menu" id="block-nvlirepository">
+            
+  <h2 class="visually-hidden" id="block-nvlirepository-menu">Nvli  Repository</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/ebooks" data-drupal-link-system-path="ebooks">E-Books</a>
+              </li>
+          <li>
+        <a href="/food-and-culture" data-drupal-link-system-path="food-and-culture">Food &amp; Culture</a>
+              </li>
+          <li>
+        <a href="/intangible-cultural-heritage" data-drupal-link-system-path="intangible-cultural-heritage">Intangible Cultural Heritage</a>
+              </li>
+          <li>
+        <a href="/stories" data-drupal-link-system-path="stories">Stories</a>
+              </li>
+          <li>
+        <a href="/textiles-and-fabrics-of-india" data-drupal-link-system-path="textiles-and-fabrics-of-india">Textiles and Fabrics of India</a>
+              </li>
+          <li>
+        <a href="/unesco" data-drupal-link-system-path="unesco">UNESCO</a>
+              </li>
+          <li>
+        <a href="http://librarycatalogue.nvli.in/">Union Catalogues</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+						</ul>
+					</div>
+					<div class="col-sm-3"> 
+				 
+						<ul class="menutype"> 
+							  <div>
+    <nav role="navigation" aria-labelledby="block-menubar3-menu" id="block-menubar3">
+            
+  <h2 class="visually-hidden" id="block-menubar3-menu">menubar 3</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/historic-cities" data-drupal-link-system-path="historic-cities"> Historic Cities Of India</a>
+              </li>
+          <li>
+        <a href="/images" data-drupal-link-system-path="images">Images</a>
+              </li>
+          <li>
+        <a href="http://inb.nvli.in/cgi-bin/koha/opac-search.pl?advsearch=1&amp;idx=kw&amp;limit=branch%3ACRL&amp;sort_by=relevance&amp;do=Search">Indian National Bibliography</a>
+              </li>
+          <li>
+        <a href="/manuscripts" data-drupal-link-system-path="manuscripts">Manuscripts</a>
+              </li>
+          <li>
+        <a href="/reports-and-proceedings" data-drupal-link-system-path="reports-and-proceedings">Reports &amp; Proceedings</a>
+              </li>
+          <li>
+        <a href="/snippets" data-drupal-link-system-path="snippets">Snippets</a>
+              </li>
+          <li>
+        <a href="/video" data-drupal-link-system-path="video">Videos</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+						</ul>
+					</div>
+					<div class="col-sm-3"> 
+					 
+						<ul class="menutype"> 
+							  <div>
+    <nav role="navigation" aria-labelledby="block-menubar4-menu" id="block-menubar4">
+            
+  <h2 class="visually-hidden" id="block-menubar4-menu">menubar 4</h2>
+  
+
+        
+              <ul>
+              <li>
+        <a href="/freedom-archive" data-drupal-link-system-path="freedom-archive">Freedom Archive</a>
+              </li>
+          <li>
+        <a href="/gazettes" data-drupal-link-system-path="gazettes">Gazettes and Gazetteers</a>
+              </li>
+          <li>
+        <a href="/other-collections" data-drupal-link-system-path="other-collections">Other Collections</a>
+              </li>
+          <li>
+        <a href="/painting-collections" data-drupal-link-system-path="painting-collections">Paintings</a>
+              </li>
+          <li>
+        <a href="/photo-essay" data-drupal-link-system-path="photo-essay">Photo Essay</a>
+              </li>
+          <li>
+        <a href="/rarebooks" data-drupal-link-system-path="rarebooks">Rarebooks</a>
+              </li>
+          <li>
+        <a href="/research-papers" data-drupal-link-system-path="research-papers">Research Papers</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+						</ul>
+					</div>
+					
+					
+					
+	  </div>
+
+  </div>
+  <!-- Collapsible content -->
+    </div></nav>
+	</div>
+  </header><!-- #header -->
+ 
+
+  
+  <section id="intro">
+
+   <div class="" >
+
+      <div>
+    <div class="views-element-container" id="block-views-block-background-slider-view-block-1">
+  
+    
+      <div><div class="js-view-dom-id-bdb70a8625717756e7c4a5b0a3474eaa1e2f0453cde53dd8259bf70f3e41b853">
+  
+  
+  
+
+  
+  
+  
+
+  <div data-blazy="" class="slick slick--view--background-slider-view slick--view--background-slider-view--block-1 blazy slick--skin--rounded slick--optionset--background-slider-" id="slick-views-background-slider-view-block-1-5"><div id="slick-views-background-slider-view-block-1-5-slider" data-slick="{&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:5000,&quot;draggable&quot;:false,&quot;fade&quot;:true,&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;randomize&quot;:true}" class="slick__slider"><div class="slick__slide slide slide--0"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/slider4_0.jpg?itok=RpLCLx3E" width="2000" height="700" alt="Pattachitra, a traditional painting of Odisha" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Pattachitra, a traditional painting of Odisha</span></div></div><div class="slick__slide slide slide--1"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/slider3.jpg?itok=7BpMOrMr" width="2000" height="700" alt="Vijaya Vittala Temple, Hampi" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Vijaya Vittala Temple, Hampi</span></div></div><div class="slick__slide slide slide--2"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/goa.jpg?itok=b1We3dow" width="2000" height="700" alt="Basilica of Bom Jesus, Goa" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Basilica of Bom Jesus, Goa</span></div></div><div class="slick__slide slide slide--3"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/slider.jpg?itok=PCgcIosw" width="2000" height="700" alt="Bhangra, a folk dance of Punjab" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Bhangra, a folk dance of Punjab</span></div></div><div class="slick__slide slide slide--4"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/aarti.jpg?itok=dKX7szOA" width="2000" height="700" alt="Ganga aarti at Varanasi" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Ganga aarti at Varanasi</span></div></div><div class="slick__slide slide slide--5"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/slider_0_0.jpg?itok=1Ek1lhL4" width="2000" height="700" alt="Kutch embroidery (Gujarat)" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Kutch embroidery (Gujarat)</span></div></div><div class="slick__slide slide slide--6"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/Budha-Sakyamuni.jpg?itok=VQKfjZBP" width="2000" height="700" alt="Sculpture of Shakyamuni Buddha " typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Sculpture of Shakyamuni Buddha </span></div></div><div class="slick__slide slide slide--7"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/slider7%20%281%29.jpg?itok=1c4Og0n_" width="2000" height="700" alt="Kantha embroidery, Bengal" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Kantha embroidery, Bengal</span></div></div><div class="slick__slide slide slide--8"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/slider6_1.jpg?itok=RNNr8a-a" width="2000" height="700" alt="Damaru, a small two-headed drum" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Damaru, a small two-headed drum</span></div></div><div class="slick__slide slide slide--9"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/5%20%281%29_0.jpg?itok=CPH5tYVv" width="2000" height="700" alt="Rudra Veena, a classical string instrument" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Rudra Veena, a classical string instrument</span></div></div><div class="slick__slide slide slide--10"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/secretariat.jpg?itok=aiUpBnd0" width="2000" height="700" alt="View of the Secretariat buildings during constructions, New Delhi" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">View of the Secretariat buildings during constructions, New Delhi</span></div></div><div class="slick__slide slide slide--11"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/8_0.jpg?itok=IpaOe9TA" width="2000" height="700" alt="Kathakali, a dance form of Kerala" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Kathakali, a dance form of Kerala</span></div></div><div class="slick__slide slide slide--12"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/7%20%281%29.jpg?itok=Sfgp9bWp" width="2000" height="700" alt="Holi, the festival of colours" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Holi, the festival of colours</span></div></div><div class="slick__slide slide slide--13"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/3%20%281%29_0.jpg?itok=ibXAxCPh" width="2000" height="700" alt="Musicians playing the been, a wind instrument" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Musicians playing the been, a wind instrument</span></div></div><div class="slick__slide slide slide--14"><div class="views-field views-field-field-background-slider-image"><div class="field-content"><img src="/sites/default/files/styles/background_slider_image/public/2024-08/2%20%282%29_0.jpg?itok=MDSySTG9" width="2000" height="700" alt="Rangoli made using flowers" typeof="foaf:Image" /></div></div><div class="views-field views-field-title"><span class="field-content">Rangoli made using flowers</span></div></div></div><nav role="navigation" class="slick__arrow"><button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0">Previous</button><button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0">Next</button></nav></div>
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+</div>
+  </section>
+
+   
+    
+
+    
+  <section id="about">
+   
+     <div class="container skipanchor" id="skipdivbox"  >
+       <div class="row">  
+           <div class="col-md-12"> 
+              <div>
+    <div id="block-categoriestitle">
+  
+    
+      
+            <div><div class="section-header"><h2>Categories</h2> </div></div>
+      
+  </div>
+<div class="views-element-container" id="block-views-block-item-type-block-1">
+  
+    
+      <div><div class="js-view-dom-id-8d06f1be85ea9e9a126fd8ee900fda0412a1cd0a4f8bf6d7cf71a56e3ac7a7f8">
+  
+  
+  
+
+  
+  
+  
+
+  <div data-blazy="" class="slick slick--view--item-type slick--view--item-type--block-1 blazy slick--optionset--type-item slick--multiple-view" id="slick-views-item-type-block-1-4"><div id="slick-views-item-type-block-1-4-slider" data-slick="{&quot;mobileFirst&quot;:true,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:6000,&quot;pauseOnDotsHover&quot;:true,&quot;dots&quot;:true,&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;slidesToShow&quot;:7,&quot;slidesToScroll&quot;:7,&quot;variableWidth&quot;:true}" class="slick__slider"><div class="slick__slide slide slide--0"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2999498" hreflang="en"><img src="/sites/default/files/ItemTypeImg/Logo_30-07-2024-01-01.png" width="512" height="512" alt="Retrieved Artefacts of India" typeof="Image" /></a><p class="lead"><a href="/node/2999498" hreflang="en">Retrieved Artefacts of India</a></p></div></div></span></div></div><div class="slick__slide slide slide--1"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2951945" hreflang="en"><img src="/sites/default/files/ItemTypeImg/festival-logo_0.png" width="128" height="128" alt="Festivals and Observances of India" typeof="Image" /></a><p class="lead"><a href="https://indianculture.gov.in/festivals-of-India">Festivals of India</a></p></div></div></span></div></div><div class="slick__slide slide slide--2"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2943572" hreflang="en"><img src="/sites/default/files/ItemTypeImg/image0%20%281%29.png" width="150" height="150" alt="Flagship Events" typeof="Image" /></a><p class="lead"><a href="https://indianculture.gov.in/flagship-events">Flagship Events</a></p></div></div></span></div></div><div class="slick__slide slide slide--3"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2900041" hreflang="en"><img src="/sites/default/files/ItemTypeImg/Timeless_Tr.png" width="128" height="128" alt="Timeless Trends" typeof="Image" /></a><p class="lead"><a href="https://indianculture.gov.in/timeless-trends">Timeless Trends</a></p></div></div></span></div></div><div class="slick__slide slide slide--4"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2831420" hreflang="en"><img src="/sites/default/files/ItemTypeImg/district-1_0.png" width="128" height="128" alt="Digital District Repository" typeof="Image" /></a><p class="lead"><a href="https://indianculture.gov.in/digital-district-repository">Digital District Repository</a></p></div></div></span></div></div><div class="slick__slide slide slide--5"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2806373" hreflang="en"><img src="/sites/default/files/ItemTypeImg/NEA-1_0.png" width="128" height="128" alt="North-East Archive" typeof="Image" /></a><p class="lead"><a href="/north-east-archive">North-East Archive</a></p></div></div></span></div></div><div class="slick__slide slide slide--6"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2801272" hreflang="en"><img src="/sites/default/files/ItemTypeImg/ajanta-icon.png" width="128" height="128" alt="Ajanta Caves" typeof="Image" /></a><p class="lead"><a href="/ajanta">Ajanta Caves</a></p></div></div></span></div></div><div class="slick__slide slide slide--7"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2730218" hreflang="en"><img src="/sites/default/files/ItemTypeImg/Textiles_0.png" width="128" height="128" alt="textile" typeof="Image" /></a><p class="lead"><a href="/node/2730218" hreflang="en">Textiles and Fabrics of India</a></p></div></div></span></div></div><div class="slick__slide slide slide--8"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2730138" hreflang="en"><img src="/sites/default/files/ItemTypeImg/FortsofIndia_0.png" width="128" height="128" alt="Forts of India" typeof="Image" /></a><p class="lead"><a href="/node/2730138" hreflang="en">Forts of India</a></p></div></div></span></div></div><div class="slick__slide slide slide--9"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2730059" hreflang="en"><img src="/sites/default/files/ItemTypeImg/HistoricCities_0.png" width="128" height="128" alt="Historic Cities of India" typeof="Image" /></a><p class="lead"><a href="/node/2730059" hreflang="en">Historic Cities of India</a></p></div></div></span></div></div><div class="slick__slide slide slide--10"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2687094" hreflang="en"><img src="/sites/default/files/ItemTypeImg/AudioBlue_0.png" width="128" height="128" alt="Audios" typeof="Image" /></a><p class="lead"><a href="/node/2687094" hreflang="en">Audios</a></p></div></div></span></div></div><div class="slick__slide slide slide--11"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2686655" hreflang="en"><img src="/sites/default/files/ItemTypeImg/snippets_0.png" width="128" height="128" alt="Snippets" typeof="Image" /></a><p class="lead"><a href="/node/2686655" hreflang="en">Snippets</a></p></div></div></span></div></div><div class="slick__slide slide slide--12"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2686455" hreflang="en"><img src="/sites/default/files/ItemTypeImg/ich.png" width="128" height="128" alt="Intangible Cultural Heritage" typeof="Image" /></a><p class="lead"><a href="/node/2686455" hreflang="en">Intangible Cultural Heritage</a></p></div></div></span></div></div><div class="slick__slide slide slide--13"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2541521" hreflang="en"><img src="/sites/default/files/ItemTypeImg/Painting_128x128.png" width="128" height="128" alt="Paintings" typeof="Image" /></a><p class="lead"><a href="/node/2541521" hreflang="en">Paintings</a></p></div></div></span></div></div><div class="slick__slide slide slide--14"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2491245" hreflang="en"><img src="/sites/default/files/ItemTypeImg/unseco.png" width="128" height="128" alt="UNESCO" typeof="Image" /></a><p class="lead"><a href="/node/2491245" hreflang="en">UNESCO</a></p></div></div></span></div></div><div class="slick__slide slide slide--15"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2473776" hreflang="en"><img src="/sites/default/files/ItemTypeImg/mopa.png" width="128" height="128" alt="mopa" typeof="Image" /></a><p class="lead"><a href="/node/2473776" hreflang="en">Musical Instruments of India</a></p></div></div></span></div></div><div class="slick__slide slide slide--16"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/2473651" hreflang="en"><img src="/sites/default/files/ItemTypeImg/ResearchPaper.png" width="128" height="128" alt="rpapers" typeof="Image" /></a><p class="lead"><a href="/node/2473651" hreflang="en">Research Papers</a></p></div></div></span></div></div><div class="slick__slide slide slide--17"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/1831710" hreflang="en"><img src="/sites/default/files/ItemTypeImg/GalleryGreen_0.png" width="128" height="128" alt="Photo Essays" typeof="Image" /></a><p class="lead"><a href="/node/1831710" hreflang="en">Photo Essays</a></p></div></div></span></div></div><div class="slick__slide slide slide--18"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/250284" hreflang="en"><img src="/sites/default/files/ItemTypeImg/cuisineGreen_0.png" width="128" height="128" alt="Cuisines" typeof="Image" /></a><p class="lead"><a href="/node/250284" hreflang="en">Food &amp; Culture</a></p></div></div></span></div></div><div class="slick__slide slide slide--19"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22220" hreflang="en"><img src="/sites/default/files/ItemTypeImg/RareBook_0.png" width="128" height="128" alt="Rare Books" typeof="Image" /></a><p class="lead"><a href="/node/22220" hreflang="en">Rare Books</a></p></div></div></span></div></div><div class="slick__slide slide slide--20"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22219" hreflang="en"><img src="/sites/default/files/ItemTypeImg/ebooksOrange1.png" width="128" height="128" alt="E-Books" typeof="Image" /></a><p class="lead"><a href="/node/22219" hreflang="en">E-Books</a></p></div></div></span></div></div><div class="slick__slide slide slide--21"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22218" hreflang="en"><img src="/sites/default/files/ItemTypeImg/manuscriptOrange.png" width="128" height="128" alt="Manuscripts " typeof="Image" /></a><p class="lead"><a href="/node/22218" hreflang="en">Manuscripts </a></p></div></div></span></div></div><div class="slick__slide slide slide--22"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22217" hreflang="en"><img src="/sites/default/files/ItemTypeImg/museum.png" width="128" height="128" alt="Artefacts from Museums" typeof="Image" /></a><p class="lead"><a href="/node/22217" hreflang="en">Museum Collections</a></p></div></div></span></div></div><div class="slick__slide slide slide--23"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22215" hreflang="en"><img src="/sites/default/files/ItemTypeImg/ArchivesGolden_2.png" width="128" height="128" alt="Archives" typeof="Image" /></a><p class="lead"><a href="/node/22215" hreflang="en">Archives</a></p></div></div></span></div></div><div class="slick__slide slide slide--24"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22214" hreflang="en"><img src="/sites/default/files/ItemTypeImg/imagesOrange_3.png" width="128" height="128" alt="Photo Archives" typeof="Image" /></a><p class="lead"><a href="/node/22214" hreflang="en">Photo Archives</a></p></div></div></span></div></div><div class="slick__slide slide slide--25"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22213" hreflang="en"><img src="/sites/default/files/ItemTypeImg/Gazettes.png" width="128" height="128" alt="Gazettes" typeof="Image" /></a><p class="lead"><a href="/node/22213" hreflang="en">Gazettes and Gazetteers</a></p></div></div></span></div></div><div class="slick__slide slide slide--26"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><img src="/sites/default/files/2021-08/Bibilography.png" width="128" height="128" alt="Union Catalogue" typeof="Image" /><p class="lead"><a href="http://librarycatalogue.nvli.in/">Union Catalogue</a></p></div></div></span></div></div><div class="slick__slide slide slide--27"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><img src="/sites/default/files/2021-08/Bibilography_1.png" width="128" height="97" alt="Indian National Bibliography" typeof="Image" /><p class="lead"><a href="http://inb.nvli.in/cgi-bin/koha/opac-search.pl?advsearch=1&amp;idx=kw&amp;limit=branch%3ACRL&amp;sort_by=relevance&amp;do=Search">Indian National Bibliography</a></p></div></div></span></div></div><div class="slick__slide slide slide--28"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22208" hreflang="en"><img src="/sites/default/files/ItemTypeImg/Video_2.png" width="128" height="128" alt="Videos" typeof="Image" /></a><p class="lead"><a href="/node/22208" hreflang="en">Videos</a></p></div></div></span></div></div><div class="slick__slide slide slide--29"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22207" hreflang="en"><img src="/sites/default/files/ItemTypeImg/images_0.png" width="128" height="128" alt="Images" typeof="Image" /></a><p class="lead"><a href="/node/22207" hreflang="en">Images</a></p></div></div></span></div></div><div class="slick__slide slide slide--30"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22206" hreflang="en"><img src="/sites/default/files/ItemTypeImg/report.png" width="100" height="100" alt="report" typeof="Image" /></a><p class="lead"><a href="/node/22206" hreflang="en">Reports &amp; Proceedings </a></p></div></div></span></div></div><div class="slick__slide slide slide--31"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22205" hreflang="en"><img src="/sites/default/files/ItemTypeImg/other.png" width="128" height="128" alt="Other Collections" typeof="Image" /></a><p class="lead"><a href="/node/22205" hreflang="en">Other Collections</a></p></div></div></span></div></div><div class="slick__slide slide slide--32"><div class="views-field views-field-nothing"><span class="field-content"><div class="item itembox"><div class="pad15"><a href="/node/22204" hreflang="en"><img src="/sites/default/files/ItemTypeImg/Story.png" width="100" height="100" alt="story" typeof="Image" /></a><p class="lead"><a href="/node/22204" hreflang="en">Stories</a></p></div></div></span></div></div></div><nav role="navigation" class="slick__arrow"><button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0">Previous</button><button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0">Next</button></nav></div>
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+
+           </div>
+     </div>
+  </div>
+    </section><!-- #Resourse types -->
+  
+<div class="mocexternalbg-bottom"></div>
+
+
+   
+
+        
+  
+ <section >
+<div class="container" >
+
+
+
+  <div class=" js-quickedit-main-content">
+    <div class="row">
+
+      
+
+
+            
+                  <section class="col-md-12" id="product">
+
+       
+
+       
+
+        
+
+
+                          <a id="main-content"></a>
+            <div>
+    <div data-drupal-messages-fallback class="hidden"></div><div id="block-newfeatureofindianculture">
+  
+    
+      
+            <div><div class="section-header">
+<h2>New Additions</h2>
+</div>
+</div>
+      
+  </div>
+<div id="block-mainpagecontent">
+  
+    
+      <div class="views-element-container"><div class="js-view-dom-id-60e508cf06ad06557a9e99147d33e22729c49e00e5fac9e74ed8f82498aa76cb">
+  
+  
+  
+
+  
+  
+  
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+<div id="block-newaddition">
+  
+    
+      
+            <div><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+.whitenew-btn {
+font-size:14px!important;
+}
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style><div class="row">
+<div class="col-md-2 col-xs-6 p-1">
+<div class="homebox">
+<div class="col-md-12 p-0"><img class="img-responsive p-1" src="/sites/default/files/2022-08/princess-icon2.jpg" style="height: 90px;" /><div class="text-center"><a class="btn btn-info whitenew-btn" href="/jewellery-of-the-nizams">Jewellery of the Nizams</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-md-2 col-xs-6 p-1">
+<div class="homebox">
+<div class="col-md-12 p-0"><img class="img-responsive p-1" src="/system/files/featureblockfiles/ajnata-1_0.jpg" style="height: 90px;" /><div class="text-center"><a class="btn btn-info whitenew-btn" href="https://indianculture.gov.in/ajanta">Ajanta Caves</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-md-2 col-xs-6 p-1">
+<div class="homebox">
+<div class="col-md-12 p-0"><img alt="dd" class="img-responsive p-1" data-entity-type="file" data-entity-uuid="4c816921-130e-4953-8d22-06f8883abc87" src="/system/files/featureblockfiles/northeast-5.jpg" style="height: 90px;" /><div class="text-center"><a class="btn btn-info whitenew-btn" href="/north-east-archive">The North-East Archive</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-md-2 col-xs-6 p-1">
+<div class="homebox">
+<div class="col-md-12 p-0"><img class="img-responsive p-1" src="./system/files/FortsofIndia/amer-fort1.jpg" /><div class="text-center="><a class="btn btn-info whitenew-btn" href="./forts-of-india">Forts of India</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-md-2 col-xs-6 p-1">
+<div class="homebox">
+<div class="col-md-12 p-0"><img class="img-responsive p-1" src="./system/files/FortsofIndia/walkthrough.jpg" /><div class="text-center"><a class="btn btn-info whitenew-btn" href="./virtual-walkthrough">Virtual Walkthrough</a></div>
+</div>
+</div>
+</div>
+
+<div class="col-md-2 col-xs-6 p-1">
+<div class="homebox">
+<div class="col-md-12 p-0"><img class="img-responsive p-1" src="/system/files/featureblockfiles/historicCities.jpg" /><div class="text-center"><a class="btn btn-info whitenew-btn" href="/historic-cities">Historic Cities Of India</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+  </div>
+
+  </div>
+
+              </section>
+
+                </div>
+  </div>
+      
+    </div>   
+
+</section>
+
+
+<section>
+
+   <div class="" >
+
+    
+</div>
+  </section>
+
+  
+
+
+
+
+
+
+  
+
+
+    
+  <section id="services" class="sidebartextute">
+      <div class="container" >
+        <div class="row">
+        <div class="col-md-6">		
+	 <div class="box wow fadeInRight">
+		 <div class="section-header">
+         
+		</div>	
+		      <div>
+    <div id="block-sidebarblock-2">
+  
+    
+      
+            <div><div class="section-header">
+<h3>Freedom Archive</h3>
+
+<p class="p-2"><a href="https://indianculture.gov.in/freedom-archive"><img alt="freedom" class="img-responsive" data-entity-type="file" data-entity-uuid="d3b497dd-74e1-41b6-86a8-fc9e04d05a35" src="/sites/default/files/inline-images/feedom.jpg" /></a></p>
+</div>
+</div>
+      
+  </div>
+
+  </div>
+ 
+			 </div>
+			 
+		</div>
+
+          <div class="col-md-6">
+<div class="box wow fadeInRight">
+<div class="icon">&nbsp;</div>
+<div class="section-header">
+                   <div>
+    <div id="block-eventname-2">
+  
+    
+      
+            <div><h3>Did You Know?</h3>
+</div>
+      
+  </div>
+
+  </div>
+     
+             </div>
+  <div>
+    <div class="views-element-container" id="block-views-block-did-you-know-block-1">
+  
+    
+      <div><div class="js-view-dom-id-d516563df7cef058b3868c58514eff4c054838ef01de6ebe634fd8a5fe0d4a42">
+  
+  
+  
+
+      <header>
+      <style>
+<!--/*--><![CDATA[/* ><!--*/
+
+#services .box p{line-height:22px !important; font-size:13px !important;} 
+.didtextnew {
+    padding: 2%;
+}
+#block-views-block-did-you-know-block-1 img {
+    width: 50% !important;
+    height: auto;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+/*--><!]]>*/
+</style>
+    </header>
+  
+  
+  
+
+      <div><div class="views-field views-field-nothing"><span class="field-content"> <div class="row">
+<div class="col-md-12 content"><div class="didtextnew">
+<b><p>03 JUNE   G SHANKAR KURUP (1901 to 1978)<p></b>
+<p><img src="/system/files/diduknowImages/Screenshot%202025-06-03%20095345.png" class="pull-left pl-2" /> <p>Govind Shankar Kurup, a famous Malayalam poet, was born on 03 June 1901, in present-day Kochi in Kerala. Right from his childhood, he showed an inclination to write poetry. His first collection of poems was published when he was only 17 years old. Popularly referred to as G, his repertoire of published work includes more than 40 original and translated compositions. He was the first to win India’s highest literary award, the Jnanpith Award in 1965, for his anthology, Odukuzhal (Bamboo Flute), published in 1950. This work was later translated into Hindi and called Bansuri. He was also the recipient of the Padma Bhushan in 1968. G Shankar Kurup passed away on 02 February 1978.</p></p>
+</div></div>
+ 
+</div>
+  
+
+</span></div><div class="views-field views-field-field-did-you-know-video"><div class="field-content"></div></div><div class="views-field views-field-field-did-you-know-video-text"><div class="field-content col-md-12 content"></div></div></div>
+
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+</div>
+
+
+                    
+        </div>
+                 <div class="col-md-12">
+            <div class="box wow fadeInLeft">
+              <div class="section-header">
+                   <div>
+    <div id="block-selectedstory">
+  
+    
+      
+            <div><h2>Stories</h2>
+</div>
+      
+  </div>
+<div class="views-element-container" id="block-views-block-story-view-block-1">
+  
+    
+      <div><div class="js-view-dom-id-4c4f52caeae848e154afca9f1d836b7a99c66b04d14628c393fd3e7f8c35bba5">
+  
+  
+  
+
+      <header>
+      <style>
+<!--/*--><![CDATA[/* ><!--*/
+ #slick-views-story-view-block-1-3-slider .slick-slide{width:273px !important; height:279px !important;}
+#slick-views-story-view-block-1-3 .slick-prev{
+    left: -33px !important;
+}
+#slick-views-story-view-block-1-3 .slick-next {
+    right: -4%;
+}
+#slick-views-story-view-block-1-3-slide .storybox-title1, #slick-views-story-view-block-1-3-slide .storybox-title1 a, .storybox-details h5 ,  .storybox-details h5  a{
+    font-size: 18px;
+    color: #fff !important;
+    font-weight: 500;
+    padding: 5px;
+    margin: 0;
+}
+
+#slick-views-story-view-block-1-3-slide .section-header1 h2, #slick-views-story-view-block-1-3-slide  h3 {
+    font-size: 26px;
+    color: #fff !important;
+    font-weight: 700;
+    position: relative;
+    padding-top: 0;
+    padding-bottom: 0;
+    width: 100%;
+    text-align: center;
+    background:#fff !important;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 0;
+    line-height: 40px;
+}
+
+#h3{
+-webkit-text-fill-color: white!important;
+}
+.h3{
+-webkit-text-fill-color: white!important;
+}
+#slick-views-story-view-block-1-3-slide p {
+    color: #fff;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+/*--><!]]>*/
+</style>
+    </header>
+  
+  
+  
+
+  <div data-blazy="" class="slick slick--view--story-view slick--view--story-view--block-1 blazy slick--skin--split slick--optionset--story slick--multiple-view" id="slick-views-story-view-block-1-3"><div id="slick-views-story-view-block-1-3-slider" data-slick="{&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:8000,&quot;draggable&quot;:false,&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;slidesToShow&quot;:4,&quot;slidesToScroll&quot;:2,&quot;variableWidth&quot;:true,&quot;waitForAnimate&quot;:false}" class="slick__slider"><div class="slick__slide slide slide--0"><div class="storybox"><a href="/stories/lord-padmanabha-and-his-dasas" target="_blank"><div class="storybox-overlay"></div><a href="/stories/lord-padmanabha-and-his-dasas" hreflang="en"><img src="/system/files/StoryImg/travancore_011.jpg" width="600" height="600" alt="Lord Padmanabha and His Dasas" typeof="Image" /></a><div class="storybox-details fadeIn-bottom"><h5 class="storybox-title1 text-truncate"><a href="/stories/lord-padmanabha-and-his-dasas" hreflang="en">Lord Padmanabha and His Dasas</a></h5><p>This story recounts the history of the Padmanabhaswamy Temple and the Royal Family of Travancore associated with it. </p></div></a></div></div><div class="slick__slide slide slide--1"><div class="storybox"><a href="/stories/jagannath-temple-puri" target="_blank"><div class="storybox-overlay"></div><a href="/stories/jagannath-temple-puri" hreflang="en"><img src="/system/files/StoryImg/jagarnath.jpg" width="400" height="400" alt="The Jagannath Temple Puri" typeof="Image" /></a><div class="storybox-details fadeIn-bottom"><h5 class="storybox-title1 text-truncate"><a href="/stories/jagannath-temple-puri" hreflang="en">The Jagannath Temple - Puri</a></h5><p>The Jagannath Temple in Puri is one of the ‘Char Dhams’ in Hindu tradition. It is home to Lord Jagannath, Goddess Subhadra and Lord Balbhadra. </p></div></a></div></div><div class="slick__slide slide slide--2"><div class="storybox"><a href="/stories/delhi-durbars" target="_blank"><div class="storybox-overlay"></div><a href="/stories/delhi-durbars" hreflang="en"><img src="/system/files/StoryImg/delhi-darbar.jpg" width="600" height="600" alt="Delhi Durbars" typeof="Image" /></a><div class="storybox-details fadeIn-bottom"><h5 class="storybox-title1 text-truncate"><a href="/stories/delhi-durbars" hreflang="en">Delhi Durbars</a></h5><p>The Delhi Durbars were grand events organised by the Viceroys of India to mark the coronation of Emperors or Empresses of Britain. Hence, these were also known as the Coronation Durbars.  </p></div></a></div></div><div class="slick__slide slide slide--3"><div class="storybox"><a href="/stories/simla-summer-capital" target="_blank"><div class="storybox-overlay"></div><a href="/stories/simla-summer-capital" hreflang="en"><img src="/system/files/StoryImg/shimla.jpg" width="600" height="600" alt="Simla: The Summer Capital" typeof="Image" /></a><div class="storybox-details fadeIn-bottom"><h5 class="storybox-title1 text-truncate"><a href="/stories/simla-summer-capital" hreflang="en">Simla: The Summer Capital</a></h5><p>Far from home, the British recreated a ‘little England’ tucked away in the Himalayan foothills. Simla was pulled from obscurity and made the summer Capital of one of England’s largest colonies, India.<br /></p></div></a></div></div><div class="slick__slide slide slide--4"><div class="storybox"><a href="/stories/sanchi-monument-rediscovery" target="_blank"><div class="storybox-overlay"></div><a href="/stories/sanchi-monument-rediscovery" hreflang="en"><img src="/system/files/StoryImg/sachi-img.jpg" width="400" height="400" alt="The Life of Sanchi Monument: The Story of its Rediscovery and Return" typeof="Image" /></a><div class="storybox-details fadeIn-bottom"><h5 class="storybox-title1 text-truncate"><a href="/stories/sanchi-monument-rediscovery" hreflang="en">Sanchi Monument: A Rediscovery</a></h5><p>This story narrates the history of the Sanchi monuments from the time of its discovery by British colonial officials at the beginning of the 19th century. </p></div></a></div></div><div class="slick__slide slide slide--5"><div class="storybox"><a href="/stories/gandhis-satyagraha-champaran" target="_blank"><div class="storybox-overlay"></div><a href="/stories/gandhis-satyagraha-champaran" hreflang="en"><img src="/system/files/StoryImg/champaran.png" width="600" height="600" alt="‘THE STAIN OF INDIGO’ AND GANDHI’S SATYAGRAHA IN CHAMPARAN" typeof="Image" /></a><div class="storybox-details fadeIn-bottom"><h5 class="storybox-title1 text-truncate"><a href="/stories/gandhis-satyagraha-champaran" hreflang="en">Gandhi&#039;s Satyagraha in Champaran</a></h5><p>This story revolves around the oppressive tinkathia system of Indigo cultivation in Champaran and Gandhiji’s Satyagraha to help the peasants. <br /></p></div></a></div></div></div><nav role="navigation" class="slick__arrow"><button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0">Previous</button><button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0">Next</button></nav></div>
+    
+
+  
+  
+
+      <footer>
+      <a href="./stories">All Stories</a>
+    </footer>
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+      
+             </div>    
+        
+          
+            
+            </div>
+                      </div>
+      </div><!--row close-->
+   </div><!--conatiner close-->
+  </section><!-- #services -->
+   
+  
+      <div class="mocexternalbg"></div>
+    <section id="mocexternal">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-12">
+            <div class="box wow fadeInLeft">
+             <div class="section-header">
+                   <div>
+    <div id="block-externalwebsitelink">
+  
+    
+      
+            <div><h2>External Links (Ministry of Culture)</h2>
+<a href="https://indianculture.gov.in/recruitment-by-the-glam-division-ministry-of-culture" class="btn btn-warning offset-md-3 col-md-6">Recruitment by the GLAM Division (Ministry of Culture)</a></div>
+      
+  </div>
+
+  </div>
+     
+             </div>
+              <div>
+    <div class="views-element-container" id="block-views-block-external-website-image-block-1">
+  
+    
+      <div><div class="js-view-dom-id-7ff9c9a1d96bdfe2fed03ae78237fbe1a3d43105e37f68903ca6afa4c77bf490">
+  
+  
+  
+
+  
+  
+  
+
+  <div data-blazy="" class="slick slick--view--external-website-image slick--view--external-website-image--block-1 blazy slick--skin--split slick--optionset--story slick--multiple-view" id="slick-views-external-website-image-block-1-2"><div id="slick-views-external-website-image-block-1-2-slider" data-slick="{&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:8000,&quot;draggable&quot;:false,&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;slidesToShow&quot;:4,&quot;slidesToScroll&quot;:2,&quot;variableWidth&quot;:true,&quot;waitForAnimate&quot;:false}" class="slick__slider"><div class="slick__slide slide slide--0"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/Antiquities.jpg" width="400" height="250" alt="National Mission on Monuments and Antiquities" typeof="Image" /></figure><div class="caption externallink"><h3><a href="https://nmma.nic.in/" target="_blank">National Mission on Monuments and Antiquities</a></h3></div></div></div></div><div class="slick__slide slide slide--1"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/ncaa.png" width="400" height="250" alt="National Cultural Audiovisual Archives" typeof="Image" /></figure><div class="caption externallink"><h3><a href="http://ncaa.gov.in/repository/" target="_blank">National Cultural Audiovisual Archives</a></h3></div></div></div></div><div class="slick__slide slide slide--2"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/ndli.png" width="400" height="250" alt="National Digital Library of India (NDLI)" typeof="Image" /></figure><div class="caption externallink"><h3><a href="https://ndl.iitkgp.ac.in/" target="_blank">National Digital Library of India (NDLI)</a></h3></div></div></div></div><div class="slick__slide slide slide--3"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/asram.png" width="400" height="250" alt="Gandhi Ashram at Sabarmati" typeof="Image" /></figure><div class="caption externallink"><h3><a href="https://gandhiashramsabarmati.org/en/" target="_blank">Gandhi Ashram at Sabarmati</a></h3></div></div></div></div><div class="slick__slide slide slide--4"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/workship.png" width="400" height="250" alt="sangum App Google Play" typeof="Image" /></figure><div class="caption externallink"><h3><a href="https://sangam.gov.in/" target="_blank">Sangam App  Link to Download</a></h3></div></div></div></div><div class="slick__slide slide slide--5"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/heritage.png" width="400" height="250" alt="Gandhi Heritage Portal" typeof="Image" /></figure><div class="caption externallink"><h3><a href="https://www.gandhiheritageportal.org/" target="_blank">Gandhi Heritage Portal</a></h3></div></div></div></div><div class="slick__slide slide slide--6"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/fgh.png" width="400" height="250" alt="National Mission for Manuscripts" typeof="Image" /></figure><div class="caption externallink"><h3><a href="https://www.namami.gov.in/" target="_blank">National Mission for Manuscripts</a></h3></div></div></div></div><div class="slick__slide slide slide--7"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/vedic_0.jpg" width="400" height="250" alt="Vedic Heritage" typeof="Image" /></figure><div class="caption externallink"><h3><a href="http://vedicheritage.gov.in/en/" target="_blank">Vedic Heritage</a></h3></div></div></div></div><div class="slick__slide slide slide--8"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/abhi.jpg" width="400" height="250" alt="Abhilekh Patal" typeof="Image" /></figure><div class="caption externallink"><h3><a href="https://www.abhilekh-patal.in/jspui/" target="_blank">Abhilekh Patal</a></h3></div></div></div></div><div class="slick__slide slide slide--9"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/museumofindia.png" width="400" height="250" alt="Museums of India" typeof="Image" /></figure><div class="caption externallink"><h3><a href="http://museumsofindia.gov.in/" target="_blank">Museums of India</a></h3></div></div></div></div><div class="slick__slide slide slide--10"><div class="item m-2"><div class="sangumapp"><figure><img src="/sites/default/files/ExtWebImg/nataji.png" width="400" height="250" alt="Netaji Subhas Chandra Bose Papers" typeof="Image" /></figure><div class="caption externallink"><h3><a href="http://www.netajipapers.gov.in/" target="_blank">Netaji Subhas Chandra Bose Papers</a></h3></div></div></div></div></div><nav role="navigation" class="slick__arrow"><button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0">Previous</button><button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0">Next</button></nav></div>
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+   
+           </div>
+       </div>
+        </div><!--row close-->
+   </div><!--conatiner close-->
+    </section> 
+  
+    <div class="mocexternalbg-bottom"></div>
+
+     <section id="storypanel" class="textute-bottom">
+      <div class="container">
+        <div class="section-header wow fadeInUp ">
+            <div>
+    <div id="block-selectedorganizations">
+  
+    
+      
+            <div><h2>Ministry Of Culture Organisations</h2></div>
+      
+  </div>
+
+  </div>
+   
+        </div>
+  <div>
+    <div class="views-element-container" id="block-views-block-all-moc-organization-block-1-2">
+  
+    
+      <div><div class="js-view-dom-id-ad5bac76e3334069f951ce4daec8c754e5220caaf2fb1b32faa406562cafc7f6">
+  
+  
+  
+
+      <header>
+      <style>
+<!--/*--><![CDATA[/* ><!--*/
+
+#slick-views-all-moc-organization-block-1-5-slider .slick-slide{display:block;padding:4px;line-height:1.42857143;background-color:#fff;border:1px solid #a9a9a9;border-radius:4px;-webkit-transition:border .2s ease-in-out;-o-transition:border .2s ease-in-out;transition:border .2s ease-in-out;height:250px;margin:.25rem!important}#innerabout{background:#f1f1f1}#innerabout .item{float:left;text-align:center;text-align:center;padding:5px;margin:0;height:116px;width:137px}#innerabout .lead{text-align:center;margin:0}#innerabout .lead a{margin:0;font-size:14px;font-weight:400;color:#000;display:inline-grid;text-align:center}#slick-views-inner-list-page-view-block-1-1-slider .slick__slide img{text-align:center!important;margin:0;display:inline-block}#slick-views-inner-list-page-view-block-1-1-slider .slick-slide .slick-slide{background:#f1f1f1;color:#666;height:120px}#slick-views-inner-list-page-view-block-1-1-slider .slick-slide:nth-of-type(odd){background:#f5f5f5}#slick-views-inner-list-page-view-block-1-1-slider .slick-slide:hover{background:#f1f1f1;border-radius:5px}#slick-views-inner-list-page-view-block-1-1-slider .slick-slide:hover a{color:#6b1551}#slick-views-all-moc-organization-block-1-5-slider .slick-slide{display:block;padding:4px;line-height:1.42857143;background-color:#fff;border:1px solid #a9a9a9;border-radius:4px;-webkit-transition:border .2s ease-in-out;-o-transition:border .2s ease-in-out;transition:border .2s ease-in-out;height:220px;margin:.25rem!important}#slick-views-all-moc-organization-block-1-5-slider .slick-slide h3 a:hover,.thumbnail1 p a:hover{color:#980e71}#slick-views-all-moc-organization-block-1-5-slider .slick-slide h3 a,.thumbnail1 p a{color:#000}#slick-views-all-moc-organization-block-1-5-slider .slick-slide .caption{display:block}#slick-views-all-moc-organization-block-1-5-slider .slick-slide .caption h3{padding:4px;color:#000;margin:0;font-weight:400;font-size:16px;border-bottom:0 solid #f7f7f7;text-align:center}#slick-views-all-moc-organization-block-1-5-slider .slick-slide .caption p{font-size:12px;color:#777;padding:15px 0;margin-bottom:0}#slick-views-all-moc-organization-block-1-5-slider .slick-slide figure{margin:0}#slick-views-all-moc-organization-block-1-5-slider .slick-slide img{border-radius:.25rem!important} #slick-views-all-moc-organization-block-1-5 .slick-prev {
+    left: -5%!important;
+} #slick-views-all-moc-organization-block-1-5 .slick-next {
+    right: -5%;
+}
+/style>
+/*--><!]]>*/
+</style>
+    </header>
+  
+  
+  
+
+  <div data-blazy="" class="slick slick--view--all-moc-organization slick--view--all-moc-organization--block-1 blazy slick--skin--split slick--optionset--all-moc-organization slick--multiple-view" id="slick-views-all-moc-organization-block-1-1"><div id="slick-views-all-moc-organization-block-1-1-slider" data-slick="{&quot;lazyLoad&quot;:&quot;blazy&quot;,&quot;slidesToShow&quot;:4,&quot;slidesToScroll&quot;:4}" class="slick__slider"><div class="slick__slide slide slide--0"><div><figure><a href="/MoCorganization/allahabad-museum" hreflang="en"><img src="/sites/default/files/OrgImg/am%20thumbnail_0.jpg" width="400" height="250" alt="Allahabad Museum" typeof="Image" /></a></figure><div class="caption externallink"><h3><a href="/MoCorganization/allahabad-museum" hreflang="en">Allahabad Museum</a></h3></div></div></div><div class="slick__slide slide slide--1"><div><figure><a href="/MoCorganization/anthropological-survey-india" hreflang="en"><img src="/sites/default/files/OrgImg/aasi%20thumbnail_0%20%281%29.jpg" width="400" height="250" alt="asi images" typeof="Image" /></a></figure><div class="caption externallink"><h3><a href="/MoCorganization/anthropological-survey-india" hreflang="en">Anthropological Survey of India</a></h3></div></div></div><div class="slick__slide slide slide--2"><div><figure><a href="/MoCorganization/archaeological-survey-india" hreflang="en"><img src="/sites/default/files/OrgImg/asi%20thumbnail_0.jpg" width="400" height="250" alt="12" typeof="Image" /></a></figure><div class="caption externallink"><h3><a href="/MoCorganization/archaeological-survey-india" hreflang="en">Archaeological Survey of India</a></h3></div></div></div><div class="slick__slide slide slide--3"><div><figure><a href="/MoCorganization/central-institute-buddhist-studies" hreflang="en"><img src="/sites/default/files/OrgImg/leh%20thumbnail_0.jpg" width="400" height="250" alt="Central Institute of Buddhist Studies" typeof="Image" /></a></figure><div class="caption externallink"><h3><a href="/MoCorganization/central-institute-buddhist-studies" hreflang="en">Central Institute of Buddhist Studies</a></h3></div></div></div><div class="slick__slide slide slide--4"><div><figure><a href="/MoCorganization/central-institute-higher-tibetan-studies" hreflang="en"><img src="/sites/default/files/OrgImg/cc%20thumbnail_0.jpg" width="400" height="250" alt="Central Institute of Higher Tibetan Studies" typeof="Image" /></a></figure><div class="caption externallink"><h3><a href="/MoCorganization/central-institute-higher-tibetan-studies" hreflang="en">Central Institute of Higher Tibetan Studies</a></h3></div></div></div><div class="slick__slide slide slide--5"><div><figure><a href="/MoCorganization/central-institute-himalayan-culture-studies" hreflang="en"><img src="/sites/default/files/OrgImg/him-img%20%281%29.jpg" width="400" height="250" alt="Central Institute of Himalayan Culture Studies" typeof="Image" /></a></figure><div class="caption externallink"><h3><a href="/MoCorganization/central-institute-himalayan-culture-studies" hreflang="en">Central Institute of Himalayan Culture Studies</a></h3></div></div></div></div><nav role="navigation" class="slick__arrow"><button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0">Previous</button><button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0">Next</button></nav></div>
+    
+
+  
+  
+
+      <footer>
+      <a href="./moc-organisations">All organisations</a>
+    </footer>
+  
+  
+</div>
+</div>
+
+  </div>
+
+  </div>
+
+         
+      </div>
+    </section><!-- #clients -->
+
+     
+ 
+  
+
+      
+
+ 
+ <div class="clearfix"></div>
+  
+    <div>
+    <div id="block-partnerinstitutions">
+  
+    
+      
+            <div><div class="clearfix"> </div>
+
+<div class="footerflowbg"> </div>
+
+<div class="sponsors">
+<div class="container">
+<div class="row">
+<div class="col-md-12 section-header">
+<h2>Partners</h2>
+</div>
+</div>
+
+<div class="row sponsors_row">
+<div class="col-lg-6 col-xs-12 sponsors_col">
+<div class="sponsors_item d-flex flex-row align-items-center">
+<div class="sponsors_icon"><a href="https://indiaculture.gov.in/" target="_blank"><img alt="ms-logo" data-entity-type="file" data-entity-uuid="86b60005-cd39-4370-a3f6-b7ffa49130c1" src="/sites/default/files/inline-images/logo%20%281%29.png" style="width:295% !important;" /></a></div>
+</div>
+</div>
+
+<div class="col-lg-6 col-xs-12 sponsors_col">
+<div class="sponsors_item d-flex flex-row align-items-center">
+<div class="sponsors_icon"><a href="http://www.iitb.ac.in/" target="_blank"><img alt="IIT Bombay Logo" src="/themes/nvli/img/Bombay_Logo.png" /></a></div>
+
+<div class="sponsors_content text-center">
+<h6><a href="http://www.iitb.ac.in/" target="_blank">IIT Bombay</a></h6>
+
+<p><a href="http://www.iitb.ac.in/" target="_blank">Indian Institute of Technology Bombay</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+.carousel-item .card-footer p{text-align:center; font-size:13px !important;}
+.btncenter {position: relative;margin-top: 20em;}
+#block-menubar4 .is-active {
+    color: #d64254 !important;
+    cursor: pointer;
+    background-color: #f4d3d3;
+    padding: 
+5px;
+}
+ body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none;    /* Firefox */
+            -ms-user-select: none;     /* Internet Explorer/Edge */
+            user-select: none;         /* Non-prefixed version, currently supported by Chrome, Opera, and Edge */
+        }
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style><script>
+<!--//--><![CDATA[// ><!--
+
+<!--//--><![CDATA[// ><!--
+
+document.addEventListener('copy', function(e) {
+    e.preventDefault();
+    alert('Copying is not allowed on this page.');
+});
+
+
+//--><!]]]]><![CDATA[>
+
+//--><!]]>
+</script></div>
+      
+  </div>
+
+  </div>
+
+
+  
+
+ 
+<section class="section-footer">
+<div class="container">
+<div class="row">
+<div class="col-sm-12 col-md-3">
+<div class="widget-a">
+<div>
+<div id="block-nationalvirtuallibraryofindia">
+<div>
+<div class="widget-a">
+<div class="w-header-a">
+  <div>
+    <div id="block-indianculture">
+  
+    
+      
+            <div><div>
+<p><img alt="Indian Culture Logo" class="img-responsive" src="/themes/nvli/img/25-oct-logo_0_0_0.png" />Recognizing the ongoing need to position itself for the digital future, Indian Culture is an initiative by the Ministry of Culture. A platform that hosts data of cultural relevance from various repositories and institutions all over India.</p>
+
+<div class="socials-a">
+<ul class="list-inline"><li class="list-inline-item "><a href="https://www.facebook.com/INDCulturePortal" class="fa fa-facebook"></a> </li>
+	<li class="list-inline-item "><a href="https://www.instagram.com/indiancultureportal/" class="fa fa-instagram"></a> </li>
+	<li class="list-inline-item "><a href="https://twitter.com/_IndianCulture"><img src="/system/files/timelineimages/twitter-x.png" width="20px" height="20px" alt="logo" typeof="foaf:Image" style="&#10;    margin-top: -3px;&#10;" /></a> </li>
+
+</ul></div>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+
+.section-footer ul li a, .section-footer a {
+    font-size: 25px;
+}
+
+/*--><!]]]]]]><![CDATA[><![CDATA[>*/
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style></div>
+</div>
+      
+  </div>
+
+  </div>
+
+</div>
+
+
+</div>
+</div>
+</div>
+</div>
+<!-- <div class="w-body-a">
+              <p class="w-text-a color-text-a text-left">
+             <img src="/nvli/themes/nvli/iitb.png"class="text-center" /><br/><small>Indian Culture &nbsp;&nbsp;IIT Bombay<br/></small>
+              </p>
+            </div>
+            <div class="w-footer-a">
+              <ul class="list-unstyled">
+                <li class="color-a">
+                  <span class="color-text-a">Phone .</span> contact@example.com</li>
+                <li class="color-a">
+                  <span class="color-text-a">Email .</span> +54 356 945234</li>
+              </ul>
+            </div>/--></div>
+</div>
+
+<div class="col-md-6 col-sm-12 section-md-t3">
+<div class="row">
+<div class="content">
+<ul>
+  <div>
+    <div id="block-footerlinks">
+  
+    
+      
+            <div><div class="content">
+<div>
+<nav aria-labelledby="block-policies-menu" id="block-policies" role="navigation"><h2 id="block-policies-menu">Quick Links</h2>
+
+<ul><li><a data-drupal-link-system-path="node/125092" href="/accessibility-statement">Accessibility Statement</a></li>
+	<li><a data-drupal-link-system-path="moc-organisations" href="/MoCorganization">All MoC Organisations</a></li>
+	<li><a data-drupal-link-system-path="node/125093" href="/copyright-policy">Copyright Policy</a></li>
+	<li><a data-drupal-link-system-path="node/169880" href="/hyper-linking-policy">Hyperlinking Policy</a></li>
+	<li><a data-drupal-link-system-path="node/168639" href="/privacy-policy">Privacy Policy</a></li>
+	<li><a data-drupal-link-system-path="node/125091" href="/terms-and-conditions">Terms and Conditions</a></li>
+	<li><a data-drupal-link-system-path="node/125094" href="/disclaimer">Disclaimer</a></li>
+	<li><a data-drupal-link-system-path="node/125094" href="/sitemap">Site Map</a></li>
+	<li><a href="/icpdownload">ICP Download</a></li>
+</ul></nav></div>
+
+<ul></ul></div>
+</div>
+      
+  </div>
+<div id="block-fottterappblock">
+  
+    
+      
+            <div> </div>
+      
+  </div>
+
+  </div>
+
+
+
+</ul>
+</div>
+</div>
+</div>
+<div class="col-sm-12 col-md-3">  <div>
+    <div id="block-nvli-2">
+  
+    
+      
+            <div><p>The Indian Culture Portal is a part of the National Virtual Library of India project, funded by the Ministry of Culture, Government of India. The portal has been created and developed by the Indian Institute of Technology, Bombay. Data has been provided by organisations of the Ministry of Culture.</p>
+
+<p>Email Id : indian-culture@gov.in</p>
+</div>
+      
+  </div>
+
+  </div>
+ </div>
+</div>
+</div>
+</section>
+
+<footer>
+<div>
+<div id="block-fotter">
+
+<div>
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<div class="footer-logo">
+  <div>
+    <div id="block-footerlogo">
+  
+    
+      
+            <div><ul><li><a href="https://www.digitalindia.gov.in/" target="_blank"><img alt="Digital India" src="/themes/nvli/img/digital-india-logo.png" title="Digital India (External Site that opens in a new window)" /></a></li>
+	<li><a href="https://swachhbharatmission.gov.in/SBMCMS/index.htm" target="_blank"><img alt="National Portal of India" src="/themes/nvli/img/swachh-bharat.png" title="National Portal of India (External Site that opens in a new window)" /></a></li>
+	<li><a href="https://www.mygov.in" target="_blank"><img alt="MyGov" src="https://www.mygov.in/footer_service/images/mygov-footer-logo.png" title="MyGov (External Site that opens in a new window)" /></a></li>
+	<li><a alt="MoC" href="https://indiaculture.gov.in/" target="_blank" title="MeitY (External Site that opens in a new window)"><img alt="ms-logo" data-entity-type="file" data-entity-uuid="87ab8c26-a340-4c4d-8653-d1b54aca0237" src="/sites/default/files/inline-images/logo_1.png" title="Ministry of Culture, Government of India" width="120px" /></a></li>
+	<li><a href="https://www.incredibleindia.org/content/incredible-india-v2/en.html" target="_blank"><img alt="logo-gandhi" src="http://indianculture.gov.in/system/files/StoryImg/logo.png" title="logo-Incredible India" /></a></li>
+</ul><style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+<!--/*--><![CDATA[/* ><!--*/
+.tab-Cuisines {
+  clear: left; background-image:url('http://indianculture.gov.in/system/files/2023-12/cusinisebg.jpg');
+  background-repeat: repeat;
+    background-position: center center;
+    background-size: cover; display: inline-flex;
+}
+
+.tab-Performative {
+  clear: left; background-image:url('http://indianculture.gov.in/system/files/2024-01/Performative-new.jpg');
+  background-repeat: repeat;
+    background-position: center center;
+    background-size: cover; display: inline-flex;
+}
+.tab-Sport {
+  clear: left; background-image:url('http://indianculture.gov.in/system/files/2023-12/sport.jpg');
+  background-repeat: repeat;
+    background-position: center center;
+    background-size: cover; display: inline-flex;
+}
+
+.tab-Myths {
+  clear: left; background-image:url('http://indianculture.gov.in/system/files/2023-11/Myths.jpg');
+  background-repeat: repeat;
+    background-position: center center;
+    background-size: cover;display: inline-flex;
+    background-attachment: scroll; display: flow-root;
+}
+.transboxfest a img{height:180px}
+
+/*--><!]]]]><![CDATA[>*/
+
+/*--><!]]>*/
+</style></div>
+      
+  </div>
+
+  </div>
+
+
+</div>
+
+<div class="copyright-footer">
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+ 
+
+  <a id="back-to-top" href="#" class="back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><span class="fa fa-chevron-up"></span></a>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.2/js/swiper.min.js'></script>
+<script> 
+var timelineSwiper = new Swiper ('.timelinemanu .swiper-container', {
+  direction: 'vertical',
+  loop: false,slidesPerView: 1,
+  speed: 1600,
+  autoplay:9000,
+ // autoplaySpeed: randomSpeed,
+  fade: true,
+  pagination: '.swiper-pagination',
+  paginationBulletRender: function (swiper, index, className) {
+    var year = document.querySelectorAll('.swiper-slide')[index].getAttribute('data-year');
+	 var images = document.querySelectorAll('.swiper-slide')[index].getAttribute('data-img');
+    return '<div class="' + className + '"><img src="'+images+'" class="img-responsive"/>' + year + '</div>';
+  },
+  paginationClickable: true,
+  nextButton: '.swiper-button-next',
+  prevButton: '.swiper-button-prev',
+  breakpoints: {
+    768: {
+      direction: 'vertical',
+    }
+  }
+});
+
+</script>
+ <script src="/themes/nvli/js/bootstrap.min.js"></script> 
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","text_resize":{"text_resize_scope":"content-inner","text_resize_minimum":"12","text_resize_maximum":"24","text_resize_line_height_allow":1,"text_resize_line_height_min":"25","text_resize_line_height_max":"35"},"ajaxPageState":{"libraries":"addtoany\/addtoany,blazy\/load,core\/html5shiv,google_analytics\/google_analytics,lang_dropdown\/lang-dropdown-form,nvli\/global-scripts,nvli\/global-styling,search_api_autocomplete\/search_api_autocomplete,slick\/slick.css,slick\/slick.main.split,slick\/slick.theme,slick\/slick_extras.main.rounded,system\/base,text_resize\/text_resize.resize,views\/views.module","theme":"nvli","theme_token":null},"ajaxTrustedUrl":{"\/indian-culture-repository":true,"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"google_analytics":{"account":"UA-154718600-1","trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"search_api_autocomplete":{"indian_culture_repository":{"auto_submit":true}},"lang_dropdown":{"lang-dropdown-form":{"key":"lang_dropdown_form683e7e84f0c8f0.48516137"}},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25},"blazyIo":{"enabled":false,"disconnect":false,"rootMargin":"0px","threshold":[0]},"slick":{"accessibility":true,"adaptiveHeight":false,"autoplay":false,"autoplaySpeed":3000,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"arrows":true,"downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.35,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"user":{"uid":0,"permissionsHash":"35a351c25a8dd12312b3c0c7c17ca64831006df0cff87382da520528c5d086e8"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+
+<!--[if lte IE 9]>
+<script src="/core/assets/vendor/classList/classList.min.js?v=2014-12-13"></script>
+<![endif]-->
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.7.7"></script>
+<script src="/sites/default/files/languages/en_8AEZ2MV5s-Ldj7S2oI0D8ac7OAX8cZk0XSrnd5yLxgI.js?su86ur"></script>
+<script src="/core/misc/drupal.js?v=8.7.7"></script>
+<script src="/core/misc/drupal.init.js?v=8.7.7"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script>
+<script src="/modules/contrib/blazy/js/dblazy.js?su86ur"></script>
+<script src="/modules/contrib/blazy/js/bio.js?su86ur"></script>
+<script src="/libraries/slick/slick/slick.min.js?v=1.x"></script>
+<script src="/modules/contrib/blazy/js/bio.media.js?su86ur"></script>
+<script src="/modules/contrib/blazy/js/blazy.load.js?su86ur"></script>
+<script src="/core/misc/autocomplete.js?v=8.7.7"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/modules/addtoany/js/addtoany.js?v=8.7.7"></script>
+<script src="/modules/contrib/google_analytics/js/google_analytics.js?v=8.7.7"></script>
+<script src="/themes/nvli/js/sticky.js?v=1.x"></script>
+<script src="/themes/nvli/js/superfish.min.js?v=1.x"></script>
+<script src="/themes/nvli/js/main.js?v=1.x"></script>
+<script src="/themes/nvli/js/script.js?v=1.x"></script>
+<script src="/themes/nvli/js/jquery.magnify.js?v=1.x"></script>
+<script src="/core/misc/progress.js?v=8.7.7"></script>
+<script src="/core/misc/ajax.js?v=8.7.7"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/position-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=1.12.1"></script>
+<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?su86ur"></script>
+<script src="/modules/contrib/lang_dropdown/js/lang_dropdown.js?v=1.x"></script>
+<script src="/core/misc/debounce.js?v=8.7.7"></script>
+<script src="/core/assets/vendor/jquery.cookie/jquery.cookie.min.js?v=1.4.1"></script>
+<script src="/core/misc/form.js?v=8.7.7"></script>
+<script src="/modules/contrib/text_resize/js/text_resize.js?v=8.7.7"></script>
+<script src="/modules/contrib/slick/js/slick.load.min.js?v=8.7.7"></script>
+
+  </body>
+</html>
