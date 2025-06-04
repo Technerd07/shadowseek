@@ -64,13 +64,25 @@ shadowseek/
 - ☕ Java 11+ installed
 - 📦 [Jsoup library](https://jsoup.org/download) (already included in `lib/`)
 
-### 2. Compile the Code
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/shadowseek.git
+cd shadowseek
+```
+
+### 3. Compile the Source Code
 
 ```bash
 javac -cp "lib/jsoup-1.16.1.jar" -d bin src/*.java
 ```
 
-### 3. Crawl URLs (with or without Tor)
+> **Key Point:**  
+> For best results, open the project folder in **Visual Studio Code**.  
+> - Use the built-in terminal for compiling and running commands.  
+> - Install the [Java Extension Pack](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) for code completion, error highlighting, and easy project management.
+
+### 4. Crawl URLs (with or without Tor)
 
 Make sure your URLs are in `input_urls/input_urls.txt`, then run:
 
@@ -83,7 +95,7 @@ torsocks java -cp "bin;lib/jsoup-1.16.1.jar" WebCrawler
 ```
 *Note: On Windows, use `;` as the classpath separator.*
 
-### 4. Run the Search Engine
+### 5. Run the Search Engine
 
 ```bash
 java -cp "bin;lib/jsoup-1.16.1.jar" CLIQuerySearch
