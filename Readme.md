@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-11%2B-blue?logo=java" alt="Java 11+">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
-  <img src="https://img.shields.io/badge/Author-Kishore%20Meena-orange" alt="Author">
+  <img src="https://img.shields.io/badge/Author-Damodar%20K-orange" alt="Author">
   <img src="https://img.shields.io/badge/Privacy-First-black" alt="Privacy">
 </p>
 
@@ -160,7 +160,7 @@ Snippet: ... India election results updated live coverage...
 
 ## 👤 Author
 
-- **Kishore Meena** &nbsp; ![Author](https://img.shields.io/badge/Author-Kishore%20Meena-orange)
+- **Damodar K** &nbsp; ![Author](https://img.shields.io/badge/Author-Damodar%20K-orange)
 
 ---
 
