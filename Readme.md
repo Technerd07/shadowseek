@@ -35,7 +35,9 @@ shadowseek/
 │   └── search_history.txt   # Search history logs
 ├── pages/
 │   ├── ..._content.txt      # Saved and cleaned HTML content
-│   └── ..._links.txt        # Extracted links from each page
+│   ├── ..._links.txt        # Extracted links from each page
+│   └── cleaned/             # Directory for cleaned content files
+│       └── ..._cleaned.txt  # Plain text extracted from HTML pages
 ├── src/
 │   ├── WebCrawler.java      # Java crawler that downloads and parses content
 │   ├── PageSaver.java       # Helper class to save page content/links
