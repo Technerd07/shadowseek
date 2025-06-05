@@ -38,6 +38,8 @@ shadowseek/
 │   ├── ..._links.txt        # Extracted links from each page
 │   └── cleaned/             # Directory for cleaned content files
 │       └── ..._cleaned.txt  # Plain text extracted from HTML pages
+├── screenshots/             
+│   └── ....png              # screenshot files
 ├── src/
 │   ├── WebCrawler.java      # Java crawler that downloads and parses content
 │   ├── PageSaver.java       # Helper class to save page content/links
